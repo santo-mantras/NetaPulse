@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="120" height="120">
+  <defs>
+    <linearGradient id="tricolor" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="25%" stop-color="#FF9933" /> <stop offset="25%" stop-color="#FFFFFF" /> <stop offset="72%" stop-color="#FFFFFF" /> <stop offset="72%" stop-color="#138808" /> </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <path d="M 50 95 C 50 95, 10 65, 10 35 C 10 13, 28 5, 50 5 C 72 5, 90 13, 90 35 C 90 55, 75 70, 50 95 Z" fill="url(#tricolor)" stroke="#000080" stroke-width="2" filter="url(#shadow)"/>
+  
+  <rect x="36" y="55" width="6" height="12" fill="#000080" rx="2"/>
+  <path d="M 33 50 L 33 35 L 58 25 L 58 60 Z" fill="#000080" />
+  <rect x="28" y="32" width="5" height="21" fill="#000080" rx="2"/>
+  
+  <path d="M 65 30 Q 72 42 65 55" fill="none" stroke="#FF9933" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 73 25 Q 82 42 73 60" fill="none" stroke="#138808" stroke-width="4" stroke-linecap="round"/>
+  
+  <line x1="60" y1="65" x2="85" y2="20" stroke="#D32F2F" stroke-width="5" stroke-linecap="round"/>
+  
+  <path d="M 43 82 L 48 87 L 58 76" fill="transparent" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
