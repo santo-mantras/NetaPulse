@@ -1,32 +1,50 @@
-# React + TypeScript + Vite
+---
+title: Jumlebaaz
+emoji: 🗳️
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Jumlebaaz 🗳️
 
-Currently, two official plugins are available:
+**India's Political Accountability Platform** — Track your elected representatives with real data from ECI affidavits, MyNeta, and public sources.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- 📊 Real candidate data for Maharashtra (279 MLAs)
+- 📸 Profile photos from Wikipedia & MyNeta
+- ✅ Campaign promises tracking with status
+- ⚖️ Criminal cases & asset declarations from ECI affidavits
+- 📰 Media spotlight with latest news
+- 🔍 Compare candidates side-by-side
+- 🌗 Dark mode support
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the Oxlint configuration
+- **Frontend**: React + TypeScript + Vite
+- **Styling**: Tailwind CSS
+- **Data Pipelines**: Python (BeautifulSoup, requests)
+- **Deployment**: Docker + Nginx
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## Local Development
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Docker
+
+```bash
+docker build -t jumlebaaz .
+docker run -p 7860:7860 jumlebaaz
+```
+
+## Data Sources
+
+- [MyNeta.info](https://myneta.info) — ECI affidavit data (ADR)
+- [Wikipedia](https://en.wikipedia.org) — Profile photos & info
+- [Election Commission of India](https://eci.gov.in) — Official records
