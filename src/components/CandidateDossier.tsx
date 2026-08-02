@@ -7,7 +7,6 @@ import type {
 } from '../types/governance';
 import {
     User,
-    FileText,
     AlertTriangle,
     CheckCircle2,
     XCircle,
@@ -25,7 +24,10 @@ import {
     BookOpen,
     Hospital,
     ShieldAlert,
-    MapPin
+    MapPin,
+    Info,
+    GitBranch,
+    Users
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -34,16 +36,45 @@ interface CandidateDossierProps {
     promises: CampaignPromise[];
     news: NewsReport[];
     location: LocationHierarchy;
+    onCompare?: () => void;
 }
 
 export const CandidateDossier: React.FC<CandidateDossierProps> = ({
     candidate,
     promises,
     news,
-    location
+    location,
+    onCompare
 }) => {
     const [activeTab, setActiveTab] = useState<'overview' | 'promises' | 'legal' | 'news'>('overview');
     const [isFlipped, setIsFlipped] = useState(false);
+    const [factIndex, setFactIndex] = useState(0);
+    const [factsList] = useState(() => {
+        const arr = [
+            "The first general elections in India (1951-52) took 4 months to complete, with 173 million voters.",
+            "NOTA (None of the Above) was introduced in Indian elections in 2013 following a Supreme Court directive.",
+            "Shyam Saran Negi was the first voter of independent India and voted in every election until his death at 106.",
+            "Electronic Voting Machines (EVMs) were first used in India in 1982 in the Parur constituency of Kerala.",
+            "A candidate loses their security deposit if they fail to secure at least 1/6th of the total valid votes polled.",
+            "The Election Commission of India is a permanent Constitutional Body established on 25th January 1950.",
+            "In 1996, the Modakurichi assembly constituency had a record 1,033 candidates, forcing the ECI to print a ballot paper the size of a newspaper.",
+            "The maximum limit of election expenses for a Lok Sabha candidate is ₹95 lakh in larger states.",
+            "Article 326 of the Indian Constitution grants universal adult suffrage to every citizen above 18 years.",
+            "VVPAT (Voter Verifiable Paper Audit Trail) machines were first used in the Noksen assembly seat in Nagaland in 2013."
+        ];
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        return arr;
+    });
+
+    const handleFlipCard = () => {
+        if (isFlipped) {
+            setTimeout(() => setFactIndex(prev => (prev + 1) % factsList.length), 300);
+        }
+        setIsFlipped(!isFlipped);
+    };
 
     // Format currency in Indian Numbering System (Lakhs / Crores)
     const formatINR = (amount: number) => {
@@ -65,17 +96,26 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
             <div className="p-6 bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white relative overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent animate-shimmer" />
                 <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 relative z-10">
-                    <img
-                        src={candidate.photoUrl}
-                        alt={candidate.name}
-                        className="w-28 h-28 rounded-full object-cover border-4 border-white/20 shadow-md animate-glow"
-                    />
-                    <div className="flex-1 text-center sm:text-left">
+                    {candidate.photoUrl ? (
+                        <img
+                            src={candidate.photoUrl}
+                            alt={candidate.name}
+                            className="w-28 h-28 rounded-full object-cover border-4 border-white/20 shadow-md animate-glow"
+                        />
+                    ) : (
+                        <div className="w-28 h-28 rounded-full border-4 border-white/20 shadow-md flex items-center justify-center bg-slate-800 text-slate-400">
+                            <User className="w-12 h-12 opacity-50" />
+                        </div>
+                    )}
+                    <div className="flex-1 text-center sm:text-left w-full">
                         <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2 mb-2">
                             <span className="bg-blue-500/30 text-blue-200 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-blue-400/30">
                                 {candidate.role}
                             </span>
-                            <span className="bg-slate-700/60 text-slate-200 text-xs font-medium px-2.5 py-0.5 rounded-full">
+                            <span className="bg-slate-700/60 text-slate-200 text-xs font-medium px-2.5 py-0.5 rounded-full flex items-center gap-1.5">
+                                {candidate.partyLogoUrl && (
+                                    <img src={candidate.partyLogoUrl} alt={candidate.party} className="w-4 h-4 object-contain drop-shadow-md" />
+                                )}
                                 {candidate.party}
                             </span>
                             <span className="bg-emerald-500/30 text-emerald-200 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-emerald-400/30">
@@ -86,39 +126,91 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                         <p className="text-sm text-slate-300 flex items-center justify-center sm:justify-start gap-1 mt-1">
                             <Building2 className="w-4 h-4" /> {candidate.constituencyName}
                         </p>
-                        <p className="text-xs text-slate-400 flex items-center justify-center sm:justify-start gap-1 mt-1">
+                        <p className="text-xs text-slate-400 flex items-center justify-center sm:justify-start gap-1 mt-1 mb-2">
                             <GraduationCap className="w-4 h-4" /> {candidate.education}
                         </p>
+                        
+                        {candidate.bio && (
+                            <p className="text-sm text-slate-200/90 mt-3 leading-relaxed max-w-xl text-center sm:text-left bg-black/20 p-3 rounded-lg border border-white/5">
+                                {candidate.bio}
+                            </p>
+                        )}
+                        
+                        {candidate.partyHistory && candidate.partyHistory.length > 0 && (
+                            <div className="mt-3 flex flex-wrap items-center justify-center sm:justify-start gap-1.5 bg-black/20 p-2 rounded-lg border border-white/5 inline-flex">
+                                <GitBranch className="w-3.5 h-3.5 text-amber-400" />
+                                <span className="text-[10px] font-semibold text-slate-300 uppercase tracking-wide mr-1">Party Timeline:</span>
+                                {candidate.partyHistory.map((ph, idx) => (
+                                    <React.Fragment key={idx}>
+                                        {idx > 0 && <span className="text-slate-500 text-xs">→</span>}
+                                        <span className="text-xs text-amber-200/90 font-medium whitespace-nowrap bg-amber-500/10 px-1.5 py-0.5 rounded border border-amber-500/20">
+                                            {ph.party} ({ph.yearJoined})
+                                        </span>
+                                    </React.Fragment>
+                                ))}
+                            </div>
+                        )}
+                        
+                        <div className="flex flex-wrap items-center justify-center sm:justify-start gap-3 mt-4">
+                            {/* Affidavit button removed per user request */}
+                            
+                            {onCompare && (
+                                <button
+                                    onClick={onCompare}
+                                    className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-500 rounded-lg transition-colors border border-indigo-400 shadow-sm"
+                                >
+                                    <Users className="w-3.5 h-3.5" /> Compare Candidate
+                                </button>
+                            )}
+                        </div>
                     </div>
-
-                    {/* Affidavit Direct Citation Link */}
-                    <a
-                        href={candidate.affidavitPdfUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium text-blue-200 bg-white/10 hover:bg-white/20 rounded-lg transition-colors border border-white/10 mt-4 sm:mt-0"
-                    >
-                        <FileText className="w-3.5 h-3.5" /> ECI Affidavit <ExternalLink className="w-3 h-3" />
-                    </a>
                 </div>
             </div>
 
             {/* 2. Quick Stat Badges Grid */}
             <div className="grid grid-cols-2 sm:grid-cols-4 divide-x sm:divide-y-0 divide-y divide-slate-200 dark:divide-slate-800 bg-slate-50 dark:bg-slate-800/50 border-b border-slate-200 dark:border-slate-800">
-                <div className="p-4 text-center">
-                    <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Attendance</p>
+                <div className="p-4 text-center group">
+                    <div className="flex items-center justify-center gap-1 relative">
+                        <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Attendance</p>
+                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-blue-500 cursor-help peer focus:outline-none" />
+                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                            Percentage of legislative sessions attended by the representative.
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                        </div>
+                    </div>
                     <p className="text-2xl font-extrabold text-blue-600 dark:text-blue-400 mt-1">{candidate.attendancePercentage}%</p>
                 </div>
-                <div className="p-4 text-center">
-                    <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Questions</p>
+                <div className="p-4 text-center relative group">
+                    <div className="flex items-center justify-center gap-1 relative">
+                        <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Questions Asked</p>
+                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-indigo-500 cursor-help peer focus:outline-none" />
+                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                            Total number of questions asked by the representative in the legislative assembly sessions.
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                        </div>
+                    </div>
                     <p className="text-2xl font-extrabold text-indigo-600 dark:text-indigo-400 mt-1">{candidate.questionsAsked}</p>
                 </div>
-                <div className="p-4 text-center">
-                    <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Net Worth</p>
+                <div className="p-4 text-center group">
+                    <div className="flex items-center justify-center gap-1 relative">
+                        <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Net Worth</p>
+                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-emerald-500 cursor-help peer focus:outline-none" />
+                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                            Total declared assets minus total declared liabilities (in INR) based on the latest election affidavit.
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                        </div>
+                    </div>
                     <p className="text-2xl font-extrabold text-emerald-600 dark:text-emerald-400 mt-1">{formatINR(candidate.declaredAssetsINR - candidate.declaredLiabilitiesINR)}</p>
                 </div>
-                <div className="p-4 text-center">
-                    <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Criminal Cases</p>
+                <div className="p-4 text-center group">
+                    <div className="flex items-center justify-center gap-1 relative">
+                        <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Criminal Cases</p>
+                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-amber-500 cursor-help peer focus:outline-none" />
+                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                            Number of pending criminal cases declared by the candidate in their election affidavit.
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                        </div>
+                    </div>
                     <p className={`text-2xl font-extrabold mt-1 ${candidate.criminalCasesCount > 0 ? 'text-amber-600 dark:text-amber-400' : 'text-slate-600 dark:text-slate-400'}`}>
                         {candidate.criminalCasesCount}
                     </p>
@@ -302,7 +394,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         <Sparkles className="w-4 h-4 text-amber-500" /> Did you know?
                                     </h3>
                                     
-                                    <div className="perspective-1000 h-64 w-full cursor-pointer group" onClick={() => setIsFlipped(!isFlipped)}>
+                                    <div className="perspective-1000 h-64 w-full cursor-pointer group" onClick={handleFlipCard}>
                                         <motion.div 
                                             className="w-full h-full relative preserve-3d transition-all duration-500"
                                             animate={{ rotateY: isFlipped ? 180 : 0 }}
@@ -312,16 +404,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer" />
                                                 <Award className="w-12 h-12 mb-4 text-white/90 animate-glow relative z-10" />
                                                 <h4 className="font-bold text-lg mb-2 relative z-10">Tap to reveal a Fun Fact!</h4>
-                                                <p className="text-xs text-white/80 relative z-10">Flip this card to learn something unique about {candidate.name}.</p>
+                                                <p className="text-xs text-white/80 relative z-10">Flip this card to learn a random fact about Indian Politics.</p>
                                             </div>
                                             
                                             {/* Back of Card */}
                                             <div className="absolute w-full h-full backface-hidden bg-gradient-to-br from-emerald-500 via-teal-400 to-teal-600 bg-[length:200%_auto] animate-gradient rounded-2xl p-6 text-white shadow-lg flex flex-col items-center justify-center text-center rotate-y-180 overflow-hidden">
                                                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent animate-shimmer" />
                                                 <Sparkles className="w-8 h-8 mb-4 text-white/90 animate-glow relative z-10" />
-                                                <p className="font-medium text-sm md:text-base leading-relaxed relative z-10">{candidate.funFact}</p>
+                                                <p className="font-medium text-sm md:text-base leading-relaxed relative z-10">{factsList[factIndex]}</p>
                                                 <div className="mt-4 pt-4 border-t border-white/20 relative z-10">
-                                                    <p className="text-xs text-white/90"><span className="font-bold">Political Fact:</span> {candidate.politicalFact}</p>
+                                                    <p className="text-xs text-white/90 font-medium">Fact {factIndex + 1} of {factsList.length}</p>
                                                 </div>
                                             </div>
                                         </motion.div>
@@ -338,19 +430,24 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                 {promises.length === 0 ? (
                                     <p className="text-sm text-slate-500 p-4 bg-slate-50 dark:bg-slate-800 rounded-lg">No promises tracked yet.</p>
                                 ) : promises.map((promise) => {
-                                    const statusStyles = {
+                                    const statusStyles: Record<string, string> = {
                                         Fulfilled: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
+                                        Achieved: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
                                         'In Progress': 'bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300 border-amber-300',
+                                        Proposed: 'bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 border-blue-300',
                                         Unfulfilled: 'bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 border-rose-300',
                                         'Insufficient Data': 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300'
                                     };
 
-                                    const StatusIcon = {
+                                    const statusIconMap: Record<string, typeof CheckCircle2> = {
                                         Fulfilled: CheckCircle2,
+                                        Achieved: CheckCircle2,
                                         'In Progress': Clock,
+                                        Proposed: Clock,
                                         Unfulfilled: XCircle,
                                         'Insufficient Data': AlertTriangle
-                                    }[promise.status];
+                                    };
+                                    const StatusIcon = statusIconMap[promise.status] || AlertTriangle;
 
                                     return (
                                         <div key={promise.id} className="p-4 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-slate-200 dark:border-slate-800 hover:shadow-md transition-shadow relative overflow-hidden group">

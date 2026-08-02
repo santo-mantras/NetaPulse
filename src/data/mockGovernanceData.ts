@@ -87,7 +87,8 @@ export const mockCandidates: Record<string, CandidateProfile> = {
         party: 'XYZ Party',
         photoUrl: 'https://i.pravatar.cc/150?u=rajesh',
         constituencyName: 'AC-208 Vadgaon Sheri',
-        attendancePercentage: 88,
+        state: 'Maharashtra',
+        attendancePercentage: 85,
         attendanceBody: 'State Assembly',
         averages: {
             attendance: 75,
@@ -119,7 +120,8 @@ export const mockCandidates: Record<string, CandidateProfile> = {
         party: 'ABC Party',
         photoUrl: 'https://i.pravatar.cc/150?u=sunita',
         constituencyName: 'AC-208 Vadgaon Sheri',
-        attendancePercentage: 95,
+        state: 'Maharashtra',
+        attendancePercentage: 92,
         attendanceBody: 'State Assembly',
         averages: {
             attendance: 75,

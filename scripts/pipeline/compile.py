@@ -41,98 +41,201 @@ def generate_mock_promises(candidate_id):
         ))
     return promises
 
+def get_party_logo(party_name):
+    # Map common variations
+    mapping = {
+        "Bharatiya Janata Party": "BJP",
+        "BJP": "BJP",
+        "Indian National Congress": "INC",
+        "INC": "INC",
+        "Nationalist Congress Party": "NCP",
+        "NCP": "NCP",
+        "Shiv Sena": "Shiv Sena",
+        "SHS": "Shiv Sena",
+        "Aam Aadmi Party": "AAP",
+        "AAP": "AAP",
+        "Maharashtra Navnirman Sena": "MNS",
+        "MNS": "MNS",
+        "Shiromani Akali Dal": "SAD",
+        "SAD": "SAD"
+    }
+    key = mapping.get(party_name, "Independent")
+    return f"/jumlabaaz/assets/parties/{key}.svg"
+
 def compile_data():
     locations_map = {}
     candidates = []
     all_news = []
     all_promises = []
 
-    mh_districts = ["Mumbai City", "Mumbai Suburban", "Thane", "Pune", "Nagpur", "Nashik", "Aurangabad", "Solapur", "Amravati", "Nanded"]
-    mh_acs = ["Colaba", "Mumbadevi", "Malabar Hill", "Worli", "Shivadi", "Byculla", "Dharavi", "Sion Koliwada", "Wadala", "Mahim", "Kothrud", "Shivajinagar", "Vadgaon Sheri", "Hadapsar", "Kasba Peth", "Nagpur South", "Nagpur Central", "Nashik East", "Nashik West", "Thane City"]
-    
-    pb_districts = ["Amritsar", "Ludhiana", "Jalandhar", "Patiala", "Bathinda", "Hoshiarpur", "Mohali", "Pathankot", "Moga", "Faridkot"]
-    pb_acs = ["Amritsar Central", "Amritsar North", "Ludhiana East", "Ludhiana West", "Jalandhar Central", "Jalandhar Cantt", "Patiala Rural", "Bathinda Urban", "Mohali", "Kharar", "Zirakpur", "Rajpura", "Sangrur", "Barnala", "Mansa", "Faridkot", "Moga", "Firozpur City", "Fazilka", "Muktsar"]
-
-    states = [
-        {"name": "Maharashtra", "code": 27, "count": 288, "districts": mh_districts, "acs": mh_acs, "parties": ["BJP", "Shiv Sena", "NCP", "INC", "MNS", "Independent"]},
-        {"name": "Punjab", "code": 3, "count": 117, "districts": pb_districts, "acs": pb_acs, "parties": ["AAP", "INC", "SAD", "BJP", "Independent"]}
-    ]
-    
-    indian_first_names = ["Rajesh", "Amit", "Sunita", "Suresh", "Priya", "Rahul", "Vikram", "Sneha", "Kiran", "Vijay", "Anita", "Sanjay", "Anil", "Pooja", "Deepak", "Neha"]
-    indian_last_names = ["Patil", "Deshmukh", "Singh", "Sharma", "Kaur", "Gill", "Pawar", "Jadhav", "Kadam", "Sidhu", "Garg", "Khatri", "Chavan", "Rathod", "Joshi", "Iyer"]
-    
-    for state in states:
-        for i in range(1, state["count"] + 1):
-            district = state["districts"][i % len(state["districts"])]
-            ac_name = state["acs"][i % len(state["acs"])]
-            cycle = i // len(state["acs"])
-            if cycle > 0:
-                ac_name = f"{ac_name} {cycle+1}"
-                
-            constituency = ac_name
+    # 1. Load Real Maharashtra Data
+    mh_real_path = "scripts/pipeline/raw_maharashtra_real.json"
+    if os.path.exists(mh_real_path):
+        with open(mh_real_path, "r", encoding="utf-8") as f:
+            mh_data = json.load(f)
             
-            loc_key = f"{state['name']}_{i}"
+        district_counts = {}
+        for raw_c in mh_data:
+            dist = raw_c.get("district", "Unknown")
+            const = raw_c.get("constituency", "Unknown")
+            if dist not in district_counts: district_counts[dist] = 0
+            district_counts[dist] += 1
+            
+            loc_key = f"Maharashtra_{dist}_{const}"
             if loc_key not in locations_map:
                 locations_map[loc_key] = LocationHierarchy(
-                    stateLgdCode=state["code"],
-                    stateName=state["name"],
-                    districtLgdCode=state["code"] * 10 + (i % 10),
-                    districtName=district,
-                    assemblyConstituencyCode=f"AC-{i}",
-                    assemblyConstituencyName=constituency,
-                    parliamentaryConstituencyCode=f"PC-{i % 10 + 1}",
-                    parliamentaryConstituencyName=f"{district} PC",
+                    stateLgdCode=27,
+                    stateName="Maharashtra",
+                    districtLgdCode=2700 + len(district_counts),
+                    districtName=dist,
+                    assemblyConstituencyCode=f"AC-{len(locations_map)+1}",
+                    assemblyConstituencyName=const,
+                    parliamentaryConstituencyCode=f"PC-MH",
+                    parliamentaryConstituencyName=f"{dist} PC",
                     crimeRate=f"{random.randint(10, 50)} per 100k",
                     literacyRate=random.randint(60, 95),
                     hospitalsCount=random.randint(2, 20),
                     govtSchoolsCount=random.randint(10, 50),
                     regionalInsight={
-                        "title": f"Insight into {constituency}",
+                        "title": f"Insight into {const}",
                         "historicalFact": "Historical trade hub and cultural center.",
                         "currentChallenge": "Rapid urbanization and local infrastructure."
                     }
                 )
-                
-            assets = random.randint(1000000, 500000000)
-            liabilities = int(assets * random.uniform(0, 0.3))
-            candidate_id = f"c_{state['code']}_{i}"
-            candidate_name = f"{random.choice(indian_first_names)} {random.choice(indian_last_names)}"
-            party = random.choice(state["parties"])
-            criminal_cases = random.choice([0, 0, 0, 1, 2, 5])
             
-            photo_url = f"https://i.pravatar.cc/300?u={candidate_id}"
+            c_id = f"mh_{raw_c['id']}"
+            name = raw_c['name']
+            party = raw_c['party']
             
-            if ac_name == "Vadgaon Sheri":
-                candidate_name = "Sunil Tingre"
-                party = "NCP"
+            # 30% chance of having switched parties (mocked for now, just to show UI)
+            party_history = [{"party": party, "yearJoined": 2019}]
+            if random.random() < 0.3:
+                previous_party = random.choice(["BJP", "INC", "NCP", "Shiv Sena"])
+                if previous_party != party:
+                    party_history = [
+                        {"party": previous_party, "yearJoined": 2014, "yearLeft": 2019},
+                        {"party": party, "yearJoined": 2019}
+                    ]
 
-            candidate = CandidateProfile(
-                id=candidate_id,
-                name=candidate_name,
-                role="MLA",
+            photo_url = raw_c.get("photoLocalPath")
+            if photo_url and photo_url.startswith("/assets"):
+                photo_url = "/jumlabaaz" + photo_url
+            
+            role = "MLA"
+            name_lower = name.lower()
+            if "fadnavis" in name_lower:
+                role = "Chief Minister"
+            elif "eknath shinde" in name_lower or "ajit pawar" in name_lower:
+                role = "Deputy Chief Minister"
+
+            candidates.append(CandidateProfile(
+                id=c_id,
+                name=name,
+                role=role,
                 party=party,
-                photoUrl=photo_url,
-                constituencyName=constituency,
+                photoUrl=photo_url or "",
+                constituencyName=const,
+                state="Maharashtra",
                 attendancePercentage=random.randint(40, 98),
+                attendanceBody="State Assembly",
+                averages={"attendance": 75, "questions": 30, "bills": 1},
+                termsServed=random.randint(1, 4),
                 questionsAsked=random.randint(0, 100),
                 privateMemberBills=random.randint(0, 5),
-                declaredAssetsINR=assets,
-                declaredLiabilitiesINR=liabilities,
-                criminalCasesCount=criminal_cases,
-                criminalCasesDetails=[{"charges": "Various sections under IPC", "caseNumber": f"CR-{random.randint(100,999)}", "status": "Pending"}] if criminal_cases > 0 else [],
-                education=random.choice(["Graduate", "Post Graduate", "12th Pass", "10th Pass", "Doctorate"]),
-                affidavitPdfUrl=f"https://www.google.com/search?q={urllib.parse.quote(candidate_name)}+affidavit",
-                funFact=f"Has been active in {constituency} politics for over a decade.",
-                politicalFact=f"Represents {party} and serves on key committees."
-            )
+                declaredAssetsINR=random.randint(1000000, 500000000),
+                declaredLiabilitiesINR=random.randint(0, 10000000),
+                criminalCasesCount=raw_c.get("criminalCasesCount", 0),
+                criminalCasesDetails=[],
+                education=raw_c.get("education", "Graduate"),
+                affidavitPdfUrl=raw_c.get("affidavitUrl", ""),
+                funFact=f"Has been active in {const} politics.",
+                politicalFact=f"Represents {party} and serves on key committees.",
+                bio=f"{name} is an Indian politician representing {const}. Elected in 2019.",
+                partyLogoUrl=get_party_logo(party),
+                partyHistory=party_history
+            ))
             
-            candidates.append(candidate)
+            # Use real promises and media if available
+            c_promises = raw_c.get("promisesTracked", [])
+            c_media = raw_c.get("mediaSpotlight", [])
             
-            promises = generate_mock_promises(candidate_id)
-            news = generate_mock_news(candidate_name, candidate_id)
+            for p in c_promises:
+                all_promises.append(CampaignPromise(
+                    id=f"{c_id}_{p['id']}",
+                    title=p['title'],
+                    category="Manifesto",
+                    status=p['status'],
+                    declaredInManifesto=p['description'],
+                    verifiedOutcome="Party level tracking",
+                    sourceCitation="Party Manifesto"
+                ))
             
-            all_promises.extend(promises)
-            all_news.extend(news)
+            for m in c_media:
+                all_news.append(NewsReport(
+                    id=f"{c_id}_{m['id']}",
+                    publisher=m['source'],
+                    title=m['title'],
+                    summary="",
+                    url=m['url'],
+                    publishedDate=m['date'],
+                    category="News",
+                    verificationStatus="Media Report"
+                ))
+
+    # 2. Mock Punjab Data (to keep the app functioning for other states)
+    pb_districts = ["Amritsar", "Ludhiana", "Jalandhar", "Patiala", "Bathinda"]
+    pb_acs = ["Amritsar Central", "Amritsar North", "Ludhiana East", "Ludhiana West", "Jalandhar Central"]
+    
+    for i, ac in enumerate(pb_acs):
+        dist = pb_districts[i % len(pb_districts)]
+        loc_key = f"Punjab_{dist}_{ac}"
+        locations_map[loc_key] = LocationHierarchy(
+            stateLgdCode=3,
+            stateName="Punjab",
+            districtLgdCode=300 + i,
+            districtName=dist,
+            assemblyConstituencyCode=f"AC-PB-{i}",
+            assemblyConstituencyName=ac,
+            parliamentaryConstituencyCode=f"PC-PB",
+            parliamentaryConstituencyName=f"{dist} PC",
+            crimeRate="20 per 100k",
+            literacyRate=75,
+            hospitalsCount=5,
+            govtSchoolsCount=15,
+            regionalInsight={"title": "Punjab", "historicalFact": "None", "currentChallenge": "None"}
+        )
+        
+        c_id = f"pb_{i}"
+        name = f"Mock Punjab MLA {i}"
+        party = random.choice(["AAP", "INC", "SAD"])
+        candidates.append(CandidateProfile(
+            id=c_id,
+            name=name,
+            role="MLA",
+            party=party,
+            photoUrl="https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png",
+            constituencyName=ac,
+            state="Punjab",
+            attendancePercentage=80,
+            attendanceBody="State Assembly",
+            averages={"attendance": 75, "questions": 30, "bills": 1},
+            termsServed=1,
+            questionsAsked=10,
+            privateMemberBills=1,
+            declaredAssetsINR=10000000,
+            declaredLiabilitiesINR=0,
+            criminalCasesCount=0,
+            criminalCasesDetails=[],
+            education="Graduate",
+            affidavitPdfUrl="",
+            funFact="Mock",
+            politicalFact="Mock",
+            bio="Mock data for Punjab.",
+            partyLogoUrl=get_party_logo(party),
+            partyHistory=[{"party": party, "yearJoined": 2022}]
+        ))
+        all_promises.extend(generate_mock_promises(c_id))
+        all_news.extend(generate_mock_news(name, c_id))
 
     gov_data = GovernanceData(
         locations=list(locations_map.values()),
@@ -147,7 +250,7 @@ def compile_data():
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(gov_data.model_dump_json(indent=2))
         
-    print(f"Successfully compiled {len(candidates)} candidates covering 100% of Maharashtra and Punjab into {out_path}")
+    print(f"Successfully compiled {len(candidates)} candidates into {out_path}")
 
 if __name__ == "__main__":
     compile_data()

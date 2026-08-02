@@ -25,6 +25,7 @@ export interface CandidateProfile {
     party: string;
     photoUrl: string;
     constituencyName: string;
+    state: string;
     attendancePercentage: number;
     attendanceBody: string;
     averages: {
@@ -44,8 +45,15 @@ export interface CandidateProfile {
     }[];
     education: string;
     affidavitPdfUrl: string;
-    funFact: string;
-    politicalFact: string;
+    funFact?: string;
+    politicalFact?: string;
+    bio?: string;
+    partyLogoUrl?: string;
+    partyHistory?: {
+        party: string;
+        yearJoined: number;
+        yearLeft?: number;
+    }[];
     termsServed: number;
 }
 

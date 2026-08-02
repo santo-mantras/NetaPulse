@@ -14,7 +14,7 @@ allPromises.forEach(p => {
     // extract candidate_id from p.id which is p_{state}_{i}_{idx} or similar.
     // wait, in compile.py: p_{candidate_id}_{i} -> p_c_{state}_{i}_{idx}
     const parts = p.id.split('_');
-    const cid = `c_${parts[2]}_${parts[3]}`; 
+    const cid = `${parts[0]}_${parts[1]}`; 
     if (!mockPromises[cid]) mockPromises[cid] = [];
     mockPromises[cid].push(p);
 });
@@ -23,7 +23,7 @@ export const mockNews: Record<string, NewsReport[]> = {};
 const allNews = realData.news as NewsReport[];
 allNews.forEach(n => {
     const parts = n.id.split('_');
-    const cid = `c_${parts[2]}_${parts[3]}`; 
+    const cid = `${parts[0]}_${parts[1]}`; 
     if (!mockNews[cid]) mockNews[cid] = [];
     mockNews[cid].push(n);
 });

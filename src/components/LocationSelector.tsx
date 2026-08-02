@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import type { LocationHierarchy, CandidateProfile } from '../types/governance';
-import { Search, MapPin } from 'lucide-react';
+import { Search, MapPin, User } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface LocationSelectorProps {
@@ -168,7 +168,13 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                     onClick={() => handleSelectSuggestion(c)}
                                     className="px-4 py-3 hover:bg-slate-50 dark:hover:bg-slate-700/50 cursor-pointer flex items-center gap-3 transition-colors"
                                 >
-                                    <img src={c.photoUrl} alt="" className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" />
+                                    {c.photoUrl ? (
+                                        <img src={c.photoUrl} alt="" className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" />
+                                    ) : (
+                                        <div className="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600 flex items-center justify-center text-slate-400">
+                                            <User className="w-5 h-5 opacity-50" />
+                                        </div>
+                                    )}
                                     <div>
                                         <p className="text-sm font-bold text-slate-900 dark:text-slate-100">{c.name}</p>
                                         <p className="text-xs text-slate-500 dark:text-slate-400">{c.constituencyName} • {c.party}</p>

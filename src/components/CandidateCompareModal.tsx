@@ -1,22 +1,56 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import type { CandidateProfile } from '../types/governance';
-import { X } from 'lucide-react';
+import { X, User } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface CandidateCompareModalProps {
     isOpen: boolean;
     onClose: () => void;
     candidateA: CandidateProfile;
-    candidateB: CandidateProfile;
+    initialCandidateB: CandidateProfile;
+    availableCandidates: CandidateProfile[];
 }
 
-export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ isOpen, onClose, candidateA, candidateB }) => {
+export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ isOpen, onClose, candidateA, initialCandidateB, availableCandidates }) => {
+    const [candidateBId, setCandidateBId] = useState(initialCandidateB.id);
+    
+    // Update local state if the initial candidate changes from outside
+    useEffect(() => {
+        setCandidateBId(initialCandidateB.id);
+    }, [initialCandidateB.id]);
+
+    const candidateB = availableCandidates.find(c => c.id === candidateBId) || initialCandidateB;
+
     
     // Format currency
     const formatINR = (amount: number) => {
         if (amount >= 10000000) return `₹${(amount / 10000000).toFixed(2)} Cr`;
         if (amount >= 100000) return `₹${(amount / 100000).toFixed(2)} L`;
         return `₹${amount.toLocaleString('en-IN')}`;
+    };
+
+    const renderPartySwitches = (candidate: CandidateProfile) => {
+        if (!candidate.partyHistory || candidate.partyHistory.length <= 1) {
+            return (
+                <div className="flex flex-col items-center">
+                    <span className="text-xl font-bold text-slate-800 dark:text-slate-200">0</span>
+                    <span className="text-xs text-slate-500">No recorded switches</span>
+                </div>
+            );
+        }
+        
+        const numSwitches = candidate.partyHistory.length - 1;
+        const previousParty = candidate.partyHistory[0].party;
+        const currentParty = candidate.partyHistory[candidate.partyHistory.length - 1].party;
+        
+        return (
+            <div className="flex flex-col items-center">
+                <span className="text-xl font-bold text-amber-600 dark:text-amber-500">{numSwitches}</span>
+                <span className="text-xs text-slate-600 dark:text-slate-400 mt-1 max-w-[150px] leading-tight">
+                    Switched to <strong className="text-slate-800 dark:text-slate-200">{currentParty}</strong> from <strong className="text-slate-800 dark:text-slate-200">{previousParty}</strong>
+                </span>
+            </div>
+        );
     };
 
     return (
@@ -56,16 +90,51 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ is
                                 
                                 {/* Candidate A Header */}
                                 <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group">
-                                    <img src={candidateA.photoUrl} alt={candidateA.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
+                                    {candidateA.photoUrl ? (
+                                        <img src={candidateA.photoUrl} alt={candidateA.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
+                                    ) : (
+                                        <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-400 relative z-10">
+                                            <User className="w-10 h-10 opacity-50" />
+                                        </div>
+                                    )}
                                     <h3 className="font-bold text-lg text-slate-900 dark:text-slate-100 relative z-10">{candidateA.name}</h3>
-                                    <p className="text-xs font-semibold text-slate-500 bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-full inline-block mt-1">{candidateA.party}</p>
+                                    <div className="flex items-center justify-center gap-1.5 mt-1 bg-slate-100 dark:bg-slate-800 px-2.5 py-1 rounded-full w-fit mx-auto">
+                                        {candidateA.partyLogoUrl && (
+                                            <img src={candidateA.partyLogoUrl} alt={candidateA.party} className="w-4 h-4 object-contain" />
+                                        )}
+                                        <p className="text-xs font-semibold text-slate-500">{candidateA.party}</p>
+                                    </div>
                                 </div>
 
                                 {/* Candidate B Header */}
-                                <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group">
-                                    <img src={candidateB.photoUrl} alt={candidateB.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
-                                    <h3 className="font-bold text-lg text-slate-900 dark:text-slate-100 relative z-10">{candidateB.name}</h3>
-                                    <p className="text-xs font-semibold text-slate-500 bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-full inline-block mt-1">{candidateB.party}</p>
+                                <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group flex flex-col items-center">
+                                    {candidateB.photoUrl ? (
+                                        <img src={candidateB.photoUrl} alt={candidateB.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
+                                    ) : (
+                                        <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-400 relative z-10">
+                                            <User className="w-10 h-10 opacity-50" />
+                                        </div>
+                                    )}
+                                    <div className="relative z-10 mb-1">
+                                        <select 
+                                            value={candidateB.id} 
+                                            onChange={(e) => setCandidateBId(e.target.value)}
+                                            className="bg-white dark:bg-slate-800 border border-slate-300 dark:border-slate-600 rounded-lg text-lg font-bold text-slate-900 dark:text-slate-100 py-1 pl-2 pr-6 appearance-none hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 max-w-[180px] sm:max-w-[220px] truncate cursor-pointer shadow-sm"
+                                        >
+                                            {availableCandidates.filter(c => c.id !== candidateA.id).map(c => (
+                                                <option key={c.id} value={c.id}>{c.name}</option>
+                                            ))}
+                                        </select>
+                                        <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-slate-500">
+                                            <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" fillRule="evenodd"></path></svg>
+                                        </div>
+                                    </div>
+                                    <div className="flex items-center justify-center gap-1.5 mt-1 bg-slate-100 dark:bg-slate-800 px-2.5 py-1 rounded-full w-fit mx-auto">
+                                        {candidateB.partyLogoUrl && (
+                                            <img src={candidateB.partyLogoUrl} alt={candidateB.party} className="w-4 h-4 object-contain" />
+                                        )}
+                                        <p className="text-xs font-semibold text-slate-500">{candidateB.party}</p>
+                                    </div>
                                 </div>
 
                                 {/* Metrics Comparison */}
@@ -100,9 +169,22 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ is
                                         </span>
                                     </div>
                                     <div className="text-center">
-                                         <span className={`inline-flex items-center justify-center w-10 h-10 rounded-full text-lg font-bold ${candidateB.criminalCasesCount > 0 ? 'bg-amber-100 text-amber-600' : 'bg-emerald-100 text-emerald-600'}`}>
+                                        <span className={`inline-flex items-center justify-center w-10 h-10 rounded-full text-lg font-bold ${candidateB.criminalCasesCount > 0 ? 'bg-amber-100 text-amber-600' : 'bg-emerald-100 text-emerald-600'}`}>
                                             {candidateB.criminalCasesCount}
                                         </span>
+                                    </div>
+
+                                    {/* Party Switches */}
+                                    <div className="col-span-2 text-center text-xs font-bold uppercase tracking-wider text-slate-400 mt-2">Party Switches</div>
+                                    <div className="text-center">
+                                        <div className="text-center">
+                                            {renderPartySwitches(candidateA)}
+                                        </div>
+                                    </div>
+                                    <div className="text-center">
+                                        <div className="text-center">
+                                            {renderPartySwitches(candidateB)}
+                                        </div>
                                     </div>
                                 </div>
                             </div>

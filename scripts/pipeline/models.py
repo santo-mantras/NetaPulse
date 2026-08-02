@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import List, Literal, Optional
+from typing import List, Literal, Optional, Dict, Any
 
 class LocationHierarchy(BaseModel):
     stateLgdCode: int
@@ -19,11 +19,13 @@ class LocationHierarchy(BaseModel):
 class CandidateProfile(BaseModel):
     id: str
     name: str
-    role: Literal['MLA', 'MP', 'Corporator']
+    role: str
     party: str
     photoUrl: str
     constituencyName: str
+    state: str
     attendancePercentage: int
+    attendanceBody: Optional[str] = "State Assembly"
     questionsAsked: int
     privateMemberBills: int
     declaredAssetsINR: int
@@ -33,28 +35,31 @@ class CandidateProfile(BaseModel):
     education: str
     affidavitPdfUrl: str
     termsServed: Optional[int] = 1
-    funFact: Optional[str] = "Information pending."
-    politicalFact: Optional[str] = "Information pending."
+    funFact: Optional[str] = None
+    politicalFact: Optional[str] = None
+    bio: Optional[str] = None
+    partyHistory: Optional[List[Dict[str, Any]]] = None
+    partyLogoUrl: Optional[str] = None
     averages: Optional[dict] = {"attendance": 75, "questions": 30, "bills": 1}
 
 class CampaignPromise(BaseModel):
     id: str
     title: str
     category: str
-    status: Literal['Fulfilled', 'In Progress', 'Unfulfilled', 'Insufficient Data']
+    status: str
     declaredInManifesto: str
     verifiedOutcome: str
     sourceCitation: str
 
 class NewsReport(BaseModel):
     id: str
-    publisher: Literal['The Hindu', 'Times of India', 'Indian Express', 'Mint', 'Other']
+    publisher: str
     title: str
     summary: str
     url: str
     publishedDate: str
-    category: Literal['Asset Growth', 'Court Case', 'Sting/Investigation', 'Local Activity']
-    verificationStatus: Literal['Cross-Referenced with Affidavit', 'Under Review', 'Media Report']
+    category: str
+    verificationStatus: str
 
 class GovernanceData(BaseModel):
     locations: List[LocationHierarchy]

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Moon, Sun, Scale, Activity } from 'lucide-react';
+import { Moon, Sun, Activity } from 'lucide-react';
 import { LocationSelector } from './components/LocationSelector';
 import { CandidateDossier } from './components/CandidateDossier';
 import { CandidateCompareModal } from './components/CandidateCompareModal';
@@ -39,6 +39,11 @@ function App() {
     }
     if (searchResults.length > 1) {
       competitorCandidate = searchResults[1];
+    } else if (primaryCandidate) {
+      const otherCandidates = Object.values(mockCandidates).filter(c => c.id !== primaryCandidate!.id && c.state === primaryCandidate!.state);
+      if (otherCandidates.length > 0) {
+        competitorCandidate = otherCandidates[0];
+      }
     }
   } else {
     const locationCandidates = Object.values(mockCandidates).filter(c => c.constituencyName === selectedLocation.assemblyConstituencyName);
@@ -46,8 +51,15 @@ function App() {
     if (locationCandidates.length > 0) {
       primaryCandidate = locationCandidates[0];
     }
+    
     if (locationCandidates.length > 1) {
       competitorCandidate = locationCandidates[1];
+    } else if (primaryCandidate) {
+      // Deterministically pick another candidate in the same state/district as a competitor fallback
+      const otherCandidates = Object.values(mockCandidates).filter(c => c.id !== primaryCandidate!.id && c.state === primaryCandidate!.state);
+      if (otherCandidates.length > 0) {
+        competitorCandidate = otherCandidates[0];
+      }
     }
   }
 
@@ -98,7 +110,7 @@ function App() {
       <main className="max-w-6xl mx-auto px-4 py-8 space-y-12">
         
         {/* Hero & Selector */}
-        <section className="text-center space-y-6 pt-4 md:pt-8">
+        <section className="text-center space-y-6 pt-4 md:pt-8 relative z-50">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="max-w-2xl mx-auto">
             <h2 className="text-3xl md:text-5xl font-extrabold text-slate-900 dark:text-white tracking-tight mb-4">
               Hold Your Leaders <span className="text-blue-600 dark:text-blue-400">Accountable.</span>
@@ -128,20 +140,13 @@ function App() {
                 className="space-y-6"
               >
                 <div className="flex justify-end max-w-4xl mx-auto">
-                  {competitorCandidate && (
-                    <button
-                      onClick={() => setIsCompareModalOpen(true)}
-                      className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-slate-800 to-slate-900 dark:from-blue-600 dark:to-blue-700 text-white rounded-lg shadow-lg hover:shadow-xl transition-all font-semibold text-sm hover:-translate-y-0.5"
-                    >
-                      <Scale className="w-4 h-4" /> Compare Candidates
-                    </button>
-                  )}
                 </div>
                 <CandidateDossier 
                   candidate={primaryCandidate} 
                   promises={mockPromises[primaryCandidate.id] || []}
                   news={mockNews[primaryCandidate.id] || []}
                   location={selectedLocation}
+                  onCompare={competitorCandidate ? () => setIsCompareModalOpen(true) : undefined}
                 />
               </motion.div>
             ) : (
@@ -197,7 +202,8 @@ function App() {
           isOpen={isCompareModalOpen} 
           onClose={() => setIsCompareModalOpen(false)} 
           candidateA={primaryCandidate}
-          candidateB={competitorCandidate}
+          initialCandidateB={competitorCandidate}
+          availableCandidates={Object.values(mockCandidates).filter(c => c.state === primaryCandidate?.state)}
         />
       )}
 
