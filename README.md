@@ -4,8 +4,6 @@ emoji: 🗳️
 colorFrom: indigo
 colorTo: purple
 sdk: docker
-app_port: 7860
-pinned: false
 ---
 
 # Jumlebaaz 🗳️
@@ -27,7 +25,7 @@ pinned: false
 - **Frontend**: React + TypeScript + Vite
 - **Styling**: Tailwind CSS
 - **Data Pipelines**: Python (BeautifulSoup, requests)
-- **Deployment**: Docker + Nginx
+- **Deployment**: Docker
 
 ## Local Development
 
