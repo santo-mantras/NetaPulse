@@ -11,19 +11,24 @@ export const mockCandidates: Record<string, CandidateProfile> = {};
 export const mockPromises: Record<string, CampaignPromise[]> = {};
 const allPromises = realData.promises as CampaignPromise[];
 allPromises.forEach(p => {
-    // extract candidate_id from p.id which is p_{state}_{i}_{idx} or similar.
-    // wait, in compile.py: p_{candidate_id}_{i} -> p_c_{state}_{i}_{idx}
-    const parts = p.id.split('_');
-    const cid = `${parts[0]}_${parts[1]}`; 
-    if (!mockPromises[cid]) mockPromises[cid] = [];
-    mockPromises[cid].push(p);
+    // Robust extraction: e.g. "mh_1_prom_1" -> "mh_1", "up_25_prom_3" -> "up_25"
+    const match = p.id.match(/^([a-z]+_\d+)_prom_/i);
+    const cid = match ? match[1] : p.id.substring(0, p.id.lastIndexOf('_prom_'));
+    if (cid) {
+        if (!mockPromises[cid]) mockPromises[cid] = [];
+        mockPromises[cid].push(p);
+    }
 });
 
 export const mockNews: Record<string, NewsReport[]> = {};
 const allNews = realData.news as NewsReport[];
 allNews.forEach(n => {
-    const parts = n.id.split('_');
-    const cid = `${parts[0]}_${parts[1]}`; 
-    if (!mockNews[cid]) mockNews[cid] = [];
-    mockNews[cid].push(n);
+    // Robust extraction: e.g. "mh_1_news_1" -> "mh_1", "ka_12_news_2" -> "ka_12"
+    const match = n.id.match(/^([a-z]+_\d+)_news_/i);
+    const cid = match ? match[1] : n.id.substring(0, n.id.lastIndexOf('_news_'));
+    if (cid) {
+        if (!mockNews[cid]) mockNews[cid] = [];
+        mockNews[cid].push(n);
+    }
 });
+

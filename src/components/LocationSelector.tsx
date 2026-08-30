@@ -169,7 +169,14 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                     className="px-4 py-3 hover:bg-slate-50 dark:hover:bg-slate-700/50 cursor-pointer flex items-center gap-3 transition-colors"
                                 >
                                     {c.photoUrl ? (
-                                        <img src={c.photoUrl} alt="" className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" />
+                                        <img 
+                                            src={c.photoUrl} 
+                                            alt="" 
+                                            onError={(e) => {
+                                                (e.target as HTMLImageElement).src = '/my-leader/assets/placeholder-avatar.svg';
+                                            }}
+                                            className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" 
+                                        />
                                     ) : (
                                         <div className="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600 flex items-center justify-center text-slate-400">
                                             <User className="w-5 h-5 opacity-50" />

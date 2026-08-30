@@ -5,7 +5,7 @@ import { CandidateDossier } from './components/CandidateDossier';
 import { CandidateCompareModal } from './components/CandidateCompareModal';
 import { mockLocations, mockCandidates, mockPromises, mockNews } from './data/dataAdapter';
 import type { LocationHierarchy, CandidateProfile } from './types/governance';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import geminiLogo from './assets/gemini.svg';
 
 function App() {
@@ -84,11 +84,11 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-lg flex items-center justify-center animate-glow">
-              <img src={geminiLogo} alt="Jumlebaaz Logo" className="w-full h-full object-contain" />
+              <img src={geminiLogo} alt="NetaPulse Logo" className="w-full h-full object-contain" />
             </div>
             <div>
               <h1 className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-700 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-tight">
-                Jumlebaaz
+                NetaPulse
               </h1>
               <p className="text-[10px] sm:text-xs font-bold text-slate-500 dark:text-slate-400 tracking-wide mt-0.5" title="Satyānna pramaditavyam - Do not deviate from the truth.">
                 सत्यान्न प्रमदितव्यम्
@@ -129,54 +129,30 @@ function App() {
         </section>
 
         {/* Candidate Dossier View */}
-        <section className="pb-12">
-          <AnimatePresence mode="wait">
-            {primaryCandidate ? (
-              <motion.div 
-                key={primaryCandidate.id}
-                initial={{ opacity: 0, scale: 0.98 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0 }}
-                className="space-y-6"
-              >
-                <div className="flex justify-end max-w-4xl mx-auto">
-                </div>
-                <CandidateDossier 
-                  candidate={primaryCandidate} 
-                  promises={mockPromises[primaryCandidate.id] || []}
-                  news={mockNews[primaryCandidate.id] || []}
-                  location={selectedLocation}
-                  onCompare={competitorCandidate ? () => setIsCompareModalOpen(true) : undefined}
-                />
-              </motion.div>
-            ) : (
-              <motion.div 
-                key="no-data"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                className="text-center py-24 bg-white/50 dark:bg-slate-900/50 rounded-2xl border border-slate-200 dark:border-slate-800"
-              >
-                <Activity className="w-12 h-12 text-slate-300 dark:text-slate-700 mx-auto mb-4" />
-                <h3 className="text-lg font-bold text-slate-700 dark:text-slate-300">No Data Available</h3>
-                <p className="text-sm text-slate-500 dark:text-slate-500 mt-2">
-                  We currently do not have digitized records for {selectedLocation.assemblyConstituencyName}.<br/>
-                  (Try selecting Maharashtra &gt; Pune &gt; AC-208 Vadgaon Sheri for the demo).
-                </p>
-              </motion.div>
-            )}
-          </AnimatePresence>
+        <section className="relative z-10">
+          {primaryCandidate ? (
+            <CandidateDossier 
+              candidate={primaryCandidate} 
+              promises={mockPromises[primaryCandidate.id] || []}
+              news={mockNews[primaryCandidate.id] || []}
+              location={selectedLocation}
+              onCompare={() => setIsCompareModalOpen(true)}
+            />
+          ) : (
+            <div className="text-center py-16 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm">
+              <Activity className="w-12 h-12 text-slate-400 mx-auto mb-3 animate-pulse" />
+              <p className="text-lg font-bold text-slate-700 dark:text-slate-300">No candidate record found for this constituency selection.</p>
+              <p className="text-sm text-slate-500 mt-1">Try selecting another constituency or state from the dropdown.</p>
+            </div>
+          )}
         </section>
 
       </main>
 
       {/* Footer */}
-      <footer className="bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 py-12">
-        <div className="max-w-6xl mx-auto px-4 text-center space-y-8">
-          <div className="flex flex-col items-center justify-center space-y-2">
-            <h2 className="text-sm font-bold text-slate-500 dark:text-slate-400 uppercase tracking-widest mb-2">Civic Transparency Hub</h2>
-            <h3 className="text-2xl sm:text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-500 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-wide">
-              सत्यान्न प्रमदितव्यम्
-            </h3>
+      <footer className="mt-20 border-t border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 backdrop-blur-md py-8">
+        <div className="max-w-6xl mx-auto px-4 text-center space-y-4">
+          <div className="flex flex-col items-center justify-center">
             <p className="text-sm text-slate-600 dark:text-slate-400 italic font-medium">
               "Satyānna pramaditavyam - Do not deviate from the truth."
             </p>
@@ -186,7 +162,7 @@ function App() {
           </div>
           
           <p className="text-xs text-slate-500 dark:text-slate-500 font-medium max-w-3xl mx-auto">
-            Disclaimer: All data is aggregated from open public domains including the Election Commission of India (ECI), PRS Legislative Research, and mainstream media outlets. Jumlebaaz does not alter primary affidavit data.
+            Disclaimer: All data is aggregated from open public domains including the Election Commission of India (ECI), PRS Legislative Research, and mainstream media outlets. NetaPulse does not alter primary affidavit data.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs font-bold text-slate-400 dark:text-slate-500">
             <a href="#" className="hover:text-blue-500 transition-colors">ECI Portal</a> • 

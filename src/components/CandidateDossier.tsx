@@ -100,7 +100,10 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                         <img
                             src={candidate.photoUrl}
                             alt={candidate.name}
-                            className="w-28 h-28 rounded-full object-cover border-4 border-white/20 shadow-md animate-glow"
+                            onError={(e) => {
+                                (e.target as HTMLImageElement).src = '/my-leader/assets/placeholder-avatar.svg';
+                            }}
+                            className="w-28 h-28 rounded-full object-cover border-4 border-white/20 shadow-md animate-glow bg-slate-800"
                         />
                     ) : (
                         <div className="w-28 h-28 rounded-full border-4 border-white/20 shadow-md flex items-center justify-center bg-slate-800 text-slate-400">

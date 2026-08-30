@@ -91,7 +91,14 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ is
                                 {/* Candidate A Header */}
                                 <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group">
                                     {candidateA.photoUrl ? (
-                                        <img src={candidateA.photoUrl} alt={candidateA.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
+                                        <img 
+                                            src={candidateA.photoUrl} 
+                                            alt={candidateA.name} 
+                                            onError={(e) => {
+                                                (e.target as HTMLImageElement).src = '/my-leader/assets/placeholder-avatar.svg';
+                                            }}
+                                            className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10 bg-slate-100 dark:bg-slate-800" 
+                                        />
                                     ) : (
                                         <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-400 relative z-10">
                                             <User className="w-10 h-10 opacity-50" />
@@ -109,7 +116,14 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({ is
                                 {/* Candidate B Header */}
                                 <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group flex flex-col items-center">
                                     {candidateB.photoUrl ? (
-                                        <img src={candidateB.photoUrl} alt={candidateB.name} className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10" />
+                                        <img 
+                                            src={candidateB.photoUrl} 
+                                            alt={candidateB.name} 
+                                            onError={(e) => {
+                                                (e.target as HTMLImageElement).src = '/my-leader/assets/placeholder-avatar.svg';
+                                            }}
+                                            className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full object-cover border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 animate-glow relative z-10 bg-slate-100 dark:bg-slate-800" 
+                                        />
                                     ) : (
                                         <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-slate-200 dark:border-slate-700 shadow-md mb-3 flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-400 relative z-10">
                                             <User className="w-10 h-10 opacity-50" />
