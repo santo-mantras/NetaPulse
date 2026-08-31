@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
-  <circle cx="64" cy="64" r="64" fill="#3B82F6" fill-opacity="0.15"/>
-  <circle cx="64" cy="48" r="22" fill="#94A3B8"/>
-  <path d="M26 108C26 87.0132 43.0132 70 64 70C84.9868 70 102 87.0132 102 108" fill="#94A3B8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <defs>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#93C5FD"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle with Glass Border -->
+  <circle cx="80" cy="80" r="78" fill="url(#avatarGrad)" stroke="#3B82F6" stroke-width="3" stroke-opacity="0.4"/>
+  <!-- Head Silhouette -->
+  <circle cx="80" cy="62" r="28" fill="url(#skinGrad)"/>
+  <!-- Torso with Modern Collar Line -->
+  <path d="M 32 138 C 32 108 52 98 80 98 C 108 98 128 108 128 138 Z" fill="url(#skinGrad)" opacity="0.95"/>
+  <!-- Collar Accent -->
+  <path d="M 72 98 L 80 114 L 88 98" stroke="#1E3A8A" stroke-width="3" stroke-linecap="round" fill="none"/>
 </svg>

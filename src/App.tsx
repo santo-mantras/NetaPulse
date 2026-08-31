@@ -3,10 +3,10 @@ import { Moon, Sun, Activity } from 'lucide-react';
 import { LocationSelector } from './components/LocationSelector';
 import { CandidateDossier } from './components/CandidateDossier';
 import { CandidateCompareModal } from './components/CandidateCompareModal';
+import { NetaPulseLogo } from './components/NetaPulseLogo';
 import { mockLocations, mockCandidates, mockPromises, mockNews } from './data/dataAdapter';
 import type { LocationHierarchy, CandidateProfile } from './types/governance';
 import { motion } from 'framer-motion';
-import geminiLogo from './assets/gemini.svg';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -83,9 +83,7 @@ function App() {
       <header className="sticky top-0 z-30 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
         <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-lg flex items-center justify-center animate-glow">
-              <img src={geminiLogo} alt="NetaPulse Logo" className="w-full h-full object-contain" />
-            </div>
+            <NetaPulseLogo className="w-10 h-10" />
             <div>
               <h1 className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-700 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-tight">
                 NetaPulse
@@ -179,7 +177,8 @@ function App() {
           onClose={() => setIsCompareModalOpen(false)} 
           candidateA={primaryCandidate}
           initialCandidateB={competitorCandidate}
-          availableCandidates={Object.values(mockCandidates).filter(c => c.state === primaryCandidate?.state)}
+          allCandidates={Object.values(mockCandidates)}
+          locations={mockLocations}
         />
       )}
 

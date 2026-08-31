@@ -1,10 +1,10 @@
 import realData from './realGovernanceData.json';
 import type { LocationHierarchy, CandidateProfile, CampaignPromise, NewsReport } from '../types/governance';
 
-export const mockLocations: LocationHierarchy[] = realData.locations as LocationHierarchy[];
+export const mockLocations: LocationHierarchy[] = realData.locations as unknown as LocationHierarchy[];
 
 export const mockCandidates: Record<string, CandidateProfile> = {};
-(realData.candidates as CandidateProfile[]).forEach(c => {
+(realData.candidates as unknown as CandidateProfile[]).forEach(c => {
     mockCandidates[c.id] = c;
 });
 

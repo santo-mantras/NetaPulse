@@ -16,6 +16,12 @@ export interface LocationHierarchy {
         historicalFact: string;
         currentChallenge: string;
     };
+    districtStatsSources?: {
+        crimeRateSource?: string;
+        literacySource?: string;
+        hospitalsSource?: string;
+        schoolsSource?: string;
+    };
 }
 
 export interface CandidateProfile {
@@ -31,10 +37,21 @@ export interface CandidateProfile {
     averages: {
         attendance: number;
         questions: number;
-        bills: number;
+        bills?: number;
+        fundUtilization?: number;
+        debates?: number;
     };
     questionsAsked: number;
-    privateMemberBills: number;
+    privateMemberBills?: number;
+    fundUtilizationPercentage?: number;
+    ladFundAllocatedINR?: number;
+    ladFundUtilizedINR?: number;
+    ladFundCategoryBreakdown?: {
+        category: string;
+        percentage: number;
+        allocatedINR: number;
+    }[];
+    debatesParticipated?: number;
     declaredAssetsINR: number;
     declaredLiabilitiesINR: number;
     criminalCasesCount: number;
@@ -48,6 +65,12 @@ export interface CandidateProfile {
     funFact?: string;
     politicalFact?: string;
     bio?: string;
+    dataSources?: {
+        affidavitSource?: string;
+        attendanceSource?: string;
+        questionsSource?: string;
+        fundSource?: string;
+    };
     partyLogoUrl?: string;
     partyHistory?: {
         party: string;

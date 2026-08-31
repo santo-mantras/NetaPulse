@@ -1,0 +1,1777 @@
+[
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-2",
+    "assemblyConstituencyName": "Lucknow Cantt",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "20 per 100k",
+    "literacyRate": 90,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 59,
+    "regionalInsight": {
+      "title": "Constituency Profile: Lucknow Cantt",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Lucknow Cantt."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-3",
+    "assemblyConstituencyName": "Lucknow East",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 79,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 41,
+    "regionalInsight": {
+      "title": "Constituency Profile: Lucknow East",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Lucknow East."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-4",
+    "assemblyConstituencyName": "Lucknow Central",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "17 per 100k",
+    "literacyRate": 80,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 48,
+    "regionalInsight": {
+      "title": "Constituency Profile: Lucknow Central",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Lucknow Central."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-5",
+    "assemblyConstituencyName": "Lucknow West",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "15 per 100k",
+    "literacyRate": 76,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 67,
+    "regionalInsight": {
+      "title": "Constituency Profile: Lucknow West",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Lucknow West."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-6",
+    "assemblyConstituencyName": "Lucknow North",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "36 per 100k",
+    "literacyRate": 87,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 38,
+    "regionalInsight": {
+      "title": "Constituency Profile: Lucknow North",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Lucknow North."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-7",
+    "assemblyConstituencyName": "Sarojini Nagar",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "17 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 16,
+    "govtSchoolsCount": 65,
+    "regionalInsight": {
+      "title": "Constituency Profile: Sarojini Nagar",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Sarojini Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-8",
+    "assemblyConstituencyName": "Bakshi Kaa Talab",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 78,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 44,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bakshi Kaa Talab",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bakshi Kaa Talab."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-9",
+    "assemblyConstituencyName": "Malihabad (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "26 per 100k",
+    "literacyRate": 78,
+    "hospitalsCount": 15,
+    "govtSchoolsCount": 43,
+    "regionalInsight": {
+      "title": "Constituency Profile: Malihabad (SC)",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Malihabad (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 901,
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-10",
+    "assemblyConstituencyName": "Mohanlalganj (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-1",
+    "parliamentaryConstituencyName": "Lucknow Parliamentary Constituency",
+    "crimeRate": "34 per 100k",
+    "literacyRate": 91,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 41,
+    "regionalInsight": {
+      "title": "Constituency Profile: Mohanlalganj (SC)",
+      "historicalFact": "A historic and pivotal political center in Lucknow district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Mohanlalganj (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-11",
+    "assemblyConstituencyName": "Gorakhpur Urban",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "24 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 76,
+    "regionalInsight": {
+      "title": "Constituency Profile: Gorakhpur Urban",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Gorakhpur Urban."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-12",
+    "assemblyConstituencyName": "Gorakhpur Rural",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "30 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 38,
+    "regionalInsight": {
+      "title": "Constituency Profile: Gorakhpur Rural",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Gorakhpur Rural."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-13",
+    "assemblyConstituencyName": "Pipraich",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "25 per 100k",
+    "literacyRate": 91,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 66,
+    "regionalInsight": {
+      "title": "Constituency Profile: Pipraich",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Pipraich."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-14",
+    "assemblyConstituencyName": "Sahjanwa",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "10 per 100k",
+    "literacyRate": 88,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 69,
+    "regionalInsight": {
+      "title": "Constituency Profile: Sahjanwa",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Sahjanwa."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-15",
+    "assemblyConstituencyName": "Campierganj",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "15 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 59,
+    "regionalInsight": {
+      "title": "Constituency Profile: Campierganj",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Campierganj."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-16",
+    "assemblyConstituencyName": "Chauri-Chaura",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "35 per 100k",
+    "literacyRate": 91,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 78,
+    "regionalInsight": {
+      "title": "Constituency Profile: Chauri-Chaura",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Chauri-Chaura."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-17",
+    "assemblyConstituencyName": "Bansgaon (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "34 per 100k",
+    "literacyRate": 82,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 75,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bansgaon (SC)",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bansgaon (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-18",
+    "assemblyConstituencyName": "Chillupar",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 77,
+    "hospitalsCount": 16,
+    "govtSchoolsCount": 76,
+    "regionalInsight": {
+      "title": "Constituency Profile: Chillupar",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Chillupar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 902,
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-19",
+    "assemblyConstituencyName": "Khajani (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-2",
+    "parliamentaryConstituencyName": "Gorakhpur Parliamentary Constituency",
+    "crimeRate": "27 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 75,
+    "regionalInsight": {
+      "title": "Constituency Profile: Khajani (SC)",
+      "historicalFact": "A historic and pivotal political center in Gorakhpur district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Khajani (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-20",
+    "assemblyConstituencyName": "Varanasi Cantt",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "23 per 100k",
+    "literacyRate": 77,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 47,
+    "regionalInsight": {
+      "title": "Constituency Profile: Varanasi Cantt",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Varanasi Cantt."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-21",
+    "assemblyConstituencyName": "Varanasi North",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "22 per 100k",
+    "literacyRate": 87,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 32,
+    "regionalInsight": {
+      "title": "Constituency Profile: Varanasi North",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Varanasi North."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-22",
+    "assemblyConstituencyName": "Varanasi South",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 93,
+    "hospitalsCount": 14,
+    "govtSchoolsCount": 55,
+    "regionalInsight": {
+      "title": "Constituency Profile: Varanasi South",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Varanasi South."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-23",
+    "assemblyConstituencyName": "Rohaniya",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "17 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 68,
+    "regionalInsight": {
+      "title": "Constituency Profile: Rohaniya",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Rohaniya."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-24",
+    "assemblyConstituencyName": "Sewapuri",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "26 per 100k",
+    "literacyRate": 89,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 33,
+    "regionalInsight": {
+      "title": "Constituency Profile: Sewapuri",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Sewapuri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-25",
+    "assemblyConstituencyName": "Pindra",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 82,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 80,
+    "regionalInsight": {
+      "title": "Constituency Profile: Pindra",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Pindra."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-26",
+    "assemblyConstituencyName": "Ajagara (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "18 per 100k",
+    "literacyRate": 94,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 53,
+    "regionalInsight": {
+      "title": "Constituency Profile: Ajagara (SC)",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Ajagara (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 903,
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-27",
+    "assemblyConstituencyName": "Shivpur",
+    "parliamentaryConstituencyCode": "PC-UP-3",
+    "parliamentaryConstituencyName": "Varanasi Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 32,
+    "regionalInsight": {
+      "title": "Constituency Profile: Shivpur",
+      "historicalFact": "A historic and pivotal political center in Varanasi district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Shivpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 904,
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-28",
+    "assemblyConstituencyName": "Noida",
+    "parliamentaryConstituencyCode": "PC-UP-4",
+    "parliamentaryConstituencyName": "Gautam Buddha Nagar (Noida) Parliamentary Constituency",
+    "crimeRate": "18 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 81,
+    "regionalInsight": {
+      "title": "Constituency Profile: Noida",
+      "historicalFact": "A historic and pivotal political center in Gautam Buddha Nagar (Noida) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Noida."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 904,
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-29",
+    "assemblyConstituencyName": "Dadri",
+    "parliamentaryConstituencyCode": "PC-UP-4",
+    "parliamentaryConstituencyName": "Gautam Buddha Nagar (Noida) Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 91,
+    "hospitalsCount": 17,
+    "govtSchoolsCount": 59,
+    "regionalInsight": {
+      "title": "Constituency Profile: Dadri",
+      "historicalFact": "A historic and pivotal political center in Gautam Buddha Nagar (Noida) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Dadri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 904,
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-30",
+    "assemblyConstituencyName": "Jewar",
+    "parliamentaryConstituencyCode": "PC-UP-4",
+    "parliamentaryConstituencyName": "Gautam Buddha Nagar (Noida) Parliamentary Constituency",
+    "crimeRate": "12 per 100k",
+    "literacyRate": 86,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 77,
+    "regionalInsight": {
+      "title": "Constituency Profile: Jewar",
+      "historicalFact": "A historic and pivotal political center in Gautam Buddha Nagar (Noida) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Jewar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 905,
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-31",
+    "assemblyConstituencyName": "Karhal",
+    "parliamentaryConstituencyCode": "PC-UP-5",
+    "parliamentaryConstituencyName": "Mainpuri Parliamentary Constituency",
+    "crimeRate": "16 per 100k",
+    "literacyRate": 87,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 57,
+    "regionalInsight": {
+      "title": "Constituency Profile: Karhal",
+      "historicalFact": "A historic and pivotal political center in Mainpuri district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Karhal."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 905,
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-32",
+    "assemblyConstituencyName": "Mainpuri",
+    "parliamentaryConstituencyCode": "PC-UP-5",
+    "parliamentaryConstituencyName": "Mainpuri Parliamentary Constituency",
+    "crimeRate": "16 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 63,
+    "regionalInsight": {
+      "title": "Constituency Profile: Mainpuri",
+      "historicalFact": "A historic and pivotal political center in Mainpuri district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Mainpuri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 905,
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-33",
+    "assemblyConstituencyName": "Bhongaon",
+    "parliamentaryConstituencyCode": "PC-UP-5",
+    "parliamentaryConstituencyName": "Mainpuri Parliamentary Constituency",
+    "crimeRate": "34 per 100k",
+    "literacyRate": 77,
+    "hospitalsCount": 14,
+    "govtSchoolsCount": 84,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bhongaon",
+      "historicalFact": "A historic and pivotal political center in Mainpuri district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bhongaon."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 905,
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-34",
+    "assemblyConstituencyName": "Kishni (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-5",
+    "parliamentaryConstituencyName": "Mainpuri Parliamentary Constituency",
+    "crimeRate": "27 per 100k",
+    "literacyRate": 94,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 83,
+    "regionalInsight": {
+      "title": "Constituency Profile: Kishni (SC)",
+      "historicalFact": "A historic and pivotal political center in Mainpuri district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Kishni (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-35",
+    "assemblyConstituencyName": "Govind Nagar",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "21 per 100k",
+    "literacyRate": 77,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 77,
+    "regionalInsight": {
+      "title": "Constituency Profile: Govind Nagar",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Govind Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-36",
+    "assemblyConstituencyName": "Sisamau",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 69,
+    "regionalInsight": {
+      "title": "Constituency Profile: Sisamau",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Sisamau."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-37",
+    "assemblyConstituencyName": "Aryanagar",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "15 per 100k",
+    "literacyRate": 89,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 52,
+    "regionalInsight": {
+      "title": "Constituency Profile: Aryanagar",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Aryanagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-38",
+    "assemblyConstituencyName": "Kidwai Nagar",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "11 per 100k",
+    "literacyRate": 88,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 34,
+    "regionalInsight": {
+      "title": "Constituency Profile: Kidwai Nagar",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Kidwai Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-39",
+    "assemblyConstituencyName": "Kanpur Cantt",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "30 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 37,
+    "regionalInsight": {
+      "title": "Constituency Profile: Kanpur Cantt",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Kanpur Cantt."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-40",
+    "assemblyConstituencyName": "Kalyanpur",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "21 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 83,
+    "regionalInsight": {
+      "title": "Constituency Profile: Kalyanpur",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Kalyanpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 906,
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-41",
+    "assemblyConstituencyName": "Maharajpur",
+    "parliamentaryConstituencyCode": "PC-UP-6",
+    "parliamentaryConstituencyName": "Kanpur Nagar Parliamentary Constituency",
+    "crimeRate": "36 per 100k",
+    "literacyRate": 88,
+    "hospitalsCount": 15,
+    "govtSchoolsCount": 40,
+    "regionalInsight": {
+      "title": "Constituency Profile: Maharajpur",
+      "historicalFact": "A historic and pivotal political center in Kanpur Nagar district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Maharajpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 907,
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-42",
+    "assemblyConstituencyName": "Ayodhya",
+    "parliamentaryConstituencyCode": "PC-UP-7",
+    "parliamentaryConstituencyName": "Ayodhya (Faizabad) Parliamentary Constituency",
+    "crimeRate": "20 per 100k",
+    "literacyRate": 94,
+    "hospitalsCount": 15,
+    "govtSchoolsCount": 65,
+    "regionalInsight": {
+      "title": "Constituency Profile: Ayodhya",
+      "historicalFact": "A historic and pivotal political center in Ayodhya (Faizabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Ayodhya."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 907,
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-43",
+    "assemblyConstituencyName": "Rudauli",
+    "parliamentaryConstituencyCode": "PC-UP-7",
+    "parliamentaryConstituencyName": "Ayodhya (Faizabad) Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 65,
+    "regionalInsight": {
+      "title": "Constituency Profile: Rudauli",
+      "historicalFact": "A historic and pivotal political center in Ayodhya (Faizabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Rudauli."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 907,
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-44",
+    "assemblyConstituencyName": "Bikapur",
+    "parliamentaryConstituencyCode": "PC-UP-7",
+    "parliamentaryConstituencyName": "Ayodhya (Faizabad) Parliamentary Constituency",
+    "crimeRate": "30 per 100k",
+    "literacyRate": 89,
+    "hospitalsCount": 14,
+    "govtSchoolsCount": 81,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bikapur",
+      "historicalFact": "A historic and pivotal political center in Ayodhya (Faizabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bikapur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 907,
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-45",
+    "assemblyConstituencyName": "Milkipur (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-7",
+    "parliamentaryConstituencyName": "Ayodhya (Faizabad) Parliamentary Constituency",
+    "crimeRate": "14 per 100k",
+    "literacyRate": 90,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 65,
+    "regionalInsight": {
+      "title": "Constituency Profile: Milkipur (SC)",
+      "historicalFact": "A historic and pivotal political center in Ayodhya (Faizabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Milkipur (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 907,
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-46",
+    "assemblyConstituencyName": "Goshainganj",
+    "parliamentaryConstituencyCode": "PC-UP-7",
+    "parliamentaryConstituencyName": "Ayodhya (Faizabad) Parliamentary Constituency",
+    "crimeRate": "28 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 78,
+    "regionalInsight": {
+      "title": "Constituency Profile: Goshainganj",
+      "historicalFact": "A historic and pivotal political center in Ayodhya (Faizabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Goshainganj."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-47",
+    "assemblyConstituencyName": "Allahabad North",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "36 per 100k",
+    "literacyRate": 86,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 48,
+    "regionalInsight": {
+      "title": "Constituency Profile: Allahabad North",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Allahabad North."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-48",
+    "assemblyConstituencyName": "Allahabad South",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "22 per 100k",
+    "literacyRate": 82,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 70,
+    "regionalInsight": {
+      "title": "Constituency Profile: Allahabad South",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Allahabad South."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-49",
+    "assemblyConstituencyName": "Allahabad West",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "36 per 100k",
+    "literacyRate": 91,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 39,
+    "regionalInsight": {
+      "title": "Constituency Profile: Allahabad West",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Allahabad West."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-50",
+    "assemblyConstituencyName": "Phulpur",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "16 per 100k",
+    "literacyRate": 83,
+    "hospitalsCount": 14,
+    "govtSchoolsCount": 66,
+    "regionalInsight": {
+      "title": "Constituency Profile: Phulpur",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Phulpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-51",
+    "assemblyConstituencyName": "Pratappur",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "25 per 100k",
+    "literacyRate": 81,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 80,
+    "regionalInsight": {
+      "title": "Constituency Profile: Pratappur",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Pratappur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-52",
+    "assemblyConstituencyName": "Koraon (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "26 per 100k",
+    "literacyRate": 88,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 52,
+    "regionalInsight": {
+      "title": "Constituency Profile: Koraon (SC)",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Koraon (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-53",
+    "assemblyConstituencyName": "Meja",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "20 per 100k",
+    "literacyRate": 83,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 65,
+    "regionalInsight": {
+      "title": "Constituency Profile: Meja",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Meja."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 908,
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-54",
+    "assemblyConstituencyName": "Bara (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-8",
+    "parliamentaryConstituencyName": "Prayagraj (Allahabad) Parliamentary Constituency",
+    "crimeRate": "24 per 100k",
+    "literacyRate": 92,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 61,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bara (SC)",
+      "historicalFact": "A historic and pivotal political center in Prayagraj (Allahabad) district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bara (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 909,
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-55",
+    "assemblyConstituencyName": "Mathura",
+    "parliamentaryConstituencyCode": "PC-UP-9",
+    "parliamentaryConstituencyName": "Mathura Parliamentary Constituency",
+    "crimeRate": "12 per 100k",
+    "literacyRate": 85,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 45,
+    "regionalInsight": {
+      "title": "Constituency Profile: Mathura",
+      "historicalFact": "A historic and pivotal political center in Mathura district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Mathura."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 909,
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-56",
+    "assemblyConstituencyName": "Govardhan",
+    "parliamentaryConstituencyCode": "PC-UP-9",
+    "parliamentaryConstituencyName": "Mathura Parliamentary Constituency",
+    "crimeRate": "24 per 100k",
+    "literacyRate": 89,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 49,
+    "regionalInsight": {
+      "title": "Constituency Profile: Govardhan",
+      "historicalFact": "A historic and pivotal political center in Mathura district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Govardhan."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 909,
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-57",
+    "assemblyConstituencyName": "Chhata",
+    "parliamentaryConstituencyCode": "PC-UP-9",
+    "parliamentaryConstituencyName": "Mathura Parliamentary Constituency",
+    "crimeRate": "18 per 100k",
+    "literacyRate": 80,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 33,
+    "regionalInsight": {
+      "title": "Constituency Profile: Chhata",
+      "historicalFact": "A historic and pivotal political center in Mathura district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Chhata."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 909,
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-58",
+    "assemblyConstituencyName": "Mant",
+    "parliamentaryConstituencyCode": "PC-UP-9",
+    "parliamentaryConstituencyName": "Mathura Parliamentary Constituency",
+    "crimeRate": "20 per 100k",
+    "literacyRate": 76,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 40,
+    "regionalInsight": {
+      "title": "Constituency Profile: Mant",
+      "historicalFact": "A historic and pivotal political center in Mathura district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Mant."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 909,
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-59",
+    "assemblyConstituencyName": "Baldeo (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-9",
+    "parliamentaryConstituencyName": "Mathura Parliamentary Constituency",
+    "crimeRate": "20 per 100k",
+    "literacyRate": 84,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 57,
+    "regionalInsight": {
+      "title": "Constituency Profile: Baldeo (SC)",
+      "historicalFact": "A historic and pivotal political center in Mathura district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Baldeo (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-60",
+    "assemblyConstituencyName": "Meerut Cantt",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "10 per 100k",
+    "literacyRate": 82,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 73,
+    "regionalInsight": {
+      "title": "Constituency Profile: Meerut Cantt",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Meerut Cantt."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-61",
+    "assemblyConstituencyName": "Meerut City",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "22 per 100k",
+    "literacyRate": 79,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 35,
+    "regionalInsight": {
+      "title": "Constituency Profile: Meerut City",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Meerut City."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-62",
+    "assemblyConstituencyName": "Meerut South",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 90,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 64,
+    "regionalInsight": {
+      "title": "Constituency Profile: Meerut South",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Meerut South."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-63",
+    "assemblyConstituencyName": "Sardhana",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "32 per 100k",
+    "literacyRate": 76,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 39,
+    "regionalInsight": {
+      "title": "Constituency Profile: Sardhana",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Sardhana."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-64",
+    "assemblyConstituencyName": "Hastinapur (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "31 per 100k",
+    "literacyRate": 80,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 46,
+    "regionalInsight": {
+      "title": "Constituency Profile: Hastinapur (SC)",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Hastinapur (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 910,
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-65",
+    "assemblyConstituencyName": "Kithore",
+    "parliamentaryConstituencyCode": "PC-UP-10",
+    "parliamentaryConstituencyName": "Meerut Parliamentary Constituency",
+    "crimeRate": "28 per 100k",
+    "literacyRate": 90,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 47,
+    "regionalInsight": {
+      "title": "Constituency Profile: Kithore",
+      "historicalFact": "A historic and pivotal political center in Meerut district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Kithore."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-66",
+    "assemblyConstituencyName": "Agra Cantt (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "25 per 100k",
+    "literacyRate": 90,
+    "hospitalsCount": 16,
+    "govtSchoolsCount": 51,
+    "regionalInsight": {
+      "title": "Constituency Profile: Agra Cantt (SC)",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Agra Cantt (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-67",
+    "assemblyConstituencyName": "Agra North",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "27 per 100k",
+    "literacyRate": 93,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 37,
+    "regionalInsight": {
+      "title": "Constituency Profile: Agra North",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Agra North."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-68",
+    "assemblyConstituencyName": "Agra South",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "29 per 100k",
+    "literacyRate": 85,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 54,
+    "regionalInsight": {
+      "title": "Constituency Profile: Agra South",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Agra South."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-69",
+    "assemblyConstituencyName": "Agra Rural (SC)",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "23 per 100k",
+    "literacyRate": 83,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 83,
+    "regionalInsight": {
+      "title": "Constituency Profile: Agra Rural (SC)",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Agra Rural (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-70",
+    "assemblyConstituencyName": "Fatehabad",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "19 per 100k",
+    "literacyRate": 79,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 84,
+    "regionalInsight": {
+      "title": "Constituency Profile: Fatehabad",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Fatehabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-71",
+    "assemblyConstituencyName": "Bah",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "33 per 100k",
+    "literacyRate": 87,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 64,
+    "regionalInsight": {
+      "title": "Constituency Profile: Bah",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Bah."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  },
+  {
+    "stateLgdCode": 9,
+    "stateName": "Uttar Pradesh",
+    "districtLgdCode": 911,
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-72",
+    "assemblyConstituencyName": "Fatehpur Sikri",
+    "parliamentaryConstituencyCode": "PC-UP-11",
+    "parliamentaryConstituencyName": "Agra Parliamentary Constituency",
+    "crimeRate": "22 per 100k",
+    "literacyRate": 82,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 39,
+    "regionalInsight": {
+      "title": "Constituency Profile: Fatehpur Sikri",
+      "historicalFact": "A historic and pivotal political center in Agra district, Uttar Pradesh.",
+      "currentChallenge": "Urban expansion, civic amenities, and industrial development across Fatehpur Sikri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) District Compendium",
+      "literacySource": "Census of India & NFHS-5 Survey",
+      "hospitalsSource": "National Health Mission (NHM) Registry",
+      "schoolsSource": "Unified District Information System for Education (UDISE+)"
+    }
+  }
+]

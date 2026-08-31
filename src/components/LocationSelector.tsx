@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import type { LocationHierarchy, CandidateProfile } from '../types/governance';
-import { Search, MapPin, User } from 'lucide-react';
+import { Search, MapPin, User, RotateCcw, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 interface LocationSelectorProps {
@@ -14,9 +14,15 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
     // Unique lists
     const states = Array.from(new Set(locations.map(l => l.stateName)));
 
-    const [selectedState, setSelectedState] = useState('Maharashtra');
-    const [selectedDistrict, setSelectedDistrict] = useState('Pune');
-    const [selectedConstituency, setSelectedConstituency] = useState('AC-208 Vadgaon Sheri');
+    const defaultState = states[0] || 'Maharashtra';
+    const defaultDistricts = Array.from(new Set(locations.filter(l => l.stateName === defaultState).map(l => l.districtName)));
+    const defaultDistrict = defaultDistricts[0] || '';
+    const defaultConsts = locations.filter(l => l.stateName === defaultState && l.districtName === defaultDistrict).map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+    const defaultConstituency = defaultConsts[0] || '';
+
+    const [selectedState, setSelectedState] = useState(defaultState);
+    const [selectedDistrict, setSelectedDistrict] = useState(defaultDistrict);
+    const [selectedConstituency, setSelectedConstituency] = useState(defaultConstituency);
     const [searchQuery, setSearchQuery] = useState('');
     
     // Autocomplete state
@@ -30,6 +36,22 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
     const availableConstituencies = locations
         .filter(l => l.stateName === selectedState && l.districtName === selectedDistrict)
         .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+
+    // Reset all selections to top default state
+    const handleReset = () => {
+        const topState = states[0] || 'Maharashtra';
+        const topDistricts = Array.from(new Set(locations.filter(l => l.stateName === topState).map(l => l.districtName)));
+        const topDist = topDistricts[0] || '';
+        const topConsts = locations.filter(l => l.stateName === topState && l.districtName === topDist).map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+        const topConst = topConsts[0] || '';
+
+        setSelectedState(topState);
+        setSelectedDistrict(topDist);
+        setSelectedConstituency(topConst);
+        setSearchQuery('');
+        onSearch('');
+        setShowSuggestions(false);
+    };
 
     // Initial select trigger or when constituency changes
     useEffect(() => {
@@ -78,6 +100,12 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
         }
     };
 
+    const handleClearSearch = () => {
+        setSearchQuery('');
+        onSearch('');
+        setShowSuggestions(false);
+    };
+
     const handleSelectSuggestion = (candidate: CandidateProfile) => {
         setSearchQuery(candidate.name);
         setShowSuggestions(false);
@@ -98,11 +126,23 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
             animate={{ opacity: 1, y: 0 }}
             className="w-full max-w-5xl mx-auto bg-white/90 dark:bg-slate-900/90 backdrop-blur-md rounded-2xl shadow-xl border border-slate-200/50 dark:border-slate-700/50 p-6 md:p-8"
         >
-            <div className="flex items-center gap-3 mb-6 text-slate-800 dark:text-slate-100">
-                <div className="p-2 bg-blue-100 dark:bg-blue-900/50 rounded-lg text-blue-600 dark:text-blue-400">
-                    <MapPin className="w-5 h-5" />
+            <div className="flex items-center justify-between mb-6 text-slate-800 dark:text-slate-100">
+                <div className="flex items-center gap-3">
+                    <div className="p-2 bg-blue-100 dark:bg-blue-900/50 rounded-lg text-blue-600 dark:text-blue-400">
+                        <MapPin className="w-5 h-5" />
+                    </div>
+                    <h2 className="text-xl font-bold">Select Constituency</h2>
                 </div>
-                <h2 className="text-xl font-bold">Select Constituency</h2>
+                
+                {/* Reset Filters / Clear Selection Button */}
+                <button
+                    onClick={handleReset}
+                    className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 bg-slate-100 dark:bg-slate-800 hover:bg-blue-50 dark:hover:bg-blue-950/40 rounded-lg border border-slate-200 dark:border-slate-700 transition-all shadow-sm group"
+                    title="Reset to default selection"
+                >
+                    <RotateCcw className="w-3.5 h-3.5 group-hover:-rotate-45 transition-transform" />
+                    <span>Reset Selection</span>
+                </button>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
@@ -150,9 +190,18 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                     onChange={(e) => handleSearchInput(e.target.value)}
                     onFocus={() => { if (searchQuery.trim().length > 0) setShowSuggestions(true); }}
                     onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
-                    className="block w-full p-4 pl-10 text-sm text-slate-900 border border-slate-300 rounded-xl bg-slate-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-slate-800 dark:border-slate-700 dark:placeholder-slate-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 outline-none transition-all shadow-inner" 
+                    className="block w-full p-4 pl-10 pr-10 text-sm text-slate-900 border border-slate-300 rounded-xl bg-slate-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-slate-800 dark:border-slate-700 dark:placeholder-slate-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 outline-none transition-all shadow-inner" 
                     placeholder="Or search by MP/MLA / Candidate Name..." 
                 />
+                {searchQuery && (
+                    <button
+                        onClick={handleClearSearch}
+                        className="absolute inset-y-0 right-0 flex items-center pr-3.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 transition-colors"
+                        title="Clear search"
+                    >
+                        <X className="w-4 h-4" />
+                    </button>
+                )}
                 
                 <AnimatePresence>
                     {showSuggestions && suggestions.length > 0 && (
@@ -173,7 +222,7 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                             src={c.photoUrl} 
                                             alt="" 
                                             onError={(e) => {
-                                                (e.target as HTMLImageElement).src = '/my-leader/assets/placeholder-avatar.svg';
+                                                (e.target as HTMLImageElement).src = '/netapulse/assets/placeholder-avatar.svg';
                                             }}
                                             className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" 
                                         />

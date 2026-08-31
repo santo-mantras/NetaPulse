@@ -1,0 +1,4214 @@
+[
+  {
+    "id": "pu_417",
+    "name": "Bhagwant Mann",
+    "role": "Chief Minister of Punjab",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Dhuri",
+    "state": "Punjab",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 62,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 88,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 44000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15399999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8800000
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 199000000,
+    "declaredLiabilitiesINR": 33291972,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Dhuri.",
+    "politicalFact": "Elected representative serving the citizens of Sangrur, Punjab.",
+    "bio": "Bhagwant Mann is the elected Chief Minister of Punjab representing Dhuri, Sangrur, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_418",
+    "name": "Narinder Kaur Bharaj",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Sangrur",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 59,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13650000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 150000000,
+    "declaredLiabilitiesINR": 16853107,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Sangrur.",
+    "politicalFact": "Elected representative serving the citizens of Sangrur, Punjab.",
+    "bio": "Narinder Kaur Bharaj is the elected MLA representing Sangrur, Sangrur, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_419",
+    "name": "Aman Arora",
+    "role": "Cabinet Minister for Housing & Urban Dev",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_3.jpg",
+    "constituencyName": "Sunam",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 110,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 38500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13475000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 749000000,
+    "declaredLiabilitiesINR": 85179586,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Sunam.",
+    "politicalFact": "Elected representative serving the citizens of Sangrur, Punjab.",
+    "bio": "Aman Arora is the elected Cabinet Minister for Housing & Urban Dev representing Sunam, Sangrur, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_420",
+    "name": "Harpal Singh Cheema",
+    "role": "Cabinet Minister for Finance",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_4.jpg",
+    "constituencyName": "Dirba (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 111,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13825000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 258000000,
+    "declaredLiabilitiesINR": 36422111,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dirba (SC).",
+    "politicalFact": "Elected representative serving the citizens of Sangrur, Punjab.",
+    "bio": "Harpal Singh Cheema is the elected Cabinet Minister for Finance representing Dirba (SC), Sangrur, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_421",
+    "name": "Barinder Kumar Goyal",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Lehra",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 118,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 94,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 47000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16449999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9400000
+      }
+    ],
+    "debatesParticipated": 23,
+    "declaredAssetsINR": 742000000,
+    "declaredLiabilitiesINR": 60688125,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/845/2021",
+        "court": "Chief Judicial Magistrate Court, Sangrur",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Lehra.",
+    "politicalFact": "Elected representative serving the citizens of Sangrur, Punjab.",
+    "bio": "Barinder Kumar Goyal is the elected MLA representing Lehra, Sangrur, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_422",
+    "name": "Jeevan Jyot Kaur",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_6.jpg",
+    "constituencyName": "Amritsar East",
+    "state": "Punjab",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 103,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13825000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      }
+    ],
+    "debatesParticipated": 31,
+    "declaredAssetsINR": 239000000,
+    "declaredLiabilitiesINR": 33405019,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Amritsar East.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Jeevan Jyot Kaur is the elected MLA representing Amritsar East, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_423",
+    "name": "Kunwar Vijay Pratap Singh",
+    "role": "MLA / Former IPS Officer",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_7.jpg",
+    "constituencyName": "Amritsar North",
+    "state": "Punjab",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 43,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 93,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16274999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 328000000,
+    "declaredLiabilitiesINR": 49564000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Amritsar North.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Kunwar Vijay Pratap Singh is the elected MLA / Former IPS Officer representing Amritsar North, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_424",
+    "name": "Dr. Ajay Gupta",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Amritsar Central",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16099999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 111000000,
+    "declaredLiabilitiesINR": 9594680,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/374/2021",
+        "court": "Chief Judicial Magistrate Court, Amritsar",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/5463/2022",
+        "court": "Chief Judicial Magistrate Court, Amritsar",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Amritsar Central.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Dr. Ajay Gupta is the elected MLA representing Amritsar Central, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_425",
+    "name": "Dr. Jasbir Singh Sandhu",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Amritsar West (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 77,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 95,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 47500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16624999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9500000
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 647000000,
+    "declaredLiabilitiesINR": 88218614,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Amritsar West (SC).",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Dr. Jasbir Singh Sandhu is the elected MLA representing Amritsar West (SC), Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_426",
+    "name": "Dr. Inderbir Singh Nijjar",
+    "role": "MLA / Former Minister",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pu_dr__inderbir_singh_nijjar.jpg",
+    "constituencyName": "Amritsar South",
+    "state": "Punjab",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 43500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15224999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 89000000,
+    "declaredLiabilitiesINR": 4956310,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Amritsar South.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Dr. Inderbir Singh Nijjar is the elected MLA / Former Minister representing Amritsar South, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_427",
+    "name": "Ganieve Kaur Majithia",
+    "role": "MLA",
+    "party": "Shiromani Akali Dal",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Majitha",
+    "state": "Punjab",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 64,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 93,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16274999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 474000000,
+    "declaredLiabilitiesINR": 25604652,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Majitha.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Ganieve Kaur Majithia is the elected MLA representing Majitha, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Shiromani Akali Dal",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/SAD.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_428",
+    "name": "Harbhajan Singh ETO",
+    "role": "Cabinet Minister for Power",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Jandiala (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 43500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15224999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 49000000,
+    "declaredLiabilitiesINR": 7366984,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Jandiala (SC).",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Harbhajan Singh ETO is the elected Cabinet Minister for Power representing Jandiala (SC), Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_429",
+    "name": "Jaswinder Singh Ramdas",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Attari (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 87,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 71,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 86,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 43000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15049999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8600000
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 66000000,
+    "declaredLiabilitiesINR": 9367323,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/124/2021",
+        "court": "Chief Judicial Magistrate Court, Amritsar",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/1149/2022",
+        "court": "Chief Judicial Magistrate Court, Amritsar",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Attari (SC).",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Jaswinder Singh Ramdas is the elected MLA representing Attari (SC), Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_430",
+    "name": "Sukhbinder Singh Sarkaria",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Raja Sansi",
+    "state": "Punjab",
+    "attendancePercentage": 83,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 73,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 651000000,
+    "declaredLiabilitiesINR": 96379569,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Raja Sansi.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Sukhbinder Singh Sarkaria is the elected MLA representing Raja Sansi, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_431",
+    "name": "Dalbir Singh Tong",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Baba Bakala (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 89,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 85,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14874999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 482000000,
+    "declaredLiabilitiesINR": 45728837,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Baba Bakala (SC).",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Dalbir Singh Tong is the elected MLA representing Baba Bakala (SC), Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_432",
+    "name": "Kuldeep Singh Dhaliwal",
+    "role": "Cabinet Minister for NRI Affairs",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_16.jpg",
+    "constituencyName": "Ajnala",
+    "state": "Punjab",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 123,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 45000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15749999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 124000000,
+    "declaredLiabilitiesINR": 11544685,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Ajnala.",
+    "politicalFact": "Elected representative serving the citizens of Amritsar, Punjab.",
+    "bio": "Kuldeep Singh Dhaliwal is the elected Cabinet Minister for NRI Affairs representing Ajnala, Amritsar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_433",
+    "name": "Ashok Prashar Pappu",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Ludhiana Central",
+    "state": "Punjab",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13825000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 705000000,
+    "declaredLiabilitiesINR": 80822977,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Ludhiana Central.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Ashok Prashar Pappu is the elected MLA representing Ludhiana Central, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_434",
+    "name": "Daljit Singh Grewal",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_18.jpg",
+    "constituencyName": "Ludhiana East",
+    "state": "Punjab",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 110,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 85,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14874999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 561000000,
+    "declaredLiabilitiesINR": 90118488,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Ludhiana East.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Daljit Singh Grewal is the elected MLA representing Ludhiana East, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_435",
+    "name": "Gurpreet Bassi Gogi",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_19.jpg",
+    "constituencyName": "Ludhiana West",
+    "state": "Punjab",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 98,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 40500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14175000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8100000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 630000000,
+    "declaredLiabilitiesINR": 104123251,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ludhiana West.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Gurpreet Bassi Gogi is the elected MLA representing Ludhiana West, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_436",
+    "name": "Rajinder Pal Kaur Chhina",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Ludhiana South",
+    "state": "Punjab",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 115,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 45000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15749999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      }
+    ],
+    "debatesParticipated": 48,
+    "declaredAssetsINR": 791000000,
+    "declaredLiabilitiesINR": 73767809,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/759/2021",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/3246/2022",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Ludhiana South.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Rajinder Pal Kaur Chhina is the elected MLA representing Ludhiana South, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_437",
+    "name": "Madan Lal Bagga",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Ludhiana North",
+    "state": "Punjab",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 105,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14350000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 81000000,
+    "declaredLiabilitiesINR": 3993639,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/630/2021",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Ludhiana North.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Madan Lal Bagga is the elected MLA representing Ludhiana North, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_438",
+    "name": "Kulwant Singh Sidhu",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Atam Nagar",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 121,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 43500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15224999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 58000000,
+    "declaredLiabilitiesINR": 7436430,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/824/2021",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/1916/2022",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Atam Nagar.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Kulwant Singh Sidhu is the elected MLA representing Atam Nagar, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_439",
+    "name": "Jiwan Singh Sangowal",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Gill (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 130,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14525000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10375000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8300000
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 701000000,
+    "declaredLiabilitiesINR": 89148098,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Gill (SC).",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Jiwan Singh Sangowal is the elected MLA representing Gill (SC), Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_440",
+    "name": "Manwinder Singh Giaspura",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Payal (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 843000000,
+    "declaredLiabilitiesINR": 103944657,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/756/2021",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/7912/2022",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Payal (SC).",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Manwinder Singh Giaspura is the elected MLA representing Payal (SC), Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_441",
+    "name": "Manpreet Singh Ayali",
+    "role": "MLA",
+    "party": "Shiromani Akali Dal",
+    "photoUrl": "/netapulse/assets/candidates/pb_25.jpg",
+    "constituencyName": "Dakha",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 101,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13825000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 754000000,
+    "declaredLiabilitiesINR": 122571982,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Dakha.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Manpreet Singh Ayali is the elected MLA representing Dakha, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Shiromani Akali Dal",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/SAD.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_442",
+    "name": "Hakam Singh Thekedar",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Raikot (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 91,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 45000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15749999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9000000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 69000000,
+    "declaredLiabilitiesINR": 11370639,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Raikot (SC).",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Hakam Singh Thekedar is the elected MLA representing Raikot (SC), Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_443",
+    "name": "Sarvjit Kaur Manuke",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Jagraon (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 117,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 44500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15574999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 181000000,
+    "declaredLiabilitiesINR": 21194973,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/381/2021",
+        "court": "Chief Judicial Magistrate Court, Ludhiana",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jagraon (SC).",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Sarvjit Kaur Manuke is the elected MLA representing Jagraon (SC), Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_444",
+    "name": "Jagtar Singh Diyalpura",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Samrala",
+    "state": "Punjab",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 75,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 44500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15574999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 341000000,
+    "declaredLiabilitiesINR": 51180286,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Samrala.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Jagtar Singh Diyalpura is the elected MLA representing Samrala, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_445",
+    "name": "Hardeep Singh Mundian",
+    "role": "Cabinet Minister for Revenue",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Sahnewal",
+    "state": "Punjab",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 105,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 85,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14874999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8500000
+      }
+    ],
+    "debatesParticipated": 57,
+    "declaredAssetsINR": 755000000,
+    "declaredLiabilitiesINR": 44865435,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Sahnewal.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Hardeep Singh Mundian is the elected Cabinet Minister for Revenue representing Sahnewal, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_446",
+    "name": "Tarunpreet Singh Sond",
+    "role": "Cabinet Minister for Tourism",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Khanna",
+    "state": "Punjab",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 110,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16099999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      }
+    ],
+    "debatesParticipated": 26,
+    "declaredAssetsINR": 391000000,
+    "declaredLiabilitiesINR": 52187998,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Khanna.",
+    "politicalFact": "Elected representative serving the citizens of Ludhiana, Punjab.",
+    "bio": "Tarunpreet Singh Sond is the elected Cabinet Minister for Tourism representing Khanna, Ludhiana, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_447",
+    "name": "Raman Arora",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Jalandhar Central",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 103,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13825000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7900000
+      }
+    ],
+    "debatesParticipated": 60,
+    "declaredAssetsINR": 477000000,
+    "declaredLiabilitiesINR": 48946119,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Jalandhar Central.",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Raman Arora is the elected MLA representing Jalandhar Central, Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_448",
+    "name": "Avtar Singh Junior",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Jalandhar North",
+    "state": "Punjab",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 70,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14350000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      }
+    ],
+    "debatesParticipated": 17,
+    "declaredAssetsINR": 749000000,
+    "declaredLiabilitiesINR": 114766618,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Jalandhar North.",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Avtar Singh Junior is the elected MLA representing Jalandhar North, Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_449",
+    "name": "Mohinder Bhagat",
+    "role": "Cabinet Minister for Defense Services",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Jalandhar West (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 130,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 76,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 38000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13300000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 270000000,
+    "declaredLiabilitiesINR": 13254934,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Jalandhar West (SC).",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Mohinder Bhagat is the elected Cabinet Minister for Defense Services representing Jalandhar West (SC), Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_450",
+    "name": "Pargat Singh",
+    "role": "MLA / Olympian",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/candidates/pb_34.jpg",
+    "constituencyName": "Jalandhar Cantt",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 116,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 50,
+    "declaredAssetsINR": 589000000,
+    "declaredLiabilitiesINR": 100383661,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/859/2021",
+        "court": "Chief Judicial Magistrate Court, Jalandhar",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Jalandhar Cantt.",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Pargat Singh is the elected MLA / Olympian representing Jalandhar Cantt, Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_451",
+    "name": "Balkar Singh",
+    "role": "MLA / Former Minister",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Kartarpur (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 35,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16800000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 12000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 821000000,
+    "declaredLiabilitiesINR": 128975051,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kartarpur (SC).",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Balkar Singh is the elected MLA / Former Minister representing Kartarpur (SC), Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_452",
+    "name": "Sukhwinder Singh Kotli",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Adampur (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 61,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13650000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 552000000,
+    "declaredLiabilitiesINR": 51981002,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/673/2021",
+        "court": "Chief Judicial Magistrate Court, Jalandhar",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Adampur (SC).",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Sukhwinder Singh Kotli is the elected MLA representing Adampur (SC), Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_453",
+    "name": "Inderjit Kaur Mann",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Nakodar",
+    "state": "Punjab",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 75,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 43500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15224999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8700000
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 511000000,
+    "declaredLiabilitiesINR": 55731628,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/749/2021",
+        "court": "Chief Judicial Magistrate Court, Jalandhar",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Nakodar.",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Inderjit Kaur Mann is the elected MLA representing Nakodar, Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_454",
+    "name": "Hardev Singh Laddi",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Shahkot",
+    "state": "Punjab",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13650000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 137000000,
+    "declaredLiabilitiesINR": 6767054,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Shahkot.",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Hardev Singh Laddi is the elected MLA representing Shahkot, Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_455",
+    "name": "Vikramjit Singh Chaudhary",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/netapulse/assets/candidates/pb_39.jpg",
+    "constituencyName": "Phillaur (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 108,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16800000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 12000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 283000000,
+    "declaredLiabilitiesINR": 50901510,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Phillaur (SC).",
+    "politicalFact": "Elected representative serving the citizens of Jalandhar, Punjab.",
+    "bio": "Vikramjit Singh Chaudhary is the elected MLA representing Phillaur (SC), Jalandhar, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_456",
+    "name": "Ajit Pal Singh Kohli",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Patiala Urban",
+    "state": "Punjab",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 117,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14350000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      }
+    ],
+    "debatesParticipated": 23,
+    "declaredAssetsINR": 707000000,
+    "declaredLiabilitiesINR": 109083907,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/834/2021",
+        "court": "Chief Judicial Magistrate Court, Patiala",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Patiala Urban.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Ajit Pal Singh Kohli is the elected MLA representing Patiala Urban, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_457",
+    "name": "Dr. Balbir Singh",
+    "role": "Cabinet Minister for Health",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Patiala Rural",
+    "state": "Punjab",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 45,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 38500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13475000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 613000000,
+    "declaredLiabilitiesINR": 84182786,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Patiala Rural.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Dr. Balbir Singh is the elected Cabinet Minister for Health representing Patiala Rural, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_458",
+    "name": "Neena Mittal",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Rajpura",
+    "state": "Punjab",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 72,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 94,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 47000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16449999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9400000
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 573000000,
+    "declaredLiabilitiesINR": 23393803,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rajpura.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Neena Mittal is the elected MLA representing Rajpura, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_459",
+    "name": "Chetan Singh Jauramajra",
+    "role": "Cabinet Minister for Public Relations",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Samana",
+    "state": "Punjab",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 90,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 40500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14175000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8100000
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 40000000,
+    "declaredLiabilitiesINR": 5310921,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Samana.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Chetan Singh Jauramajra is the elected Cabinet Minister for Public Relations representing Samana, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_460",
+    "name": "Gurdev Singh Dev Mann",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Nabha (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 99,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 95,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 47500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16624999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11875000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9500000
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 408000000,
+    "declaredLiabilitiesINR": 39469850,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Nabha (SC).",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Gurdev Singh Dev Mann is the elected MLA representing Nabha (SC), Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_461",
+    "name": "Harmeet Singh Pathanmajra",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Sanour",
+    "state": "Punjab",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 45,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14525000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10375000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8300000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 532000000,
+    "declaredLiabilitiesINR": 80888790,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/691/2021",
+        "court": "Chief Judicial Magistrate Court, Patiala",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Sanour.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Harmeet Singh Pathanmajra is the elected MLA representing Sanour, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_462",
+    "name": "Gurlal Ghanaur",
+    "role": "MLA / International Boxer",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Ghanaur",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 61,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 38500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13475000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7700000
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 708000000,
+    "declaredLiabilitiesINR": 117442599,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Ghanaur.",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Gurlal Ghanaur is the elected MLA / International Boxer representing Ghanaur, Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_463",
+    "name": "Kulwant Singh Bazigar",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Shutrana (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 61,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 44500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15574999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 364000000,
+    "declaredLiabilitiesINR": 22909317,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Shutrana (SC).",
+    "politicalFact": "Elected representative serving the citizens of Patiala, Punjab.",
+    "bio": "Kulwant Singh Bazigar is the elected MLA representing Shutrana (SC), Patiala, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_464",
+    "name": "Jagroop Singh Gill",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Bathinda Urban",
+    "state": "Punjab",
+    "attendancePercentage": 83,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 74,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16099999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9200000
+      }
+    ],
+    "debatesParticipated": 57,
+    "declaredAssetsINR": 159000000,
+    "declaredLiabilitiesINR": 27575248,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/664/2021",
+        "court": "Chief Judicial Magistrate Court, Bathinda",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Bathinda Urban.",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Jagroop Singh Gill is the elected MLA representing Bathinda Urban, Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_465",
+    "name": "Amit Rattan Kotfatta",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Bathinda Rural (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 76,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 367000000,
+    "declaredLiabilitiesINR": 36247659,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bathinda Rural (SC).",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Amit Rattan Kotfatta is the elected MLA representing Bathinda Rural (SC), Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_466",
+    "name": "Prof. Baljinder Kaur",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Talwandi Sabo",
+    "state": "Punjab",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 87,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 93,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16274999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11625000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9300000
+      }
+    ],
+    "debatesParticipated": 57,
+    "declaredAssetsINR": 411000000,
+    "declaredLiabilitiesINR": 34943678,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Talwandi Sabo.",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Prof. Baljinder Kaur is the elected MLA representing Talwandi Sabo, Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_467",
+    "name": "Sukhveer Singh Maiser Khana",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Maur",
+    "state": "Punjab",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 107,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 64000000,
+    "declaredLiabilitiesINR": 3042779,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Maur.",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Sukhveer Singh Maiser Khana is the elected MLA representing Maur, Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_468",
+    "name": "Balkar Singh Sidhu",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Rampura Phul",
+    "state": "Punjab",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 130,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 42000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14699999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8400000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 801000000,
+    "declaredLiabilitiesINR": 59180105,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Rampura Phul.",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Balkar Singh Sidhu is the elected MLA representing Rampura Phul, Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_469",
+    "name": "Master Jagsir Singh",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhucho Mandi (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 42,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 76,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 38000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13300000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 718000000,
+    "declaredLiabilitiesINR": 30633450,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Bhucho Mandi (SC).",
+    "politicalFact": "Elected representative serving the citizens of Bathinda, Punjab.",
+    "bio": "Master Jagsir Singh is the elected MLA representing Bhucho Mandi (SC), Bathinda, Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_470",
+    "name": "Harjot Singh Bains",
+    "role": "Cabinet Minister for Education",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Anandpur Sahib",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 80,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16800000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 12000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 644000000,
+    "declaredLiabilitiesINR": 44158667,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Anandpur Sahib.",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Harjot Singh Bains is the elected Cabinet Minister for Education representing Anandpur Sahib, Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_471",
+    "name": "Dinesh Chadha",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_55.jpg",
+    "constituencyName": "Rupnagar",
+    "state": "Punjab",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 121,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 44500000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 15574999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 11125000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8900000
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 119000000,
+    "declaredLiabilitiesINR": 10931887,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/760/2021",
+        "court": "Chief Judicial Magistrate Court, Rupnagar & SAS Nagar (Mohali)",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/3495/2022",
+        "court": "Chief Judicial Magistrate Court, Rupnagar & SAS Nagar (Mohali)",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Rupnagar.",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Dinesh Chadha is the elected MLA representing Rupnagar, Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_472",
+    "name": "Dr. Charanjit Singh",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Chamkaur Sahib (SC)",
+    "state": "Punjab",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 76,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 39000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13650000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9750000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7800000
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 384000000,
+    "declaredLiabilitiesINR": 55471095,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Chamkaur Sahib (SC).",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Dr. Charanjit Singh is the elected MLA representing Chamkaur Sahib (SC), Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_473",
+    "name": "Kulwant Singh",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Mohali",
+    "state": "Punjab",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 51,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16800000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 12000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 745000000,
+    "declaredLiabilitiesINR": 122840146,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Mohali.",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Kulwant Singh is the elected MLA representing Mohali, Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_474",
+    "name": "Anmol Gagan Maan",
+    "role": "MLA / Former Cabinet Minister",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/candidates/pb_58.jpg",
+    "constituencyName": "Kharar",
+    "state": "Punjab",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 117,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 41000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 14350000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 10250000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 8200000
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 410000000,
+    "declaredLiabilitiesINR": 58587564,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Kharar.",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Anmol Gagan Maan is the elected MLA / Former Cabinet Minister representing Kharar, Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_475",
+    "name": "Kuljit Singh Randhawa",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/netapulse/assets/placeholder-avatar.svg",
+    "constituencyName": "Dera Bassi",
+    "state": "Punjab",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 49,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 16800000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 12000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 9600000
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 174000000,
+    "declaredLiabilitiesINR": 17659004,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dera Bassi.",
+    "politicalFact": "Elected representative serving the citizens of Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "bio": "Kuljit Singh Randhawa is the elected MLA representing Dera Bassi, Rupnagar & SAS Nagar (Mohali), Punjab.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/netapulse/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Punjab Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Punjab Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]
