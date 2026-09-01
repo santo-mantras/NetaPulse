@@ -220,10 +220,10 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
                                 <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group flex flex-col items-center">
                                     <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-blue-500/40 shadow-md mb-3 overflow-hidden bg-slate-800 shrink-0 relative flex items-center justify-center">
                                         <img 
-                                            src={candidateA.photoUrl || '/netapulse/assets/placeholder-avatar.svg'} 
+                                            src={candidateA.photoUrl || '/assets/placeholder-avatar.svg'} 
                                             alt={candidateA.name} 
                                             onError={(e) => {
-                                                (e.target as HTMLImageElement).src = '/netapulse/assets/placeholder-avatar.svg';
+                                                (e.target as HTMLImageElement).src = '/assets/placeholder-avatar.svg';
                                             }}
                                             className="w-full h-full object-cover" 
                                         />
@@ -250,10 +250,10 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
                                 <div className="text-center pb-4 border-b border-slate-200 dark:border-slate-800 relative group flex flex-col items-center">
                                     <div className="w-20 h-20 md:w-24 md:h-24 mx-auto rounded-full border-4 border-indigo-500/40 shadow-md mb-3 overflow-hidden bg-slate-800 shrink-0 relative flex items-center justify-center">
                                         <img 
-                                            src={candidateB.photoUrl || '/netapulse/assets/placeholder-avatar.svg'} 
+                                            src={candidateB.photoUrl || '/assets/placeholder-avatar.svg'} 
                                             alt={candidateB.name} 
                                             onError={(e) => {
-                                                (e.target as HTMLImageElement).src = '/netapulse/assets/placeholder-avatar.svg';
+                                                (e.target as HTMLImageElement).src = '/assets/placeholder-avatar.svg';
                                             }}
                                             className="w-full h-full object-cover" 
                                         />

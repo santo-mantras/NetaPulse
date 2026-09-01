@@ -10,7 +10,7 @@ CSV_PATH = "scripts/pipeline/constituency_master.csv"
 JSON_OUT_PATH = "src/data/realGovernanceData.json"
 STATES_DIR = "src/data/states"
 CANDIDATE_IMG_DIR = "public/assets/candidates"
-BASE_ASSET_PATH = "/netapulse/assets"
+BASE_ASSET_PATH = "/assets"
 
 os.makedirs(CANDIDATE_IMG_DIR, exist_ok=True)
 os.makedirs(STATES_DIR, exist_ok=True)

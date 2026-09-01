@@ -101,10 +101,10 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                 <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 relative z-10">
                     <div className="w-28 h-28 rounded-full border-4 border-white/30 shadow-xl overflow-hidden bg-slate-800 shrink-0 relative flex items-center justify-center">
                         <img
-                            src={candidate.photoUrl || '/netapulse/assets/placeholder-avatar.svg'}
+                            src={candidate.photoUrl || '/assets/placeholder-avatar.svg'}
                             alt={candidate.name}
                             onError={(e) => {
-                                (e.target as HTMLImageElement).src = '/netapulse/assets/placeholder-avatar.svg';
+                                (e.target as HTMLImageElement).src = '/assets/placeholder-avatar.svg';
                             }}
                             className="w-full h-full object-cover"
                         />

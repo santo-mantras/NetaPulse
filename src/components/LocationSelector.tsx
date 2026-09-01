@@ -222,7 +222,7 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                             src={c.photoUrl} 
                                             alt="" 
                                             onError={(e) => {
-                                                (e.target as HTMLImageElement).src = '/netapulse/assets/placeholder-avatar.svg';
+                                                (e.target as HTMLImageElement).src = '/assets/placeholder-avatar.svg';
                                             }}
                                             className="w-10 h-10 rounded-full object-cover bg-slate-200 dark:bg-slate-700 border border-slate-200 dark:border-slate-600" 
                                         />
