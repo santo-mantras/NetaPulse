@@ -1,22 +1,31 @@
----
-title: NetaPulse
-emoji: 🗳️
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
----
-
 # NetaPulse 🗳️
 
-**सत्यान्न प्रमदितव्यम् — Transparent Governance & Civic Accountability Platform**
+<div align="center">
 
-NetaPulse empowers Indian citizens to audit elected representatives (MLAs/MPs) across 476 constituencies in **Maharashtra, Uttar Pradesh, Karnataka, and Punjab** using verified data from Election Commission of India (ECI) affidavits, state legislative secretariats, and civic development fund records.
+![NetaPulse Banner](https://img.shields.io/badge/NetaPulse-Governance%20Platform-blue?style=for-the-badge&logo=shield&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neta-pulse.vercel.app)
+![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite 8](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **सत्यान्न प्रमदितव्यम् — Transparent Governance & Civic Accountability Platform**
+
+🌐 **Live Application**: **[https://neta-pulse.vercel.app](https://neta-pulse.vercel.app)**
+
+</div>
+
+---
+
+## 📖 Overview
+
+**NetaPulse** empowers Indian citizens to audit elected representatives (MLAs & MPs) across **476 constituencies** in **Maharashtra, Uttar Pradesh, Karnataka, and Punjab** using verified data from Election Commission of India (ECI) affidavits, state legislative secretariats, and civic development fund records.
 
 ---
 
 ## 🌟 Key Features
 
+- 🌐 **Live Edge Deployment**: Globally served with sub-second response times on **[Vercel Edge Network](https://neta-pulse.vercel.app)**.
 - 🏛️ **Multi-State Representation**: Comprehensive constituency and district registry across **Maharashtra (274 seats)**, **Uttar Pradesh (72 seats)**, **Karnataka (71 seats)**, and **Punjab (59 seats)**.
 - 💰 **MLA-LADS Development Fund Audit**: Real-time allocation vs utilization tracking, category breakdown (*Roads, Water, Smart Labs, Healthcare*), and state benchmark comparisons.
 - ⚖️ **Legal Disclosures & Wealth Breakdown**: Declared movable/immovable assets, liabilities, and verified criminal case records from ECI Form 26 affidavits.
@@ -29,10 +38,10 @@ NetaPulse empowers Indian citizens to audit elected representatives (MLAs/MPs) a
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 18 + TypeScript + Vite 8
-- **Styling**: Tailwind CSS + Framer Motion + Lucide Icons
+- **Frontend**: React 19 + TypeScript + Vite 8
+- **Styling & UI**: Tailwind CSS + Framer Motion + Lucide React Icons
 - **Data Engineering**: Python ETL pipeline with Master CSV Ground Truth
-- **Deployment**: Containerized Docker on Hugging Face Spaces & GitHub
+- **Deployment**: Vercel (Production Edge) + Docker/Podman (Local Containerization)
 
 ---
 
