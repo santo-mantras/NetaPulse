@@ -84,6 +84,7 @@ export interface CampaignPromise {
     id: string;
     title: string;
     category: string;
+    tier?: 'state_manifesto' | 'national_manifesto' | 'constituency_promise';
     status: 'Fulfilled' | 'In Progress' | 'Unfulfilled' | 'Insufficient Data';
     declaredInManifesto: string;
     verifiedOutcome: string;

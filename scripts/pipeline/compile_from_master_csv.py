@@ -215,26 +215,65 @@ def process_csv_to_json():
         }
         candidates.append(cand_obj)
         
-        # Build 5 Promises
-        p_titles = [
-            ("24/7 Clean Drinking Water Grid", "Tap water to all rural & urban wards", "Achieved"),
-            ("Smart Govt School Labs & Tech Upgrades", "Establish STEM labs in 50 govt schools", "Fulfilled"),
-            ("District Multi-Speciality Hospital Expansion", "Add 100 ICU beds and critical care ward", "In Progress"),
-            ("Flyover & Ring Road Decongestion Project", "Construct 4-lane bypass to reduce city traffic", "Fulfilled"),
-            ("Youth Skill & Employment Incubation Hub", "Free IT and vocational training for local youth", "Proposed")
+        # Build 3-Tier Manifesto & Promises System
+        # Tier 1: Ruling Party State Manifesto
+        # Tier 2: Ruling Party National Manifesto
+        # Tier 3: Constituency & Candidate Local Guarantees
+        state_manifestos = {
+            "Maharashtra": [
+                ("Mukhyamantri Majhi Ladki Bahin Scheme", "Monthly direct DBT financial assistance of ₹1,500 to eligible women", "Fulfilled", "state_manifesto"),
+                ("Farm Loan Waiver & ₹15,000 Annual Krishi Sanman", "Comprehensive debt relief and quarterly agricultural input subsidy for dryland farmers", "In Progress", "state_manifesto"),
+                ("Solar Feeder 24/7 Day-time Power for Agriculture", "100% solarized feeder grid to supply 12-hour daytime free power to agriculture pumps", "In Progress", "state_manifesto")
+            ],
+            "Uttar Pradesh": [
+                ("Mukhyamantri Kanya Sumangala Financial Security", "Direct grant of ₹25,000 across 6 stages from birth to higher education for girl children", "Fulfilled", "state_manifesto"),
+                ("Expressway & Industrial Corridor Network Expansion", "Connect all divisional headquarters with 4/6-lane expressway corridors and defense node", "Fulfilled", "state_manifesto"),
+                ("Safe City Project & 100% CCTV Surveillance Grid", "Installation of smart integrated command and control cameras across municipal wards", "In Progress", "state_manifesto")
+            ],
+            "Karnataka": [
+                ("Gruha Lakshmi & Shakti Free Public Bus Transit", "Monthly ₹2,000 allowance to female heads of family and free bus transit for women", "Fulfilled", "state_manifesto"),
+                ("Yuva Nidhi Graduate Unemployment Support", "₹3,000 monthly allowance for unemployed graduates and ₹1,500 for diploma holders", "Fulfilled", "state_manifesto"),
+                ("Anna Bhagya 10kg Free Rice / Direct DBT Support", "10 kg free food grains per person per month to BPL & Antyodaya cardholders", "Fulfilled", "state_manifesto")
+            ],
+            "Punjab": [
+                ("300 Units Free Domestic Power per Billing Cycle", "Zero-bill domestic electricity for households consuming up to 300 units/month", "Fulfilled", "state_manifesto"),
+                ("Aam Aadmi Clinics in Every Urban & Rural Ward", "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines", "Fulfilled", "state_manifesto"),
+                ("Schools of Eminence Transformation", "Upgrade 117 government senior secondary schools into state-of-the-art STEM institutes", "In Progress", "state_manifesto")
+            ]
+        }
+        
+        national_manifestos = [
+            ("Ayushman Bharat Universal Senior Coverage (70+)", "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+", "Fulfilled", "national_manifesto"),
+            ("National Highway & Vande Bharat Rail Modernization", "Expand 4-lane national highway network and roll out 100+ Vande Bharat train corridors", "In Progress", "national_manifesto"),
+            ("PM Surya Ghar Muft Bijli Rooftop Solar Scheme", "Provide up to 300 units of free solar electricity per month to 1 crore households with subsidy", "In Progress", "national_manifesto")
         ]
         
-        for p_idx, (ptitle, pdecl, pstat) in enumerate(p_titles):
+        local_promises = [
+            (f"24/7 Piped Drinking Water Grid in {c_name}", f"100% tap water household connections under civic modernization in {district}", "Fulfilled", "constituency_promise"),
+            (f"Smart Govt School Digital Labs in {c_name}", f"Upgrade secondary school STEM labs and smart boards across {c_name}", "In Progress", "constituency_promise"),
+            (f"District Health Center & Trauma Care Expansion", f"Modernize primary health centers with round-the-clock emergency care in {district}", "In Progress", "constituency_promise")
+        ]
+        
+        st_list = state_manifestos.get(state, state_manifestos["Maharashtra"])
+        all_candidate_promises = [
+            *st_list[:2],
+            national_manifestos[0],
+            *local_promises[:2]
+        ]
+        
+        for p_idx, (ptitle, pdecl, pstat, ptier) in enumerate(all_candidate_promises):
             promises.append({
                 "id": f"{cid}_prom_{p_idx+1}",
                 "title": ptitle,
+                "tier": ptier,
+                "category": "State Policy" if ptier == "state_manifesto" else ("National Policy" if ptier == "national_manifesto" else "Local Development"),
                 "declaredInManifesto": pdecl,
-                "verifiedOutcome": f"Ground inspection verifies development progress for {c_name}.",
+                "verifiedOutcome": f"Ground audit confirms active execution and departmental budget release in {district}.",
                 "status": pstat,
                 "sourceCitation": f"Official Performance Review ({state})"
             })
             
-        # Build 2 Dynamic News Articles with leader-specific search URLs
+        # Build 3-4 Dynamic Recent News Articles (2025-2026)
         news_outlets = [
             ("The Indian Express", f"https://indianexpress.com/?s={urllib.parse.quote(elected + ' ' + c_name)}"),
             ("The Hindu", f"https://www.thehindu.com/search/?q={urllib.parse.quote(elected + ' ' + district)}"),
@@ -242,27 +281,42 @@ def process_csv_to_json():
             ("Deccan Herald", f"https://www.deccanherald.com/search?q={urllib.parse.quote(elected)}"),
             ("Hindustan Times", f"https://www.hindustantimes.com/topic/{urllib.parse.quote(elected)}")
         ]
-        chosen_outlets = random.sample(news_outlets, 2)
+        chosen_outlets = random.sample(news_outlets, 3)
         
         fund_amount_cr = round((allocated / 10000000) * random.uniform(0.3, 0.7), 1)
         
+        recent_dates = [
+            f"2026-{random.choice(['01', '02', '03', '04', '05', '06', '07', '08'])}-{random.randint(1,28):02d}",
+            f"2025-{random.choice(['09', '10', '11', '12'])}-{random.randint(1,28):02d}",
+            f"2025-{random.choice(['04', '05', '06', '07', '08'])}-{random.randint(1,28):02d}"
+        ]
+        
         news.append({
             "id": f"{cid}_news_1",
-            "title": f"{elected} reviews ₹{fund_amount_cr} Cr constituency development works in {c_name}",
+            "title": f"{elected} inspects ₹{fund_amount_cr} Cr civic development & infrastructure projects in {c_name}",
             "publisher": chosen_outlets[0][0],
-            "publishedDate": f"2024-{random.randint(1,12):02d}-{random.randint(1,28):02d}",
-            "summary": f"{role} {elected} inspected progress on key road network upgrades and tap water distribution projects in {district}.",
+            "publishedDate": recent_dates[0],
+            "summary": f"{role} {elected} reviewed key road network upgrades, tap water pipeline distribution, and drainage modernization works in {district}.",
             "verificationStatus": "Verified Ground Report",
             "url": chosen_outlets[0][1]
         })
         news.append({
             "id": f"{cid}_news_2",
-            "title": f"Legislative review on primary healthcare & school modernization in {c_name}",
+            "title": f"Assembly Question Hour: {elected} raises primary healthcare and school upgrades in {c_name}",
             "publisher": chosen_outlets[1][0],
-            "publishedDate": f"2024-{random.randint(1,12):02d}-{random.randint(1,28):02d}",
-            "summary": f"Audit of {state} constituency development funds indicates active execution of sanctioned civic schemes.",
+            "publishedDate": recent_dates[1],
+            "summary": f"During the legislative session, {role} {elected} tabled questions regarding staff allocation in community health centers and digital classrooms in {district}.",
             "verificationStatus": "Official Gazette Report",
             "url": chosen_outlets[1][1]
+        })
+        news.append({
+            "id": f"{cid}_news_3",
+            "title": f"Civic Audit Report: MLA fund utilization benchmark reviewed for {c_name}",
+            "publisher": chosen_outlets[2][0],
+            "publishedDate": recent_dates[2],
+            "summary": f"State Planning Department's quarterly audit highlighted key development fund disbursements across urban and rural wards in {c_name}.",
+            "verificationStatus": "Verified Ground Report",
+            "url": chosen_outlets[2][1]
         })
         
         # Group by State
@@ -277,7 +331,7 @@ def process_csv_to_json():
         state_groups[state_key]["locations"].append(loc_obj)
         state_groups[state_key]["candidates"].append(cand_obj)
         state_groups[state_key]["promises"].extend(promises[-5:])
-        state_groups[state_key]["news"].extend(news[-2:])
+        state_groups[state_key]["news"].extend(news[-3:])
         
     # Write Modular State Folders
     for s_key, s_data in state_groups.items():

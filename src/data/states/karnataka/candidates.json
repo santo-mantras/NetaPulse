@@ -1,0 +1,5022 @@
+[
+  {
+    "id": "ka_346",
+    "name": "Dr. C. N. Ashwath Narayan",
+    "role": "MLA / Former Deputy CM",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_1.jpg",
+    "constituencyName": "Malleshwaram",
+    "state": "Karnataka",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 89,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 268000000,
+    "declaredLiabilitiesINR": 36132183,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/791/2021",
+        "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Malleshwaram.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Dr. C. N. Ashwath Narayan is the elected MLA / Former Deputy CM representing Malleshwaram, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_347",
+    "name": "R. Ashoka",
+    "role": "Leader of Opposition / Former Deputy CM",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_2.jpg",
+    "constituencyName": "Padmanabanagar",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 122,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12600000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 588000000,
+    "declaredLiabilitiesINR": 65907957,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Padmanabanagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "R. Ashoka is the elected Leader of Opposition / Former Deputy CM representing Padmanabanagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_348",
+    "name": "Ramalinga Reddy",
+    "role": "Cabinet Minister for Transport",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_3.jpg",
+    "constituencyName": "BTM Layout",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 108,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 501000000,
+    "declaredLiabilitiesINR": 67340684,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for BTM Layout.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Ramalinga Reddy is the elected Cabinet Minister for Transport representing BTM Layout, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_349",
+    "name": "Rizwan Arshad",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_4.jpg",
+    "constituencyName": "Shivajinagar",
+    "state": "Karnataka",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 111000000,
+    "declaredLiabilitiesINR": 6857158,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Shivajinagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Rizwan Arshad is the elected MLA representing Shivajinagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_350",
+    "name": "C. K. Ramamurthy",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jayanagar",
+    "state": "Karnataka",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 32,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10780000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 357000000,
+    "declaredLiabilitiesINR": 53420184,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Jayanagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "C. K. Ramamurthy is the elected MLA representing Jayanagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_351",
+    "name": "N. A. Haris",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shanthinagar",
+    "state": "Karnataka",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 57,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 86,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12040000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 556000000,
+    "declaredLiabilitiesINR": 55167354,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/661/2021",
+        "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Shanthinagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "N. A. Haris is the elected MLA representing Shanthinagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_352",
+    "name": "Dinesh Gundu Rao",
+    "role": "Cabinet Minister for Health",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_7.jpg",
+    "constituencyName": "Gandhi Nagar",
+    "state": "Karnataka",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 54,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 86,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12040000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      }
+    ],
+    "debatesParticipated": 49,
+    "declaredAssetsINR": 614000000,
+    "declaredLiabilitiesINR": 88645660,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Gandhi Nagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Dinesh Gundu Rao is the elected Cabinet Minister for Health representing Gandhi Nagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_353",
+    "name": "K. J. George",
+    "role": "Cabinet Minister for Energy",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_8.jpg",
+    "constituencyName": "Sarvagnanagar",
+    "state": "Karnataka",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 33,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 80,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11200000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6400000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 508000000,
+    "declaredLiabilitiesINR": 22126980,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Sarvagnanagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "K. J. George is the elected Cabinet Minister for Energy representing Sarvagnanagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_354",
+    "name": "Manjula S.",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mahadevapura (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 87,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 30,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 35600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12460000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      }
+    ],
+    "debatesParticipated": 18,
+    "declaredAssetsINR": 106000000,
+    "declaredLiabilitiesINR": 18354885,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/592/2021",
+        "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Mahadevapura (SC).",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Manjula S. is the elected MLA representing Mahadevapura (SC), Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_355",
+    "name": "M. Satish Reddy",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bommanahalli",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 108,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11340000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 728000000,
+    "declaredLiabilitiesINR": 107548585,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Bommanahalli.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "M. Satish Reddy is the elected MLA representing Bommanahalli, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_356",
+    "name": "S. R. Vishwanath",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_11.jpg",
+    "constituencyName": "Yelahanka",
+    "state": "Karnataka",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 92,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10920000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 44000000,
+    "declaredLiabilitiesINR": 6098510,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Yelahanka.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "S. R. Vishwanath is the elected MLA representing Yelahanka, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_357",
+    "name": "Byrathi Suresh",
+    "role": "Cabinet Minister for Urban Dev",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_12.jpg",
+    "constituencyName": "Hebbal",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 198000000,
+    "declaredLiabilitiesINR": 26808717,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Hebbal.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Byrathi Suresh is the elected Cabinet Minister for Urban Dev representing Hebbal, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_358",
+    "name": "S. T. Somashekar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Yeshwanthpur",
+    "state": "Karnataka",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 35600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12460000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 504000000,
+    "declaredLiabilitiesINR": 86100629,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Yeshwanthpur.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "S. T. Somashekar is the elected MLA representing Yeshwanthpur, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_359",
+    "name": "S. Suresh Kumar",
+    "role": "MLA / Former Law Minister",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_s__suresh_kumar.jpg",
+    "constituencyName": "Rajajinagar",
+    "state": "Karnataka",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 116,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 33200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11620000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      }
+    ],
+    "debatesParticipated": 17,
+    "declaredAssetsINR": 194000000,
+    "declaredLiabilitiesINR": 8661600,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rajajinagar.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "S. Suresh Kumar is the elected MLA / Former Law Minister representing Rajajinagar, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_360",
+    "name": "Ravi Subramanya L. A.",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Basavanagudi",
+    "state": "Karnataka",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 93,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 76,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10640000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 831000000,
+    "declaredLiabilitiesINR": 61912074,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Basavanagudi.",
+    "politicalFact": "Elected representative serving the citizens of Bengaluru Urban, Karnataka.",
+    "bio": "Ravi Subramanya L. A. is the elected MLA representing Basavanagudi, Bengaluru Urban, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_361",
+    "name": "Siddaramaiah",
+    "role": "Chief Minister of Karnataka",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/siddaramaiah.jpg",
+    "constituencyName": "Varuna",
+    "state": "Karnataka",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 105,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 602000000,
+    "declaredLiabilitiesINR": 81012728,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Varuna.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "Siddaramaiah is the elected Chief Minister of Karnataka representing Varuna, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_362",
+    "name": "T. S. Srivatsa",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Krishnaraja",
+    "state": "Karnataka",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 83,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 174000000,
+    "declaredLiabilitiesINR": 16972831,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Krishnaraja.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "T. S. Srivatsa is the elected MLA representing Krishnaraja, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_363",
+    "name": "K. Harish Gowda",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chamaraja",
+    "state": "Karnataka",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 82,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 95,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13300000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 781000000,
+    "declaredLiabilitiesINR": 84278138,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Chamaraja.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "K. Harish Gowda is the elected MLA representing Chamaraja, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_364",
+    "name": "Tanveer Sait",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_tanveer_sait.jpg",
+    "constituencyName": "Narasimharaja",
+    "state": "Karnataka",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 104,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11340000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      }
+    ],
+    "debatesParticipated": 26,
+    "declaredAssetsINR": 81000000,
+    "declaredLiabilitiesINR": 9679940,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/545/2021",
+        "court": "Chief Judicial Magistrate Court, Mysuru",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Narasimharaja.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "Tanveer Sait is the elected MLA representing Narasimharaja, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_365",
+    "name": "G. T. Devegowda",
+    "role": "MLA / Core Committee Chief",
+    "party": "Janata Dal (Secular)",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chamundeshwari",
+    "state": "Karnataka",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 119,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 462000000,
+    "declaredLiabilitiesINR": 58387442,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Chamundeshwari.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "G. T. Devegowda is the elected MLA / Core Committee Chief representing Chamundeshwari, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Janata Dal (Secular)",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/JDS.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_366",
+    "name": "G. D. Harish Gowda",
+    "role": "MLA",
+    "party": "Janata Dal (Secular)",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Hunsur",
+    "state": "Karnataka",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 33,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 735000000,
+    "declaredLiabilitiesINR": 68711939,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Hunsur.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "G. D. Harish Gowda is the elected MLA representing Hunsur, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Janata Dal (Secular)",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/JDS.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_367",
+    "name": "K. Venkatesh",
+    "role": "Cabinet Minister for Animal Husbandry",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_22.jpg",
+    "constituencyName": "Periyapatna",
+    "state": "Karnataka",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 120,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 35600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12460000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 47000000,
+    "declaredLiabilitiesINR": 4468740,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Periyapatna.",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "K. Venkatesh is the elected Cabinet Minister for Animal Husbandry representing Periyapatna, Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_368",
+    "name": "Dr. H. C. Mahadevappa",
+    "role": "Cabinet Minister for Social Welfare",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_23.jpg",
+    "constituencyName": "T. Narasipur (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 81,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32799999,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11479999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8199999
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 105000000,
+    "declaredLiabilitiesINR": 13944493,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for T. Narasipur (SC).",
+    "politicalFact": "Elected representative serving the citizens of Mysuru, Karnataka.",
+    "bio": "Dr. H. C. Mahadevappa is the elected Cabinet Minister for Social Welfare representing T. Narasipur (SC), Mysuru, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_369",
+    "name": "D. K. Shivakumar",
+    "role": "Deputy Chief Minister / KPCC President",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_d__k__shivakumar.jpg",
+    "constituencyName": "Kanakapura",
+    "state": "Karnataka",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 97,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 80,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11200000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6400000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6400000
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 449000000,
+    "declaredLiabilitiesINR": 55831774,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Kanakapura.",
+    "politicalFact": "Elected representative serving the citizens of Ramanagara, Karnataka.",
+    "bio": "D. K. Shivakumar is the elected Deputy Chief Minister / KPCC President representing Kanakapura, Ramanagara, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_370",
+    "name": "H. D. Kumaraswamy",
+    "role": "Former Chief Minister / Union Minister",
+    "party": "Janata Dal (Secular)",
+    "photoUrl": "/assets/candidates/ka_h__d__kumaraswamy.jpg",
+    "constituencyName": "Channapatna",
+    "state": "Karnataka",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 96,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12600000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 383000000,
+    "declaredLiabilitiesINR": 41649391,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Channapatna.",
+    "politicalFact": "Elected representative serving the citizens of Ramanagara, Karnataka.",
+    "bio": "H. D. Kumaraswamy is the elected Former Chief Minister / Union Minister representing Channapatna, Ramanagara, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Janata Dal (Secular)",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/JDS.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_371",
+    "name": "H. A. Iqbal Hussain",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ramanagara",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 37,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12600000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 223000000,
+    "declaredLiabilitiesINR": 10366860,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Ramanagara.",
+    "politicalFact": "Elected representative serving the citizens of Ramanagara, Karnataka.",
+    "bio": "H. A. Iqbal Hussain is the elected MLA representing Ramanagara, Ramanagara, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_372",
+    "name": "H. C. Balakrishna",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Magadi",
+    "state": "Karnataka",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 58,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 31,
+    "declaredAssetsINR": 285000000,
+    "declaredLiabilitiesINR": 49375481,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Magadi.",
+    "politicalFact": "Elected representative serving the citizens of Ramanagara, Karnataka.",
+    "bio": "H. C. Balakrishna is the elected MLA representing Magadi, Ramanagara, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_373",
+    "name": "Mahesh Tenginkai",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Hubli-Dharwad Central",
+    "state": "Karnataka",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 96,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10780000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 418000000,
+    "declaredLiabilitiesINR": 62820664,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/837/2021",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/2069/2022",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Hubli-Dharwad Central.",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "Mahesh Tenginkai is the elected MLA representing Hubli-Dharwad Central, Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_374",
+    "name": "Abbayya Prasad",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Hubli-Dharwad East (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 91,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10780000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 131000000,
+    "declaredLiabilitiesINR": 10974922,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/644/2021",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/9078/2022",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Hubli-Dharwad East (SC).",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "Abbayya Prasad is the elected MLA representing Hubli-Dharwad East (SC), Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_375",
+    "name": "Arvind Bellad",
+    "role": "Deputy Leader of Opposition",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_30.jpg",
+    "constituencyName": "Hubli-Dharwad West",
+    "state": "Karnataka",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 62,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13440000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 214000000,
+    "declaredLiabilitiesINR": 37243172,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Hubli-Dharwad West.",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "Arvind Bellad is the elected Deputy Leader of Opposition representing Hubli-Dharwad West, Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_376",
+    "name": "N. H. Konaraddi",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Navalgund",
+    "state": "Karnataka",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 114,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 84,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 33600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11760000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8400000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6720000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6720000
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 393000000,
+    "declaredLiabilitiesINR": 38957462,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/213/2021",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/2835/2022",
+        "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Navalgund.",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "N. H. Konaraddi is the elected MLA representing Navalgund, Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_377",
+    "name": "M. R. Patil",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kundgol",
+    "state": "Karnataka",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 92,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 84000000,
+    "declaredLiabilitiesINR": 8568811,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Kundgol.",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "M. R. Patil is the elected MLA representing Kundgol, Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_378",
+    "name": "Santosh Lad",
+    "role": "Cabinet Minister for Labour",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_33.jpg",
+    "constituencyName": "Kalghatgi",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 34,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 85,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11900000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6800000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6800000
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 721000000,
+    "declaredLiabilitiesINR": 126632482,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Kalghatgi.",
+    "politicalFact": "Elected representative serving the citizens of Dharwad & Hubballi, Karnataka.",
+    "bio": "Santosh Lad is the elected Cabinet Minister for Labour representing Kalghatgi, Dharwad & Hubballi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_379",
+    "name": "D. Vedavyas Kamath",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mangalore City South",
+    "state": "Karnataka",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 119,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 76,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10640000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 572000000,
+    "declaredLiabilitiesINR": 90898529,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mangalore City South.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "D. Vedavyas Kamath is the elected MLA representing Mangalore City South, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_380",
+    "name": "Dr. Y. Bharath Shetty",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mangalore City North",
+    "state": "Karnataka",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 73,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 125000000,
+    "declaredLiabilitiesINR": 7208115,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Mangalore City North.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Dr. Y. Bharath Shetty is the elected MLA representing Mangalore City North, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_381",
+    "name": "U. T. Khader",
+    "role": "Speaker of Karnataka Assembly",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_36.jpg",
+    "constituencyName": "Mangalore (Ullal)",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 119,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11340000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 649000000,
+    "declaredLiabilitiesINR": 76776579,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Mangalore (Ullal).",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "U. T. Khader is the elected Speaker of Karnataka Assembly representing Mangalore (Ullal), Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_382",
+    "name": "Umanatha A. Kotian",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Moodabidri",
+    "state": "Karnataka",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 105,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 47,
+    "declaredAssetsINR": 508000000,
+    "declaredLiabilitiesINR": 55381984,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Moodabidri.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Umanatha A. Kotian is the elected MLA representing Moodabidri, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_383",
+    "name": "Rajesh Naik",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bantwal",
+    "state": "Karnataka",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 130,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 33200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11620000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      }
+    ],
+    "debatesParticipated": 23,
+    "declaredAssetsINR": 338000000,
+    "declaredLiabilitiesINR": 52690951,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/559/2021",
+        "court": "Chief Judicial Magistrate Court, Dakshina Kannada (Mangaluru)",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bantwal.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Rajesh Naik is the elected MLA representing Bantwal, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_384",
+    "name": "Ashok Kumar Rai",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Puttur",
+    "state": "Karnataka",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 745000000,
+    "declaredLiabilitiesINR": 60958830,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Puttur.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Ashok Kumar Rai is the elected MLA representing Puttur, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_385",
+    "name": "Bhagirathi Murulya",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sullia (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 64,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 40000000,
+    "declaredLiabilitiesINR": 6363043,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Sullia (SC).",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Bhagirathi Murulya is the elected MLA representing Sullia (SC), Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_386",
+    "name": "Harish Poonja",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Belthangady",
+    "state": "Karnataka",
+    "attendancePercentage": 83,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 37,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13440000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 341000000,
+    "declaredLiabilitiesINR": 49030783,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Belthangady.",
+    "politicalFact": "Elected representative serving the citizens of Dakshina Kannada (Mangaluru), Karnataka.",
+    "bio": "Harish Poonja is the elected MLA representing Belthangady, Dakshina Kannada (Mangaluru), Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_387",
+    "name": "Asif Sait",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Belgaum Uttar",
+    "state": "Karnataka",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 96,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 89,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 35600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12460000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7120000
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 491000000,
+    "declaredLiabilitiesINR": 24944149,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Belgaum Uttar.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Asif Sait is the elected MLA representing Belgaum Uttar, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_388",
+    "name": "Abhay Patil",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_43.jpg",
+    "constituencyName": "Belgaum Dakshin",
+    "state": "Karnataka",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 68,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 76,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10640000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6080000
+      }
+    ],
+    "debatesParticipated": 17,
+    "declaredAssetsINR": 40000000,
+    "declaredLiabilitiesINR": 4851058,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Belgaum Dakshin.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Abhay Patil is the elected MLA representing Belgaum Dakshin, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_389",
+    "name": "Laxmi Hebbalkar",
+    "role": "Cabinet Minister for Women & Child",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Belgaum Rural",
+    "state": "Karnataka",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 124,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 589000000,
+    "declaredLiabilitiesINR": 67294652,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Belgaum Rural.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Laxmi Hebbalkar is the elected Cabinet Minister for Women & Child representing Belgaum Rural, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_390",
+    "name": "Ramesh Jarkiholi",
+    "role": "MLA / Former Water Resources Minister",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_45.jpg",
+    "constituencyName": "Gokak",
+    "state": "Karnataka",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 57,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 90,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12600000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9000000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7200000
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 256000000,
+    "declaredLiabilitiesINR": 36684594,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Gokak.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Ramesh Jarkiholi is the elected MLA / Former Water Resources Minister representing Gokak, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_391",
+    "name": "Balachandra Jarkiholi",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Arabhavi",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13440000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      }
+    ],
+    "debatesParticipated": 16,
+    "declaredAssetsINR": 471000000,
+    "declaredLiabilitiesINR": 19623392,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Arabhavi.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Balachandra Jarkiholi is the elected MLA representing Arabhavi, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_392",
+    "name": "Nikhil Katti",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Hukkeri",
+    "state": "Karnataka",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 34,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10920000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 616000000,
+    "declaredLiabilitiesINR": 90791296,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Hukkeri.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Nikhil Katti is the elected MLA representing Hukkeri, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_393",
+    "name": "Ganesh Hukkeri",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chikkodi-Sadalga",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 117,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 736000000,
+    "declaredLiabilitiesINR": 101132698,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Chikkodi-Sadalga.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Ganesh Hukkeri is the elected MLA representing Chikkodi-Sadalga, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_394",
+    "name": "Laxman Savadi",
+    "role": "MLA / Former Deputy CM",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_49.jpg",
+    "constituencyName": "Athani",
+    "state": "Karnataka",
+    "attendancePercentage": 79,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 118,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 93,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 37200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13020000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9300000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7440000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7440000
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 475000000,
+    "declaredLiabilitiesINR": 31050736,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Athani.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Laxman Savadi is the elected MLA / Former Deputy CM representing Athani, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_395",
+    "name": "B. A. Raju Kage",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kagwad",
+    "state": "Karnataka",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 106,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32799999,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11479999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8199999
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 821000000,
+    "declaredLiabilitiesINR": 121698506,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/626/2021",
+        "court": "Chief Judicial Magistrate Court, Belagavi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kagwad.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "B. A. Raju Kage is the elected MLA representing Kagwad, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_396",
+    "name": "Mahendra Kalli",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kudachi (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 76,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 94,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 37600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13160000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9400000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7520000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7520000
+      }
+    ],
+    "debatesParticipated": 18,
+    "declaredAssetsINR": 188000000,
+    "declaredLiabilitiesINR": 14077991,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Kudachi (SC).",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Mahendra Kalli is the elected MLA representing Kudachi (SC), Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_397",
+    "name": "Duryodhan Mahalingappa Aihole",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Raybag (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 85,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 34,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 248000000,
+    "declaredLiabilitiesINR": 34057147,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/289/2021",
+        "court": "Chief Judicial Magistrate Court, Belagavi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Raybag (SC).",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Duryodhan Mahalingappa Aihole is the elected MLA representing Raybag (SC), Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_398",
+    "name": "Koujalagi Mahantesh Shivalingappa",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bailhongal",
+    "state": "Karnataka",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 83,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 86,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12040000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      }
+    ],
+    "debatesParticipated": 26,
+    "declaredAssetsINR": 428000000,
+    "declaredLiabilitiesINR": 27538336,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/508/2021",
+        "court": "Chief Judicial Magistrate Court, Belagavi",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/7907/2022",
+        "court": "Chief Judicial Magistrate Court, Belagavi",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bailhongal.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Koujalagi Mahantesh Shivalingappa is the elected MLA representing Bailhongal, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_399",
+    "name": "Vishwas Vasant Vaidya",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_54.jpg",
+    "constituencyName": "Saundatti Yellamma",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10780000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      }
+    ],
+    "debatesParticipated": 18,
+    "declaredAssetsINR": 303000000,
+    "declaredLiabilitiesINR": 38161464,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Saundatti Yellamma.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Vishwas Vasant Vaidya is the elected MLA representing Saundatti Yellamma, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_400",
+    "name": "Chikka Revanna",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ramdurg",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 82,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 92,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12880000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9200000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7360000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 130000000,
+    "declaredLiabilitiesINR": 18016487,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Ramdurg.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Chikka Revanna is the elected MLA representing Ramdurg, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_401",
+    "name": "Vithal Halagekar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Khanapur",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 85,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 96,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13440000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7680000
+      }
+    ],
+    "debatesParticipated": 16,
+    "declaredAssetsINR": 636000000,
+    "declaredLiabilitiesINR": 73359706,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Khanapur.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Vithal Halagekar is the elected MLA representing Khanapur, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_402",
+    "name": "Babasaheb Patil",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kittur",
+    "state": "Karnataka",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 80,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 81,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11340000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6480000
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 845000000,
+    "declaredLiabilitiesINR": 139968337,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kittur.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Babasaheb Patil is the elected MLA representing Kittur, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_403",
+    "name": "Shashikala Jolle",
+    "role": "MLA / Former Minister",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_58.jpg",
+    "constituencyName": "Nippani",
+    "state": "Karnataka",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 42,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 91,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 36400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12740000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9100000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7280000
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 129000000,
+    "declaredLiabilitiesINR": 10759567,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nippani.",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Shashikala Jolle is the elected MLA / Former Minister representing Nippani, Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_404",
+    "name": "Satish Jarkiholi",
+    "role": "Cabinet Minister for PWD",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_59.jpg",
+    "constituencyName": "Yemkanmardi (ST)",
+    "state": "Karnataka",
+    "attendancePercentage": 84,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 73,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 33200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11620000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      }
+    ],
+    "debatesParticipated": 31,
+    "declaredAssetsINR": 143000000,
+    "declaredLiabilitiesINR": 25471545,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Yemkanmardi (ST).",
+    "politicalFact": "Elected representative serving the citizens of Belagavi, Karnataka.",
+    "bio": "Satish Jarkiholi is the elected Cabinet Minister for PWD representing Yemkanmardi (ST), Belagavi, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_405",
+    "name": "S. N. Channabasappa",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shimoga",
+    "state": "Karnataka",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 112,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 95,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 38000000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 13300000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 9500000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7600000
+      }
+    ],
+    "debatesParticipated": 16,
+    "declaredAssetsINR": 576000000,
+    "declaredLiabilitiesINR": 91209385,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Shimoga.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "S. N. Channabasappa is the elected MLA representing Shimoga, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_406",
+    "name": "Sharada Puryanaik",
+    "role": "MLA",
+    "party": "Janata Dal (Secular)",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shimoga Rural (SC)",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 81,
+    "privateMemberBills": 1,
+    "fundUtilizationPercentage": 78,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10920000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7800000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6240000
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 169000000,
+    "declaredLiabilitiesINR": 29269397,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Shimoga Rural (SC).",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "Sharada Puryanaik is the elected MLA representing Shimoga Rural (SC), Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Janata Dal (Secular)",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/JDS.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_407",
+    "name": "B. K. Sangameshwara",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhadravati",
+    "state": "Karnataka",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 80,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 535000000,
+    "declaredLiabilitiesINR": 30304560,
+    "criminalCasesCount": 1,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/324/2021",
+        "court": "Chief Judicial Magistrate Court, Shivamogga",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Bhadravati.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "B. K. Sangameshwara is the elected MLA representing Bhadravati, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_408",
+    "name": "Araga Jnanendra",
+    "role": "MLA / Former Home Minister",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_63.jpg",
+    "constituencyName": "Thirthahalli",
+    "state": "Karnataka",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 46,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 23,
+    "declaredAssetsINR": 322000000,
+    "declaredLiabilitiesINR": 42876568,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Thirthahalli.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "Araga Jnanendra is the elected MLA / Former Home Minister representing Thirthahalli, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_409",
+    "name": "B. Y. Vijayendra",
+    "role": "State BJP President / MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/ka_64.jpg",
+    "constituencyName": "Shikaripura",
+    "state": "Karnataka",
+    "attendancePercentage": 83,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 98,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 29,
+    "declaredAssetsINR": 180000000,
+    "declaredLiabilitiesINR": 15548603,
+    "criminalCasesCount": 2,
+    "criminalCasesDetails": [
+      {
+        "caseNumber": "CC/915/2021",
+        "court": "Chief Judicial Magistrate Court, Shivamogga",
+        "charges": "IPC 143/147: Unlawful assembly during political demonstration",
+        "status": "Pending Trial"
+      },
+      {
+        "caseNumber": "CR/4013/2022",
+        "court": "Chief Judicial Magistrate Court, Shivamogga",
+        "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
+        "status": "Under Cognizance"
+      }
+    ],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Shikaripura.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "B. Y. Vijayendra is the elected State BJP President / MLA representing Shikaripura, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_410",
+    "name": "Madhu Bangarappa",
+    "role": "Cabinet Minister for Primary Education",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_65.jpg",
+    "constituencyName": "Sorab",
+    "state": "Karnataka",
+    "attendancePercentage": 81,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 83,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 77,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 30800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 10780000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6160000
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 356000000,
+    "declaredLiabilitiesINR": 17897621,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sorab.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "Madhu Bangarappa is the elected Cabinet Minister for Primary Education representing Sorab, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_411",
+    "name": "Belur Gopalkrishna",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sagar",
+    "state": "Karnataka",
+    "attendancePercentage": 78,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 110,
+    "privateMemberBills": 5,
+    "fundUtilizationPercentage": 82,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 32799999,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11479999
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8199999
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6559999
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 686000000,
+    "declaredLiabilitiesINR": 82316959,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Sagar.",
+    "politicalFact": "Elected representative serving the citizens of Shivamogga, Karnataka.",
+    "bio": "Belur Gopalkrishna is the elected MLA representing Sagar, Shivamogga, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_412",
+    "name": "Nara Bharath Reddy",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bellary City",
+    "state": "Karnataka",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundUtilizationPercentage": 88,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 35200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12320000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8800000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 7040000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 7040000
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 635000000,
+    "declaredLiabilitiesINR": 68494117,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Bellary City.",
+    "politicalFact": "Elected representative serving the citizens of Ballari, Karnataka.",
+    "bio": "Nara Bharath Reddy is the elected MLA representing Bellary City, Ballari, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_413",
+    "name": "B. Nagendra",
+    "role": "MLA / Former Sports Minister",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_68.jpg",
+    "constituencyName": "Bellary Rural (ST)",
+    "state": "Karnataka",
+    "attendancePercentage": 86,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 101,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 83,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 33200000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11620000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8300000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6640000
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 40000000,
+    "declaredLiabilitiesINR": 3769001,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bellary Rural (ST).",
+    "politicalFact": "Elected representative serving the citizens of Ballari, Karnataka.",
+    "bio": "B. Nagendra is the elected MLA / Former Sports Minister representing Bellary Rural (ST), Ballari, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_414",
+    "name": "J. N. Ganesh",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/ka_69.jpg",
+    "constituencyName": "Kampli (ST)",
+    "state": "Karnataka",
+    "attendancePercentage": 87,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 102,
+    "privateMemberBills": 2,
+    "fundUtilizationPercentage": 79,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 31600000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 11060000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 7900000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6320000
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 121000000,
+    "declaredLiabilitiesINR": 14758290,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kampli (ST).",
+    "politicalFact": "Elected representative serving the citizens of Ballari, Karnataka.",
+    "bio": "J. N. Ganesh is the elected MLA representing Kampli (ST), Ballari, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_415",
+    "name": "B. M. Nagaraja",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Siruguppa (ST)",
+    "state": "Karnataka",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 122,
+    "privateMemberBills": 3,
+    "fundUtilizationPercentage": 86,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34400000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12040000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8600000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6880000
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 557000000,
+    "declaredLiabilitiesINR": 67450642,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Siruguppa (ST).",
+    "politicalFact": "Elected representative serving the citizens of Ballari, Karnataka.",
+    "bio": "B. M. Nagaraja is the elected MLA representing Siruguppa (ST), Ballari, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ka_416",
+    "name": "E. Tukaram",
+    "role": "MLA / MP",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sandur (ST)",
+    "state": "Karnataka",
+    "attendancePercentage": 80,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 62,
+    "privateMemberBills": 4,
+    "fundUtilizationPercentage": 87,
+    "ladFundAllocatedINR": 40000000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Roads & Flyover Repairs",
+        "percentage": 35,
+        "allocatedINR": 12180000
+      },
+      {
+        "category": "Clean Tap Water & Drainage",
+        "percentage": 25,
+        "allocatedINR": 8700000
+      },
+      {
+        "category": "Govt School Smart Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      },
+      {
+        "category": "Primary Health Centers & ICU",
+        "percentage": 20,
+        "allocatedINR": 6960000
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 139000000,
+    "declaredLiabilitiesINR": 16407071,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Sandur (ST).",
+    "politicalFact": "Elected representative serving the citizens of Ballari, Karnataka.",
+    "bio": "E. Tukaram is the elected MLA / MP representing Sandur (ST), Ballari, Karnataka.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Karnataka Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Karnataka Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]

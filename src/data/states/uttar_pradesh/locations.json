@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "loc_ut_275",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-2",
+    "assemblyConstituencyName": "Lucknow Cantt",
+    "crimeRate": "168.0 per 100k",
+    "crimeRatePerLakh": 168.0,
+    "literacyRate": 89.6,
+    "literacyRatePercentage": 89.6,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 175,
+    "regionalInsight": {
+      "title": "Lucknow Cantt Civic Context",
+      "historicalFact": "Lucknow Cantt is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_276",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-3",
+    "assemblyConstituencyName": "Lucknow East",
+    "crimeRate": "166.2 per 100k",
+    "crimeRatePerLakh": 166.2,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 286,
+    "regionalInsight": {
+      "title": "Lucknow East Civic Context",
+      "historicalFact": "Lucknow East is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_277",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-4",
+    "assemblyConstituencyName": "Lucknow Central",
+    "crimeRate": "243.4 per 100k",
+    "crimeRatePerLakh": 243.4,
+    "literacyRate": 84.1,
+    "literacyRatePercentage": 84.1,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 271,
+    "regionalInsight": {
+      "title": "Lucknow Central Civic Context",
+      "historicalFact": "Lucknow Central is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_278",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-5",
+    "assemblyConstituencyName": "Lucknow West",
+    "crimeRate": "228.9 per 100k",
+    "crimeRatePerLakh": 228.9,
+    "literacyRate": 89.2,
+    "literacyRatePercentage": 89.2,
+    "hospitalsCount": 49,
+    "govtSchoolsCount": 133,
+    "regionalInsight": {
+      "title": "Lucknow West Civic Context",
+      "historicalFact": "Lucknow West is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_279",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-6",
+    "assemblyConstituencyName": "Lucknow North",
+    "crimeRate": "249.2 per 100k",
+    "crimeRatePerLakh": 249.2,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Lucknow North Civic Context",
+      "historicalFact": "Lucknow North is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_280",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-7",
+    "assemblyConstituencyName": "Sarojini Nagar",
+    "crimeRate": "212.1 per 100k",
+    "crimeRatePerLakh": 212.1,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Sarojini Nagar Civic Context",
+      "historicalFact": "Sarojini Nagar is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_281",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-8",
+    "assemblyConstituencyName": "Bakshi Kaa Talab",
+    "crimeRate": "212.9 per 100k",
+    "crimeRatePerLakh": 212.9,
+    "literacyRate": 89.3,
+    "literacyRatePercentage": 89.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 126,
+    "regionalInsight": {
+      "title": "Bakshi Kaa Talab Civic Context",
+      "historicalFact": "Bakshi Kaa Talab is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_282",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-9",
+    "assemblyConstituencyName": "Malihabad (SC)",
+    "crimeRate": "229.9 per 100k",
+    "crimeRatePerLakh": 229.9,
+    "literacyRate": 83.0,
+    "literacyRatePercentage": 83.0,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 134,
+    "regionalInsight": {
+      "title": "Malihabad (SC) Civic Context",
+      "historicalFact": "Malihabad (SC) is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_283",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "AC-UP-10",
+    "assemblyConstituencyName": "Mohanlalganj (SC)",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 72.7,
+    "literacyRatePercentage": 72.7,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Mohanlalganj (SC) Civic Context",
+      "historicalFact": "Mohanlalganj (SC) is an influential economic and political constituency in Lucknow.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_284",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-11",
+    "assemblyConstituencyName": "Gorakhpur Urban",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 369,
+    "regionalInsight": {
+      "title": "Gorakhpur Urban Civic Context",
+      "historicalFact": "Gorakhpur Urban is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_285",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-12",
+    "assemblyConstituencyName": "Gorakhpur Rural",
+    "crimeRate": "281.8 per 100k",
+    "crimeRatePerLakh": 281.8,
+    "literacyRate": 78.3,
+    "literacyRatePercentage": 78.3,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Gorakhpur Rural Civic Context",
+      "historicalFact": "Gorakhpur Rural is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_286",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-13",
+    "assemblyConstituencyName": "Pipraich",
+    "crimeRate": "296.2 per 100k",
+    "crimeRatePerLakh": 296.2,
+    "literacyRate": 75.5,
+    "literacyRatePercentage": 75.5,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 353,
+    "regionalInsight": {
+      "title": "Pipraich Civic Context",
+      "historicalFact": "Pipraich is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_287",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-14",
+    "assemblyConstituencyName": "Sahjanwa",
+    "crimeRate": "238.1 per 100k",
+    "crimeRatePerLakh": 238.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Sahjanwa Civic Context",
+      "historicalFact": "Sahjanwa is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_288",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-15",
+    "assemblyConstituencyName": "Campierganj",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Campierganj Civic Context",
+      "historicalFact": "Campierganj is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_289",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-16",
+    "assemblyConstituencyName": "Chauri-Chaura",
+    "crimeRate": "244.2 per 100k",
+    "crimeRatePerLakh": 244.2,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 127,
+    "regionalInsight": {
+      "title": "Chauri-Chaura Civic Context",
+      "historicalFact": "Chauri-Chaura is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_290",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-17",
+    "assemblyConstituencyName": "Bansgaon (SC)",
+    "crimeRate": "276.1 per 100k",
+    "crimeRatePerLakh": 276.1,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 276,
+    "regionalInsight": {
+      "title": "Bansgaon (SC) Civic Context",
+      "historicalFact": "Bansgaon (SC) is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_291",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-18",
+    "assemblyConstituencyName": "Chillupar",
+    "crimeRate": "189.6 per 100k",
+    "crimeRatePerLakh": 189.6,
+    "literacyRate": 83.3,
+    "literacyRatePercentage": 83.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Chillupar Civic Context",
+      "historicalFact": "Chillupar is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_292",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-19",
+    "assemblyConstituencyName": "Khajani (SC)",
+    "crimeRate": "189.1 per 100k",
+    "crimeRatePerLakh": 189.1,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Khajani (SC) Civic Context",
+      "historicalFact": "Khajani (SC) is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_293",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-20",
+    "assemblyConstituencyName": "Varanasi Cantt",
+    "crimeRate": "149.7 per 100k",
+    "crimeRatePerLakh": 149.7,
+    "literacyRate": 89.8,
+    "literacyRatePercentage": 89.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 366,
+    "regionalInsight": {
+      "title": "Varanasi Cantt Civic Context",
+      "historicalFact": "Varanasi Cantt is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_294",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-21",
+    "assemblyConstituencyName": "Varanasi North",
+    "crimeRate": "281.6 per 100k",
+    "crimeRatePerLakh": 281.6,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 327,
+    "regionalInsight": {
+      "title": "Varanasi North Civic Context",
+      "historicalFact": "Varanasi North is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_295",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-22",
+    "assemblyConstituencyName": "Varanasi South",
+    "crimeRate": "215.3 per 100k",
+    "crimeRatePerLakh": 215.3,
+    "literacyRate": 79.6,
+    "literacyRatePercentage": 79.6,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 336,
+    "regionalInsight": {
+      "title": "Varanasi South Civic Context",
+      "historicalFact": "Varanasi South is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_296",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-23",
+    "assemblyConstituencyName": "Rohaniya",
+    "crimeRate": "276.8 per 100k",
+    "crimeRatePerLakh": 276.8,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 49,
+    "govtSchoolsCount": 238,
+    "regionalInsight": {
+      "title": "Rohaniya Civic Context",
+      "historicalFact": "Rohaniya is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_297",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-24",
+    "assemblyConstituencyName": "Sewapuri",
+    "crimeRate": "173.6 per 100k",
+    "crimeRatePerLakh": 173.6,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 182,
+    "regionalInsight": {
+      "title": "Sewapuri Civic Context",
+      "historicalFact": "Sewapuri is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_298",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-25",
+    "assemblyConstituencyName": "Pindra",
+    "crimeRate": "179.0 per 100k",
+    "crimeRatePerLakh": 179.0,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 312,
+    "regionalInsight": {
+      "title": "Pindra Civic Context",
+      "historicalFact": "Pindra is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_299",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-26",
+    "assemblyConstituencyName": "Ajagara (SC)",
+    "crimeRate": "238.6 per 100k",
+    "crimeRatePerLakh": 238.6,
+    "literacyRate": 79.6,
+    "literacyRatePercentage": 79.6,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Ajagara (SC) Civic Context",
+      "historicalFact": "Ajagara (SC) is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_300",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "AC-UP-27",
+    "assemblyConstituencyName": "Shivpur",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 90.1,
+    "literacyRatePercentage": 90.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Shivpur Civic Context",
+      "historicalFact": "Shivpur is an influential economic and political constituency in Varanasi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_301",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-28",
+    "assemblyConstituencyName": "Noida",
+    "crimeRate": "182.2 per 100k",
+    "crimeRatePerLakh": 182.2,
+    "literacyRate": 84.2,
+    "literacyRatePercentage": 84.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Noida Civic Context",
+      "historicalFact": "Noida is an influential economic and political constituency in Gautam Buddha Nagar (Noida).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_302",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-29",
+    "assemblyConstituencyName": "Dadri",
+    "crimeRate": "157.3 per 100k",
+    "crimeRatePerLakh": 157.3,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Dadri Civic Context",
+      "historicalFact": "Dadri is an influential economic and political constituency in Gautam Buddha Nagar (Noida).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_303",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gautam Buddha Nagar (Noida)",
+    "assemblyConstituencyCode": "AC-UP-30",
+    "assemblyConstituencyName": "Jewar",
+    "crimeRate": "148.0 per 100k",
+    "crimeRatePerLakh": 148.0,
+    "literacyRate": 89.3,
+    "literacyRatePercentage": 89.3,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Jewar Civic Context",
+      "historicalFact": "Jewar is an influential economic and political constituency in Gautam Buddha Nagar (Noida).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_304",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-31",
+    "assemblyConstituencyName": "Karhal",
+    "crimeRate": "277.5 per 100k",
+    "crimeRatePerLakh": 277.5,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 190,
+    "regionalInsight": {
+      "title": "Karhal Civic Context",
+      "historicalFact": "Karhal is an influential economic and political constituency in Mainpuri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_305",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-32",
+    "assemblyConstituencyName": "Mainpuri",
+    "crimeRate": "165.8 per 100k",
+    "crimeRatePerLakh": 165.8,
+    "literacyRate": 72.4,
+    "literacyRatePercentage": 72.4,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Mainpuri Civic Context",
+      "historicalFact": "Mainpuri is an influential economic and political constituency in Mainpuri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_306",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-33",
+    "assemblyConstituencyName": "Bhongaon",
+    "crimeRate": "194.8 per 100k",
+    "crimeRatePerLakh": 194.8,
+    "literacyRate": 82.0,
+    "literacyRatePercentage": 82.0,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 238,
+    "regionalInsight": {
+      "title": "Bhongaon Civic Context",
+      "historicalFact": "Bhongaon is an influential economic and political constituency in Mainpuri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_307",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-34",
+    "assemblyConstituencyName": "Kishni (SC)",
+    "crimeRate": "208.1 per 100k",
+    "crimeRatePerLakh": 208.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Kishni (SC) Civic Context",
+      "historicalFact": "Kishni (SC) is an influential economic and political constituency in Mainpuri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_308",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-35",
+    "assemblyConstituencyName": "Govind Nagar",
+    "crimeRate": "200.7 per 100k",
+    "crimeRatePerLakh": 200.7,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 49,
+    "govtSchoolsCount": 279,
+    "regionalInsight": {
+      "title": "Govind Nagar Civic Context",
+      "historicalFact": "Govind Nagar is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_309",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-36",
+    "assemblyConstituencyName": "Sisamau",
+    "crimeRate": "175.0 per 100k",
+    "crimeRatePerLakh": 175.0,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Sisamau Civic Context",
+      "historicalFact": "Sisamau is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_310",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-37",
+    "assemblyConstituencyName": "Aryanagar",
+    "crimeRate": "147.0 per 100k",
+    "crimeRatePerLakh": 147.0,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Aryanagar Civic Context",
+      "historicalFact": "Aryanagar is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_311",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-38",
+    "assemblyConstituencyName": "Kidwai Nagar",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.7,
+    "literacyRatePercentage": 82.7,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Kidwai Nagar Civic Context",
+      "historicalFact": "Kidwai Nagar is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_312",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-39",
+    "assemblyConstituencyName": "Kanpur Cantt",
+    "crimeRate": "291.6 per 100k",
+    "crimeRatePerLakh": 291.6,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 287,
+    "regionalInsight": {
+      "title": "Kanpur Cantt Civic Context",
+      "historicalFact": "Kanpur Cantt is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_313",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-40",
+    "assemblyConstituencyName": "Kalyanpur",
+    "crimeRate": "229.5 per 100k",
+    "crimeRatePerLakh": 229.5,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Kalyanpur Civic Context",
+      "historicalFact": "Kalyanpur is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_314",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Kanpur Nagar",
+    "assemblyConstituencyCode": "AC-UP-41",
+    "assemblyConstituencyName": "Maharajpur",
+    "crimeRate": "286.7 per 100k",
+    "crimeRatePerLakh": 286.7,
+    "literacyRate": 72.6,
+    "literacyRatePercentage": 72.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Maharajpur Civic Context",
+      "historicalFact": "Maharajpur is an influential economic and political constituency in Kanpur Nagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_315",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-42",
+    "assemblyConstituencyName": "Ayodhya",
+    "crimeRate": "156.1 per 100k",
+    "crimeRatePerLakh": 156.1,
+    "literacyRate": 89.1,
+    "literacyRatePercentage": 89.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Ayodhya Civic Context",
+      "historicalFact": "Ayodhya is an influential economic and political constituency in Ayodhya (Faizabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_316",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-43",
+    "assemblyConstituencyName": "Rudauli",
+    "crimeRate": "289.4 per 100k",
+    "crimeRatePerLakh": 289.4,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Rudauli Civic Context",
+      "historicalFact": "Rudauli is an influential economic and political constituency in Ayodhya (Faizabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_317",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-44",
+    "assemblyConstituencyName": "Bikapur",
+    "crimeRate": "291.2 per 100k",
+    "crimeRatePerLakh": 291.2,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Bikapur Civic Context",
+      "historicalFact": "Bikapur is an influential economic and political constituency in Ayodhya (Faizabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_318",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-45",
+    "assemblyConstituencyName": "Milkipur (SC)",
+    "crimeRate": "161.4 per 100k",
+    "crimeRatePerLakh": 161.4,
+    "literacyRate": 90.9,
+    "literacyRatePercentage": 90.9,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Milkipur (SC) Civic Context",
+      "historicalFact": "Milkipur (SC) is an influential economic and political constituency in Ayodhya (Faizabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_319",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Ayodhya (Faizabad)",
+    "assemblyConstituencyCode": "AC-UP-46",
+    "assemblyConstituencyName": "Goshainganj",
+    "crimeRate": "172.4 per 100k",
+    "crimeRatePerLakh": 172.4,
+    "literacyRate": 78.1,
+    "literacyRatePercentage": 78.1,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 312,
+    "regionalInsight": {
+      "title": "Goshainganj Civic Context",
+      "historicalFact": "Goshainganj is an influential economic and political constituency in Ayodhya (Faizabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_320",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-47",
+    "assemblyConstituencyName": "Allahabad North",
+    "crimeRate": "184.0 per 100k",
+    "crimeRatePerLakh": 184.0,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 364,
+    "regionalInsight": {
+      "title": "Allahabad North Civic Context",
+      "historicalFact": "Allahabad North is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_321",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-48",
+    "assemblyConstituencyName": "Allahabad South",
+    "crimeRate": "180.5 per 100k",
+    "crimeRatePerLakh": 180.5,
+    "literacyRate": 72.0,
+    "literacyRatePercentage": 72.0,
+    "hospitalsCount": 51,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Allahabad South Civic Context",
+      "historicalFact": "Allahabad South is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_322",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-49",
+    "assemblyConstituencyName": "Allahabad West",
+    "crimeRate": "182.5 per 100k",
+    "crimeRatePerLakh": 182.5,
+    "literacyRate": 83.2,
+    "literacyRatePercentage": 83.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 132,
+    "regionalInsight": {
+      "title": "Allahabad West Civic Context",
+      "historicalFact": "Allahabad West is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_323",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-50",
+    "assemblyConstituencyName": "Phulpur",
+    "crimeRate": "184.6 per 100k",
+    "crimeRatePerLakh": 184.6,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 152,
+    "regionalInsight": {
+      "title": "Phulpur Civic Context",
+      "historicalFact": "Phulpur is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_324",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-51",
+    "assemblyConstituencyName": "Pratappur",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 285,
+    "regionalInsight": {
+      "title": "Pratappur Civic Context",
+      "historicalFact": "Pratappur is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_325",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-52",
+    "assemblyConstituencyName": "Koraon (SC)",
+    "crimeRate": "193.3 per 100k",
+    "crimeRatePerLakh": 193.3,
+    "literacyRate": 78.3,
+    "literacyRatePercentage": 78.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 374,
+    "regionalInsight": {
+      "title": "Koraon (SC) Civic Context",
+      "historicalFact": "Koraon (SC) is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_326",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-53",
+    "assemblyConstituencyName": "Meja",
+    "crimeRate": "301.0 per 100k",
+    "crimeRatePerLakh": 301.0,
+    "literacyRate": 85.8,
+    "literacyRatePercentage": 85.8,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 283,
+    "regionalInsight": {
+      "title": "Meja Civic Context",
+      "historicalFact": "Meja is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_327",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Prayagraj (Allahabad)",
+    "assemblyConstituencyCode": "AC-UP-54",
+    "assemblyConstituencyName": "Bara (SC)",
+    "crimeRate": "291.8 per 100k",
+    "crimeRatePerLakh": 291.8,
+    "literacyRate": 91.2,
+    "literacyRatePercentage": 91.2,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 146,
+    "regionalInsight": {
+      "title": "Bara (SC) Civic Context",
+      "historicalFact": "Bara (SC) is an influential economic and political constituency in Prayagraj (Allahabad).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_328",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-55",
+    "assemblyConstituencyName": "Mathura",
+    "crimeRate": "261.7 per 100k",
+    "crimeRatePerLakh": 261.7,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 322,
+    "regionalInsight": {
+      "title": "Mathura Civic Context",
+      "historicalFact": "Mathura is an influential economic and political constituency in Mathura.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_329",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-56",
+    "assemblyConstituencyName": "Govardhan",
+    "crimeRate": "166.9 per 100k",
+    "crimeRatePerLakh": 166.9,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Govardhan Civic Context",
+      "historicalFact": "Govardhan is an influential economic and political constituency in Mathura.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_330",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-57",
+    "assemblyConstituencyName": "Chhata",
+    "crimeRate": "205.8 per 100k",
+    "crimeRatePerLakh": 205.8,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Chhata Civic Context",
+      "historicalFact": "Chhata is an influential economic and political constituency in Mathura.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_331",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-58",
+    "assemblyConstituencyName": "Mant",
+    "crimeRate": "200.0 per 100k",
+    "crimeRatePerLakh": 200.0,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Mant Civic Context",
+      "historicalFact": "Mant is an influential economic and political constituency in Mathura.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_332",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mathura",
+    "assemblyConstituencyCode": "AC-UP-59",
+    "assemblyConstituencyName": "Baldeo (SC)",
+    "crimeRate": "239.1 per 100k",
+    "crimeRatePerLakh": 239.1,
+    "literacyRate": 83.0,
+    "literacyRatePercentage": 83.0,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 359,
+    "regionalInsight": {
+      "title": "Baldeo (SC) Civic Context",
+      "historicalFact": "Baldeo (SC) is an influential economic and political constituency in Mathura.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_333",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-60",
+    "assemblyConstituencyName": "Meerut Cantt",
+    "crimeRate": "306.6 per 100k",
+    "crimeRatePerLakh": 306.6,
+    "literacyRate": 83.3,
+    "literacyRatePercentage": 83.3,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 336,
+    "regionalInsight": {
+      "title": "Meerut Cantt Civic Context",
+      "historicalFact": "Meerut Cantt is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_334",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-61",
+    "assemblyConstituencyName": "Meerut City",
+    "crimeRate": "209.8 per 100k",
+    "crimeRatePerLakh": 209.8,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 275,
+    "regionalInsight": {
+      "title": "Meerut City Civic Context",
+      "historicalFact": "Meerut City is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_335",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-62",
+    "assemblyConstituencyName": "Meerut South",
+    "crimeRate": "230.2 per 100k",
+    "crimeRatePerLakh": 230.2,
+    "literacyRate": 74.7,
+    "literacyRatePercentage": 74.7,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Meerut South Civic Context",
+      "historicalFact": "Meerut South is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_336",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-63",
+    "assemblyConstituencyName": "Sardhana",
+    "crimeRate": "226.6 per 100k",
+    "crimeRatePerLakh": 226.6,
+    "literacyRate": 89.9,
+    "literacyRatePercentage": 89.9,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Sardhana Civic Context",
+      "historicalFact": "Sardhana is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_337",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-64",
+    "assemblyConstituencyName": "Hastinapur (SC)",
+    "crimeRate": "201.5 per 100k",
+    "crimeRatePerLakh": 201.5,
+    "literacyRate": 85.7,
+    "literacyRatePercentage": 85.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Hastinapur (SC) Civic Context",
+      "historicalFact": "Hastinapur (SC) is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_338",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Meerut",
+    "assemblyConstituencyCode": "AC-UP-65",
+    "assemblyConstituencyName": "Kithore",
+    "crimeRate": "281.6 per 100k",
+    "crimeRatePerLakh": 281.6,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 135,
+    "regionalInsight": {
+      "title": "Kithore Civic Context",
+      "historicalFact": "Kithore is an influential economic and political constituency in Meerut.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_339",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-66",
+    "assemblyConstituencyName": "Agra Cantt (SC)",
+    "crimeRate": "226.2 per 100k",
+    "crimeRatePerLakh": 226.2,
+    "literacyRate": 87.4,
+    "literacyRatePercentage": 87.4,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Agra Cantt (SC) Civic Context",
+      "historicalFact": "Agra Cantt (SC) is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_340",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-67",
+    "assemblyConstituencyName": "Agra North",
+    "crimeRate": "176.1 per 100k",
+    "crimeRatePerLakh": 176.1,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 278,
+    "regionalInsight": {
+      "title": "Agra North Civic Context",
+      "historicalFact": "Agra North is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_341",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-68",
+    "assemblyConstituencyName": "Agra South",
+    "crimeRate": "273.0 per 100k",
+    "crimeRatePerLakh": 273.0,
+    "literacyRate": 90.2,
+    "literacyRatePercentage": 90.2,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 141,
+    "regionalInsight": {
+      "title": "Agra South Civic Context",
+      "historicalFact": "Agra South is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_342",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-69",
+    "assemblyConstituencyName": "Agra Rural (SC)",
+    "crimeRate": "285.5 per 100k",
+    "crimeRatePerLakh": 285.5,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 55,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Agra Rural (SC) Civic Context",
+      "historicalFact": "Agra Rural (SC) is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_343",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-70",
+    "assemblyConstituencyName": "Fatehabad",
+    "crimeRate": "237.1 per 100k",
+    "crimeRatePerLakh": 237.1,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Fatehabad Civic Context",
+      "historicalFact": "Fatehabad is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_344",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-71",
+    "assemblyConstituencyName": "Bah",
+    "crimeRate": "162.4 per 100k",
+    "crimeRatePerLakh": 162.4,
+    "literacyRate": 91.2,
+    "literacyRatePercentage": 91.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 135,
+    "regionalInsight": {
+      "title": "Bah Civic Context",
+      "historicalFact": "Bah is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_345",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Agra",
+    "assemblyConstituencyCode": "AC-UP-72",
+    "assemblyConstituencyName": "Fatehpur Sikri",
+    "crimeRate": "193.6 per 100k",
+    "crimeRatePerLakh": 193.6,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 196,
+    "regionalInsight": {
+      "title": "Fatehpur Sikri Civic Context",
+      "historicalFact": "Fatehpur Sikri is an influential economic and political constituency in Agra.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_476",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "PC-UP-64",
+    "assemblyConstituencyName": "Gorakhpur (Lok Sabha)",
+    "crimeRate": "145.6 per 100k",
+    "crimeRatePerLakh": 145.6,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 279,
+    "regionalInsight": {
+      "title": "Gorakhpur (Lok Sabha) Civic Context",
+      "historicalFact": "Gorakhpur (Lok Sabha) is an influential economic and political constituency in Gorakhpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

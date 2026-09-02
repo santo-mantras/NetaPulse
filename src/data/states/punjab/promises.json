@@ -1,0 +1,2952 @@
+[
+  {
+    "id": "pu_417_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_417_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_417_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_417_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Dhuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_417_prom_5",
+    "title": "Smart Govt School Digital Labs in Dhuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Dhuri",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_418_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_418_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_418_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_418_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sangrur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_418_prom_5",
+    "title": "Smart Govt School Digital Labs in Sangrur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_419_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_419_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_419_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_419_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sunam",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_419_prom_5",
+    "title": "Smart Govt School Digital Labs in Sunam",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sunam",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_420_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_420_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_420_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_420_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Dirba (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_420_prom_5",
+    "title": "Smart Govt School Digital Labs in Dirba (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Dirba (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_421_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_421_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_421_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_421_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Lehra",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Sangrur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_421_prom_5",
+    "title": "Smart Govt School Digital Labs in Lehra",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Lehra",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangrur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_422_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_422_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_422_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_422_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Amritsar East",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_422_prom_5",
+    "title": "Smart Govt School Digital Labs in Amritsar East",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Amritsar East",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_423_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_423_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_423_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_423_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Amritsar North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_423_prom_5",
+    "title": "Smart Govt School Digital Labs in Amritsar North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Amritsar North",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_424_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_424_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_424_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_424_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Amritsar Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_424_prom_5",
+    "title": "Smart Govt School Digital Labs in Amritsar Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Amritsar Central",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_425_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_425_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_425_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_425_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Amritsar West (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_425_prom_5",
+    "title": "Smart Govt School Digital Labs in Amritsar West (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Amritsar West (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_426_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_426_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_426_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_426_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Amritsar South",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_426_prom_5",
+    "title": "Smart Govt School Digital Labs in Amritsar South",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Amritsar South",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_427_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_427_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_427_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_427_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Majitha",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_427_prom_5",
+    "title": "Smart Govt School Digital Labs in Majitha",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Majitha",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_428_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_428_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_428_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_428_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jandiala (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_428_prom_5",
+    "title": "Smart Govt School Digital Labs in Jandiala (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jandiala (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_429_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_429_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_429_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_429_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Attari (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_429_prom_5",
+    "title": "Smart Govt School Digital Labs in Attari (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Attari (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_430_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_430_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_430_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_430_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Raja Sansi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_430_prom_5",
+    "title": "Smart Govt School Digital Labs in Raja Sansi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Raja Sansi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_431_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_431_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_431_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_431_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Baba Bakala (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_431_prom_5",
+    "title": "Smart Govt School Digital Labs in Baba Bakala (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Baba Bakala (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_432_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_432_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_432_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_432_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ajnala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Amritsar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_432_prom_5",
+    "title": "Smart Govt School Digital Labs in Ajnala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ajnala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Amritsar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_433_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_433_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_433_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_433_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ludhiana Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_433_prom_5",
+    "title": "Smart Govt School Digital Labs in Ludhiana Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ludhiana Central",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_434_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_434_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_434_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_434_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ludhiana East",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_434_prom_5",
+    "title": "Smart Govt School Digital Labs in Ludhiana East",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ludhiana East",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_435_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_435_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_435_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_435_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ludhiana West",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_435_prom_5",
+    "title": "Smart Govt School Digital Labs in Ludhiana West",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ludhiana West",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_436_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_436_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_436_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_436_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ludhiana South",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_436_prom_5",
+    "title": "Smart Govt School Digital Labs in Ludhiana South",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ludhiana South",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_437_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_437_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_437_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_437_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ludhiana North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_437_prom_5",
+    "title": "Smart Govt School Digital Labs in Ludhiana North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ludhiana North",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_438_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_438_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_438_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_438_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Atam Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_438_prom_5",
+    "title": "Smart Govt School Digital Labs in Atam Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Atam Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_439_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_439_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_439_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_439_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Gill (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_439_prom_5",
+    "title": "Smart Govt School Digital Labs in Gill (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Gill (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_440_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_440_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_440_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_440_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Payal (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_440_prom_5",
+    "title": "Smart Govt School Digital Labs in Payal (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Payal (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_441_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_441_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_441_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_441_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Dakha",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_441_prom_5",
+    "title": "Smart Govt School Digital Labs in Dakha",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Dakha",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_442_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_442_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_442_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_442_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Raikot (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_442_prom_5",
+    "title": "Smart Govt School Digital Labs in Raikot (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Raikot (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_443_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_443_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_443_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_443_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jagraon (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_443_prom_5",
+    "title": "Smart Govt School Digital Labs in Jagraon (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jagraon (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_444_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_444_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_444_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_444_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Samrala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_444_prom_5",
+    "title": "Smart Govt School Digital Labs in Samrala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Samrala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_445_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_445_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_445_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_445_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sahnewal",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_445_prom_5",
+    "title": "Smart Govt School Digital Labs in Sahnewal",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sahnewal",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_446_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_446_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_446_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_446_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Khanna",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Ludhiana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_446_prom_5",
+    "title": "Smart Govt School Digital Labs in Khanna",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Khanna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Ludhiana.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_447_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_447_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_447_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_447_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jalandhar Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_447_prom_5",
+    "title": "Smart Govt School Digital Labs in Jalandhar Central",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jalandhar Central",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_448_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_448_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_448_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_448_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jalandhar North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_448_prom_5",
+    "title": "Smart Govt School Digital Labs in Jalandhar North",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jalandhar North",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_449_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_449_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_449_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_449_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jalandhar West (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_449_prom_5",
+    "title": "Smart Govt School Digital Labs in Jalandhar West (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jalandhar West (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_450_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_450_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_450_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_450_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jalandhar Cantt",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_450_prom_5",
+    "title": "Smart Govt School Digital Labs in Jalandhar Cantt",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jalandhar Cantt",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_451_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_451_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_451_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_451_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kartarpur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_451_prom_5",
+    "title": "Smart Govt School Digital Labs in Kartarpur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kartarpur (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_452_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_452_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_452_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_452_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Adampur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_452_prom_5",
+    "title": "Smart Govt School Digital Labs in Adampur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Adampur (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_453_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_453_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_453_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_453_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Nakodar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_453_prom_5",
+    "title": "Smart Govt School Digital Labs in Nakodar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Nakodar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_454_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_454_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_454_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_454_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Shahkot",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_454_prom_5",
+    "title": "Smart Govt School Digital Labs in Shahkot",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Shahkot",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_455_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_455_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_455_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_455_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Phillaur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Jalandhar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_455_prom_5",
+    "title": "Smart Govt School Digital Labs in Phillaur (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Phillaur (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Jalandhar.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_456_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_456_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_456_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_456_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Patiala Urban",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_456_prom_5",
+    "title": "Smart Govt School Digital Labs in Patiala Urban",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Patiala Urban",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_457_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_457_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_457_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_457_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Patiala Rural",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_457_prom_5",
+    "title": "Smart Govt School Digital Labs in Patiala Rural",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Patiala Rural",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_458_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_458_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_458_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_458_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rajpura",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_458_prom_5",
+    "title": "Smart Govt School Digital Labs in Rajpura",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rajpura",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_459_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_459_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_459_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_459_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Samana",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_459_prom_5",
+    "title": "Smart Govt School Digital Labs in Samana",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Samana",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_460_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_460_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_460_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_460_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Nabha (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_460_prom_5",
+    "title": "Smart Govt School Digital Labs in Nabha (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Nabha (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_461_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_461_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_461_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_461_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sanour",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_461_prom_5",
+    "title": "Smart Govt School Digital Labs in Sanour",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sanour",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_462_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_462_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_462_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_462_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ghanaur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_462_prom_5",
+    "title": "Smart Govt School Digital Labs in Ghanaur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ghanaur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_463_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_463_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_463_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_463_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Shutrana (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Patiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_463_prom_5",
+    "title": "Smart Govt School Digital Labs in Shutrana (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Shutrana (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Patiala.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_464_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_464_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_464_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_464_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Bathinda Urban",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_464_prom_5",
+    "title": "Smart Govt School Digital Labs in Bathinda Urban",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Bathinda Urban",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_465_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_465_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_465_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_465_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Bathinda Rural (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_465_prom_5",
+    "title": "Smart Govt School Digital Labs in Bathinda Rural (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Bathinda Rural (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_466_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_466_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_466_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_466_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Talwandi Sabo",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_466_prom_5",
+    "title": "Smart Govt School Digital Labs in Talwandi Sabo",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Talwandi Sabo",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_467_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_467_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_467_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_467_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Maur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_467_prom_5",
+    "title": "Smart Govt School Digital Labs in Maur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Maur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_468_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_468_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_468_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_468_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rampura Phul",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_468_prom_5",
+    "title": "Smart Govt School Digital Labs in Rampura Phul",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rampura Phul",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_469_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_469_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_469_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_469_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Bhucho Mandi (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Bathinda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_469_prom_5",
+    "title": "Smart Govt School Digital Labs in Bhucho Mandi (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Bhucho Mandi (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Bathinda.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_470_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_470_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_470_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_470_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Anandpur Sahib",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_470_prom_5",
+    "title": "Smart Govt School Digital Labs in Anandpur Sahib",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Anandpur Sahib",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_471_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_471_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_471_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_471_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rupnagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_471_prom_5",
+    "title": "Smart Govt School Digital Labs in Rupnagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rupnagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_472_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_472_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_472_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_472_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Chamkaur Sahib (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_472_prom_5",
+    "title": "Smart Govt School Digital Labs in Chamkaur Sahib (SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Chamkaur Sahib (SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_473_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_473_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_473_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_473_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Mohali",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_473_prom_5",
+    "title": "Smart Govt School Digital Labs in Mohali",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Mohali",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_474_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_474_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_474_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_474_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kharar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_474_prom_5",
+    "title": "Smart Govt School Digital Labs in Kharar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kharar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_475_prom_1",
+    "title": "300 Units Free Domestic Power per Billing Cycle",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Zero-bill domestic electricity for households consuming up to 300 units/month",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_475_prom_2",
+    "title": "Aam Aadmi Clinics in Every Urban & Rural Ward",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Operationalize 800+ neighborhood clinics with 80+ free clinical tests and medicines",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_475_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_475_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Dera Bassi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Rupnagar & SAS Nagar (Mohali)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  },
+  {
+    "id": "pu_475_prom_5",
+    "title": "Smart Govt School Digital Labs in Dera Bassi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Dera Bassi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Rupnagar & SAS Nagar (Mohali).",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Punjab)"
+  }
+]

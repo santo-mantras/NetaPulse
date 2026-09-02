@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "loc_ka_346",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-2",
+    "assemblyConstituencyName": "Malleshwaram",
+    "crimeRate": "278.0 per 100k",
+    "crimeRatePerLakh": 278.0,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 355,
+    "regionalInsight": {
+      "title": "Malleshwaram Civic Context",
+      "historicalFact": "Malleshwaram is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_347",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-3",
+    "assemblyConstituencyName": "Padmanabanagar",
+    "crimeRate": "269.0 per 100k",
+    "crimeRatePerLakh": 269.0,
+    "literacyRate": 87.2,
+    "literacyRatePercentage": 87.2,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Padmanabanagar Civic Context",
+      "historicalFact": "Padmanabanagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_348",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-4",
+    "assemblyConstituencyName": "BTM Layout",
+    "crimeRate": "303.6 per 100k",
+    "crimeRatePerLakh": 303.6,
+    "literacyRate": 86.3,
+    "literacyRatePercentage": 86.3,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 309,
+    "regionalInsight": {
+      "title": "BTM Layout Civic Context",
+      "historicalFact": "BTM Layout is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_349",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-5",
+    "assemblyConstituencyName": "Shivajinagar",
+    "crimeRate": "289.0 per 100k",
+    "crimeRatePerLakh": 289.0,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Shivajinagar Civic Context",
+      "historicalFact": "Shivajinagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_350",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-6",
+    "assemblyConstituencyName": "Jayanagar",
+    "crimeRate": "277.9 per 100k",
+    "crimeRatePerLakh": 277.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Jayanagar Civic Context",
+      "historicalFact": "Jayanagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_351",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-7",
+    "assemblyConstituencyName": "Shanthinagar",
+    "crimeRate": "167.1 per 100k",
+    "crimeRatePerLakh": 167.1,
+    "literacyRate": 82.1,
+    "literacyRatePercentage": 82.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Shanthinagar Civic Context",
+      "historicalFact": "Shanthinagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_352",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-8",
+    "assemblyConstituencyName": "Gandhi Nagar",
+    "crimeRate": "276.2 per 100k",
+    "crimeRatePerLakh": 276.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 283,
+    "regionalInsight": {
+      "title": "Gandhi Nagar Civic Context",
+      "historicalFact": "Gandhi Nagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_353",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-9",
+    "assemblyConstituencyName": "Sarvagnanagar",
+    "crimeRate": "289.0 per 100k",
+    "crimeRatePerLakh": 289.0,
+    "literacyRate": 79.0,
+    "literacyRatePercentage": 79.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 131,
+    "regionalInsight": {
+      "title": "Sarvagnanagar Civic Context",
+      "historicalFact": "Sarvagnanagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_354",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-10",
+    "assemblyConstituencyName": "Mahadevapura (SC)",
+    "crimeRate": "150.7 per 100k",
+    "crimeRatePerLakh": 150.7,
+    "literacyRate": 88.6,
+    "literacyRatePercentage": 88.6,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 346,
+    "regionalInsight": {
+      "title": "Mahadevapura (SC) Civic Context",
+      "historicalFact": "Mahadevapura (SC) is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_355",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-11",
+    "assemblyConstituencyName": "Bommanahalli",
+    "crimeRate": "229.9 per 100k",
+    "crimeRatePerLakh": 229.9,
+    "literacyRate": 88.5,
+    "literacyRatePercentage": 88.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "Bommanahalli Civic Context",
+      "historicalFact": "Bommanahalli is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_356",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-12",
+    "assemblyConstituencyName": "Yelahanka",
+    "crimeRate": "166.2 per 100k",
+    "crimeRatePerLakh": 166.2,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 136,
+    "regionalInsight": {
+      "title": "Yelahanka Civic Context",
+      "historicalFact": "Yelahanka is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_357",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-13",
+    "assemblyConstituencyName": "Hebbal",
+    "crimeRate": "180.6 per 100k",
+    "crimeRatePerLakh": 180.6,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 257,
+    "regionalInsight": {
+      "title": "Hebbal Civic Context",
+      "historicalFact": "Hebbal is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_358",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-14",
+    "assemblyConstituencyName": "Yeshwanthpur",
+    "crimeRate": "270.2 per 100k",
+    "crimeRatePerLakh": 270.2,
+    "literacyRate": 80.3,
+    "literacyRatePercentage": 80.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Yeshwanthpur Civic Context",
+      "historicalFact": "Yeshwanthpur is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_359",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-15",
+    "assemblyConstituencyName": "Rajajinagar",
+    "crimeRate": "214.6 per 100k",
+    "crimeRatePerLakh": 214.6,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 284,
+    "regionalInsight": {
+      "title": "Rajajinagar Civic Context",
+      "historicalFact": "Rajajinagar is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_360",
+    "stateName": "Karnataka",
+    "districtName": "Bengaluru Urban",
+    "assemblyConstituencyCode": "AC-KA-16",
+    "assemblyConstituencyName": "Basavanagudi",
+    "crimeRate": "242.2 per 100k",
+    "crimeRatePerLakh": 242.2,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 361,
+    "regionalInsight": {
+      "title": "Basavanagudi Civic Context",
+      "historicalFact": "Basavanagudi is an influential economic and political constituency in Bengaluru Urban.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_361",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-17",
+    "assemblyConstituencyName": "Varuna",
+    "crimeRate": "256.0 per 100k",
+    "crimeRatePerLakh": 256.0,
+    "literacyRate": 82.7,
+    "literacyRatePercentage": 82.7,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 250,
+    "regionalInsight": {
+      "title": "Varuna Civic Context",
+      "historicalFact": "Varuna is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_362",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-18",
+    "assemblyConstituencyName": "Krishnaraja",
+    "crimeRate": "245.2 per 100k",
+    "crimeRatePerLakh": 245.2,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Krishnaraja Civic Context",
+      "historicalFact": "Krishnaraja is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_363",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-19",
+    "assemblyConstituencyName": "Chamaraja",
+    "crimeRate": "232.3 per 100k",
+    "crimeRatePerLakh": 232.3,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 380,
+    "regionalInsight": {
+      "title": "Chamaraja Civic Context",
+      "historicalFact": "Chamaraja is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_364",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-20",
+    "assemblyConstituencyName": "Narasimharaja",
+    "crimeRate": "239.5 per 100k",
+    "crimeRatePerLakh": 239.5,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 233,
+    "regionalInsight": {
+      "title": "Narasimharaja Civic Context",
+      "historicalFact": "Narasimharaja is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_365",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-21",
+    "assemblyConstituencyName": "Chamundeshwari",
+    "crimeRate": "288.1 per 100k",
+    "crimeRatePerLakh": 288.1,
+    "literacyRate": 90.2,
+    "literacyRatePercentage": 90.2,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Chamundeshwari Civic Context",
+      "historicalFact": "Chamundeshwari is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_366",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-22",
+    "assemblyConstituencyName": "Hunsur",
+    "crimeRate": "166.8 per 100k",
+    "crimeRatePerLakh": 166.8,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Hunsur Civic Context",
+      "historicalFact": "Hunsur is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_367",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-23",
+    "assemblyConstituencyName": "Periyapatna",
+    "crimeRate": "154.6 per 100k",
+    "crimeRatePerLakh": 154.6,
+    "literacyRate": 86.3,
+    "literacyRatePercentage": 86.3,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Periyapatna Civic Context",
+      "historicalFact": "Periyapatna is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_368",
+    "stateName": "Karnataka",
+    "districtName": "Mysuru",
+    "assemblyConstituencyCode": "AC-KA-24",
+    "assemblyConstituencyName": "T. Narasipur (SC)",
+    "crimeRate": "241.3 per 100k",
+    "crimeRatePerLakh": 241.3,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 124,
+    "regionalInsight": {
+      "title": "T. Narasipur (SC) Civic Context",
+      "historicalFact": "T. Narasipur (SC) is an influential economic and political constituency in Mysuru.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_369",
+    "stateName": "Karnataka",
+    "districtName": "Ramanagara",
+    "assemblyConstituencyCode": "AC-KA-25",
+    "assemblyConstituencyName": "Kanakapura",
+    "crimeRate": "259.5 per 100k",
+    "crimeRatePerLakh": 259.5,
+    "literacyRate": 88.0,
+    "literacyRatePercentage": 88.0,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Kanakapura Civic Context",
+      "historicalFact": "Kanakapura is an influential economic and political constituency in Ramanagara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_370",
+    "stateName": "Karnataka",
+    "districtName": "Ramanagara",
+    "assemblyConstituencyCode": "AC-KA-26",
+    "assemblyConstituencyName": "Channapatna",
+    "crimeRate": "194.4 per 100k",
+    "crimeRatePerLakh": 194.4,
+    "literacyRate": 78.2,
+    "literacyRatePercentage": 78.2,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 189,
+    "regionalInsight": {
+      "title": "Channapatna Civic Context",
+      "historicalFact": "Channapatna is an influential economic and political constituency in Ramanagara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_371",
+    "stateName": "Karnataka",
+    "districtName": "Ramanagara",
+    "assemblyConstituencyCode": "AC-KA-27",
+    "assemblyConstituencyName": "Ramanagara",
+    "crimeRate": "179.1 per 100k",
+    "crimeRatePerLakh": 179.1,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Ramanagara Civic Context",
+      "historicalFact": "Ramanagara is an influential economic and political constituency in Ramanagara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_372",
+    "stateName": "Karnataka",
+    "districtName": "Ramanagara",
+    "assemblyConstituencyCode": "AC-KA-28",
+    "assemblyConstituencyName": "Magadi",
+    "crimeRate": "251.7 per 100k",
+    "crimeRatePerLakh": 251.7,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Magadi Civic Context",
+      "historicalFact": "Magadi is an influential economic and political constituency in Ramanagara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_373",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-29",
+    "assemblyConstituencyName": "Hubli-Dharwad Central",
+    "crimeRate": "259.5 per 100k",
+    "crimeRatePerLakh": 259.5,
+    "literacyRate": 84.4,
+    "literacyRatePercentage": 84.4,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Hubli-Dharwad Central Civic Context",
+      "historicalFact": "Hubli-Dharwad Central is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_374",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-30",
+    "assemblyConstituencyName": "Hubli-Dharwad East (SC)",
+    "crimeRate": "173.2 per 100k",
+    "crimeRatePerLakh": 173.2,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 187,
+    "regionalInsight": {
+      "title": "Hubli-Dharwad East (SC) Civic Context",
+      "historicalFact": "Hubli-Dharwad East (SC) is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_375",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-31",
+    "assemblyConstituencyName": "Hubli-Dharwad West",
+    "crimeRate": "145.0 per 100k",
+    "crimeRatePerLakh": 145.0,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 368,
+    "regionalInsight": {
+      "title": "Hubli-Dharwad West Civic Context",
+      "historicalFact": "Hubli-Dharwad West is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_376",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-32",
+    "assemblyConstituencyName": "Navalgund",
+    "crimeRate": "245.3 per 100k",
+    "crimeRatePerLakh": 245.3,
+    "literacyRate": 90.5,
+    "literacyRatePercentage": 90.5,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 325,
+    "regionalInsight": {
+      "title": "Navalgund Civic Context",
+      "historicalFact": "Navalgund is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_377",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-33",
+    "assemblyConstituencyName": "Kundgol",
+    "crimeRate": "296.3 per 100k",
+    "crimeRatePerLakh": 296.3,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 55,
+    "govtSchoolsCount": 380,
+    "regionalInsight": {
+      "title": "Kundgol Civic Context",
+      "historicalFact": "Kundgol is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_378",
+    "stateName": "Karnataka",
+    "districtName": "Dharwad & Hubballi",
+    "assemblyConstituencyCode": "AC-KA-34",
+    "assemblyConstituencyName": "Kalghatgi",
+    "crimeRate": "290.5 per 100k",
+    "crimeRatePerLakh": 290.5,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Kalghatgi Civic Context",
+      "historicalFact": "Kalghatgi is an influential economic and political constituency in Dharwad & Hubballi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_379",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-35",
+    "assemblyConstituencyName": "Mangalore City South",
+    "crimeRate": "206.9 per 100k",
+    "crimeRatePerLakh": 206.9,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 362,
+    "regionalInsight": {
+      "title": "Mangalore City South Civic Context",
+      "historicalFact": "Mangalore City South is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_380",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-36",
+    "assemblyConstituencyName": "Mangalore City North",
+    "crimeRate": "183.8 per 100k",
+    "crimeRatePerLakh": 183.8,
+    "literacyRate": 89.2,
+    "literacyRatePercentage": 89.2,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 249,
+    "regionalInsight": {
+      "title": "Mangalore City North Civic Context",
+      "historicalFact": "Mangalore City North is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_381",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-37",
+    "assemblyConstituencyName": "Mangalore (Ullal)",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 309,
+    "regionalInsight": {
+      "title": "Mangalore (Ullal) Civic Context",
+      "historicalFact": "Mangalore (Ullal) is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_382",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-38",
+    "assemblyConstituencyName": "Moodabidri",
+    "crimeRate": "241.7 per 100k",
+    "crimeRatePerLakh": 241.7,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Moodabidri Civic Context",
+      "historicalFact": "Moodabidri is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_383",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-39",
+    "assemblyConstituencyName": "Bantwal",
+    "crimeRate": "305.7 per 100k",
+    "crimeRatePerLakh": 305.7,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 143,
+    "regionalInsight": {
+      "title": "Bantwal Civic Context",
+      "historicalFact": "Bantwal is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_384",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-40",
+    "assemblyConstituencyName": "Puttur",
+    "crimeRate": "267.8 per 100k",
+    "crimeRatePerLakh": 267.8,
+    "literacyRate": 77.0,
+    "literacyRatePercentage": 77.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 239,
+    "regionalInsight": {
+      "title": "Puttur Civic Context",
+      "historicalFact": "Puttur is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_385",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-41",
+    "assemblyConstituencyName": "Sullia (SC)",
+    "crimeRate": "174.1 per 100k",
+    "crimeRatePerLakh": 174.1,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 265,
+    "regionalInsight": {
+      "title": "Sullia (SC) Civic Context",
+      "historicalFact": "Sullia (SC) is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_386",
+    "stateName": "Karnataka",
+    "districtName": "Dakshina Kannada (Mangaluru)",
+    "assemblyConstituencyCode": "AC-KA-42",
+    "assemblyConstituencyName": "Belthangady",
+    "crimeRate": "154.7 per 100k",
+    "crimeRatePerLakh": 154.7,
+    "literacyRate": 73.5,
+    "literacyRatePercentage": 73.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 209,
+    "regionalInsight": {
+      "title": "Belthangady Civic Context",
+      "historicalFact": "Belthangady is an influential economic and political constituency in Dakshina Kannada (Mangaluru).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_387",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-43",
+    "assemblyConstituencyName": "Belgaum Uttar",
+    "crimeRate": "158.6 per 100k",
+    "crimeRatePerLakh": 158.6,
+    "literacyRate": 88.6,
+    "literacyRatePercentage": 88.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 172,
+    "regionalInsight": {
+      "title": "Belgaum Uttar Civic Context",
+      "historicalFact": "Belgaum Uttar is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_388",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-44",
+    "assemblyConstituencyName": "Belgaum Dakshin",
+    "crimeRate": "294.3 per 100k",
+    "crimeRatePerLakh": 294.3,
+    "literacyRate": 81.0,
+    "literacyRatePercentage": 81.0,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 132,
+    "regionalInsight": {
+      "title": "Belgaum Dakshin Civic Context",
+      "historicalFact": "Belgaum Dakshin is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_389",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-45",
+    "assemblyConstituencyName": "Belgaum Rural",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 73.5,
+    "literacyRatePercentage": 73.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 367,
+    "regionalInsight": {
+      "title": "Belgaum Rural Civic Context",
+      "historicalFact": "Belgaum Rural is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_390",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-46",
+    "assemblyConstituencyName": "Gokak",
+    "crimeRate": "198.9 per 100k",
+    "crimeRatePerLakh": 198.9,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Gokak Civic Context",
+      "historicalFact": "Gokak is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_391",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-47",
+    "assemblyConstituencyName": "Arabhavi",
+    "crimeRate": "245.7 per 100k",
+    "crimeRatePerLakh": 245.7,
+    "literacyRate": 77.9,
+    "literacyRatePercentage": 77.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 136,
+    "regionalInsight": {
+      "title": "Arabhavi Civic Context",
+      "historicalFact": "Arabhavi is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_392",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-48",
+    "assemblyConstituencyName": "Hukkeri",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 75.9,
+    "literacyRatePercentage": 75.9,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 361,
+    "regionalInsight": {
+      "title": "Hukkeri Civic Context",
+      "historicalFact": "Hukkeri is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_393",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-49",
+    "assemblyConstituencyName": "Chikkodi-Sadalga",
+    "crimeRate": "142.5 per 100k",
+    "crimeRatePerLakh": 142.5,
+    "literacyRate": 79.1,
+    "literacyRatePercentage": 79.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 342,
+    "regionalInsight": {
+      "title": "Chikkodi-Sadalga Civic Context",
+      "historicalFact": "Chikkodi-Sadalga is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_394",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-50",
+    "assemblyConstituencyName": "Athani",
+    "crimeRate": "182.6 per 100k",
+    "crimeRatePerLakh": 182.6,
+    "literacyRate": 73.8,
+    "literacyRatePercentage": 73.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 255,
+    "regionalInsight": {
+      "title": "Athani Civic Context",
+      "historicalFact": "Athani is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_395",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-51",
+    "assemblyConstituencyName": "Kagwad",
+    "crimeRate": "208.3 per 100k",
+    "crimeRatePerLakh": 208.3,
+    "literacyRate": 84.4,
+    "literacyRatePercentage": 84.4,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Kagwad Civic Context",
+      "historicalFact": "Kagwad is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_396",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-52",
+    "assemblyConstituencyName": "Kudachi (SC)",
+    "crimeRate": "212.1 per 100k",
+    "crimeRatePerLakh": 212.1,
+    "literacyRate": 86.8,
+    "literacyRatePercentage": 86.8,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 152,
+    "regionalInsight": {
+      "title": "Kudachi (SC) Civic Context",
+      "historicalFact": "Kudachi (SC) is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_397",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-53",
+    "assemblyConstituencyName": "Raybag (SC)",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 55,
+    "govtSchoolsCount": 283,
+    "regionalInsight": {
+      "title": "Raybag (SC) Civic Context",
+      "historicalFact": "Raybag (SC) is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_398",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-54",
+    "assemblyConstituencyName": "Bailhongal",
+    "crimeRate": "258.9 per 100k",
+    "crimeRatePerLakh": 258.9,
+    "literacyRate": 77.0,
+    "literacyRatePercentage": 77.0,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 163,
+    "regionalInsight": {
+      "title": "Bailhongal Civic Context",
+      "historicalFact": "Bailhongal is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_399",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-55",
+    "assemblyConstituencyName": "Saundatti Yellamma",
+    "crimeRate": "147.0 per 100k",
+    "crimeRatePerLakh": 147.0,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Saundatti Yellamma Civic Context",
+      "historicalFact": "Saundatti Yellamma is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_400",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-56",
+    "assemblyConstituencyName": "Ramdurg",
+    "crimeRate": "290.1 per 100k",
+    "crimeRatePerLakh": 290.1,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 138,
+    "regionalInsight": {
+      "title": "Ramdurg Civic Context",
+      "historicalFact": "Ramdurg is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_401",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-57",
+    "assemblyConstituencyName": "Khanapur",
+    "crimeRate": "280.4 per 100k",
+    "crimeRatePerLakh": 280.4,
+    "literacyRate": 85.2,
+    "literacyRatePercentage": 85.2,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Khanapur Civic Context",
+      "historicalFact": "Khanapur is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_402",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-58",
+    "assemblyConstituencyName": "Kittur",
+    "crimeRate": "145.7 per 100k",
+    "crimeRatePerLakh": 145.7,
+    "literacyRate": 86.0,
+    "literacyRatePercentage": 86.0,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Kittur Civic Context",
+      "historicalFact": "Kittur is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_403",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-59",
+    "assemblyConstituencyName": "Nippani",
+    "crimeRate": "150.8 per 100k",
+    "crimeRatePerLakh": 150.8,
+    "literacyRate": 88.1,
+    "literacyRatePercentage": 88.1,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Nippani Civic Context",
+      "historicalFact": "Nippani is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_404",
+    "stateName": "Karnataka",
+    "districtName": "Belagavi",
+    "assemblyConstituencyCode": "AC-KA-60",
+    "assemblyConstituencyName": "Yemkanmardi (ST)",
+    "crimeRate": "294.1 per 100k",
+    "crimeRatePerLakh": 294.1,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Yemkanmardi (ST) Civic Context",
+      "historicalFact": "Yemkanmardi (ST) is an influential economic and political constituency in Belagavi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_405",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-61",
+    "assemblyConstituencyName": "Shimoga",
+    "crimeRate": "303.0 per 100k",
+    "crimeRatePerLakh": 303.0,
+    "literacyRate": 91.1,
+    "literacyRatePercentage": 91.1,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Shimoga Civic Context",
+      "historicalFact": "Shimoga is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_406",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-62",
+    "assemblyConstituencyName": "Shimoga Rural (SC)",
+    "crimeRate": "200.8 per 100k",
+    "crimeRatePerLakh": 200.8,
+    "literacyRate": 91.2,
+    "literacyRatePercentage": 91.2,
+    "hospitalsCount": 49,
+    "govtSchoolsCount": 127,
+    "regionalInsight": {
+      "title": "Shimoga Rural (SC) Civic Context",
+      "historicalFact": "Shimoga Rural (SC) is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_407",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-63",
+    "assemblyConstituencyName": "Bhadravati",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.3,
+    "literacyRatePercentage": 75.3,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 285,
+    "regionalInsight": {
+      "title": "Bhadravati Civic Context",
+      "historicalFact": "Bhadravati is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_408",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-64",
+    "assemblyConstituencyName": "Thirthahalli",
+    "crimeRate": "268.4 per 100k",
+    "crimeRatePerLakh": 268.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 50,
+    "govtSchoolsCount": 362,
+    "regionalInsight": {
+      "title": "Thirthahalli Civic Context",
+      "historicalFact": "Thirthahalli is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_409",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-65",
+    "assemblyConstituencyName": "Shikaripura",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 278,
+    "regionalInsight": {
+      "title": "Shikaripura Civic Context",
+      "historicalFact": "Shikaripura is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_410",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-66",
+    "assemblyConstituencyName": "Sorab",
+    "crimeRate": "148.4 per 100k",
+    "crimeRatePerLakh": 148.4,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Sorab Civic Context",
+      "historicalFact": "Sorab is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_411",
+    "stateName": "Karnataka",
+    "districtName": "Shivamogga",
+    "assemblyConstituencyCode": "AC-KA-67",
+    "assemblyConstituencyName": "Sagar",
+    "crimeRate": "177.6 per 100k",
+    "crimeRatePerLakh": 177.6,
+    "literacyRate": 91.4,
+    "literacyRatePercentage": 91.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 137,
+    "regionalInsight": {
+      "title": "Sagar Civic Context",
+      "historicalFact": "Sagar is an influential economic and political constituency in Shivamogga.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_412",
+    "stateName": "Karnataka",
+    "districtName": "Ballari",
+    "assemblyConstituencyCode": "AC-KA-68",
+    "assemblyConstituencyName": "Bellary City",
+    "crimeRate": "222.6 per 100k",
+    "crimeRatePerLakh": 222.6,
+    "literacyRate": 90.6,
+    "literacyRatePercentage": 90.6,
+    "hospitalsCount": 50,
+    "govtSchoolsCount": 276,
+    "regionalInsight": {
+      "title": "Bellary City Civic Context",
+      "historicalFact": "Bellary City is an influential economic and political constituency in Ballari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_413",
+    "stateName": "Karnataka",
+    "districtName": "Ballari",
+    "assemblyConstituencyCode": "AC-KA-69",
+    "assemblyConstituencyName": "Bellary Rural (ST)",
+    "crimeRate": "307.9 per 100k",
+    "crimeRatePerLakh": 307.9,
+    "literacyRate": 89.7,
+    "literacyRatePercentage": 89.7,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Bellary Rural (ST) Civic Context",
+      "historicalFact": "Bellary Rural (ST) is an influential economic and political constituency in Ballari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_414",
+    "stateName": "Karnataka",
+    "districtName": "Ballari",
+    "assemblyConstituencyCode": "AC-KA-70",
+    "assemblyConstituencyName": "Kampli (ST)",
+    "crimeRate": "179.7 per 100k",
+    "crimeRatePerLakh": 179.7,
+    "literacyRate": 75.9,
+    "literacyRatePercentage": 75.9,
+    "hospitalsCount": 50,
+    "govtSchoolsCount": 126,
+    "regionalInsight": {
+      "title": "Kampli (ST) Civic Context",
+      "historicalFact": "Kampli (ST) is an influential economic and political constituency in Ballari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_415",
+    "stateName": "Karnataka",
+    "districtName": "Ballari",
+    "assemblyConstituencyCode": "AC-KA-71",
+    "assemblyConstituencyName": "Siruguppa (ST)",
+    "crimeRate": "229.8 per 100k",
+    "crimeRatePerLakh": 229.8,
+    "literacyRate": 87.0,
+    "literacyRatePercentage": 87.0,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 359,
+    "regionalInsight": {
+      "title": "Siruguppa (ST) Civic Context",
+      "historicalFact": "Siruguppa (ST) is an influential economic and political constituency in Ballari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ka_416",
+    "stateName": "Karnataka",
+    "districtName": "Ballari",
+    "assemblyConstituencyCode": "AC-KA-72",
+    "assemblyConstituencyName": "Sandur (ST)",
+    "crimeRate": "168.7 per 100k",
+    "crimeRatePerLakh": 168.7,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 257,
+    "regionalInsight": {
+      "title": "Sandur (ST) Civic Context",
+      "historicalFact": "Sandur (ST) is an influential economic and political constituency in Ballari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

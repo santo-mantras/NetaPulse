@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "loc_pu_417",
+    "stateName": "Punjab",
+    "districtName": "Sangrur",
+    "assemblyConstituencyCode": "AC-PB-2",
+    "assemblyConstituencyName": "Dhuri",
+    "crimeRate": "228.4 per 100k",
+    "crimeRatePerLakh": 228.4,
+    "literacyRate": 84.2,
+    "literacyRatePercentage": 84.2,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Dhuri Civic Context",
+      "historicalFact": "Dhuri is an influential economic and political constituency in Sangrur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_418",
+    "stateName": "Punjab",
+    "districtName": "Sangrur",
+    "assemblyConstituencyCode": "AC-PB-3",
+    "assemblyConstituencyName": "Sangrur",
+    "crimeRate": "302.6 per 100k",
+    "crimeRatePerLakh": 302.6,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Sangrur Civic Context",
+      "historicalFact": "Sangrur is an influential economic and political constituency in Sangrur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_419",
+    "stateName": "Punjab",
+    "districtName": "Sangrur",
+    "assemblyConstituencyCode": "AC-PB-4",
+    "assemblyConstituencyName": "Sunam",
+    "crimeRate": "231.9 per 100k",
+    "crimeRatePerLakh": 231.9,
+    "literacyRate": 89.6,
+    "literacyRatePercentage": 89.6,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Sunam Civic Context",
+      "historicalFact": "Sunam is an influential economic and political constituency in Sangrur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_420",
+    "stateName": "Punjab",
+    "districtName": "Sangrur",
+    "assemblyConstituencyCode": "AC-PB-5",
+    "assemblyConstituencyName": "Dirba (SC)",
+    "crimeRate": "222.3 per 100k",
+    "crimeRatePerLakh": 222.3,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 265,
+    "regionalInsight": {
+      "title": "Dirba (SC) Civic Context",
+      "historicalFact": "Dirba (SC) is an influential economic and political constituency in Sangrur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_421",
+    "stateName": "Punjab",
+    "districtName": "Sangrur",
+    "assemblyConstituencyCode": "AC-PB-6",
+    "assemblyConstituencyName": "Lehra",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 89.7,
+    "literacyRatePercentage": 89.7,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Lehra Civic Context",
+      "historicalFact": "Lehra is an influential economic and political constituency in Sangrur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_422",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-7",
+    "assemblyConstituencyName": "Amritsar East",
+    "crimeRate": "235.6 per 100k",
+    "crimeRatePerLakh": 235.6,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 163,
+    "regionalInsight": {
+      "title": "Amritsar East Civic Context",
+      "historicalFact": "Amritsar East is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_423",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-8",
+    "assemblyConstituencyName": "Amritsar North",
+    "crimeRate": "283.9 per 100k",
+    "crimeRatePerLakh": 283.9,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 153,
+    "regionalInsight": {
+      "title": "Amritsar North Civic Context",
+      "historicalFact": "Amritsar North is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_424",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-9",
+    "assemblyConstituencyName": "Amritsar Central",
+    "crimeRate": "147.6 per 100k",
+    "crimeRatePerLakh": 147.6,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Amritsar Central Civic Context",
+      "historicalFact": "Amritsar Central is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_425",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-10",
+    "assemblyConstituencyName": "Amritsar West (SC)",
+    "crimeRate": "234.6 per 100k",
+    "crimeRatePerLakh": 234.6,
+    "literacyRate": 79.4,
+    "literacyRatePercentage": 79.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 233,
+    "regionalInsight": {
+      "title": "Amritsar West (SC) Civic Context",
+      "historicalFact": "Amritsar West (SC) is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_426",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-11",
+    "assemblyConstituencyName": "Amritsar South",
+    "crimeRate": "178.0 per 100k",
+    "crimeRatePerLakh": 178.0,
+    "literacyRate": 87.6,
+    "literacyRatePercentage": 87.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Amritsar South Civic Context",
+      "historicalFact": "Amritsar South is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_427",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-12",
+    "assemblyConstituencyName": "Majitha",
+    "crimeRate": "286.8 per 100k",
+    "crimeRatePerLakh": 286.8,
+    "literacyRate": 86.6,
+    "literacyRatePercentage": 86.6,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 331,
+    "regionalInsight": {
+      "title": "Majitha Civic Context",
+      "historicalFact": "Majitha is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_428",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-13",
+    "assemblyConstituencyName": "Jandiala (SC)",
+    "crimeRate": "252.6 per 100k",
+    "crimeRatePerLakh": 252.6,
+    "literacyRate": 77.9,
+    "literacyRatePercentage": 77.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Jandiala (SC) Civic Context",
+      "historicalFact": "Jandiala (SC) is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_429",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-14",
+    "assemblyConstituencyName": "Attari (SC)",
+    "crimeRate": "169.9 per 100k",
+    "crimeRatePerLakh": 169.9,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Attari (SC) Civic Context",
+      "historicalFact": "Attari (SC) is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_430",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-15",
+    "assemblyConstituencyName": "Raja Sansi",
+    "crimeRate": "298.5 per 100k",
+    "crimeRatePerLakh": 298.5,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 299,
+    "regionalInsight": {
+      "title": "Raja Sansi Civic Context",
+      "historicalFact": "Raja Sansi is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_431",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-16",
+    "assemblyConstituencyName": "Baba Bakala (SC)",
+    "crimeRate": "214.5 per 100k",
+    "crimeRatePerLakh": 214.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Baba Bakala (SC) Civic Context",
+      "historicalFact": "Baba Bakala (SC) is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_432",
+    "stateName": "Punjab",
+    "districtName": "Amritsar",
+    "assemblyConstituencyCode": "AC-PB-17",
+    "assemblyConstituencyName": "Ajnala",
+    "crimeRate": "202.7 per 100k",
+    "crimeRatePerLakh": 202.7,
+    "literacyRate": 85.5,
+    "literacyRatePercentage": 85.5,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 269,
+    "regionalInsight": {
+      "title": "Ajnala Civic Context",
+      "historicalFact": "Ajnala is an influential economic and political constituency in Amritsar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_433",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-18",
+    "assemblyConstituencyName": "Ludhiana Central",
+    "crimeRate": "167.3 per 100k",
+    "crimeRatePerLakh": 167.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 53,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Ludhiana Central Civic Context",
+      "historicalFact": "Ludhiana Central is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_434",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-19",
+    "assemblyConstituencyName": "Ludhiana East",
+    "crimeRate": "163.4 per 100k",
+    "crimeRatePerLakh": 163.4,
+    "literacyRate": 87.9,
+    "literacyRatePercentage": 87.9,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 123,
+    "regionalInsight": {
+      "title": "Ludhiana East Civic Context",
+      "historicalFact": "Ludhiana East is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_435",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-20",
+    "assemblyConstituencyName": "Ludhiana West",
+    "crimeRate": "173.6 per 100k",
+    "crimeRatePerLakh": 173.6,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 205,
+    "regionalInsight": {
+      "title": "Ludhiana West Civic Context",
+      "historicalFact": "Ludhiana West is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_436",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-21",
+    "assemblyConstituencyName": "Ludhiana South",
+    "crimeRate": "244.5 per 100k",
+    "crimeRatePerLakh": 244.5,
+    "literacyRate": 86.9,
+    "literacyRatePercentage": 86.9,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 361,
+    "regionalInsight": {
+      "title": "Ludhiana South Civic Context",
+      "historicalFact": "Ludhiana South is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_437",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-22",
+    "assemblyConstituencyName": "Ludhiana North",
+    "crimeRate": "238.4 per 100k",
+    "crimeRatePerLakh": 238.4,
+    "literacyRate": 88.5,
+    "literacyRatePercentage": 88.5,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Ludhiana North Civic Context",
+      "historicalFact": "Ludhiana North is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_438",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-23",
+    "assemblyConstituencyName": "Atam Nagar",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 335,
+    "regionalInsight": {
+      "title": "Atam Nagar Civic Context",
+      "historicalFact": "Atam Nagar is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_439",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-24",
+    "assemblyConstituencyName": "Gill (SC)",
+    "crimeRate": "157.2 per 100k",
+    "crimeRatePerLakh": 157.2,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 228,
+    "regionalInsight": {
+      "title": "Gill (SC) Civic Context",
+      "historicalFact": "Gill (SC) is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_440",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-25",
+    "assemblyConstituencyName": "Payal (SC)",
+    "crimeRate": "168.9 per 100k",
+    "crimeRatePerLakh": 168.9,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 348,
+    "regionalInsight": {
+      "title": "Payal (SC) Civic Context",
+      "historicalFact": "Payal (SC) is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_441",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-26",
+    "assemblyConstituencyName": "Dakha",
+    "crimeRate": "190.3 per 100k",
+    "crimeRatePerLakh": 190.3,
+    "literacyRate": 78.1,
+    "literacyRatePercentage": 78.1,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 129,
+    "regionalInsight": {
+      "title": "Dakha Civic Context",
+      "historicalFact": "Dakha is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_442",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-27",
+    "assemblyConstituencyName": "Raikot (SC)",
+    "crimeRate": "152.6 per 100k",
+    "crimeRatePerLakh": 152.6,
+    "literacyRate": 75.8,
+    "literacyRatePercentage": 75.8,
+    "hospitalsCount": 49,
+    "govtSchoolsCount": 141,
+    "regionalInsight": {
+      "title": "Raikot (SC) Civic Context",
+      "historicalFact": "Raikot (SC) is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_443",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-28",
+    "assemblyConstituencyName": "Jagraon (SC)",
+    "crimeRate": "288.2 per 100k",
+    "crimeRatePerLakh": 288.2,
+    "literacyRate": 88.5,
+    "literacyRatePercentage": 88.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 342,
+    "regionalInsight": {
+      "title": "Jagraon (SC) Civic Context",
+      "historicalFact": "Jagraon (SC) is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_444",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-29",
+    "assemblyConstituencyName": "Samrala",
+    "crimeRate": "234.1 per 100k",
+    "crimeRatePerLakh": 234.1,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 333,
+    "regionalInsight": {
+      "title": "Samrala Civic Context",
+      "historicalFact": "Samrala is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_445",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-30",
+    "assemblyConstituencyName": "Sahnewal",
+    "crimeRate": "170.7 per 100k",
+    "crimeRatePerLakh": 170.7,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Sahnewal Civic Context",
+      "historicalFact": "Sahnewal is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_446",
+    "stateName": "Punjab",
+    "districtName": "Ludhiana",
+    "assemblyConstituencyCode": "AC-PB-31",
+    "assemblyConstituencyName": "Khanna",
+    "crimeRate": "208.9 per 100k",
+    "crimeRatePerLakh": 208.9,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 208,
+    "regionalInsight": {
+      "title": "Khanna Civic Context",
+      "historicalFact": "Khanna is an influential economic and political constituency in Ludhiana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_447",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-32",
+    "assemblyConstituencyName": "Jalandhar Central",
+    "crimeRate": "183.0 per 100k",
+    "crimeRatePerLakh": 183.0,
+    "literacyRate": 83.0,
+    "literacyRatePercentage": 83.0,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 163,
+    "regionalInsight": {
+      "title": "Jalandhar Central Civic Context",
+      "historicalFact": "Jalandhar Central is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_448",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-33",
+    "assemblyConstituencyName": "Jalandhar North",
+    "crimeRate": "175.9 per 100k",
+    "crimeRatePerLakh": 175.9,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 188,
+    "regionalInsight": {
+      "title": "Jalandhar North Civic Context",
+      "historicalFact": "Jalandhar North is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_449",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-34",
+    "assemblyConstituencyName": "Jalandhar West (SC)",
+    "crimeRate": "156.7 per 100k",
+    "crimeRatePerLakh": 156.7,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Jalandhar West (SC) Civic Context",
+      "historicalFact": "Jalandhar West (SC) is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_450",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-35",
+    "assemblyConstituencyName": "Jalandhar Cantt",
+    "crimeRate": "303.4 per 100k",
+    "crimeRatePerLakh": 303.4,
+    "literacyRate": 72.4,
+    "literacyRatePercentage": 72.4,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Jalandhar Cantt Civic Context",
+      "historicalFact": "Jalandhar Cantt is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_451",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-36",
+    "assemblyConstituencyName": "Kartarpur (SC)",
+    "crimeRate": "185.2 per 100k",
+    "crimeRatePerLakh": 185.2,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 169,
+    "regionalInsight": {
+      "title": "Kartarpur (SC) Civic Context",
+      "historicalFact": "Kartarpur (SC) is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_452",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-37",
+    "assemblyConstituencyName": "Adampur (SC)",
+    "crimeRate": "204.7 per 100k",
+    "crimeRatePerLakh": 204.7,
+    "literacyRate": 90.3,
+    "literacyRatePercentage": 90.3,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 154,
+    "regionalInsight": {
+      "title": "Adampur (SC) Civic Context",
+      "historicalFact": "Adampur (SC) is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_453",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-38",
+    "assemblyConstituencyName": "Nakodar",
+    "crimeRate": "253.0 per 100k",
+    "crimeRatePerLakh": 253.0,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Nakodar Civic Context",
+      "historicalFact": "Nakodar is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_454",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-39",
+    "assemblyConstituencyName": "Shahkot",
+    "crimeRate": "153.1 per 100k",
+    "crimeRatePerLakh": 153.1,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 146,
+    "regionalInsight": {
+      "title": "Shahkot Civic Context",
+      "historicalFact": "Shahkot is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_455",
+    "stateName": "Punjab",
+    "districtName": "Jalandhar",
+    "assemblyConstituencyCode": "AC-PB-40",
+    "assemblyConstituencyName": "Phillaur (SC)",
+    "crimeRate": "189.5 per 100k",
+    "crimeRatePerLakh": 189.5,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 370,
+    "regionalInsight": {
+      "title": "Phillaur (SC) Civic Context",
+      "historicalFact": "Phillaur (SC) is an influential economic and political constituency in Jalandhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_456",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-41",
+    "assemblyConstituencyName": "Patiala Urban",
+    "crimeRate": "140.3 per 100k",
+    "crimeRatePerLakh": 140.3,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 368,
+    "regionalInsight": {
+      "title": "Patiala Urban Civic Context",
+      "historicalFact": "Patiala Urban is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_457",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-42",
+    "assemblyConstituencyName": "Patiala Rural",
+    "crimeRate": "307.6 per 100k",
+    "crimeRatePerLakh": 307.6,
+    "literacyRate": 81.3,
+    "literacyRatePercentage": 81.3,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Patiala Rural Civic Context",
+      "historicalFact": "Patiala Rural is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_458",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-43",
+    "assemblyConstituencyName": "Rajpura",
+    "crimeRate": "208.2 per 100k",
+    "crimeRatePerLakh": 208.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Rajpura Civic Context",
+      "historicalFact": "Rajpura is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_459",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-44",
+    "assemblyConstituencyName": "Samana",
+    "crimeRate": "299.2 per 100k",
+    "crimeRatePerLakh": 299.2,
+    "literacyRate": 79.1,
+    "literacyRatePercentage": 79.1,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 316,
+    "regionalInsight": {
+      "title": "Samana Civic Context",
+      "historicalFact": "Samana is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_460",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-45",
+    "assemblyConstituencyName": "Nabha (SC)",
+    "crimeRate": "167.2 per 100k",
+    "crimeRatePerLakh": 167.2,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Nabha (SC) Civic Context",
+      "historicalFact": "Nabha (SC) is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_461",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-46",
+    "assemblyConstituencyName": "Sanour",
+    "crimeRate": "165.7 per 100k",
+    "crimeRatePerLakh": 165.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 371,
+    "regionalInsight": {
+      "title": "Sanour Civic Context",
+      "historicalFact": "Sanour is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_462",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-47",
+    "assemblyConstituencyName": "Ghanaur",
+    "crimeRate": "295.9 per 100k",
+    "crimeRatePerLakh": 295.9,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Ghanaur Civic Context",
+      "historicalFact": "Ghanaur is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_463",
+    "stateName": "Punjab",
+    "districtName": "Patiala",
+    "assemblyConstituencyCode": "AC-PB-48",
+    "assemblyConstituencyName": "Shutrana (SC)",
+    "crimeRate": "195.2 per 100k",
+    "crimeRatePerLakh": 195.2,
+    "literacyRate": 87.1,
+    "literacyRatePercentage": 87.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Shutrana (SC) Civic Context",
+      "historicalFact": "Shutrana (SC) is an influential economic and political constituency in Patiala.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_464",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-49",
+    "assemblyConstituencyName": "Bathinda Urban",
+    "crimeRate": "181.1 per 100k",
+    "crimeRatePerLakh": 181.1,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Bathinda Urban Civic Context",
+      "historicalFact": "Bathinda Urban is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_465",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-50",
+    "assemblyConstituencyName": "Bathinda Rural (SC)",
+    "crimeRate": "164.1 per 100k",
+    "crimeRatePerLakh": 164.1,
+    "literacyRate": 72.6,
+    "literacyRatePercentage": 72.6,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 294,
+    "regionalInsight": {
+      "title": "Bathinda Rural (SC) Civic Context",
+      "historicalFact": "Bathinda Rural (SC) is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_466",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-51",
+    "assemblyConstituencyName": "Talwandi Sabo",
+    "crimeRate": "216.2 per 100k",
+    "crimeRatePerLakh": 216.2,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Talwandi Sabo Civic Context",
+      "historicalFact": "Talwandi Sabo is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_467",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-52",
+    "assemblyConstituencyName": "Maur",
+    "crimeRate": "195.8 per 100k",
+    "crimeRatePerLakh": 195.8,
+    "literacyRate": 72.4,
+    "literacyRatePercentage": 72.4,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Maur Civic Context",
+      "historicalFact": "Maur is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_468",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-53",
+    "assemblyConstituencyName": "Rampura Phul",
+    "crimeRate": "191.5 per 100k",
+    "crimeRatePerLakh": 191.5,
+    "literacyRate": 90.6,
+    "literacyRatePercentage": 90.6,
+    "hospitalsCount": 55,
+    "govtSchoolsCount": 233,
+    "regionalInsight": {
+      "title": "Rampura Phul Civic Context",
+      "historicalFact": "Rampura Phul is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_469",
+    "stateName": "Punjab",
+    "districtName": "Bathinda",
+    "assemblyConstituencyCode": "AC-PB-54",
+    "assemblyConstituencyName": "Bhucho Mandi (SC)",
+    "crimeRate": "236.0 per 100k",
+    "crimeRatePerLakh": 236.0,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 51,
+    "govtSchoolsCount": 380,
+    "regionalInsight": {
+      "title": "Bhucho Mandi (SC) Civic Context",
+      "historicalFact": "Bhucho Mandi (SC) is an influential economic and political constituency in Bathinda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_470",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-55",
+    "assemblyConstituencyName": "Anandpur Sahib",
+    "crimeRate": "274.4 per 100k",
+    "crimeRatePerLakh": 274.4,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Anandpur Sahib Civic Context",
+      "historicalFact": "Anandpur Sahib is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_471",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-56",
+    "assemblyConstituencyName": "Rupnagar",
+    "crimeRate": "297.0 per 100k",
+    "crimeRatePerLakh": 297.0,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 54,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Rupnagar Civic Context",
+      "historicalFact": "Rupnagar is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_472",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-57",
+    "assemblyConstituencyName": "Chamkaur Sahib (SC)",
+    "crimeRate": "252.3 per 100k",
+    "crimeRatePerLakh": 252.3,
+    "literacyRate": 88.4,
+    "literacyRatePercentage": 88.4,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 276,
+    "regionalInsight": {
+      "title": "Chamkaur Sahib (SC) Civic Context",
+      "historicalFact": "Chamkaur Sahib (SC) is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_473",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-58",
+    "assemblyConstituencyName": "Mohali",
+    "crimeRate": "175.2 per 100k",
+    "crimeRatePerLakh": 175.2,
+    "literacyRate": 81.3,
+    "literacyRatePercentage": 81.3,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 274,
+    "regionalInsight": {
+      "title": "Mohali Civic Context",
+      "historicalFact": "Mohali is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_474",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-59",
+    "assemblyConstituencyName": "Kharar",
+    "crimeRate": "294.5 per 100k",
+    "crimeRatePerLakh": 294.5,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Kharar Civic Context",
+      "historicalFact": "Kharar is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_475",
+    "stateName": "Punjab",
+    "districtName": "Rupnagar & SAS Nagar (Mohali)",
+    "assemblyConstituencyCode": "AC-PB-60",
+    "assemblyConstituencyName": "Dera Bassi",
+    "crimeRate": "184.0 per 100k",
+    "crimeRatePerLakh": 184.0,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 291,
+    "regionalInsight": {
+      "title": "Dera Bassi Civic Context",
+      "historicalFact": "Dera Bassi is an influential economic and political constituency in Rupnagar & SAS Nagar (Mohali).",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

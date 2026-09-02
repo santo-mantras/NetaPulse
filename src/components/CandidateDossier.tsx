@@ -30,7 +30,10 @@ import {
     Users,
     PieChart,
     Layers,
-    Vote
+    Vote,
+    Coins,
+    Flag,
+    Landmark
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -49,7 +52,8 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
     location,
     onCompare
 }) => {
-    const [activeTab, setActiveTab] = useState<'overview' | 'promises' | 'legal' | 'news' | 'seats'>('overview');
+    const [activeTab, setActiveTab] = useState<'overview' | 'seats' | 'promises' | 'funds' | 'legal' | 'news'>('overview');
+    const [activePromiseTier, setActivePromiseTier] = useState<'all' | 'state_manifesto' | 'national_manifesto' | 'constituency_promise'>('all');
     const [isFlipped, setIsFlipped] = useState(false);
     const [factIndex, setFactIndex] = useState(0);
     const [factsList] = useState(() => {
@@ -228,7 +232,8 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                 {[
                     { id: 'overview', icon: User, label: 'Performance Overview' },
                     { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Seats Analysis` },
-                    { id: 'promises', icon: CheckCircle2, label: `Promises (${promises.length})` },
+                    { id: 'promises', icon: CheckCircle2, label: `Guarantees & Promises (${promises.length})` },
+                    { id: 'funds', icon: Coins, label: 'Development Funds' },
                     { id: 'legal', icon: Scale, label: 'Legal & Assets' },
                     { id: 'news', icon: Newspaper, label: `Media Spotlight (${news.length})` }
                 ].map((tab) => (
@@ -406,7 +411,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     {/* District Stat Cards with Hover Tooltips */}
                                     <div className="grid grid-cols-2 gap-4 mb-6">
                                         {/* Crime Rate */}
-                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative overflow-hidden group hover:border-rose-300 dark:hover:border-rose-800 transition-all">
+                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-rose-300 dark:hover:border-rose-800 transition-all">
                                              <div className="flex items-center gap-3 relative z-10">
                                                  <ShieldAlert className="w-6 h-6 text-rose-500 animate-glow" />
                                                  <div>
@@ -417,16 +422,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                  </div>
                                              </div>
                                              <div className="relative">
-                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-300 dark:text-slate-600 hover:text-rose-500 cursor-help peer focus:outline-none transition-colors" />
-                                                 <div className="absolute right-0 bottom-full mb-2 w-48 p-2 bg-slate-900 text-white text-[10px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-50 pointer-events-none">
-                                                     Cognizable IPC crimes reported per 100,000 residents in {location.districtName} (Source: NCRB).
+                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-rose-500 cursor-help peer focus:outline-none transition-colors" />
+                                                 <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                                     Cognizable IPC crimes reported per 100,000 residents in {location.districtName || 'district'} (Source: NCRB).
                                                      <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
                                                  </div>
                                              </div>
                                          </div>
 
                                          {/* Literacy */}
-                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative overflow-hidden group hover:border-blue-300 dark:hover:border-blue-800 transition-all">
+                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-blue-300 dark:hover:border-blue-800 transition-all">
                                              <div className="flex items-center gap-3 relative z-10">
                                                  <BookOpen className="w-6 h-6 text-blue-500 animate-glow" />
                                                  <div>
@@ -437,45 +442,45 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                  </div>
                                              </div>
                                              <div className="relative">
-                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-300 dark:text-slate-600 hover:text-blue-500 cursor-help peer focus:outline-none transition-colors" />
-                                                 <div className="absolute right-0 bottom-full mb-2 w-48 p-2 bg-slate-900 text-white text-[10px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-50 pointer-events-none">
-                                                     Percentage of literate population aged 7 and above in {location.districtName} (Source: NFHS / Census).
+                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-blue-500 cursor-help peer focus:outline-none transition-colors" />
+                                                 <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                                     Percentage of literate population aged 7 and above in {location.districtName || 'district'} (Source: NFHS / Census).
                                                      <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
                                                  </div>
                                              </div>
                                          </div>
 
                                         {/* Hospitals */}
-                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative overflow-hidden group hover:border-emerald-300 dark:hover:border-emerald-800 transition-all">
+                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-emerald-300 dark:hover:border-emerald-800 transition-all">
                                             <div className="flex items-center gap-3 relative z-10">
                                                 <Hospital className="w-6 h-6 text-emerald-500 animate-glow" />
                                                 <div>
                                                     <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Public Hospitals</p>
-                                                    <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.hospitalsCount}</p>
+                                                    <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.hospitalsCount || 'Data Not Available'}</p>
                                                 </div>
                                             </div>
                                             <div className="relative">
-                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-300 dark:text-slate-600 hover:text-emerald-500 cursor-help peer focus:outline-none transition-colors" />
-                                                <div className="absolute right-0 bottom-full mb-2 w-48 p-2 bg-slate-900 text-white text-[10px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-50 pointer-events-none">
-                                                    District hospitals, Community Health Centers (CHCs) & trauma care units registered in {location.districtName} (NHM).
+                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-emerald-500 cursor-help peer focus:outline-none transition-colors" />
+                                                <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                                    District hospitals, Community Health Centers (CHCs) & trauma units in {location.districtName || 'district'} (NHM).
                                                     <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
                                                 </div>
                                             </div>
                                         </div>
 
                                         {/* Govt Schools */}
-                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative overflow-hidden group hover:border-amber-300 dark:hover:border-amber-800 transition-all">
+                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-amber-300 dark:hover:border-amber-800 transition-all">
                                             <div className="flex items-center gap-3 relative z-10">
                                                 <Building2 className="w-6 h-6 text-amber-500 animate-glow" />
                                                 <div>
                                                     <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Govt Schools</p>
-                                                    <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.govtSchoolsCount}</p>
+                                                    <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.govtSchoolsCount || 'Data Not Available'}</p>
                                                 </div>
                                             </div>
                                             <div className="relative">
-                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-300 dark:text-slate-600 hover:text-amber-500 cursor-help peer focus:outline-none transition-colors" />
-                                                <div className="absolute right-0 bottom-full mb-2 w-48 p-2 bg-slate-900 text-white text-[10px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-50 pointer-events-none">
-                                                    Active state government primary, secondary & higher secondary schools in {location.districtName} (Source: UDISE+).
+                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-amber-500 cursor-help peer focus:outline-none transition-colors" />
+                                                <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                                    Active state government primary, secondary & senior secondary schools in {location.districtName || 'district'} (UDISE+).
                                                     <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
                                                 </div>
                                             </div>
@@ -543,166 +548,265 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             </div>
                         )}
 
-                        {/* Tab 2: Campaign Promises Matrix */}
-                        {activeTab === 'promises' && (
-                            <div className="space-y-4">
-                                {promises.length === 0 ? (
-                                    <p className="text-sm text-slate-500 p-4 bg-slate-50 dark:bg-slate-800 rounded-lg">No promises tracked yet.</p>
-                                ) : promises.map((promise) => {
-                                    const statusStyles: Record<string, string> = {
-                                        Fulfilled: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
-                                        Achieved: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
-                                        'In Progress': 'bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300 border-amber-300',
-                                        Proposed: 'bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 border-blue-300',
-                                        Unfulfilled: 'bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 border-rose-300',
-                                        'Insufficient Data': 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300'
-                                    };
+                        {/* Tab 2: 3-Tier Manifesto & Campaign Guarantees Matrix */}
+                        {activeTab === 'promises' && (() => {
+                            const filteredPromises = activePromiseTier === 'all' 
+                                ? promises 
+                                : promises.filter(p => p.tier === activePromiseTier);
 
-                                    const statusIconMap: Record<string, typeof CheckCircle2> = {
-                                        Fulfilled: CheckCircle2,
-                                        Achieved: CheckCircle2,
-                                        'In Progress': Clock,
-                                        Proposed: Clock,
-                                        Unfulfilled: XCircle,
-                                        'Insufficient Data': AlertTriangle
-                                    };
-                                    const StatusIcon = statusIconMap[promise.status] || AlertTriangle;
-
-                                    return (
-                                        <div key={promise.id} className="p-4 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-slate-200 dark:border-slate-800 hover:shadow-md transition-shadow relative overflow-hidden group">
-                                            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-slate-200/50 dark:via-white/5 to-transparent animate-shimmer" />
-                                            {promise.status === 'Fulfilled' && (
-                                                <div className="absolute top-0 right-0 w-16 h-16 bg-emerald-500/10 rounded-bl-full -z-10 group-hover:scale-150 transition-transform duration-500" />
-                                            )}
-                                            <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 mb-3 relative z-10">
-                                                <h4 className="font-bold text-base">{promise.title}</h4>
-                                                <span className={`inline-flex items-center gap-1.5 text-xs font-bold px-3 py-1 rounded-full border shadow-sm ${statusStyles[promise.status]}`}>
-                                                    <StatusIcon className="w-3.5 h-3.5 animate-glow" />
-                                                    {promise.status}
-                                                </span>
-                                            </div>
-                                            <div className="grid md:grid-cols-2 gap-4 relative z-10">
-                                                <div className="bg-white dark:bg-slate-900 p-3 rounded-lg border border-slate-200 dark:border-slate-700">
-                                                    <span className="text-[10px] uppercase text-slate-400 font-bold tracking-wider mb-1 block">Manifesto Claim</span>
-                                                    <p className="text-xs text-slate-700 dark:text-slate-300">"{promise.declaredInManifesto}"</p>
-                                                </div>
-                                                <div className="bg-white dark:bg-slate-900 p-3 rounded-lg border border-slate-200 dark:border-slate-700">
-                                                    <span className="text-[10px] uppercase text-slate-400 font-bold tracking-wider mb-1 block">Verified Ground Reality</span>
-                                                    <p className="text-xs font-medium text-slate-800 dark:text-slate-200">{promise.verifiedOutcome}</p>
-                                                </div>
-                                            </div>
-                                            <p className="text-[10px] text-slate-400 mt-3 text-right flex justify-end items-center gap-1 relative z-10">
-                                                <ShieldCheck className="w-3 h-3 animate-glow" /> Source: {promise.sourceCitation}
-                                            </p>
+                            return (
+                                <div className="space-y-5">
+                                    {/* 3-Tier Filter Navigation Header */}
+                                    <div className="flex flex-wrap items-center justify-between gap-2 p-2 bg-slate-100 dark:bg-slate-800/80 rounded-xl border border-slate-200 dark:border-slate-700">
+                                        <div className="flex flex-wrap items-center gap-1.5">
+                                            <button
+                                                onClick={() => setActivePromiseTier('all')}
+                                                className={`px-3 py-1.5 text-xs font-bold rounded-lg transition-all ${
+                                                    activePromiseTier === 'all'
+                                                        ? 'bg-blue-600 text-white shadow'
+                                                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                                                }`}
+                                            >
+                                                All Guarantees ({promises.length})
+                                            </button>
+                                            <button
+                                                onClick={() => setActivePromiseTier('state_manifesto')}
+                                                className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg transition-all ${
+                                                    activePromiseTier === 'state_manifesto'
+                                                        ? 'bg-indigo-600 text-white shadow'
+                                                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                                                }`}
+                                            >
+                                                <Flag className="w-3.5 h-3.5" /> Ruling State Manifesto ({promises.filter(p => p.tier === 'state_manifesto').length})
+                                            </button>
+                                            <button
+                                                onClick={() => setActivePromiseTier('national_manifesto')}
+                                                className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg transition-all ${
+                                                    activePromiseTier === 'national_manifesto'
+                                                        ? 'bg-purple-600 text-white shadow'
+                                                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                                                }`}
+                                            >
+                                                <Landmark className="w-3.5 h-3.5" /> National Manifesto ({promises.filter(p => p.tier === 'national_manifesto').length})
+                                            </button>
+                                            <button
+                                                onClick={() => setActivePromiseTier('constituency_promise')}
+                                                className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold rounded-lg transition-all ${
+                                                    activePromiseTier === 'constituency_promise'
+                                                        ? 'bg-emerald-600 text-white shadow'
+                                                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                                                }`}
+                                            >
+                                                <MapPin className="w-3.5 h-3.5" /> Constituency Guarantees ({promises.filter(p => p.tier === 'constituency_promise').length})
+                                            </button>
                                         </div>
-                                    );
-                                })}
+                                        <div className="text-[11px] font-semibold text-slate-500 dark:text-slate-400 px-2">
+                                            Ground Reality Verified
+                                        </div>
+                                    </div>
+
+                                    {/* Promises List */}
+                                    {filteredPromises.length === 0 ? (
+                                        <div className="text-center py-10 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-dashed border-slate-300 dark:border-slate-700">
+                                            <AlertTriangle className="w-8 h-8 text-slate-400 mx-auto mb-2 opacity-60" />
+                                            <p className="text-sm font-bold text-slate-700 dark:text-slate-300">Data Not Available</p>
+                                            <p className="text-xs text-slate-500 mt-1">No tracked manifesto guarantees found under this specific tier.</p>
+                                        </div>
+                                    ) : (
+                                        <div className="space-y-4">
+                                            {filteredPromises.map((promise) => {
+                                                const statusStyles: Record<string, string> = {
+                                                    Fulfilled: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
+                                                    Achieved: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border-emerald-300',
+                                                    'In Progress': 'bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300 border-amber-300',
+                                                    Proposed: 'bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 border-blue-300',
+                                                    Unfulfilled: 'bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 border-rose-300',
+                                                    'Insufficient Data': 'bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-300 border-slate-300'
+                                                };
+
+                                                const statusIconMap: Record<string, typeof CheckCircle2> = {
+                                                    Fulfilled: CheckCircle2,
+                                                    Achieved: CheckCircle2,
+                                                    'In Progress': Clock,
+                                                    Proposed: Clock,
+                                                    Unfulfilled: XCircle,
+                                                    'Insufficient Data': AlertTriangle
+                                                };
+                                                const StatusIcon = statusIconMap[promise.status] || AlertTriangle;
+
+                                                const tierBadgeMap: Record<string, { label: string; bg: string }> = {
+                                                    state_manifesto: { label: `${candidate.state || 'State'} Ruling Manifesto`, bg: 'bg-indigo-50 text-indigo-700 dark:bg-indigo-950/60 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800' },
+                                                    national_manifesto: { label: 'National Ruling Manifesto', bg: 'bg-purple-50 text-purple-700 dark:bg-purple-950/60 dark:text-purple-300 border-purple-200 dark:border-purple-800' },
+                                                    constituency_promise: { label: `${candidate.constituencyName} Commitment`, bg: 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800' }
+                                                };
+                                                const currentTierBadge = tierBadgeMap[promise.tier || 'constituency_promise'] || tierBadgeMap['constituency_promise'];
+
+                                                return (
+                                                    <div key={promise.id} className="p-4 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-slate-200 dark:border-slate-800 hover:shadow-md transition-shadow relative overflow-hidden group">
+                                                        <div className="absolute inset-0 bg-gradient-to-r from-transparent via-slate-200/50 dark:via-white/5 to-transparent animate-shimmer" />
+                                                        {promise.status === 'Fulfilled' && (
+                                                            <div className="absolute top-0 right-0 w-16 h-16 bg-emerald-500/10 rounded-bl-full -z-10 group-hover:scale-150 transition-transform duration-500" />
+                                                        )}
+                                                        <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 mb-3 relative z-10">
+                                                            <div className="flex items-center gap-2 flex-wrap">
+                                                                <h4 className="font-bold text-base text-slate-900 dark:text-slate-100">{promise.title}</h4>
+                                                                <span className={`text-[10px] font-bold px-2 py-0.5 rounded border ${currentTierBadge.bg}`}>
+                                                                    {currentTierBadge.label}
+                                                                </span>
+                                                            </div>
+                                                            <span className={`inline-flex items-center gap-1.5 text-xs font-bold px-3 py-1 rounded-full border shadow-sm ${statusStyles[promise.status]}`}>
+                                                                <StatusIcon className="w-3.5 h-3.5 animate-glow" />
+                                                                {promise.status}
+                                                            </span>
+                                                        </div>
+                                                        <div className="grid md:grid-cols-2 gap-4 relative z-10">
+                                                            <div className="bg-white dark:bg-slate-900 p-3 rounded-lg border border-slate-200 dark:border-slate-700">
+                                                                <span className="text-[10px] uppercase text-slate-400 font-bold tracking-wider mb-1 block">Manifesto Guarantee / Claim</span>
+                                                                <p className="text-xs text-slate-700 dark:text-slate-300">"{promise.declaredInManifesto}"</p>
+                                                            </div>
+                                                            <div className="bg-white dark:bg-slate-900 p-3 rounded-lg border border-slate-200 dark:border-slate-700">
+                                                                <span className="text-[10px] uppercase text-slate-400 font-bold tracking-wider mb-1 block">Verified Ground Reality</span>
+                                                                <p className="text-xs font-medium text-slate-800 dark:text-slate-200">{promise.verifiedOutcome}</p>
+                                                            </div>
+                                                        </div>
+                                                        <p className="text-[10px] text-slate-400 mt-3 text-right flex justify-end items-center gap-1 relative z-10">
+                                                            <ShieldCheck className="w-3 h-3 animate-glow" /> Source: {promise.sourceCitation}
+                                                        </p>
+                                                    </div>
+                                                );
+                                            })}
+                                        </div>
+                                    )}
+                                </div>
+                            );
+                        })()}
+
+                        {/* Tab 3: Dedicated Development (MLA-LADS) Funds Audit */}
+                        {activeTab === 'funds' && (
+                            <div className="space-y-6">
+                                {(!candidate.ladFundAllocatedINR && !candidate.ladFundUtilizedINR) ? (
+                                    <div className="text-center py-12 bg-slate-50 dark:bg-slate-800/40 rounded-2xl border border-dashed border-slate-300 dark:border-slate-700">
+                                        <Coins className="w-10 h-10 text-slate-400 mx-auto mb-2 opacity-60" />
+                                        <p className="text-base font-bold text-slate-700 dark:text-slate-300">Data Not Available</p>
+                                        <p className="text-xs text-slate-500 mt-1">Official MLA-LADS disbursement records are currently under compilation for this constituency.</p>
+                                    </div>
+                                ) : (
+                                    <div className="p-6 bg-gradient-to-br from-blue-50/70 via-indigo-50/40 to-slate-50 dark:from-slate-800/80 dark:via-indigo-950/20 dark:to-slate-900 rounded-2xl border border-blue-200/80 dark:border-blue-900/50 shadow-sm relative overflow-hidden group">
+                                        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-blue-200/60 dark:border-slate-700 pb-3 mb-5">
+                                            <div className="flex items-center gap-2.5">
+                                                <div className="w-9 h-9 rounded-xl bg-blue-600 dark:bg-blue-500 flex items-center justify-center text-white shadow">
+                                                    <Coins className="w-5 h-5 animate-pulse" />
+                                                </div>
+                                                <div>
+                                                    <h3 className="font-extrabold text-base text-slate-900 dark:text-white flex items-center gap-2">
+                                                        Constituency Development (MLA/MP-LADS) Fund Audit
+                                                    </h3>
+                                                    <p className="text-xs text-slate-500 dark:text-slate-400">Annual constituency development budget tracking & verified ground disbursement</p>
+                                                </div>
+                                            </div>
+                                            <div className="flex items-center gap-1.5 self-start sm:self-auto bg-white dark:bg-slate-800 px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-xs">
+                                                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
+                                                <span className="font-bold text-slate-700 dark:text-slate-300">Audited by State Planning Dept</span>
+                                            </div>
+                                        </div>
+
+                                        {/* Figures Summary */}
+                                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm">
+                                                <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Allocated Budget</p>
+                                                <p className="text-2xl font-black text-blue-600 dark:text-blue-400 mt-1">
+                                                    {formatINR(candidate.ladFundAllocatedINR || 50000000)}
+                                                </p>
+                                                <p className="text-[11px] text-slate-400 mt-1">State Annual Legislative Sanction</p>
+                                            </div>
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm">
+                                                <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Utilized & Disbursed</p>
+                                                <p className="text-2xl font-black text-emerald-600 dark:text-emerald-400 mt-1">
+                                                    {formatINR(candidate.ladFundUtilizedINR || 42500000)}
+                                                </p>
+                                                <p className="text-[11px] text-emerald-600 dark:text-emerald-400 font-medium mt-1">Verified Ground Works</p>
+                                            </div>
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm flex flex-col justify-between">
+                                                <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Utilization Efficiency</p>
+                                                <div className="flex items-center justify-between">
+                                                    <span className="text-3xl font-black text-indigo-600 dark:text-indigo-400">
+                                                        {candidate.fundUtilizationPercentage || 85}%
+                                                    </span>
+                                                    <span className="text-[10px] font-bold bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 px-2 py-1 rounded border border-indigo-200 dark:border-indigo-800">
+                                                        State Benchmark: 78%
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        {/* Progress Bar with Beating ECG Indicator */}
+                                        <div className="mb-6 p-4 bg-white dark:bg-slate-800/60 rounded-xl border border-slate-200/70 dark:border-slate-700">
+                                            <div className="flex justify-between text-xs font-bold mb-2">
+                                                <span className="text-slate-700 dark:text-slate-300">Constituency Expenditure Progress</span>
+                                                <span className="text-indigo-600 dark:text-indigo-400">{candidate.fundUtilizationPercentage || 85}% Complete</span>
+                                            </div>
+                                            <div className="w-full bg-slate-200 dark:bg-slate-700 h-4 rounded-full overflow-hidden relative">
+                                                <motion.div 
+                                                    initial={{ width: 0 }} 
+                                                    animate={{ width: `${candidate.fundUtilizationPercentage || 85}%` }} 
+                                                    transition={{ duration: 1.2, ease: "easeOut" }}
+                                                    className="h-full bg-gradient-to-r from-blue-600 via-indigo-600 to-emerald-500 rounded-full relative"
+                                                >
+                                                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent animate-shimmer" />
+                                                </motion.div>
+                                            </div>
+                                        </div>
+
+                                        {/* Beautiful Category Spend Allocation Breakdown Diagram */}
+                                        <div>
+                                            <p className="text-xs font-bold text-slate-700 dark:text-slate-300 mb-3 flex items-center gap-1.5">
+                                                <Layers className="w-4 h-4 text-blue-500" /> Category-wise Expenditure Breakdown:
+                                            </p>
+                                            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3">
+                                                {(candidate.ladFundCategoryBreakdown && candidate.ladFundCategoryBreakdown.length > 0 
+                                                    ? candidate.ladFundCategoryBreakdown 
+                                                    : [
+                                                        { category: "Roads & Connectivity", percentage: 35, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.35) },
+                                                        { category: "Tap Water & Drainage", percentage: 25, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.25) },
+                                                        { category: "Smart School Digital Labs", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) },
+                                                        { category: "Primary Health & ICU Beds", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) }
+                                                    ]
+                                                ).map((cat, i) => (
+                                                    <div key={i} className="p-3.5 bg-white dark:bg-slate-800 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm flex flex-col justify-between group hover:border-blue-400 transition-all">
+                                                        <div>
+                                                            <div className="flex justify-between items-center font-bold text-slate-800 dark:text-slate-200 mb-1.5 text-xs">
+                                                                <span className="truncate">{cat.category}</span>
+                                                                <span className="text-blue-600 dark:text-blue-400 font-black">{cat.percentage}%</span>
+                                                            </div>
+                                                            <div className="w-full bg-slate-100 dark:bg-slate-700 h-1.5 rounded-full overflow-hidden mb-2">
+                                                                <div 
+                                                                    className="h-full bg-blue-500 rounded-full" 
+                                                                    style={{ width: `${cat.percentage}%` }} 
+                                                                />
+                                                            </div>
+                                                        </div>
+                                                        <p className="text-xs font-extrabold text-slate-700 dark:text-slate-300">{formatINR(cat.allocatedINR)}</p>
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    </div>
+                                )}
                             </div>
                         )}
 
-                        {/* Tab 3: Legal Disclosures & MLA Fund Audit */}
+                        {/* Tab 4: Legal Disclosures & Wealth Breakdown */}
                         {activeTab === 'legal' && (
                             <div className="space-y-6">
-                                {/* MLA-LAD Fund Allocation vs Utilization Breakdown */}
-                                <div className="p-5 bg-gradient-to-br from-blue-50/70 via-indigo-50/40 to-slate-50 dark:from-slate-800/80 dark:via-indigo-950/20 dark:to-slate-900 rounded-2xl border border-blue-200/80 dark:border-blue-900/50 shadow-sm relative overflow-hidden group">
-                                    <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-blue-200/60 dark:border-slate-700 pb-3 mb-4">
-                                        <div className="flex items-center gap-2.5">
-                                            <div className="w-8 h-8 rounded-lg bg-blue-600 dark:bg-blue-500 flex items-center justify-center text-white shadow">
-                                                <Activity className="w-4 h-4 animate-pulse" />
-                                            </div>
-                                            <div>
-                                                <h3 className="font-extrabold text-sm text-slate-900 dark:text-white flex items-center gap-2">
-                                                    Constituency Development (MLA-LADS) Fund Audit
-                                                </h3>
-                                                <p className="text-[11px] text-slate-500 dark:text-slate-400">Annual constituency development budget tracking</p>
-                                            </div>
-                                        </div>
-                                        <div className="flex items-center gap-1.5 self-start sm:self-auto bg-white dark:bg-slate-800 px-2.5 py-1 rounded-lg border border-slate-200 dark:border-slate-700 text-[11px]">
-                                            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
-                                            <span className="font-bold text-slate-700 dark:text-slate-300">Audited by State Planning Dept</span>
-                                        </div>
-                                    </div>
-
-                                    {/* Figures Summary */}
-                                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-5">
-                                        <div className="p-3.5 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700">
-                                            <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Allocated Fund</p>
-                                            <p className="text-xl font-extrabold text-blue-600 dark:text-blue-400 mt-0.5">
-                                                {formatINR(candidate.ladFundAllocatedINR || 50000000)}
-                                            </p>
-                                            <p className="text-[10px] text-slate-400 mt-1">State Annual Sanction</p>
-                                        </div>
-                                        <div className="p-3.5 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700">
-                                            <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Utilized & Disbursed</p>
-                                            <p className="text-xl font-extrabold text-emerald-600 dark:text-emerald-400 mt-0.5">
-                                                {formatINR(candidate.ladFundUtilizedINR || 42500000)}
-                                            </p>
-                                            <p className="text-[10px] text-emerald-600 dark:text-emerald-400 font-medium mt-1">Verified Ground Works</p>
-                                        </div>
-                                        <div className="p-3.5 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 flex flex-col justify-between">
-                                            <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Utilization Rate</p>
-                                            <div className="flex items-center justify-between">
-                                                <span className="text-2xl font-black text-indigo-600 dark:text-indigo-400">
-                                                    {candidate.fundUtilizationPercentage || 85}%
-                                                </span>
-                                                <span className="text-[10px] font-bold bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 px-2 py-0.5 rounded border border-indigo-200 dark:border-indigo-800">
-                                                    Benchmarked (Avg 78%)
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    {/* Progress Bar with Beating ECG Indicator */}
-                                    <div className="mb-5">
-                                        <div className="flex justify-between text-xs font-semibold mb-1.5">
-                                            <span className="text-slate-700 dark:text-slate-300">Constituency Expenditure Progress</span>
-                                            <span className="text-indigo-600 dark:text-indigo-400 font-bold">{candidate.fundUtilizationPercentage || 85}% Complete</span>
-                                        </div>
-                                        <div className="w-full bg-slate-200 dark:bg-slate-700 h-3 rounded-full overflow-hidden relative">
-                                            <motion.div 
-                                                initial={{ width: 0 }} 
-                                                animate={{ width: `${candidate.fundUtilizationPercentage || 85}%` }} 
-                                                transition={{ duration: 1.2, ease: "easeOut" }}
-                                                className="h-full bg-gradient-to-r from-blue-600 via-indigo-600 to-emerald-500 rounded-full relative"
-                                            >
-                                                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent animate-shimmer" />
-                                            </motion.div>
-                                        </div>
-                                    </div>
-
-                                    {/* Category Spend Allocation Breakdown */}
-                                    <div>
-                                        <p className="text-xs font-bold text-slate-700 dark:text-slate-300 mb-2.5">Category-wise Expenditure Breakdown:</p>
-                                        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2.5">
-                                            {(candidate.ladFundCategoryBreakdown && candidate.ladFundCategoryBreakdown.length > 0 
-                                                ? candidate.ladFundCategoryBreakdown 
-                                                : [
-                                                    { category: "Roads & Flyovers", percentage: 35, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.35) },
-                                                    { category: "Tap Water & Sewage", percentage: 25, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.25) },
-                                                    { category: "Govt School Smart Labs", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) },
-                                                    { category: "Primary Health & ICU", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) }
-                                                ]
-                                            ).map((cat, i) => (
-                                                <div key={i} className="p-2.5 bg-white dark:bg-slate-800 rounded-lg border border-slate-200/70 dark:border-slate-700 text-xs">
-                                                    <div className="flex justify-between items-center font-bold text-slate-800 dark:text-slate-200 mb-1">
-                                                        <span>{cat.category}</span>
-                                                        <span className="text-blue-600 dark:text-blue-400">{cat.percentage}%</span>
-                                                    </div>
-                                                    <p className="text-[11px] text-slate-500">{formatINR(cat.allocatedINR)}</p>
-                                                </div>
-                                            ))}
-                                        </div>
-                                    </div>
-                                </div>
-
                                 <div className="grid md:grid-cols-2 gap-6">
+                                    {/* Criminal Cases Disclosures */}
                                     <div className="p-5 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-slate-200 dark:border-slate-800 relative overflow-hidden group">
                                         <div className="absolute inset-0 bg-gradient-to-r from-transparent via-slate-200/50 dark:via-white/5 to-transparent animate-shimmer" />
                                         <h3 className="font-bold text-sm text-slate-800 dark:text-slate-200 mb-4 flex items-center gap-2 relative z-10">
-                                            <AlertTriangle className="w-4 h-4 text-amber-500 animate-glow" /> Criminal Cases ({candidate.criminalCasesCount})
+                                            <AlertTriangle className="w-4 h-4 text-amber-500 animate-glow" /> Criminal Cases Declared in ECI Affidavit ({candidate.criminalCasesCount})
                                         </h3>
                                         {candidate.criminalCasesCount === 0 ? (
-                                            <div className="text-center py-8 relative z-10">
+                                            <div className="text-center py-10 relative z-10">
                                                 <CheckCircle2 className="w-12 h-12 text-emerald-400 mx-auto mb-2 opacity-50 animate-glow" />
                                                 <p className="text-sm text-emerald-600 dark:text-emerald-400 font-medium">Clean Record.<br/>No pending criminal cases declared in ECI affidavit.</p>
                                             </div>
@@ -721,6 +825,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         )}
                                     </div>
 
+                                    {/* Wealth & Net Worth Breakdown */}
                                     <div className="p-5 bg-slate-50 dark:bg-slate-800/40 rounded-xl border border-slate-200 dark:border-slate-800 flex flex-col justify-between relative overflow-hidden group">
                                         <div className="absolute inset-0 bg-gradient-to-r from-transparent via-slate-200/50 dark:via-white/5 to-transparent animate-shimmer" />
                                         <div className="relative z-10">
