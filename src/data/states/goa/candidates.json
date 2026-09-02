@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "go_1044",
+    "name": "Jit Arolkar",
+    "role": "MLA",
+    "party": "Maharashtrawadi Gomantak Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mandrem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandrem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mandrem.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Jit Arolkar is the elected MLA representing Mandrem, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Maharashtrawadi Gomantak Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1045",
+    "name": "Pravin Arlekar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pernem (SC)",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Pernem (SC) Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pernem (SC).",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Pravin Arlekar is the elected MLA representing Pernem (SC), North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1046",
+    "name": "Dr. Chandrakant Shetye",
+    "role": "MLA",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bicholim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Bicholim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bicholim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Dr. Chandrakant Shetye is the elected MLA representing Bicholim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1047",
+    "name": "Nilkanth Halarnkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Tivim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Tivim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Tivim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Nilkanth Halarnkar is the elected MLA representing Tivim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1048",
+    "name": "Joshua D'Souza",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mapusa",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mapusa Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mapusa.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Joshua D'Souza is the elected MLA representing Mapusa, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1049",
+    "name": "Delilah Lobo",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Siolim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Siolim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Siolim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Delilah Lobo is the elected MLA representing Siolim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1050",
+    "name": "Kedar Naik",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Saligao",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Saligao Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Saligao.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Kedar Naik is the elected MLA representing Saligao, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1051",
+    "name": "Michael Lobo",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/michael_lobo.jpg",
+    "constituencyName": "Calangute",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.8,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23200000,
+    "ladFundUnspentINR": 1800000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Tourism Development Corporation & Village Panchayat Calangute",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Coastal Belt Tourist Access Road Paver Blocks & Drains",
+        "percentage": 40,
+        "allocatedINR": 9280000,
+        "status": "Completed"
+      },
+      {
+        "category": "Candolim Primary Health Centre Emergency Equipment",
+        "percentage": 25,
+        "allocatedINR": 5800000,
+        "status": "Completed"
+      },
+      {
+        "category": "Beach Promenade Street Solar Lighting Grid",
+        "percentage": 20,
+        "allocatedINR": 4640000,
+        "status": "Completed"
+      },
+      {
+        "category": "Village Panchayat Solid Waste Segregation Yard",
+        "percentage": 15,
+        "allocatedINR": 3480000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 48,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Calangute.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Michael Lobo is the elected MLA representing Calangute, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1052",
+    "name": "Rohan Khaunte",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Porvorim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Porvorim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Porvorim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Rohan Khaunte is the elected MLA representing Porvorim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1053",
+    "name": "Carlos Alvares Ferreira",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Aldona",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Aldona Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Aldona.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Carlos Alvares Ferreira is the elected MLA representing Aldona, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1054",
+    "name": "Atanasio Monserrate",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Panaji",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 22500000,
+    "ladFundUnspentINR": 2500000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Directorate of Planning, Statistics and Evaluation & CCP",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mandovi River Promenade Heritage Drainage Grid",
+        "percentage": 40,
+        "allocatedINR": 9000000,
+        "status": "Completed"
+      },
+      {
+        "category": "Goa Medical College (Bambolim) Urban Clinic Support",
+        "percentage": 30,
+        "allocatedINR": 6750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Fontainhas Latin Quarter Underground Power Ducting",
+        "percentage": 15,
+        "allocatedINR": 3375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Computer Laboratories",
+        "percentage": 15,
+        "allocatedINR": 3375000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Panaji.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Atanasio Monserrate is the elected MLA representing Panaji, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1055",
+    "name": "Jennifer Monserrate",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Taleigao",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 12,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Taleigao Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Taleigao.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Jennifer Monserrate is the elected MLA representing Taleigao, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1056",
+    "name": "Rodolfo Fernandes",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "St. Cruz",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "St. Cruz Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for St. Cruz.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Rodolfo Fernandes is the elected MLA representing St. Cruz, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1057",
+    "name": "Viresh Borkar",
+    "role": "MLA",
+    "party": "Revolutionary Goans Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "St. Andre",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "St. Andre Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 23,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for St. Andre.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Viresh Borkar is the elected MLA representing St. Andre, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Revolutionary Goans Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1058",
+    "name": "Rajesh Faldessai",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Cumbarjua",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Cumbarjua Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Cumbarjua.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Rajesh Faldessai is the elected MLA representing Cumbarjua, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1059",
+    "name": "Premendra Shet",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Maem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Maem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Maem.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Premendra Shet is the elected MLA representing Maem, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1060",
+    "name": "Pramod Sawant",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/pramod_sawant.jpg",
+    "constituencyName": "Sanquelim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.4,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24100000,
+    "ladFundUnspentINR": 900000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Goa Directorate of Planning, Statistics and Evaluation",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Valvanti River Catchment Flood Barrier Bunds",
+        "percentage": 35,
+        "allocatedINR": 8435000,
+        "status": "Completed"
+      },
+      {
+        "category": "Sanquelim Community Health Centre Dialysis Facility",
+        "percentage": 30,
+        "allocatedINR": 7230000,
+        "status": "Completed"
+      },
+      {
+        "category": "Ravindra Bhavan Peripheral Road Widening",
+        "percentage": 20,
+        "allocatedINR": 4820000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt College of Arts & Commerce Digital IT Center",
+        "percentage": 15,
+        "allocatedINR": 3615000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 29,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sanquelim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Pramod Sawant is the elected MLA representing Sanquelim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1061",
+    "name": "Deviya Vishwajit Rane",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Poriem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Poriem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 16,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Poriem.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Deviya Vishwajit Rane is the elected MLA representing Poriem, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1062",
+    "name": "Vishwajit Pratapsingh Rane",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Valpoi",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Valpoi Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Valpoi.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Vishwajit Pratapsingh Rane is the elected MLA representing Valpoi, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1063",
+    "name": "Govind Gaude",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Priol",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Priol Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Priol.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Govind Gaude is the elected MLA representing Priol, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1064",
+    "name": "Ravi Naik",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ponda",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Ponda Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 50,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ponda.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Ravi Naik is the elected MLA representing Ponda, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1065",
+    "name": "Subhash Shirodkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Siroda",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Siroda Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Siroda.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Subhash Shirodkar is the elected MLA representing Siroda, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1066",
+    "name": "Sudin Dhavalikar",
+    "role": "MLA",
+    "party": "Maharashtrawadi Gomantak Party",
+    "photoUrl": "/assets/candidates/sudin_dhavalikar.jpg",
+    "constituencyName": "Marcaim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "North Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Marcaim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Marcaim.",
+    "politicalFact": "Elected representative serving the citizens of North Goa, Goa.",
+    "bio": "Sudin Dhavalikar is the elected MLA representing Marcaim, North Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Maharashtrawadi Gomantak Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1067",
+    "name": "Sankalp Amonkar",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mormugao",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mormugao Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 39,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mormugao.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Sankalp Amonkar is the elected MLA representing Mormugao, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1068",
+    "name": "Krishna Salkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Vasco da Gama",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Vasco da Gama Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 49,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Vasco da Gama.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Krishna Salkar is the elected MLA representing Vasco da Gama, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1069",
+    "name": "Mauvin Godinho",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dabolim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Dabolim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dabolim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Mauvin Godinho is the elected MLA representing Dabolim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1070",
+    "name": "Antonio Vas",
+    "role": "MLA",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Cortalim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Cortalim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 50,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Cortalim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Antonio Vas is the elected MLA representing Cortalim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1071",
+    "name": "Aleixo Sequeira",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nuvem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Nuvem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nuvem.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Aleixo Sequeira is the elected MLA representing Nuvem, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1072",
+    "name": "Aleixo Reginaldo Lourenco",
+    "role": "MLA",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Curtorim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Curtorim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Curtorim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Aleixo Reginaldo Lourenco is the elected MLA representing Curtorim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1073",
+    "name": "Vijai Sardesai",
+    "role": "MLA",
+    "party": "Goa Forward Party",
+    "photoUrl": "/assets/candidates/vijai_sardesai.jpg",
+    "constituencyName": "Fatorda",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Fatorda Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 56,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Fatorda.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Vijai Sardesai is the elected MLA representing Fatorda, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Goa Forward Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1074",
+    "name": "Digambar Kamat",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/digambar_kamat.jpg",
+    "constituencyName": "Margao",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.2,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Directorate of Planning, Statistics and Evaluation & MMC",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Margao Old Market Commercial Stormwater Drains",
+        "percentage": 40,
+        "allocatedINR": 8720000,
+        "status": "Completed"
+      },
+      {
+        "category": "South Goa District Hospital Specialized Care Grant",
+        "percentage": 30,
+        "allocatedINR": 6540000,
+        "status": "Completed"
+      },
+      {
+        "category": "Fatorda Transit Feeder Link Road Asphalting",
+        "percentage": 15,
+        "allocatedINR": 3270000,
+        "status": "Completed"
+      },
+      {
+        "category": "Municipal Secondary School Digital STEM Labs",
+        "percentage": 15,
+        "allocatedINR": 3270000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Margao.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Digambar Kamat is the elected MLA representing Margao, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1075",
+    "name": "Venzy Viegas",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Benaulim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Benaulim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 47,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Benaulim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Venzy Viegas is the elected MLA representing Benaulim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1076",
+    "name": "Ulhas Tuenkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Navelim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Navelim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Navelim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Ulhas Tuenkar is the elected MLA representing Navelim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1077",
+    "name": "Yuri Alemao",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Cuncolim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Cuncolim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 48,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Cuncolim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Yuri Alemao is the elected MLA representing Cuncolim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1078",
+    "name": "Cruz Silva",
+    "role": "MLA",
+    "party": "Aam Aadmi Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Velim",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Velim Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Velim.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Cruz Silva is the elected MLA representing Velim, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Aam Aadmi Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/AAP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1079",
+    "name": "Altone D'Costa",
+    "role": "MLA",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Quepem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Quepem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 31,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Quepem.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Altone D'Costa is the elected MLA representing Quepem, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1080",
+    "name": "Nilesh Cabral",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Curchorem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Curchorem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Curchorem.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Nilesh Cabral is the elected MLA representing Curchorem, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1081",
+    "name": "Ganesh Gaonkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sanvordem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sanvordem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 56,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sanvordem.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Ganesh Gaonkar is the elected MLA representing Sanvordem, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1082",
+    "name": "Subhash Phal Desai",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sanguem",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sanguem Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sanguem.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Subhash Phal Desai is the elected MLA representing Sanguem, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "go_1083",
+    "name": "Ramesh Tawadkar",
+    "role": "MLA",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Canacona",
+    "state": "Goa",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 21500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 12,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "South Goa Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 7524999,
+        "status": "Completed"
+      },
+      {
+        "category": "Canacona Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 5375000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 4300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 5500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Canacona.",
+    "politicalFact": "Elected representative serving the citizens of South Goa, Goa.",
+    "bio": "Ramesh Tawadkar is the elected MLA representing Canacona, South Goa, Goa.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Goa Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Goa Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]

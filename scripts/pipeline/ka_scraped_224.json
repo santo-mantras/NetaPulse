@@ -1,0 +1,1794 @@
+[
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-1",
+    "constituency_name": "Nippani",
+    "winner": "Shashikala Jolle",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-2",
+    "constituency_name": "Chikkodi-Sadalga",
+    "winner": "Ganesh Hukkeri",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-3",
+    "constituency_name": "Athani",
+    "winner": "Laxman Savadi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-4",
+    "constituency_name": "Kagwad",
+    "winner": "Raju Kage",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-5",
+    "constituency_name": "Kudachi (SC)",
+    "winner": "Mahendra Tammannavar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-6",
+    "constituency_name": "Raibag (SC)",
+    "winner": "Duryodhan Aihole",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-7",
+    "constituency_name": "Hukkeri",
+    "winner": "Nikhil Umesh Katti",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-8",
+    "constituency_name": "Arabhavi",
+    "winner": "Balachandra Jarkiholi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-9",
+    "constituency_name": "Gokak",
+    "winner": "Ramesh Jarkiholi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-10",
+    "constituency_name": "Yemkanmardi (ST)",
+    "winner": "Satish Jarkiholi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-11",
+    "constituency_name": "Belgaum Uttar",
+    "winner": "Asif Sait",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-12",
+    "constituency_name": "Belgaum Dakshin",
+    "winner": "Abhay Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-13",
+    "constituency_name": "Belgaum Rural",
+    "winner": "Lakshmi Hebbalkar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-14",
+    "constituency_name": "Khanapur",
+    "winner": "Vithal Somanna Halagekar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-15",
+    "constituency_name": "Kittur",
+    "winner": "Babasaheb Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-16",
+    "constituency_name": "Bailhongal",
+    "winner": "Mahantesh Koujalagi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-17",
+    "constituency_name": "Saundatti Yellamma",
+    "winner": "Vishwas Vaidya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belagavi",
+    "constituency_code": "AC-KA-18",
+    "constituency_name": "Ramdurg",
+    "winner": "Ashok Pattan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-19",
+    "constituency_name": "Mudhol (SC)",
+    "winner": "R. B. Timmapur",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-20",
+    "constituency_name": "Terdal",
+    "winner": "Siddu Savadi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-21",
+    "constituency_name": "Jamkhandi",
+    "winner": "Jagadish Gudagunti",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-22",
+    "constituency_name": "Bilgi",
+    "winner": "J. T. Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-23",
+    "constituency_name": "Badami",
+    "winner": "Bhimsen Chimmanakatti",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-24",
+    "constituency_name": "Bagalkot",
+    "winner": "H. Y. Meti",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "constituency_code": "AC-KA-25",
+    "constituency_name": "Hungund",
+    "winner": "Vijayanand Kashappanavar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-26",
+    "constituency_name": "Muddebihal",
+    "winner": "C. S. Nadagouda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-27",
+    "constituency_name": "Devar Hippargi",
+    "winner": "Bhimanagouda Patil",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-28",
+    "constituency_name": "Basavana Bagevadi",
+    "winner": "Shivanand Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-29",
+    "constituency_name": "Babaleshwar",
+    "winner": "M. B. Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-30",
+    "constituency_name": "Bijapur City",
+    "winner": "Basangouda Patil Yatnal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-31",
+    "constituency_name": "Nagathan (SC)",
+    "winner": "Vittal Katakadhond",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-32",
+    "constituency_name": "Indi",
+    "winner": "Yashavanta Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayapura",
+    "constituency_code": "AC-KA-33",
+    "constituency_name": "Sindagi",
+    "winner": "Ashok M. Managuli",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-34",
+    "constituency_name": "Afzalpur",
+    "winner": "M. Y. Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-35",
+    "constituency_name": "Jevargi",
+    "winner": "Ajay Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Yadgir",
+    "constituency_code": "AC-KA-36",
+    "constituency_name": "Shorapur (ST)",
+    "winner": "Raja Venkatappa Naik",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Yadgir",
+    "constituency_code": "AC-KA-37",
+    "constituency_name": "Shahapur",
+    "winner": "Sharanabasappa Darshanapur",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Yadgir",
+    "constituency_code": "AC-KA-38",
+    "constituency_name": "Yadgir",
+    "winner": "Channareddy Patil Tunnur",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Yadgir",
+    "constituency_code": "AC-KA-39",
+    "constituency_name": "Gurmitkal",
+    "winner": "Sharanagouda Kandakur",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-40",
+    "constituency_name": "Chittapur (SC)",
+    "winner": "Priyank Kharge",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-41",
+    "constituency_name": "Sedam",
+    "winner": "Sharan Prakash Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-42",
+    "constituency_name": "Chincholi (SC)",
+    "winner": "Avinash Jadhav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-43",
+    "constituency_name": "Gulbarga Rural (SC)",
+    "winner": "Basawaraj Mattimud",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-44",
+    "constituency_name": "Gulbarga Dakshin",
+    "winner": "Allamprabhu Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-45",
+    "constituency_name": "Gulbarga Uttar",
+    "winner": "Kaneez Fathima",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kalaburagi",
+    "constituency_code": "AC-KA-46",
+    "constituency_name": "Aland",
+    "winner": "B. R. Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-47",
+    "constituency_name": "Basavakalyan",
+    "winner": "Sharanu Salagar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-48",
+    "constituency_name": "Humnabad",
+    "winner": "Siddu Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-49",
+    "constituency_name": "Bidar South",
+    "winner": "Shailendra Beldale",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-50",
+    "constituency_name": "Bidar",
+    "winner": "Rahim Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-51",
+    "constituency_name": "Bhalki",
+    "winner": "Eshwara Khandre",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bidar",
+    "constituency_code": "AC-KA-52",
+    "constituency_name": "Aurad (SC)",
+    "winner": "Prabhu Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-53",
+    "constituency_name": "Raichur Rural (ST)",
+    "winner": "Basanagouda Daddal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-54",
+    "constituency_name": "Raichur",
+    "winner": "S. Shivaraj Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-55",
+    "constituency_name": "Manvi (ST)",
+    "winner": "G. Hampayya Nayak",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-56",
+    "constituency_name": "Devadurga (ST)",
+    "winner": "Karemma Nayak",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-57",
+    "constituency_name": "Lingsugur (SC)",
+    "winner": "Manappa D.Vajjal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-58",
+    "constituency_name": "Sindhanur",
+    "winner": "Hampanagouda Badarli",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Raichur",
+    "constituency_code": "AC-KA-59",
+    "constituency_name": "Maski (ST)",
+    "winner": "Basanagouda Turvihal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "constituency_code": "AC-KA-60",
+    "constituency_name": "Kushtagi",
+    "winner": "Doddanagouda Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "constituency_code": "AC-KA-61",
+    "constituency_name": "Kanakagiri (SC)",
+    "winner": "Shivaraj Tangadagi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "constituency_code": "AC-KA-62",
+    "constituency_name": "Gangawati",
+    "winner": "G. Janardhana Reddy",
+    "party": "Kalyana Rajya Pragathi Paksha"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "constituency_code": "AC-KA-63",
+    "constituency_name": "Yelburga",
+    "winner": "Basavaraj Rayareddy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Koppal",
+    "constituency_code": "AC-KA-64",
+    "constituency_name": "Koppal",
+    "winner": "Raghavendra Hitnal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Gadag",
+    "constituency_code": "AC-KA-65",
+    "constituency_name": "Shirahatti (SC)",
+    "winner": "Chandru Lamani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Gadag",
+    "constituency_code": "AC-KA-66",
+    "constituency_name": "Gadag",
+    "winner": "H. K. Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Gadag",
+    "constituency_code": "AC-KA-67",
+    "constituency_name": "Ron",
+    "winner": "Gurupadagouda Patil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Gadag",
+    "constituency_code": "AC-KA-68",
+    "constituency_name": "Nargund",
+    "winner": "C. C. Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-69",
+    "constituency_name": "Navalgund",
+    "winner": "N. H. Konaraddi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-70",
+    "constituency_name": "Kundgol",
+    "winner": "M. R. Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-71",
+    "constituency_name": "Dharwad",
+    "winner": "Vinay Kulkarni",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-72",
+    "constituency_name": "Hubli-Dharwad East (SC)",
+    "winner": "Abbayya Prasad",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-73",
+    "constituency_name": "Hubli-Dharwad Central",
+    "winner": "Mahesh Tenginakai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-74",
+    "constituency_name": "Hubli-Dharwad West",
+    "winner": "Aravind Bellad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dharwad",
+    "constituency_code": "AC-KA-75",
+    "constituency_name": "Kalghatgi",
+    "winner": "Santosh Lad",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-76",
+    "constituency_name": "Haliyal",
+    "winner": "R. V. Deshpande",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-77",
+    "constituency_name": "Karwar",
+    "winner": "Satish Krishna Sail",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-78",
+    "constituency_name": "Kumta",
+    "winner": "Dinakar Keshav Shetty",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-79",
+    "constituency_name": "Bhatkal",
+    "winner": "M. S. Vaidya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-80",
+    "constituency_name": "Sirsi",
+    "winner": "Bhimanna T. Naik",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "constituency_code": "AC-KA-81",
+    "constituency_name": "Yellapur",
+    "winner": "Arabil Shivaram Hebbar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-82",
+    "constituency_name": "Hangal",
+    "winner": "Srinivas Mane",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-83",
+    "constituency_name": "Shiggaon",
+    "winner": "Basavaraj Bommai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-84",
+    "constituency_name": "Haveri (SC)",
+    "winner": "Rudrappa Lamani",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-85",
+    "constituency_name": "Byadgi",
+    "winner": "Basavaraj Shivannanavar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-86",
+    "constituency_name": "Hirekerur",
+    "winner": "U. B. Banakar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Haveri",
+    "constituency_code": "AC-KA-87",
+    "constituency_name": "Ranebennur",
+    "winner": "Prakash Koliwad",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "constituency_code": "AC-KA-88",
+    "constituency_name": "Hoovina Hadagali (SC)",
+    "winner": "Krishna Nayaka",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "constituency_code": "AC-KA-89",
+    "constituency_name": "Hagaribommanahalli (SC)",
+    "winner": "K. Nemiraj Naik",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "constituency_code": "AC-KA-90",
+    "constituency_name": "Vijayanagara",
+    "winner": "H. R. Gaviyappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "constituency_code": "AC-KA-91",
+    "constituency_name": "Kampli (ST)",
+    "winner": "J. N. Ganesh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "constituency_code": "AC-KA-92",
+    "constituency_name": "Siruguppa (ST)",
+    "winner": "B. M. Nagaraja",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "constituency_code": "AC-KA-93",
+    "constituency_name": "Bellary (ST)",
+    "winner": "B. Nagendra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "constituency_code": "AC-KA-94",
+    "constituency_name": "Bellary City",
+    "winner": "Nara Bharath Reddy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ballari",
+    "constituency_code": "AC-KA-95",
+    "constituency_name": "Sandur (ST)",
+    "winner": "E. Tukaram",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "constituency_code": "AC-KA-96",
+    "constituency_name": "Kudligi (ST)",
+    "winner": "N. T. Srinivas",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-97",
+    "constituency_name": "Molakalmuru (ST)",
+    "winner": "N. Y. Gopalakrishna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-98",
+    "constituency_name": "Challakere (ST)",
+    "winner": "T. Raghumurthy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-99",
+    "constituency_name": "Chitradurga",
+    "winner": "K. C. Veerendra Puppy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-100",
+    "constituency_name": "Hiriyur",
+    "winner": "D. Sudhakar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-101",
+    "constituency_name": "Hosadurga",
+    "winner": "B. G. Govindappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "constituency_code": "AC-KA-102",
+    "constituency_name": "Holalkere (SC)",
+    "winner": "M. Chandrappa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-103",
+    "constituency_name": "Jagalur (ST)",
+    "winner": "B. Devendrappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "constituency_code": "AC-KA-104",
+    "constituency_name": "Harapanahalli",
+    "winner": "Latha Mallikarjun",
+    "party": "Ind"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-105",
+    "constituency_name": "Harihar",
+    "winner": "B. P. Harish",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-106",
+    "constituency_name": "Davanagere North",
+    "winner": "S. S. Mallikarjun",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-107",
+    "constituency_name": "Davanagere South",
+    "winner": "Shamanuru Shivashankarappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-108",
+    "constituency_name": "Mayakonda (SC)",
+    "winner": "K. S. Basavanthappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-109",
+    "constituency_name": "Channagiri",
+    "winner": "Basavaraju V. Shivaganga",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Davanagere",
+    "constituency_code": "AC-KA-110",
+    "constituency_name": "Honnali",
+    "winner": "D. G. Shanthana Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-111",
+    "constituency_name": "Shimoga Rural (SC)",
+    "winner": "Sharada Puryanaik",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-112",
+    "constituency_name": "Bhadravati",
+    "winner": "B. K. Sangameshwara",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-113",
+    "constituency_name": "Shimoga",
+    "winner": "S. N. Channabasappa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-114",
+    "constituency_name": "Tirthahalli",
+    "winner": "Araga Jnanendra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-115",
+    "constituency_name": "Shikaripura",
+    "winner": "B. Y. Vijayendra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-116",
+    "constituency_name": "Sorab",
+    "winner": "Madhu Bangarappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Shimoga",
+    "constituency_code": "AC-KA-117",
+    "constituency_name": "Sagar",
+    "winner": "Belur Gopalkrishna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Udupi",
+    "constituency_code": "AC-KA-118",
+    "constituency_name": "Byndoor",
+    "winner": "Gururaj Gantihole",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Udupi",
+    "constituency_code": "AC-KA-119",
+    "constituency_name": "Kundapura",
+    "winner": "Kiran Kumar Kodgi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Udupi",
+    "constituency_code": "AC-KA-120",
+    "constituency_name": "Udupi",
+    "winner": "Yashpal Anand Suvarna",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Udupi",
+    "constituency_code": "AC-KA-121",
+    "constituency_name": "Kapu",
+    "winner": "Gurme Suresh Shetty",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Udupi",
+    "constituency_code": "AC-KA-122",
+    "constituency_name": "Karkala",
+    "winner": "V. Sunil Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "constituency_code": "AC-KA-123",
+    "constituency_name": "Sringeri",
+    "winner": "T. D. Rajegowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "constituency_code": "AC-KA-124",
+    "constituency_name": "Mudigere (SC)",
+    "winner": "Nayana Motamma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "constituency_code": "AC-KA-125",
+    "constituency_name": "Chikmagalur",
+    "winner": "H. D. Thammaiah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "constituency_code": "AC-KA-126",
+    "constituency_name": "Tarikere",
+    "winner": "G. H. Srinivasa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "constituency_code": "AC-KA-127",
+    "constituency_name": "Kadur",
+    "winner": "K. S. Anand",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-128",
+    "constituency_name": "Chiknayakanhalli",
+    "winner": "C. B. Suresh Babu",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-129",
+    "constituency_name": "Tiptur",
+    "winner": "K. Shadakshari",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-130",
+    "constituency_name": "Turuvekere",
+    "winner": "M. T. Krishnappa",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-131",
+    "constituency_name": "Kunigal",
+    "winner": "H. D. Ranganath",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-132",
+    "constituency_name": "Tumkur City",
+    "winner": "G. B. Jyothi Ganesh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-133",
+    "constituency_name": "Tumkur Rural",
+    "winner": "B. Suresh Gowda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-134",
+    "constituency_name": "Koratagere (SC)",
+    "winner": "G. Parameshwara",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-135",
+    "constituency_name": "Gubbi",
+    "winner": "S. R. Srinivas",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-136",
+    "constituency_name": "Sira",
+    "winner": "T. B. Jayachandra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-137",
+    "constituency_name": "Pavagada (SC)",
+    "winner": "H. V. Venkatesh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Tumakuru",
+    "constituency_code": "AC-KA-138",
+    "constituency_name": "Madhugiri",
+    "winner": "Kyathasandra N. Rajanna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikkaballapura",
+    "constituency_code": "AC-KA-139",
+    "constituency_name": "Gauribidanur",
+    "winner": "K. H. Puttaswamy Gowda",
+    "party": "Ind"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikkaballapura",
+    "constituency_code": "AC-KA-140",
+    "constituency_name": "Bagepalli",
+    "winner": "S. N. Subbareddy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikkaballapura",
+    "constituency_code": "AC-KA-141",
+    "constituency_name": "Chikkaballapur",
+    "winner": "Pradeep Eshwar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikkaballapura",
+    "constituency_code": "AC-KA-142",
+    "constituency_name": "Sidlaghatta",
+    "winner": "B. N. Ravi Kumar",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chikkaballapura",
+    "constituency_code": "AC-KA-143",
+    "constituency_name": "Chintamani",
+    "winner": "M. C. Sudhakar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-144",
+    "constituency_name": "Srinivaspur",
+    "winner": "G. K. Venkatashiva Reddy",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-145",
+    "constituency_name": "Mulbagal (SC)",
+    "winner": "Samruddhi Manjunath",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-146",
+    "constituency_name": "Kolar Gold Field (SC)",
+    "winner": "M. Roopakala",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-147",
+    "constituency_name": "Bangarapet (SC)",
+    "winner": "S. N. Narayanaswamy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-148",
+    "constituency_name": "Kolar",
+    "winner": "Kothur G. Manjunatha",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kolar",
+    "constituency_code": "AC-KA-149",
+    "constituency_name": "Malur",
+    "winner": "K. Y. Nanjegowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-150",
+    "constituency_name": "Yelahanka",
+    "winner": "S. R. Vishwanath",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-151",
+    "constituency_name": "Krishnarajapuram",
+    "winner": "Byrati Basavaraj",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-152",
+    "constituency_name": "Byatarayanapura",
+    "winner": "Krishna Byre Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-153",
+    "constituency_name": "Yeshwantpur",
+    "winner": "S. T. Somashekhar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-154",
+    "constituency_name": "Rajarajeshwarinagar",
+    "winner": "Munirathna",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-155",
+    "constituency_name": "Dasarahalli",
+    "winner": "S. Muniraju",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-156",
+    "constituency_name": "Mahalakshmi Layout",
+    "winner": "K. Gopalaiah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-157",
+    "constituency_name": "Malleshwaram",
+    "winner": "C. N. Ashwath Narayan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-158",
+    "constituency_name": "Hebbal",
+    "winner": "Byrathi Suresh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-159",
+    "constituency_name": "Pulakeshinagar (SC)",
+    "winner": "A. C. Srinivasa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-160",
+    "constituency_name": "Sarvagnanagar",
+    "winner": "K. J. George",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-161",
+    "constituency_name": "C. V. Raman Nagar (SC)",
+    "winner": "S. Raghu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-162",
+    "constituency_name": "Shivajinagar",
+    "winner": "Rizwan Arshad",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-163",
+    "constituency_name": "Shanti Nagar",
+    "winner": "N. A. Haris",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-164",
+    "constituency_name": "Gandhi Nagar",
+    "winner": "Dinesh Gundu Rao",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-165",
+    "constituency_name": "Rajaji Nagar",
+    "winner": "S. Suresh Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-166",
+    "constituency_name": "Govindraj Nagar",
+    "winner": "Priya Krishna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-167",
+    "constituency_name": "Vijay Nagar",
+    "winner": "M. Krishnappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-168",
+    "constituency_name": "Chamrajpet",
+    "winner": "B. Z. Zameer Ahmed Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-169",
+    "constituency_name": "Chickpet",
+    "winner": "Uday Garudachar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-170",
+    "constituency_name": "Basavanagudi",
+    "winner": "L. A. Ravi Subramanya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-171",
+    "constituency_name": "Padmanabhanagar",
+    "winner": "R. Ashoka",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-172",
+    "constituency_name": "B.T.M. Layout",
+    "winner": "Ramalinga Reddy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-173",
+    "constituency_name": "Jayanagar",
+    "winner": "C. K. Ramamurthy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-174",
+    "constituency_name": "Mahadevapura (SC)",
+    "winner": "Manjula S.",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-175",
+    "constituency_name": "Bommanahalli",
+    "winner": "M. Satish Reddy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-176",
+    "constituency_name": "Bangalore South",
+    "winner": "M. Krishnappa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Urban",
+    "constituency_code": "AC-KA-177",
+    "constituency_name": "Anekal (SC)",
+    "winner": "B. Shivanna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Rural",
+    "constituency_code": "AC-KA-178",
+    "constituency_name": "Hoskote",
+    "winner": "Sharath Kumar Bache Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Rural",
+    "constituency_code": "AC-KA-179",
+    "constituency_name": "Devanahalli (SC)",
+    "winner": "K. H. Muniyappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Rural",
+    "constituency_code": "AC-KA-180",
+    "constituency_name": "Doddaballapur",
+    "winner": "Dheeraj Muniraj",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Bangalore Rural",
+    "constituency_code": "AC-KA-181",
+    "constituency_name": "Nelamangala (SC)",
+    "winner": "N. Shreenivasaiah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "constituency_code": "AC-KA-182",
+    "constituency_name": "Magadi",
+    "winner": "H. C. Balakrishna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "constituency_code": "AC-KA-183",
+    "constituency_name": "Ramanagaram",
+    "winner": "H. A. Iqbal Hussain",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "constituency_code": "AC-KA-184",
+    "constituency_name": "Kanakapura",
+    "winner": "D.K. Shivakumar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "constituency_code": "AC-KA-185",
+    "constituency_name": "Channapatna",
+    "winner": "H. D. Kumaraswamy",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-186",
+    "constituency_name": "Malavalli (SC)",
+    "winner": "P. M. Narendraswamy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-187",
+    "constituency_name": "Maddur",
+    "winner": "K. M. Udaya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-188",
+    "constituency_name": "Melukote",
+    "winner": "Darshan Puttannaiah",
+    "party": "Sarvodaya Karnataka Paksha"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-189",
+    "constituency_name": "Mandya",
+    "winner": "Ravikumar Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-190",
+    "constituency_name": "Shrirangapattana",
+    "winner": "Ramesha Bandisiddegowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-191",
+    "constituency_name": "Nagamangala",
+    "winner": "N. Chaluvaraya Swamy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mandya",
+    "constituency_code": "AC-KA-192",
+    "constituency_name": "Krishnarajapet",
+    "winner": "H. T. Manju",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-193",
+    "constituency_name": "Shravanabelagola",
+    "winner": "C. N. Balakrishna",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-194",
+    "constituency_name": "Arsikere",
+    "winner": "K. M. Shivalinge Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-195",
+    "constituency_name": "Belur",
+    "winner": "H. K. Suresh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-196",
+    "constituency_name": "Hassan",
+    "winner": "Swaroop Prakash",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-197",
+    "constituency_name": "Holenarasipur",
+    "winner": "H. D. Revanna",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-198",
+    "constituency_name": "Arkalgud",
+    "winner": "A. Manju",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Hassan",
+    "constituency_code": "AC-KA-199",
+    "constituency_name": "Sakleshpur (SC)",
+    "winner": "Cement Manju",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-200",
+    "constituency_name": "Belthangady",
+    "winner": "Harish Poonja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-201",
+    "constituency_name": "Moodabidri",
+    "winner": "Umanatha Kotian",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-202",
+    "constituency_name": "Mangalore City North",
+    "winner": "Bharath Shetty Y",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-203",
+    "constituency_name": "Mangalore City South",
+    "winner": "D. Vedavyas Kamath",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-204",
+    "constituency_name": "Mangalore",
+    "winner": "U. T. Khader",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-205",
+    "constituency_name": "Bantval",
+    "winner": "U Rajesh Naik",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-206",
+    "constituency_name": "Puttur",
+    "winner": "Ashok Kumar Rai",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Dakshina Kannada",
+    "constituency_code": "AC-KA-207",
+    "constituency_name": "Sullia (SC)",
+    "winner": "Bhageerathi Murulya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kodagu",
+    "constituency_code": "AC-KA-208",
+    "constituency_name": "Madikeri",
+    "winner": "Mantar Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Kodagu",
+    "constituency_code": "AC-KA-209",
+    "constituency_name": "Virajpet",
+    "winner": "A. S. Ponnanna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-210",
+    "constituency_name": "Periyapatna",
+    "winner": "K. Venkatesh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-211",
+    "constituency_name": "Krishnarajanagara",
+    "winner": "D. Ravishankar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-212",
+    "constituency_name": "Hunsur",
+    "winner": "G. D. Harish Gowda",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-213",
+    "constituency_name": "Heggadadevankote (ST)",
+    "winner": "Anil Chikkamadhu",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-214",
+    "constituency_name": "Nanjangud (SC)",
+    "winner": "Darshan Dhruvanarayana",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-215",
+    "constituency_name": "Chamundeshwari",
+    "winner": "G. T. Devegowda",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-216",
+    "constituency_name": "Krishnaraja",
+    "winner": "T. S. Srivatsa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-217",
+    "constituency_name": "Chamaraja",
+    "winner": "K. Harish Gowda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-218",
+    "constituency_name": "Narasimharaja",
+    "winner": "Tanveer Sait",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-219",
+    "constituency_name": "Varuna",
+    "winner": "Siddaramaiah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Mysore",
+    "constituency_code": "AC-KA-220",
+    "constituency_name": "T. Narasipur (SC)",
+    "winner": "H. C. Mahadevappa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chamarajanagar",
+    "constituency_code": "AC-KA-221",
+    "constituency_name": "Hanur",
+    "winner": "M. R. Manjunath",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chamarajanagar",
+    "constituency_code": "AC-KA-222",
+    "constituency_name": "Kollegal (SC)",
+    "winner": "A. R. Krishnamurthy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chamarajanagar",
+    "constituency_code": "AC-KA-223",
+    "constituency_name": "Chamarajanagar",
+    "winner": "C. Puttarangashetty",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Karnataka",
+    "district": "Chamarajanagar",
+    "constituency_code": "AC-KA-224",
+    "constituency_name": "Gundlupet",
+    "winner": "H. M. Ganesh Prasad",
+    "party": "Indian National Congress"
+  }
+]

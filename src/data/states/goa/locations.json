@@ -1,0 +1,962 @@
+[
+  {
+    "id": "loc_go_1044",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-1",
+    "assemblyConstituencyName": "Mandrem",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Mandrem Civic Context",
+      "historicalFact": "Mandrem is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1045",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-2",
+    "assemblyConstituencyName": "Pernem (SC)",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Pernem (SC) Civic Context",
+      "historicalFact": "Pernem (SC) is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1046",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-3",
+    "assemblyConstituencyName": "Bicholim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Bicholim Civic Context",
+      "historicalFact": "Bicholim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1047",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-4",
+    "assemblyConstituencyName": "Tivim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Tivim Civic Context",
+      "historicalFact": "Tivim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1048",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-5",
+    "assemblyConstituencyName": "Mapusa",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Mapusa Civic Context",
+      "historicalFact": "Mapusa is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1049",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-6",
+    "assemblyConstituencyName": "Siolim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Siolim Civic Context",
+      "historicalFact": "Siolim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1050",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-7",
+    "assemblyConstituencyName": "Saligao",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Saligao Civic Context",
+      "historicalFact": "Saligao is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1051",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-8",
+    "assemblyConstituencyName": "Calangute",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Calangute Civic Context",
+      "historicalFact": "Calangute is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1052",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-9",
+    "assemblyConstituencyName": "Porvorim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Porvorim Civic Context",
+      "historicalFact": "Porvorim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1053",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-10",
+    "assemblyConstituencyName": "Aldona",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Aldona Civic Context",
+      "historicalFact": "Aldona is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1054",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-11",
+    "assemblyConstituencyName": "Panaji",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Panaji Civic Context",
+      "historicalFact": "Panaji is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1055",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-12",
+    "assemblyConstituencyName": "Taleigao",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Taleigao Civic Context",
+      "historicalFact": "Taleigao is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1056",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-13",
+    "assemblyConstituencyName": "St. Cruz",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "St. Cruz Civic Context",
+      "historicalFact": "St. Cruz is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1057",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-14",
+    "assemblyConstituencyName": "St. Andre",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "St. Andre Civic Context",
+      "historicalFact": "St. Andre is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1058",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-15",
+    "assemblyConstituencyName": "Cumbarjua",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Cumbarjua Civic Context",
+      "historicalFact": "Cumbarjua is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1059",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-16",
+    "assemblyConstituencyName": "Maem",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Maem Civic Context",
+      "historicalFact": "Maem is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1060",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-17",
+    "assemblyConstituencyName": "Sanquelim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Sanquelim Civic Context",
+      "historicalFact": "Sanquelim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1061",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-18",
+    "assemblyConstituencyName": "Poriem",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Poriem Civic Context",
+      "historicalFact": "Poriem is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1062",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-19",
+    "assemblyConstituencyName": "Valpoi",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Valpoi Civic Context",
+      "historicalFact": "Valpoi is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1063",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-20",
+    "assemblyConstituencyName": "Priol",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Priol Civic Context",
+      "historicalFact": "Priol is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1064",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-21",
+    "assemblyConstituencyName": "Ponda",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Ponda Civic Context",
+      "historicalFact": "Ponda is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1065",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-22",
+    "assemblyConstituencyName": "Siroda",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Siroda Civic Context",
+      "historicalFact": "Siroda is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1066",
+    "stateName": "Goa",
+    "districtName": "North Goa",
+    "assemblyConstituencyCode": "AC-GA-23",
+    "assemblyConstituencyName": "Marcaim",
+    "crimeRate": "135.7 per 100k",
+    "crimeRatePerLakh": 135.7,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 329,
+    "regionalInsight": {
+      "title": "Marcaim Civic Context",
+      "historicalFact": "Marcaim is an influential economic and political constituency in North Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1067",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-24",
+    "assemblyConstituencyName": "Mormugao",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Mormugao Civic Context",
+      "historicalFact": "Mormugao is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1068",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-25",
+    "assemblyConstituencyName": "Vasco da Gama",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Vasco da Gama Civic Context",
+      "historicalFact": "Vasco da Gama is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1069",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-26",
+    "assemblyConstituencyName": "Dabolim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Dabolim Civic Context",
+      "historicalFact": "Dabolim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1070",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-27",
+    "assemblyConstituencyName": "Cortalim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Cortalim Civic Context",
+      "historicalFact": "Cortalim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1071",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-28",
+    "assemblyConstituencyName": "Nuvem",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Nuvem Civic Context",
+      "historicalFact": "Nuvem is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1072",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-29",
+    "assemblyConstituencyName": "Curtorim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Curtorim Civic Context",
+      "historicalFact": "Curtorim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1073",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-30",
+    "assemblyConstituencyName": "Fatorda",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Fatorda Civic Context",
+      "historicalFact": "Fatorda is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1074",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-31",
+    "assemblyConstituencyName": "Margao",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Margao Civic Context",
+      "historicalFact": "Margao is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1075",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-32",
+    "assemblyConstituencyName": "Benaulim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Benaulim Civic Context",
+      "historicalFact": "Benaulim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1076",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-33",
+    "assemblyConstituencyName": "Navelim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Navelim Civic Context",
+      "historicalFact": "Navelim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1077",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-34",
+    "assemblyConstituencyName": "Cuncolim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Cuncolim Civic Context",
+      "historicalFact": "Cuncolim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1078",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-35",
+    "assemblyConstituencyName": "Velim",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Velim Civic Context",
+      "historicalFact": "Velim is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1079",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-36",
+    "assemblyConstituencyName": "Quepem",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Quepem Civic Context",
+      "historicalFact": "Quepem is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1080",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-37",
+    "assemblyConstituencyName": "Curchorem",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Curchorem Civic Context",
+      "historicalFact": "Curchorem is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1081",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-38",
+    "assemblyConstituencyName": "Sanvordem",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Sanvordem Civic Context",
+      "historicalFact": "Sanvordem is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1082",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-39",
+    "assemblyConstituencyName": "Sanguem",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Sanguem Civic Context",
+      "historicalFact": "Sanguem is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_go_1083",
+    "stateName": "Goa",
+    "districtName": "South Goa",
+    "assemblyConstituencyCode": "AC-GA-40",
+    "assemblyConstituencyName": "Canacona",
+    "crimeRate": "128.7 per 100k",
+    "crimeRatePerLakh": 128.7,
+    "literacyRate": 91.5,
+    "literacyRatePercentage": 91.5,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Canacona Civic Context",
+      "historicalFact": "Canacona is an influential economic and political constituency in South Goa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

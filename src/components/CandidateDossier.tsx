@@ -1170,6 +1170,68 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         { party: "Bharatiya Janata Party", seats: 2, pct: 1.7 },
                                         { party: "Others", seats: 2, pct: 1.7 }
                                     ]
+                                },
+                                "Goa": {
+                                    totalAssembly: 40,
+                                    totalLokSabha: 2,
+                                    totalDistricts: 2,
+                                    majorityMark: 21,
+                                    currentRuler: "Bharatiya Janata Party",
+                                    partyColors: {
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Aam Aadmi Party": "#3b82f6",
+                                        "Maharashtrawadi Gomantak Party": "#10b981",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Bharatiya Janata Party", seats: 20, pct: 50.0 },
+                                        { party: "Indian National Congress", seats: 11, pct: 27.5 },
+                                        { party: "Aam Aadmi Party", seats: 2, pct: 5.0 },
+                                        { party: "Maharashtrawadi Gomantak Party", seats: 2, pct: 5.0 },
+                                        { party: "Others / Independents", seats: 5, pct: 12.5 }
+                                    ]
+                                },
+                                "Chhattisgarh": {
+                                    totalAssembly: 90,
+                                    totalLokSabha: 11,
+                                    totalDistricts: 33,
+                                    majorityMark: 46,
+                                    currentRuler: "Bharatiya Janata Party",
+                                    partyColors: {
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Gondwana Gantantra Party": "#10b981",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Bharatiya Janata Party", seats: 54, pct: 60.0 },
+                                        { party: "Indian National Congress", seats: 35, pct: 38.9 },
+                                        { party: "Gondwana Gantantra Party", seats: 1, pct: 1.1 }
+                                    ]
+                                },
+                                "Tamil Nadu": {
+                                    totalAssembly: 234,
+                                    totalLokSabha: 39,
+                                    totalDistricts: 38,
+                                    majorityMark: 118,
+                                    currentRuler: "DMK (Secular Progressive Alliance)",
+                                    partyColors: {
+                                        "Dravida Munnetra Kazhagam": "#ef4444",
+                                        "All India Anna Dravida Munnetra Kazhagam": "#16a34a",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Pattali Makkal Katchi": "#eab308",
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Dravida Munnetra Kazhagam", seats: 133, pct: 56.8 },
+                                        { party: "All India Anna Dravida Munnetra Kazhagam", seats: 66, pct: 28.2 },
+                                        { party: "Indian National Congress", seats: 18, pct: 7.7 },
+                                        { party: "Pattali Makkal Katchi", seats: 5, pct: 2.1 },
+                                        { party: "Bharatiya Janata Party", seats: 4, pct: 1.7 },
+                                        { party: "Others", seats: 8, pct: 3.5 }
+                                    ]
                                 }
                             };
 

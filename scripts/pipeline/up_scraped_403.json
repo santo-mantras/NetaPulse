@@ -1,0 +1,3226 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-1",
+    "constituency_name": "Behat",
+    "winner": "Umar Ali Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-2",
+    "constituency_name": "Nakur",
+    "winner": "Mukesh Choudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-3",
+    "constituency_name": "Saharanpur Nagar",
+    "winner": "Rajiv Gumber",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-4",
+    "constituency_name": "Saharanpur",
+    "winner": "Ashu Malik",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-5",
+    "constituency_name": "Deoband",
+    "winner": "Th. Brijesh Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-6",
+    "constituency_name": "Rampur Maniharan (SC)",
+    "winner": "Devendra Kumar Nim",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Saharanpur",
+    "constituency_code": "AC-UP-7",
+    "constituency_name": "Gangoh",
+    "winner": "Kirat Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shamli",
+    "constituency_code": "AC-UP-8",
+    "constituency_name": "Kairana",
+    "winner": "Nahid Hasan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shamli",
+    "constituency_code": "AC-UP-9",
+    "constituency_name": "Thana Bhawan",
+    "winner": "Ashraf Ali Khan",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shamli",
+    "constituency_code": "AC-UP-10",
+    "constituency_name": "Shamli",
+    "winner": "Persann Kumar Chaudhary",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-11",
+    "constituency_name": "Budhana",
+    "winner": "Rajpal Singh Baliyan",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-12",
+    "constituency_name": "Charthawal",
+    "winner": "Pankaj Kumar Malik",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-13",
+    "constituency_name": "Purqazi (SC)",
+    "winner": "Anil Kumar",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-14",
+    "constituency_name": "Muzaffarnagar",
+    "winner": "Kapil Dev Aggarwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-15",
+    "constituency_name": "Khatauli",
+    "winner": "Vikram Singh Saini",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Muzaffarnagar",
+    "constituency_code": "AC-UP-16",
+    "constituency_name": "Meerapur",
+    "winner": "Chandan Chauhan",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-17",
+    "constituency_name": "Najibabad",
+    "winner": "Tasleem Ahmad",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-18",
+    "constituency_name": "Nagina (SC)",
+    "winner": "Manoj Kumar Paras",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-19",
+    "constituency_name": "Barhapur",
+    "winner": "Kunwar Sushant Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-20",
+    "constituency_name": "Dhampur",
+    "winner": "Ashok Kumar Rana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-21",
+    "constituency_name": "Nehtaur (SC)",
+    "winner": "Om Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-22",
+    "constituency_name": "Bijnor",
+    "winner": "Suchi Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-23",
+    "constituency_name": "Chandpur",
+    "winner": "Swami Omvesh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bijnor",
+    "constituency_code": "AC-UP-24",
+    "constituency_name": "Noorpur",
+    "winner": "Ram Avatar Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-25",
+    "constituency_name": "Kanth",
+    "winner": "Kamal Akhtar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-26",
+    "constituency_name": "Thakurdwara",
+    "winner": "Nawab Jan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-27",
+    "constituency_name": "Moradabad Rural",
+    "winner": "Mohd Nasir Qureshi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-28",
+    "constituency_name": "Moradabad Nagar",
+    "winner": "Ritesh Kumar Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-29",
+    "constituency_name": "Kundarki",
+    "winner": "Zia ur Rahman Barq",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Moradabad",
+    "constituency_code": "AC-UP-30",
+    "constituency_name": "Bilari",
+    "winner": "Mohammed Faeem",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "constituency_code": "AC-UP-31",
+    "constituency_name": "Chandausi (SC)",
+    "winner": "Gulabo Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "constituency_code": "AC-UP-32",
+    "constituency_name": "Asmoli",
+    "winner": "Pinki Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "constituency_code": "AC-UP-33",
+    "constituency_name": "Sambhal",
+    "winner": "Iqbal Mehmood",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Rampur",
+    "constituency_code": "AC-UP-34",
+    "constituency_name": "Suar",
+    "winner": "Abdullah Azam Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Rampur",
+    "constituency_code": "AC-UP-35",
+    "constituency_name": "Chamraua",
+    "winner": "Naseer Ahmad Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Rampur",
+    "constituency_code": "AC-UP-36",
+    "constituency_name": "Bilaspur",
+    "winner": "Baldev Singh Aulakh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Rampur",
+    "constituency_code": "AC-UP-37",
+    "constituency_name": "Rampur",
+    "winner": "Azam Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Rampur",
+    "constituency_code": "AC-UP-38",
+    "constituency_name": "Milak (SC)",
+    "winner": "Rajbala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "constituency_code": "AC-UP-39",
+    "constituency_name": "Dhanaura (SC)",
+    "winner": "Rajeev Tarara",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "constituency_code": "AC-UP-40",
+    "constituency_name": "Naugawan Sadat",
+    "winner": "Samarpal Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "constituency_code": "AC-UP-41",
+    "constituency_name": "Amroha",
+    "winner": "Mehboob Ali",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amroha",
+    "constituency_code": "AC-UP-42",
+    "constituency_name": "Hasanpur",
+    "winner": "Mahender Khadakvanshi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-43",
+    "constituency_name": "Siwalkhas",
+    "winner": "Ghulam Mohammed",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-44",
+    "constituency_name": "Sardhana",
+    "winner": "Atul Pradhan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-45",
+    "constituency_name": "Hastinapur (SC)",
+    "winner": "Dinesh Khatik",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-46",
+    "constituency_name": "Kithore",
+    "winner": "Shahid Manzoor",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-47",
+    "constituency_name": "Meerut Cantt",
+    "winner": "Amit Agrawal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-48",
+    "constituency_name": "Meerut",
+    "winner": "Rafiq Ansari",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Meerut",
+    "constituency_code": "AC-UP-49",
+    "constituency_name": "Meerut South",
+    "winner": "Somendra Tomar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Baghpat",
+    "constituency_code": "AC-UP-50",
+    "constituency_name": "Chhaprauli",
+    "winner": "Ajay Kumar",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Baghpat",
+    "constituency_code": "AC-UP-51",
+    "constituency_name": "Baraut",
+    "winner": "Krishnapal Malik",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Baghpat",
+    "constituency_code": "AC-UP-52",
+    "constituency_name": "Baghpat",
+    "winner": "Chaudhary Yogesh Dhama",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "constituency_code": "AC-UP-53",
+    "constituency_name": "Loni",
+    "winner": "Nand Kishor Gurjar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "constituency_code": "AC-UP-54",
+    "constituency_name": "Muradnagar",
+    "winner": "Ajit Pal Tyagi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "constituency_code": "AC-UP-55",
+    "constituency_name": "Sahibabad",
+    "winner": "Sunil Kumar Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "constituency_code": "AC-UP-56",
+    "constituency_name": "Ghaziabad",
+    "winner": "Atul Garg",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghaziabad",
+    "constituency_code": "AC-UP-57",
+    "constituency_name": "Modinagar",
+    "winner": "Manju Shiwach",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hapur",
+    "constituency_code": "AC-UP-58",
+    "constituency_name": "Dhaulana",
+    "winner": "Dharmesh Singh Tomar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hapur",
+    "constituency_code": "AC-UP-59",
+    "constituency_name": "Hapur (SC)",
+    "winner": "Vijay Pal Aadthi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hapur",
+    "constituency_code": "AC-UP-60",
+    "constituency_name": "Garhmukteshwar",
+    "winner": "Harendra Singh Tewatia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "constituency_code": "AC-UP-61",
+    "constituency_name": "Noida",
+    "winner": "Pankaj Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "constituency_code": "AC-UP-62",
+    "constituency_name": "Dadri",
+    "winner": "Tejpal Singh Nagar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "constituency_code": "AC-UP-63",
+    "constituency_name": "Jewar",
+    "winner": "Dhirendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-64",
+    "constituency_name": "Sikandrabad",
+    "winner": "Lakshmi Raj Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-65",
+    "constituency_name": "Bulandshahr",
+    "winner": "Pradeep Kumar Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-66",
+    "constituency_name": "Syana",
+    "winner": "Devendra Singh Lodhi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-67",
+    "constituency_name": "Anupshahr",
+    "winner": "Sanjay Kumar Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-68",
+    "constituency_name": "Debai",
+    "winner": "Chandrapal Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-69",
+    "constituency_name": "Shikarpur",
+    "winner": "Anil Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bulandshahr",
+    "constituency_code": "AC-UP-70",
+    "constituency_name": "Khurja (SC)",
+    "winner": "Meenakshi Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-71",
+    "constituency_name": "Khair (SC)",
+    "winner": "Anoop Pradhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-72",
+    "constituency_name": "Barauli",
+    "winner": "Thakur Jaivir Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-73",
+    "constituency_name": "Atrauli",
+    "winner": "Sandeep Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-74",
+    "constituency_name": "Chharra",
+    "winner": "Ravendra Pal Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-75",
+    "constituency_name": "Koil",
+    "winner": "Anil Parashar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-76",
+    "constituency_name": "Aligarh",
+    "winner": "Mukta Raja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Aligarh",
+    "constituency_code": "AC-UP-77",
+    "constituency_name": "Iglas (SC)",
+    "winner": "Rajkumar Sahyogi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hathras",
+    "constituency_code": "AC-UP-78",
+    "constituency_name": "Hathras (SC)",
+    "winner": "Anjula Singh Mahaur",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hathras",
+    "constituency_code": "AC-UP-79",
+    "constituency_name": "Sadabad",
+    "winner": "Pradeep Kumar Singh",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hathras",
+    "constituency_code": "AC-UP-80",
+    "constituency_name": "Sikandra Rao",
+    "winner": "Birendra Singh Rana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "constituency_code": "AC-UP-81",
+    "constituency_name": "Chhata",
+    "winner": "Ch. Laxmi Narayan Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "constituency_code": "AC-UP-82",
+    "constituency_name": "Mant",
+    "winner": "Rajesh Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "constituency_code": "AC-UP-83",
+    "constituency_name": "Goverdhan",
+    "winner": "Karinda Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "constituency_code": "AC-UP-84",
+    "constituency_name": "Mathura",
+    "winner": "Shrikant Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mathura",
+    "constituency_code": "AC-UP-85",
+    "constituency_name": "Baldev (SC)",
+    "winner": "Pooran Prakash",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-86",
+    "constituency_name": "Etmadpur",
+    "winner": "Dharampal Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-87",
+    "constituency_name": "Agra Cantonment (SC)",
+    "winner": "G S Dharmesh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-88",
+    "constituency_name": "Agra South",
+    "winner": "Yogendra Upadhyaya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-89",
+    "constituency_name": "Agra North",
+    "winner": "Purushottam Khandelwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-90",
+    "constituency_name": "Agra Rural (SC)",
+    "winner": "Baby Rani Maurya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-91",
+    "constituency_name": "Fatehpur Sikri",
+    "winner": "Babulal Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-92",
+    "constituency_name": "Kheragarh",
+    "winner": "Bhagwan Singh Kushwaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-93",
+    "constituency_name": "Fatehabad",
+    "winner": "Chotelal Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "constituency_code": "AC-UP-94",
+    "constituency_name": "Bah",
+    "winner": "Rani Pakshalika Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Firozabad",
+    "constituency_code": "AC-UP-95",
+    "constituency_name": "Tundla (SC)",
+    "winner": "Prempal Singh Dhangar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Firozabad",
+    "constituency_code": "AC-UP-96",
+    "constituency_name": "Jasrana",
+    "winner": "Sachin Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Firozabad",
+    "constituency_code": "AC-UP-97",
+    "constituency_name": "Firozabad",
+    "winner": "Manish Asiza",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Firozabad",
+    "constituency_code": "AC-UP-98",
+    "constituency_name": "Shikohabad",
+    "winner": "Mukesh Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Firozabad",
+    "constituency_code": "AC-UP-99",
+    "constituency_name": "Sirsaganj",
+    "winner": "Sarvesh Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kasganj",
+    "constituency_code": "AC-UP-100",
+    "constituency_name": "Kasganj",
+    "winner": "Devendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kasganj",
+    "constituency_code": "AC-UP-101",
+    "constituency_name": "Amanpur",
+    "winner": "Hariom Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kasganj",
+    "constituency_code": "AC-UP-102",
+    "constituency_name": "Patiyali",
+    "winner": "Nadira Sultan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etah",
+    "constituency_code": "AC-UP-103",
+    "constituency_name": "Aliganj",
+    "winner": "Satyapal Singh Rathore",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etah",
+    "constituency_code": "AC-UP-104",
+    "constituency_name": "Etah",
+    "winner": "Vipin Kumar David",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etah",
+    "constituency_code": "AC-UP-105",
+    "constituency_name": "Marhara",
+    "winner": "Virendra Singh Lodhi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etah",
+    "constituency_code": "AC-UP-106",
+    "constituency_name": "Jalesar",
+    "winner": "Sanjeev Kumar Diwakar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mainpuri",
+    "constituency_code": "AC-UP-107",
+    "constituency_name": "Mainpuri",
+    "winner": "Jaiveer Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mainpuri",
+    "constituency_code": "AC-UP-108",
+    "constituency_name": "Bhongaon",
+    "winner": "Ram Naresh Agnihotri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mainpuri",
+    "constituency_code": "AC-UP-109",
+    "constituency_name": "Kishni (SC)",
+    "winner": "Brajesh Katheriya",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mainpuri",
+    "constituency_code": "AC-UP-110",
+    "constituency_name": "Karhal",
+    "winner": "Akhilesh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sambhal",
+    "constituency_code": "AC-UP-111",
+    "constituency_name": "Gunnaur",
+    "winner": "Ramkhiladi Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-112",
+    "constituency_name": "Bisauli (SC)",
+    "winner": "Ashutosh Maurya",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-113",
+    "constituency_name": "Sahaswan",
+    "winner": "Brajesh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-114",
+    "constituency_name": "Bilsi",
+    "winner": "Harish Chandra Shakya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-115",
+    "constituency_name": "Badaun",
+    "winner": "Mahesh Chandra Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-116",
+    "constituency_name": "Shekhupur",
+    "winner": "Himanshu Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Budaun",
+    "constituency_code": "AC-UP-117",
+    "constituency_name": "Dataganj",
+    "winner": "Rajeev Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-118",
+    "constituency_name": "Baheri",
+    "winner": "Ataur Rehman",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-119",
+    "constituency_name": "Meerganj",
+    "winner": "DC Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-120",
+    "constituency_name": "Bhojipura",
+    "winner": "Shazil Islam Ansari",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-121",
+    "constituency_name": "Nawabganj",
+    "winner": "Dr. M. P. Arya Gangwar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-122",
+    "constituency_name": "Faridpur (SC)",
+    "winner": "Shyam Bihari Lal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-123",
+    "constituency_name": "Bithari Chainpur",
+    "winner": "Raghavendra Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-124",
+    "constituency_name": "Bareilly",
+    "winner": "Dr. Arun Kumar Saxena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-125",
+    "constituency_name": "Bareilly Cantt",
+    "winner": "Sanjeev Agarwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bareilly",
+    "constituency_code": "AC-UP-126",
+    "constituency_name": "Aonla",
+    "winner": "Dharampal Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pilibhit",
+    "constituency_code": "AC-UP-127",
+    "constituency_name": "Pilibhit",
+    "winner": "Sanjay Singh Gangwar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pilibhit",
+    "constituency_code": "AC-UP-128",
+    "constituency_name": "Barkhera",
+    "winner": "Swami Pravaktanand",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pilibhit",
+    "constituency_code": "AC-UP-129",
+    "constituency_name": "Puranpur (SC)",
+    "winner": "Babu Ram Paswan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pilibhit",
+    "constituency_code": "AC-UP-130",
+    "constituency_name": "Bisalpur",
+    "winner": "Vivek Kumar Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-131",
+    "constituency_name": "Katra",
+    "winner": "Veer Vikram Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-132",
+    "constituency_name": "Jalalabad",
+    "winner": "Hari Prakash Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-133",
+    "constituency_name": "Tilhar",
+    "winner": "Salona Kushwaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-134",
+    "constituency_name": "Powayan (SC)",
+    "winner": "Chetram Pasi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-135",
+    "constituency_name": "Shahjahanpur",
+    "winner": "Suresh Kumar Khanna",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shahjahanpur",
+    "constituency_code": "AC-UP-136",
+    "constituency_name": "Dadraul",
+    "winner": "Manvendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-137",
+    "constituency_name": "Palia",
+    "winner": "Harvindar Kumar Sahani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-138",
+    "constituency_name": "Nighasan",
+    "winner": "Shashank Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-139",
+    "constituency_name": "Gola Gokrannath",
+    "winner": "Arvind Giri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-140",
+    "constituency_name": "Sri Nagar (SC)",
+    "winner": "Manju Tyagi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-141",
+    "constituency_name": "Dhaurahra",
+    "winner": "Vinod Shankar Awasthi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-142",
+    "constituency_name": "Lakhimpur",
+    "winner": "Yogesh Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-143",
+    "constituency_name": "Kasta (SC)",
+    "winner": "Saurabh Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lakhimpur Kheri",
+    "constituency_code": "AC-UP-144",
+    "constituency_name": "Mohammdi",
+    "winner": "Lokendra Pratap Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-145",
+    "constituency_name": "Maholi",
+    "winner": "Shashank Trivedi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-146",
+    "constituency_name": "Sitapur",
+    "winner": "Rakesh Rathour",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-147",
+    "constituency_name": "Hargaon (SC)",
+    "winner": "Suresh Rahi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-148",
+    "constituency_name": "Laharpur",
+    "winner": "Anil Kumar Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-149",
+    "constituency_name": "Biswan",
+    "winner": "Nirmal Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-150",
+    "constituency_name": "Sevata",
+    "winner": "Gyan Tiwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-151",
+    "constituency_name": "Mahmoodabad",
+    "winner": "Asha Maurya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-152",
+    "constituency_name": "Sidhauli (SC)",
+    "winner": "Manish Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sitapur",
+    "constituency_code": "AC-UP-153",
+    "constituency_name": "Misrikh (SC)",
+    "winner": "Ramkrishna Bhargava",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-154",
+    "constituency_name": "Sawayazpur",
+    "winner": "Madhavendra Pratap",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-155",
+    "constituency_name": "Shahabad",
+    "winner": "Rajani Tiwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-156",
+    "constituency_name": "Hardoi",
+    "winner": "Nitin Agarwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-157",
+    "constituency_name": "Gopamau (SC)",
+    "winner": "Shyam Prakash",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-158",
+    "constituency_name": "Sandi (SC)",
+    "winner": "Prabhash Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-159",
+    "constituency_name": "Bilgram-Mallanwan",
+    "winner": "Ashish Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-160",
+    "constituency_name": "Balamau (SC)",
+    "winner": "Ram Pal Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hardoi",
+    "constituency_code": "AC-UP-161",
+    "constituency_name": "Sandila",
+    "winner": "Alka Singh Arkvanshi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-162",
+    "constituency_name": "Bangarmau",
+    "winner": "Shrikant Katiyar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-163",
+    "constituency_name": "Safipur (SC)",
+    "winner": "Bamba Lal Diwakar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-164",
+    "constituency_name": "Mohan (SC)",
+    "winner": "Brijesh Kumar Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-165",
+    "constituency_name": "Unnao",
+    "winner": "Pankaj Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-166",
+    "constituency_name": "Bhagwantnagar",
+    "winner": "Ashutosh Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Unnao",
+    "constituency_code": "AC-UP-167",
+    "constituency_name": "Purwa",
+    "winner": "Anil Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-168",
+    "constituency_name": "Malihabad (SC)",
+    "winner": "Jai Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-169",
+    "constituency_name": "Bakshi Kaa Talab",
+    "winner": "Yogesh Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-170",
+    "constituency_name": "Sarojini Nagar",
+    "winner": "Rajeshwar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-171",
+    "constituency_name": "Lucknow West",
+    "winner": "Armaan Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-172",
+    "constituency_name": "Lucknow North",
+    "winner": "Neeraj Bora",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-173",
+    "constituency_name": "Lucknow East",
+    "winner": "Ashutosh Tandon",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-174",
+    "constituency_name": "Lucknow Central",
+    "winner": "Ravidas Mehotra",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-175",
+    "constituency_name": "Lucknow Cantonment",
+    "winner": "Brajesh Pathak",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "constituency_code": "AC-UP-176",
+    "constituency_name": "Mohanlalganj (SC)",
+    "winner": "Amresh Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-177",
+    "constituency_name": "Bachhrawan (SC)",
+    "winner": "Shyam Sunder Bharti",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amethi",
+    "constituency_code": "AC-UP-178",
+    "constituency_name": "Tiloi",
+    "winner": "Mayankeshwar Sharan Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-179",
+    "constituency_name": "Harchandpur",
+    "winner": "Rahul Rajpoot",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-180",
+    "constituency_name": "Rae Bareli",
+    "winner": "Aditi Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-181",
+    "constituency_name": "Salon (SC)",
+    "winner": "Ashok Kori",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-182",
+    "constituency_name": "Sareni",
+    "winner": "Devendra Pratap Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Raebareli",
+    "constituency_code": "AC-UP-183",
+    "constituency_name": "Unchahar",
+    "winner": "Manoj Kumar Pandey",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amethi",
+    "constituency_code": "AC-UP-184",
+    "constituency_name": "Jagdishpur (SC)",
+    "winner": "Suresh Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amethi",
+    "constituency_code": "AC-UP-185",
+    "constituency_name": "Gauriganj",
+    "winner": "Rakesh Pratap Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Amethi",
+    "constituency_code": "AC-UP-186",
+    "constituency_name": "Amethi",
+    "winner": "Maharaji Prajapati",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "constituency_code": "AC-UP-187",
+    "constituency_name": "Isauli",
+    "winner": "Mohammad Tahir Khan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "constituency_code": "AC-UP-188",
+    "constituency_name": "Sultanpur",
+    "winner": "Vinod Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "constituency_code": "AC-UP-189",
+    "constituency_name": "Sadar",
+    "winner": "Raj Prasad Upadhyay",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "constituency_code": "AC-UP-190",
+    "constituency_name": "Lambhua",
+    "winner": "Sitaram Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sultanpur",
+    "constituency_code": "AC-UP-191",
+    "constituency_name": "Kadipur (SC)",
+    "winner": "Rajesh Gautam",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Farrukhabad",
+    "constituency_code": "AC-UP-192",
+    "constituency_name": "Kaimganj",
+    "winner": "Dr. Surabhi Singh",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Farrukhabad",
+    "constituency_code": "AC-UP-193",
+    "constituency_name": "Amritpur",
+    "winner": "Sushil Kumar Shakya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Farrukhabad",
+    "constituency_code": "AC-UP-194",
+    "constituency_name": "Farrukhabad",
+    "winner": "Sunil Dutt Dwivedi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Farrukhabad",
+    "constituency_code": "AC-UP-195",
+    "constituency_name": "Bhojpur",
+    "winner": "Nagendra Singh Rathore",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kannauj",
+    "constituency_code": "AC-UP-196",
+    "constituency_name": "Chhibramau",
+    "winner": "Archana Pandey",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kannauj",
+    "constituency_code": "AC-UP-197",
+    "constituency_name": "Tirwa",
+    "winner": "Kailash Singh Rajput",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kannauj",
+    "constituency_code": "AC-UP-198",
+    "constituency_name": "Kannauj (SC)",
+    "winner": "Asim Arun",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etawah",
+    "constituency_code": "AC-UP-199",
+    "constituency_name": "Jaswantnagar",
+    "winner": "Shivpal Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etawah",
+    "constituency_code": "AC-UP-200",
+    "constituency_name": "Etawah",
+    "winner": "Sarita Bhadauria",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Etawah",
+    "constituency_code": "AC-UP-201",
+    "constituency_name": "Bharthana (SC)",
+    "winner": "Raghvendra Kumar Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Auraiya",
+    "constituency_code": "AC-UP-202",
+    "constituency_name": "Bidhuna",
+    "winner": "Rekha Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Auraiya",
+    "constituency_code": "AC-UP-203",
+    "constituency_name": "Dibiyapur",
+    "winner": "Pradeep Kumar Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Auraiya",
+    "constituency_code": "AC-UP-204",
+    "constituency_name": "Auraiya (SC)",
+    "winner": "Gudiya Katheriya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Dehat",
+    "constituency_code": "AC-UP-205",
+    "constituency_name": "Rasulabad (SC)",
+    "winner": "Poonam Sankhwar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Dehat",
+    "constituency_code": "AC-UP-206",
+    "constituency_name": "Akbarpur-Raniya",
+    "winner": "Pratibha Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Dehat",
+    "constituency_code": "AC-UP-207",
+    "constituency_name": "Sikandra",
+    "winner": "Ajit Singh Pal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Dehat",
+    "constituency_code": "AC-UP-208",
+    "constituency_name": "Bhognipur",
+    "winner": "Rakesh Sachan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-209",
+    "constituency_name": "Bilhaur (SC)",
+    "winner": "Rahul Bachha Sonkar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-210",
+    "constituency_name": "Bithoor",
+    "winner": "Abhijeet Singh Sanga",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-211",
+    "constituency_name": "Kalyanpur",
+    "winner": "Neelima Katiyar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-212",
+    "constituency_name": "Govindnagar",
+    "winner": "Surendra Maithani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-213",
+    "constituency_name": "Sishamau",
+    "winner": "Haji Irfan Solanki",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-214",
+    "constituency_name": "Arya Nagar",
+    "winner": "Amitabh Bajpai",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-215",
+    "constituency_name": "Kidwai Nagar",
+    "winner": "Mahesh Trivedi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-216",
+    "constituency_name": "Kanpur Cantonment",
+    "winner": "Mohammed Hasan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-217",
+    "constituency_name": "Maharajpur",
+    "winner": "Satish Mahana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "constituency_code": "AC-UP-218",
+    "constituency_name": "Ghatampur (SC)",
+    "winner": "Saroj Kureel",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jalaun",
+    "constituency_code": "AC-UP-219",
+    "constituency_name": "Madhogarh",
+    "winner": "Moolchandra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jalaun",
+    "constituency_code": "AC-UP-220",
+    "constituency_name": "Kalpi",
+    "winner": "Vinod Chaturvedi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jalaun",
+    "constituency_code": "AC-UP-221",
+    "constituency_name": "Orai (SC)",
+    "winner": "Gauri Shankar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "constituency_code": "AC-UP-222",
+    "constituency_name": "Babina",
+    "winner": "Rajeev Singh Parichha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "constituency_code": "AC-UP-223",
+    "constituency_name": "Jhansi Nagar",
+    "winner": "Ravi Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "constituency_code": "AC-UP-224",
+    "constituency_name": "Mauranipur (SC)",
+    "winner": "Rashmi Arya",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "constituency_code": "AC-UP-225",
+    "constituency_name": "Garautha",
+    "winner": "Jawahar Lal Rajput",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lalitpur",
+    "constituency_code": "AC-UP-226",
+    "constituency_name": "Lalitpur",
+    "winner": "Ramratan Kushwaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Lalitpur",
+    "constituency_code": "AC-UP-227",
+    "constituency_name": "Mehroni (SC)",
+    "winner": "Manohar Lal Panth",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hamirpur",
+    "constituency_code": "AC-UP-228",
+    "constituency_name": "Hamirpur",
+    "winner": "Manoj Kumar Prajapati",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Hamirpur",
+    "constituency_code": "AC-UP-229",
+    "constituency_name": "Rath (SC)",
+    "winner": "Manisha Anuragi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mahoba",
+    "constituency_code": "AC-UP-230",
+    "constituency_name": "Mahoba",
+    "winner": "Rakesh Kumar Goswami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mahoba",
+    "constituency_code": "AC-UP-231",
+    "constituency_name": "Charkhari",
+    "winner": "Brijbhushan Rajpoot",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Banda",
+    "constituency_code": "AC-UP-232",
+    "constituency_name": "Tindwari",
+    "winner": "Ramakesh Nishad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Banda",
+    "constituency_code": "AC-UP-233",
+    "constituency_name": "Baberu",
+    "winner": "Vishambhar Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Banda",
+    "constituency_code": "AC-UP-234",
+    "constituency_name": "Naraini (SC)",
+    "winner": "Ommani Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Banda",
+    "constituency_code": "AC-UP-235",
+    "constituency_name": "Banda",
+    "winner": "Prakash Dwivedi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chitrakoot",
+    "constituency_code": "AC-UP-236",
+    "constituency_name": "Chitrakoot",
+    "winner": "Anil Pradhan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chitrakoot",
+    "constituency_code": "AC-UP-237",
+    "constituency_name": "Manikpur",
+    "winner": "Avinash Chandra Dwivedi",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-238",
+    "constituency_name": "Jahanabad",
+    "winner": "Rajendra Singh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-239",
+    "constituency_name": "Bindki",
+    "winner": "Jai Kumar Singh Jaiki",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-240",
+    "constituency_name": "Fatehpur",
+    "winner": "Chandra Prakash Lodhi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-241",
+    "constituency_name": "Ayah Shah",
+    "winner": "Vikas Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-242",
+    "constituency_name": "Husainganj",
+    "winner": "Usha Maurya",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Fatehpur",
+    "constituency_code": "AC-UP-243",
+    "constituency_name": "Khaga (SC)",
+    "winner": "Krishna Paswan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-244",
+    "constituency_name": "Rampur Khas",
+    "winner": "Aradhana Misra Mona",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-245",
+    "constituency_name": "Babaganj (SC)",
+    "winner": "Vinod Kumar",
+    "party": "JD(L)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-246",
+    "constituency_name": "Kunda",
+    "winner": "Raghuraj Pratap Singh",
+    "party": "JD(L)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-247",
+    "constituency_name": "Vishwanathganj",
+    "winner": "Jeet Lal Patel",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-248",
+    "constituency_name": "Pratapgarh",
+    "winner": "Rajendra Maurya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-249",
+    "constituency_name": "Patti",
+    "winner": "Ram Singh Patel",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-UP-250",
+    "constituency_name": "Raniganj",
+    "winner": "Rakesh Kumar Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kaushambi",
+    "constituency_code": "AC-UP-251",
+    "constituency_name": "Sirathu",
+    "winner": "Pallavi Patel",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kaushambi",
+    "constituency_code": "AC-UP-252",
+    "constituency_name": "Manjhanpur (SC)",
+    "winner": "Indrajit Saroj",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kaushambi",
+    "constituency_code": "AC-UP-253",
+    "constituency_name": "Chail",
+    "winner": "Pooja Pal",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-254",
+    "constituency_name": "Phaphamau",
+    "winner": "Guru Prasad Maurya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-255",
+    "constituency_name": "Soraon (SC)",
+    "winner": "Geeta Shastri",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-256",
+    "constituency_name": "Phulpur",
+    "winner": "Praveen Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-257",
+    "constituency_name": "Pratappur",
+    "winner": "Vijama Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-258",
+    "constituency_name": "Handia",
+    "winner": "Hakim Lal Bind",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-259",
+    "constituency_name": "Meja",
+    "winner": "Sandeep Singh Patel",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-260",
+    "constituency_name": "Karachhana",
+    "winner": "Piyush Ranjan Nishad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-261",
+    "constituency_name": "Allahabad West",
+    "winner": "Sidharth Nath Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-262",
+    "constituency_name": "Allahabad North",
+    "winner": "Harshvardhan Bajpai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-263",
+    "constituency_name": "Allahabad South",
+    "winner": "Nand Gopal Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-264",
+    "constituency_name": "Bara (SC)",
+    "winner": "Vachaspati",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "constituency_code": "AC-UP-265",
+    "constituency_name": "Koraon (SC)",
+    "winner": "Rajmani Kol",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-266",
+    "constituency_name": "Kursi",
+    "winner": "Sakendra Pratap Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-267",
+    "constituency_name": "Ramnagar",
+    "winner": "Fareed Mahfooz Kidwai",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-268",
+    "constituency_name": "Barabanki",
+    "winner": "Dharmraj Singh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-269",
+    "constituency_name": "Zaidpur (SC)",
+    "winner": "Gaurav Kumar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-270",
+    "constituency_name": "Dariyabad",
+    "winner": "Satish Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "constituency_code": "AC-UP-271",
+    "constituency_name": "Rudauli",
+    "winner": "Ram Chandra Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Barabanki",
+    "constituency_code": "AC-UP-272",
+    "constituency_name": "Haidergarh (SC)",
+    "winner": "Dinesh Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "constituency_code": "AC-UP-273",
+    "constituency_name": "Milkipur (SC)",
+    "winner": "Awadhesh Prasad",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "constituency_code": "AC-UP-274",
+    "constituency_name": "Bikapur",
+    "winner": "Amit Singh Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "constituency_code": "AC-UP-275",
+    "constituency_name": "Ayodhya",
+    "winner": "Ved Prakash Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ayodhya",
+    "constituency_code": "AC-UP-276",
+    "constituency_name": "Goshainganj",
+    "winner": "Abhay Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "constituency_code": "AC-UP-277",
+    "constituency_name": "Katehari",
+    "winner": "Lalji Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "constituency_code": "AC-UP-278",
+    "constituency_name": "Tanda",
+    "winner": "Ram Murti Verma",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "constituency_code": "AC-UP-279",
+    "constituency_name": "Alapur (SC)",
+    "winner": "Tribhuwan Dutt",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "constituency_code": "AC-UP-280",
+    "constituency_name": "Jalalpur",
+    "winner": "Rakesh Pandey",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ambedkar Nagar",
+    "constituency_code": "AC-UP-281",
+    "constituency_name": "Akbarpur",
+    "winner": "Ram Achal Rajbhar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-282",
+    "constituency_name": "Balha (SC)",
+    "winner": "Saroj Sonkar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-283",
+    "constituency_name": "Nanpara",
+    "winner": "Ram Niwas Verma",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-284",
+    "constituency_name": "Matera",
+    "winner": "Mariya Shah",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-285",
+    "constituency_name": "Mahasi",
+    "winner": "Sureshwar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-286",
+    "constituency_name": "Bahraich",
+    "winner": "Anupma Jaiswal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-287",
+    "constituency_name": "Payagpur",
+    "winner": "Subhash Tripathi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bahraich",
+    "constituency_code": "AC-UP-288",
+    "constituency_name": "Kaiserganj",
+    "winner": "Anand Kumar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shrawasti",
+    "constituency_code": "AC-UP-289",
+    "constituency_name": "Bhinga",
+    "winner": "Indrani Devi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Shrawasti",
+    "constituency_code": "AC-UP-290",
+    "constituency_name": "Shrawasti",
+    "winner": "Ram Feran Pandey",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Balrampur",
+    "constituency_code": "AC-UP-291",
+    "constituency_name": "Tulsipur",
+    "winner": "Kailash Nath Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Balrampur",
+    "constituency_code": "AC-UP-292",
+    "constituency_name": "Gainsari",
+    "winner": "Shiv Pratap Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Balrampur",
+    "constituency_code": "AC-UP-293",
+    "constituency_name": "Utraula",
+    "winner": "Ram Pratap Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Balrampur",
+    "constituency_code": "AC-UP-294",
+    "constituency_name": "Balrampur (SC)",
+    "winner": "Paltu Ram",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-295",
+    "constituency_name": "Mehnaun",
+    "winner": "Vinay Kumar Dwivedi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-296",
+    "constituency_name": "Gonda",
+    "winner": "Prateek Bhushan Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-297",
+    "constituency_name": "Katra Bazar",
+    "winner": "Bawan Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-298",
+    "constituency_name": "Colonelganj",
+    "winner": "Ajay",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-299",
+    "constituency_name": "Tarabganj",
+    "winner": "Prem Narayan Pandey",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-300",
+    "constituency_name": "Mankapur (SC)",
+    "winner": "Ramapati Shastri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gonda",
+    "constituency_code": "AC-UP-301",
+    "constituency_name": "Gaura",
+    "winner": "Prabhat Kumar Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Siddharthnagar",
+    "constituency_code": "AC-UP-302",
+    "constituency_name": "Shohratgarh",
+    "winner": "Vinay Verma",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Siddharthnagar",
+    "constituency_code": "AC-UP-303",
+    "constituency_name": "Kapilvastu (SC)",
+    "winner": "Shyam Dhani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Siddharthnagar",
+    "constituency_code": "AC-UP-304",
+    "constituency_name": "Bansi",
+    "winner": "Jai Pratap Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Siddharthnagar",
+    "constituency_code": "AC-UP-305",
+    "constituency_name": "Itwa",
+    "winner": "Mata Prasad Pandey",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Siddharthnagar",
+    "constituency_code": "AC-UP-306",
+    "constituency_name": "Domariyaganj",
+    "winner": "Saiyada Khatoon",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "constituency_code": "AC-UP-307",
+    "constituency_name": "Harraiya",
+    "winner": "Ajay Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "constituency_code": "AC-UP-308",
+    "constituency_name": "Kaptanganj",
+    "winner": "Kavindra Chaudhary",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "constituency_code": "AC-UP-309",
+    "constituency_name": "Rudhauli",
+    "winner": "Rajendra Prasad Chaudhary",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "constituency_code": "AC-UP-310",
+    "constituency_name": "Basti Sadar",
+    "winner": "Mahendra Nath Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Basti",
+    "constituency_code": "AC-UP-311",
+    "constituency_name": "Mahadewa (SC)",
+    "winner": "Dudhram",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sant Kabir Nagar",
+    "constituency_code": "AC-UP-312",
+    "constituency_name": "Menhdawal",
+    "winner": "Anil Kumar Tripathi",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sant Kabir Nagar",
+    "constituency_code": "AC-UP-313",
+    "constituency_name": "Khalilabad",
+    "winner": "Ankur Raj Tiwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sant Kabir Nagar",
+    "constituency_code": "AC-UP-314",
+    "constituency_name": "Dhanghata (SC)",
+    "winner": "Ganesh Chandra Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "constituency_code": "AC-UP-315",
+    "constituency_name": "Pharenda",
+    "winner": "Virendra Chaudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "constituency_code": "AC-UP-316",
+    "constituency_name": "Nautanwa",
+    "winner": "Rishi Tripathi",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "constituency_code": "AC-UP-317",
+    "constituency_name": "Siswa",
+    "winner": "Prem Sagar Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "constituency_code": "AC-UP-318",
+    "constituency_name": "Maharajganj (SC)",
+    "winner": "Jai Mangal Kanojiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Maharajganj",
+    "constituency_code": "AC-UP-319",
+    "constituency_name": "Paniyara",
+    "winner": "Gyanendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-320",
+    "constituency_name": "Caimpiyarganj",
+    "winner": "Fateh Bahadur Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-321",
+    "constituency_name": "Pipraich",
+    "winner": "Mahendra Pal Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-322",
+    "constituency_name": "Gorakhpur Urban",
+    "winner": "Yogi Adityanath",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-323",
+    "constituency_name": "Gorakhpur Rural",
+    "winner": "Bipin Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-324",
+    "constituency_name": "Sahajanwa",
+    "winner": "Pradeep Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-325",
+    "constituency_name": "Khajani (SC)",
+    "winner": "Sriram Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-326",
+    "constituency_name": "Chauri-Chaura",
+    "winner": "Sarvan Kumar Nishad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-327",
+    "constituency_name": "Bansgaon (SC)",
+    "winner": "Vimlesh Paswan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Gorakhpur",
+    "constituency_code": "AC-UP-328",
+    "constituency_name": "Chillupar",
+    "winner": "Rajesh Tripathi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-329",
+    "constituency_name": "Khadda",
+    "winner": "Vivekanand Pandey",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-330",
+    "constituency_name": "Padrauna",
+    "winner": "Manish Jaiswal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-331",
+    "constituency_name": "Tamkuhi Raj",
+    "winner": "Asim Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-332",
+    "constituency_name": "Fazilnagar",
+    "winner": "Surendra Kumar Kushwaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-333",
+    "constituency_name": "Kushinagar",
+    "winner": "Panchanand Pathak",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-334",
+    "constituency_name": "Hata",
+    "winner": "Mohan Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Kushinagar",
+    "constituency_code": "AC-UP-335",
+    "constituency_name": "Ramkola (SC)",
+    "winner": "Vinay Prakash Gond",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-336",
+    "constituency_name": "Rudrapur",
+    "winner": "Jai Prakash Nishad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-337",
+    "constituency_name": "Deoria",
+    "winner": "Shalabh Mani Tripathi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-338",
+    "constituency_name": "Pathardeva",
+    "winner": "Surya Pratap Shahi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-339",
+    "constituency_name": "Rampur Karkhana",
+    "winner": "Surendra Chaurasia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-340",
+    "constituency_name": "Bhatpar Rani",
+    "winner": "Sabhakunwar Kushawaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-341",
+    "constituency_name": "Salempur (SC)",
+    "winner": "Vijay Laxmi Gautam",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Deoria",
+    "constituency_code": "AC-UP-342",
+    "constituency_name": "Barhaj",
+    "winner": "Deepak Kumar Mishra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-343",
+    "constituency_name": "Atrauliya",
+    "winner": "Sangram Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-344",
+    "constituency_name": "Gopalpur",
+    "winner": "Nafees Ahmad",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-345",
+    "constituency_name": "Sagri",
+    "winner": "Hriday Narayan Singh Patel",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-346",
+    "constituency_name": "Mubarakpur",
+    "winner": "Akhilesh Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-347",
+    "constituency_name": "Azamgarh",
+    "winner": "Durga Prasad Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-348",
+    "constituency_name": "Nizamabad",
+    "winner": "Alambadi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-349",
+    "constituency_name": "Phoolpur Pawai",
+    "winner": "Ramakant Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-350",
+    "constituency_name": "Didarganj",
+    "winner": "Kamlakant Rajbhar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-351",
+    "constituency_name": "Lalganj (SC)",
+    "winner": "Bechai Saroj",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Azamgarh",
+    "constituency_code": "AC-UP-352",
+    "constituency_name": "Mehnagar (SC)",
+    "winner": "Puja Saroj",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "constituency_code": "AC-UP-353",
+    "constituency_name": "Madhuban",
+    "winner": "Ram Bilash Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "constituency_code": "AC-UP-354",
+    "constituency_name": "Ghosi",
+    "winner": "Dara Singh Chauhan",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "constituency_code": "AC-UP-355",
+    "constituency_name": "Muhammadabad-Gohna (SC)",
+    "winner": "Rajendra Kumar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "constituency_code": "AC-UP-356",
+    "constituency_name": "Mau",
+    "winner": "Abbas Ansari",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-357",
+    "constituency_name": "Belthara Road (SC)",
+    "winner": "Hansu Ram",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-358",
+    "constituency_name": "Rasara",
+    "winner": "Umashankar Singh",
+    "party": "Bahujan Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-359",
+    "constituency_name": "Sikanderpur",
+    "winner": "Mohammed Ziauddin Rizvi",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-360",
+    "constituency_name": "Phephana",
+    "winner": "Sangram Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-361",
+    "constituency_name": "Ballia Nagar",
+    "winner": "Daya Shankar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-362",
+    "constituency_name": "Bansdih",
+    "winner": "Ketakee Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ballia",
+    "constituency_code": "AC-UP-363",
+    "constituency_name": "Bairia",
+    "winner": "Jai Prakash Anchal",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-364",
+    "constituency_name": "Badlapur",
+    "winner": "Ramesh Chandra Mishra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-365",
+    "constituency_name": "Shahganj",
+    "winner": "Ramesh Singh",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-366",
+    "constituency_name": "Jaunpur",
+    "winner": "Girish Chandra Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-367",
+    "constituency_name": "Malhani",
+    "winner": "Lucky Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-368",
+    "constituency_name": "Mungra Badshahpur",
+    "winner": "Pankaj Patel",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-369",
+    "constituency_name": "Machhlishahr (SC)",
+    "winner": "Ragini Sonkar",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-370",
+    "constituency_name": "Mariyahu",
+    "winner": "R.K. Patel",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-371",
+    "constituency_name": "Zafrabad",
+    "winner": "Jagdish Narayan",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Jaunpur",
+    "constituency_code": "AC-UP-372",
+    "constituency_name": "Kerakat (SC)",
+    "winner": "Tufani Saroj",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-373",
+    "constituency_name": "Jakhanian (SC)",
+    "winner": "Triveni Ram",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-374",
+    "constituency_name": "Saidpur (SC)",
+    "winner": "Ankit Bharti",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-375",
+    "constituency_name": "Ghazipur Sadar",
+    "winner": "Jai Kishan Sahu",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-376",
+    "constituency_name": "Jangipur",
+    "winner": "Virendra Kumar Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-377",
+    "constituency_name": "Zahoorabad",
+    "winner": "Om Prakash Rajbhar",
+    "party": "Suheldev Bharatiya Samaj Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-378",
+    "constituency_name": "Mohammadabad",
+    "winner": "Suhaib Ansari",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "constituency_code": "AC-UP-379",
+    "constituency_name": "Zamania",
+    "winner": "Omprakash Singh",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chandauli",
+    "constituency_code": "AC-UP-380",
+    "constituency_name": "Mughalsarai",
+    "winner": "Ramesh Jaiswal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chandauli",
+    "constituency_code": "AC-UP-381",
+    "constituency_name": "Sakaldiha",
+    "winner": "Prabhunarayan Yadav",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chandauli",
+    "constituency_code": "AC-UP-382",
+    "constituency_name": "Saiyadraja",
+    "winner": "Sushil Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Chandauli",
+    "constituency_code": "AC-UP-383",
+    "constituency_name": "Chakia (SC)",
+    "winner": "Kailash Kharwar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-384",
+    "constituency_name": "Pindra",
+    "winner": "Awadhesh Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-385",
+    "constituency_name": "Ajagara (SC)",
+    "winner": "Tribhuwan Ram",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-386",
+    "constituency_name": "Shivpur",
+    "winner": "Anil Rajbhar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-387",
+    "constituency_name": "Rohaniya",
+    "winner": "Dr. Sunil Patel",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-388",
+    "constituency_name": "Varanasi North",
+    "winner": "Ravindra Jaiswal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-389",
+    "constituency_name": "Varanasi South",
+    "winner": "Neelkanth Tiwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-390",
+    "constituency_name": "Varanasi Cantt.",
+    "winner": "Saurabh Srivastava",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "constituency_code": "AC-UP-391",
+    "constituency_name": "Sevapuri",
+    "winner": "Neel Ratan Singh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bhadohi",
+    "constituency_code": "AC-UP-392",
+    "constituency_name": "Bhadohi",
+    "winner": "Zahid Beg",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bhadohi",
+    "constituency_code": "AC-UP-393",
+    "constituency_name": "Gyanpur",
+    "winner": "Vipul Dubey",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Bhadohi",
+    "constituency_code": "AC-UP-394",
+    "constituency_name": "Aurai (SC)",
+    "winner": "Dinanath Bhashkar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "constituency_code": "AC-UP-395",
+    "constituency_name": "Chhanbey (SC)",
+    "winner": "Rahul Prakash Kol",
+    "party": "Apna Dal (Sonelal)"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "constituency_code": "AC-UP-396",
+    "constituency_name": "Mirzapur",
+    "winner": "Ratnakar Mishra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "constituency_code": "AC-UP-397",
+    "constituency_name": "Majhawan",
+    "winner": "Dr. Vinod Kumar Bind",
+    "party": "NISHAD Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "constituency_code": "AC-UP-398",
+    "constituency_name": "Chunar",
+    "winner": "Anurag Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Mirzapur",
+    "constituency_code": "AC-UP-399",
+    "constituency_name": "Marihan",
+    "winner": "Rama Shankar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sonbhadra",
+    "constituency_code": "AC-UP-400",
+    "constituency_name": "Ghorawal",
+    "winner": "Anil Kumar Maurya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sonbhadra",
+    "constituency_code": "AC-UP-401",
+    "constituency_name": "Robertsganj",
+    "winner": "Bhupesh Chaubey",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sonbhadra",
+    "constituency_code": "AC-UP-402",
+    "constituency_name": "Obra (ST)",
+    "winner": "Sanjeev Kumar Gond",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "district": "Sonbhadra",
+    "constituency_code": "AC-UP-403",
+    "constituency_name": "Duddhi (ST)",
+    "winner": "Ramdular Gaur",
+    "party": "Bharatiya Janata Party"
+  }
+]

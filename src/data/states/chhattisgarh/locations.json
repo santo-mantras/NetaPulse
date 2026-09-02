@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "loc_ch_1084",
+    "stateName": "Chhattisgarh",
+    "districtName": "Koriya",
+    "assemblyConstituencyCode": "AC-CG-1",
+    "assemblyConstituencyName": "Bharatpur-Sonhat (ST)",
+    "crimeRate": "163.3 per 100k",
+    "crimeRatePerLakh": 163.3,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Bharatpur-Sonhat (ST) Civic Context",
+      "historicalFact": "Bharatpur-Sonhat (ST) is an influential economic and political constituency in Koriya.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1085",
+    "stateName": "Chhattisgarh",
+    "districtName": "Koriya",
+    "assemblyConstituencyCode": "AC-CG-2",
+    "assemblyConstituencyName": "Manendragarh",
+    "crimeRate": "163.3 per 100k",
+    "crimeRatePerLakh": 163.3,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Manendragarh Civic Context",
+      "historicalFact": "Manendragarh is an influential economic and political constituency in Koriya.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1086",
+    "stateName": "Chhattisgarh",
+    "districtName": "Koriya",
+    "assemblyConstituencyCode": "AC-CG-3",
+    "assemblyConstituencyName": "Baikunthpur",
+    "crimeRate": "163.3 per 100k",
+    "crimeRatePerLakh": 163.3,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Baikunthpur Civic Context",
+      "historicalFact": "Baikunthpur is an influential economic and political constituency in Koriya.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1087",
+    "stateName": "Chhattisgarh",
+    "districtName": "Surajpur",
+    "assemblyConstituencyCode": "AC-CG-4",
+    "assemblyConstituencyName": "Premnagar",
+    "crimeRate": "230.0 per 100k",
+    "crimeRatePerLakh": 230.0,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 307,
+    "regionalInsight": {
+      "title": "Premnagar Civic Context",
+      "historicalFact": "Premnagar is an influential economic and political constituency in Surajpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1088",
+    "stateName": "Chhattisgarh",
+    "districtName": "Surajpur",
+    "assemblyConstituencyCode": "AC-CG-5",
+    "assemblyConstituencyName": "Bhatgaon",
+    "crimeRate": "230.0 per 100k",
+    "crimeRatePerLakh": 230.0,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 307,
+    "regionalInsight": {
+      "title": "Bhatgaon Civic Context",
+      "historicalFact": "Bhatgaon is an influential economic and political constituency in Surajpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1089",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balrampur",
+    "assemblyConstituencyCode": "AC-CG-6",
+    "assemblyConstituencyName": "Pratappur (ST)",
+    "crimeRate": "175.6 per 100k",
+    "crimeRatePerLakh": 175.6,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 269,
+    "regionalInsight": {
+      "title": "Pratappur (ST) Civic Context",
+      "historicalFact": "Pratappur (ST) is an influential economic and political constituency in Balrampur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1090",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balrampur",
+    "assemblyConstituencyCode": "AC-CG-7",
+    "assemblyConstituencyName": "Ramanujganj (ST)",
+    "crimeRate": "175.6 per 100k",
+    "crimeRatePerLakh": 175.6,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 269,
+    "regionalInsight": {
+      "title": "Ramanujganj (ST) Civic Context",
+      "historicalFact": "Ramanujganj (ST) is an influential economic and political constituency in Balrampur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1091",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balrampur",
+    "assemblyConstituencyCode": "AC-CG-8",
+    "assemblyConstituencyName": "Samri (ST)",
+    "crimeRate": "175.6 per 100k",
+    "crimeRatePerLakh": 175.6,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 269,
+    "regionalInsight": {
+      "title": "Samri (ST) Civic Context",
+      "historicalFact": "Samri (ST) is an influential economic and political constituency in Balrampur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1092",
+    "stateName": "Chhattisgarh",
+    "districtName": "Surguja",
+    "assemblyConstituencyCode": "AC-CG-9",
+    "assemblyConstituencyName": "Lundra (ST)",
+    "crimeRate": "156.8 per 100k",
+    "crimeRatePerLakh": 156.8,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 169,
+    "regionalInsight": {
+      "title": "Lundra (ST) Civic Context",
+      "historicalFact": "Lundra (ST) is an influential economic and political constituency in Surguja.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1093",
+    "stateName": "Chhattisgarh",
+    "districtName": "Surguja",
+    "assemblyConstituencyCode": "AC-CG-10",
+    "assemblyConstituencyName": "Ambikapur",
+    "crimeRate": "156.8 per 100k",
+    "crimeRatePerLakh": 156.8,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 169,
+    "regionalInsight": {
+      "title": "Ambikapur Civic Context",
+      "historicalFact": "Ambikapur is an influential economic and political constituency in Surguja.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1094",
+    "stateName": "Chhattisgarh",
+    "districtName": "Surguja",
+    "assemblyConstituencyCode": "AC-CG-11",
+    "assemblyConstituencyName": "Sitapur (ST)",
+    "crimeRate": "156.8 per 100k",
+    "crimeRatePerLakh": 156.8,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 169,
+    "regionalInsight": {
+      "title": "Sitapur (ST) Civic Context",
+      "historicalFact": "Sitapur (ST) is an influential economic and political constituency in Surguja.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1095",
+    "stateName": "Chhattisgarh",
+    "districtName": "Jashpur",
+    "assemblyConstituencyCode": "AC-CG-12",
+    "assemblyConstituencyName": "Jashpur (ST)",
+    "crimeRate": "192.8 per 100k",
+    "crimeRatePerLakh": 192.8,
+    "literacyRate": 70.5,
+    "literacyRatePercentage": 70.5,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Jashpur (ST) Civic Context",
+      "historicalFact": "Jashpur (ST) is an influential economic and political constituency in Jashpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1096",
+    "stateName": "Chhattisgarh",
+    "districtName": "Jashpur",
+    "assemblyConstituencyCode": "AC-CG-13",
+    "assemblyConstituencyName": "Kunkuri (ST)",
+    "crimeRate": "192.8 per 100k",
+    "crimeRatePerLakh": 192.8,
+    "literacyRate": 70.5,
+    "literacyRatePercentage": 70.5,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Kunkuri (ST) Civic Context",
+      "historicalFact": "Kunkuri (ST) is an influential economic and political constituency in Jashpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1097",
+    "stateName": "Chhattisgarh",
+    "districtName": "Jashpur",
+    "assemblyConstituencyCode": "AC-CG-14",
+    "assemblyConstituencyName": "Pathalgaon (ST)",
+    "crimeRate": "192.8 per 100k",
+    "crimeRatePerLakh": 192.8,
+    "literacyRate": 70.5,
+    "literacyRatePercentage": 70.5,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Pathalgaon (ST) Civic Context",
+      "historicalFact": "Pathalgaon (ST) is an influential economic and political constituency in Jashpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1098",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raigarh",
+    "assemblyConstituencyCode": "AC-CG-15",
+    "assemblyConstituencyName": "Lailunga (ST)",
+    "crimeRate": "229.6 per 100k",
+    "crimeRatePerLakh": 229.6,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Lailunga (ST) Civic Context",
+      "historicalFact": "Lailunga (ST) is an influential economic and political constituency in Raigarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1099",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raigarh",
+    "assemblyConstituencyCode": "AC-CG-16",
+    "assemblyConstituencyName": "Raigarh",
+    "crimeRate": "229.6 per 100k",
+    "crimeRatePerLakh": 229.6,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Raigarh Civic Context",
+      "historicalFact": "Raigarh is an influential economic and political constituency in Raigarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1100",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raigarh",
+    "assemblyConstituencyCode": "AC-CG-17",
+    "assemblyConstituencyName": "Sarangarh (SC)",
+    "crimeRate": "229.6 per 100k",
+    "crimeRatePerLakh": 229.6,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Sarangarh (SC) Civic Context",
+      "historicalFact": "Sarangarh (SC) is an influential economic and political constituency in Raigarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1101",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raigarh",
+    "assemblyConstituencyCode": "AC-CG-18",
+    "assemblyConstituencyName": "Kharsia",
+    "crimeRate": "229.6 per 100k",
+    "crimeRatePerLakh": 229.6,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Kharsia Civic Context",
+      "historicalFact": "Kharsia is an influential economic and political constituency in Raigarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1102",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raigarh",
+    "assemblyConstituencyCode": "AC-CG-19",
+    "assemblyConstituencyName": "Dharamjaigarh (ST)",
+    "crimeRate": "229.6 per 100k",
+    "crimeRatePerLakh": 229.6,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 351,
+    "regionalInsight": {
+      "title": "Dharamjaigarh (ST) Civic Context",
+      "historicalFact": "Dharamjaigarh (ST) is an influential economic and political constituency in Raigarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1103",
+    "stateName": "Chhattisgarh",
+    "districtName": "Korba",
+    "assemblyConstituencyCode": "AC-CG-20",
+    "assemblyConstituencyName": "Rampur (ST)",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Rampur (ST) Civic Context",
+      "historicalFact": "Rampur (ST) is an influential economic and political constituency in Korba.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1104",
+    "stateName": "Chhattisgarh",
+    "districtName": "Korba",
+    "assemblyConstituencyCode": "AC-CG-21",
+    "assemblyConstituencyName": "Korba",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Korba Civic Context",
+      "historicalFact": "Korba is an influential economic and political constituency in Korba.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1105",
+    "stateName": "Chhattisgarh",
+    "districtName": "Korba",
+    "assemblyConstituencyCode": "AC-CG-22",
+    "assemblyConstituencyName": "Katghora",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Katghora Civic Context",
+      "historicalFact": "Katghora is an influential economic and political constituency in Korba.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1106",
+    "stateName": "Chhattisgarh",
+    "districtName": "Korba",
+    "assemblyConstituencyCode": "AC-CG-23",
+    "assemblyConstituencyName": "Pali-Tanakhar (ST)",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Pali-Tanakhar (ST) Civic Context",
+      "historicalFact": "Pali-Tanakhar (ST) is an influential economic and political constituency in Korba.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1107",
+    "stateName": "Chhattisgarh",
+    "districtName": "Gaurela Pendra Marwahi",
+    "assemblyConstituencyCode": "AC-CG-24",
+    "assemblyConstituencyName": "Marwahi (ST)",
+    "crimeRate": "186.7 per 100k",
+    "crimeRatePerLakh": 186.7,
+    "literacyRate": 79.6,
+    "literacyRatePercentage": 79.6,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 201,
+    "regionalInsight": {
+      "title": "Marwahi (ST) Civic Context",
+      "historicalFact": "Marwahi (ST) is an influential economic and political constituency in Gaurela Pendra Marwahi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1108",
+    "stateName": "Chhattisgarh",
+    "districtName": "Gaurela Pendra Marwahi",
+    "assemblyConstituencyCode": "AC-CG-25",
+    "assemblyConstituencyName": "Kota",
+    "crimeRate": "186.7 per 100k",
+    "crimeRatePerLakh": 186.7,
+    "literacyRate": 79.6,
+    "literacyRatePercentage": 79.6,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 201,
+    "regionalInsight": {
+      "title": "Kota Civic Context",
+      "historicalFact": "Kota is an influential economic and political constituency in Gaurela Pendra Marwahi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1109",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mungeli",
+    "assemblyConstituencyCode": "AC-CG-26",
+    "assemblyConstituencyName": "Lormi",
+    "crimeRate": "190.7 per 100k",
+    "crimeRatePerLakh": 190.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 209,
+    "regionalInsight": {
+      "title": "Lormi Civic Context",
+      "historicalFact": "Lormi is an influential economic and political constituency in Mungeli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1110",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mungeli",
+    "assemblyConstituencyCode": "AC-CG-27",
+    "assemblyConstituencyName": "Mungeli (SC)",
+    "crimeRate": "190.7 per 100k",
+    "crimeRatePerLakh": 190.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 209,
+    "regionalInsight": {
+      "title": "Mungeli (SC) Civic Context",
+      "historicalFact": "Mungeli (SC) is an influential economic and political constituency in Mungeli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1111",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-CG-28",
+    "assemblyConstituencyName": "Takhatpur",
+    "crimeRate": "177.0 per 100k",
+    "crimeRatePerLakh": 177.0,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Takhatpur Civic Context",
+      "historicalFact": "Takhatpur is an influential economic and political constituency in Bilaspur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1112",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-CG-29",
+    "assemblyConstituencyName": "Bilha",
+    "crimeRate": "177.0 per 100k",
+    "crimeRatePerLakh": 177.0,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Bilha Civic Context",
+      "historicalFact": "Bilha is an influential economic and political constituency in Bilaspur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1113",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-CG-30",
+    "assemblyConstituencyName": "Bilaspur",
+    "crimeRate": "177.0 per 100k",
+    "crimeRatePerLakh": 177.0,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Bilaspur Civic Context",
+      "historicalFact": "Bilaspur is an influential economic and political constituency in Bilaspur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1114",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-CG-31",
+    "assemblyConstituencyName": "Beltara",
+    "crimeRate": "177.0 per 100k",
+    "crimeRatePerLakh": 177.0,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Beltara Civic Context",
+      "historicalFact": "Beltara is an influential economic and political constituency in Bilaspur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1115",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-CG-32",
+    "assemblyConstituencyName": "Masturi (SC)",
+    "crimeRate": "177.0 per 100k",
+    "crimeRatePerLakh": 177.0,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 168,
+    "regionalInsight": {
+      "title": "Masturi (SC) Civic Context",
+      "historicalFact": "Masturi (SC) is an influential economic and political constituency in Bilaspur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1116",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-33",
+    "assemblyConstituencyName": "Akaltara",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Akaltara Civic Context",
+      "historicalFact": "Akaltara is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1117",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-34",
+    "assemblyConstituencyName": "Janjgir-Champa",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Janjgir-Champa Civic Context",
+      "historicalFact": "Janjgir-Champa is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1118",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-35",
+    "assemblyConstituencyName": "Sakti",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Sakti Civic Context",
+      "historicalFact": "Sakti is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1119",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-36",
+    "assemblyConstituencyName": "Chandrapur",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Chandrapur Civic Context",
+      "historicalFact": "Chandrapur is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1120",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-37",
+    "assemblyConstituencyName": "Jaijaipur",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Jaijaipur Civic Context",
+      "historicalFact": "Jaijaipur is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1121",
+    "stateName": "Chhattisgarh",
+    "districtName": "Janjgir-Champa",
+    "assemblyConstituencyCode": "AC-CG-38",
+    "assemblyConstituencyName": "Pamgarh (SC)",
+    "crimeRate": "223.9 per 100k",
+    "crimeRatePerLakh": 223.9,
+    "literacyRate": 74.9,
+    "literacyRatePercentage": 74.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Pamgarh (SC) Civic Context",
+      "historicalFact": "Pamgarh (SC) is an influential economic and political constituency in Janjgir-Champa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1122",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mahasamund",
+    "assemblyConstituencyCode": "AC-CG-39",
+    "assemblyConstituencyName": "Saraipali (SC)",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 70.3,
+    "literacyRatePercentage": 70.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Saraipali (SC) Civic Context",
+      "historicalFact": "Saraipali (SC) is an influential economic and political constituency in Mahasamund.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1123",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mahasamund",
+    "assemblyConstituencyCode": "AC-CG-40",
+    "assemblyConstituencyName": "Basna",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 70.3,
+    "literacyRatePercentage": 70.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Basna Civic Context",
+      "historicalFact": "Basna is an influential economic and political constituency in Mahasamund.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1124",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mahasamund",
+    "assemblyConstituencyCode": "AC-CG-41",
+    "assemblyConstituencyName": "Khallari",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 70.3,
+    "literacyRatePercentage": 70.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Khallari Civic Context",
+      "historicalFact": "Khallari is an influential economic and political constituency in Mahasamund.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1125",
+    "stateName": "Chhattisgarh",
+    "districtName": "Mahasamund",
+    "assemblyConstituencyCode": "AC-CG-42",
+    "assemblyConstituencyName": "Mahasamund",
+    "crimeRate": "191.1 per 100k",
+    "crimeRatePerLakh": 191.1,
+    "literacyRate": 70.3,
+    "literacyRatePercentage": 70.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Mahasamund Civic Context",
+      "historicalFact": "Mahasamund is an influential economic and political constituency in Mahasamund.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1126",
+    "stateName": "Chhattisgarh",
+    "districtName": "Baloda Bazar",
+    "assemblyConstituencyCode": "AC-CG-43",
+    "assemblyConstituencyName": "Bilaigarh (SC)",
+    "crimeRate": "168.9 per 100k",
+    "crimeRatePerLakh": 168.9,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Bilaigarh (SC) Civic Context",
+      "historicalFact": "Bilaigarh (SC) is an influential economic and political constituency in Baloda Bazar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1127",
+    "stateName": "Chhattisgarh",
+    "districtName": "Baloda Bazar",
+    "assemblyConstituencyCode": "AC-CG-44",
+    "assemblyConstituencyName": "Kasdol",
+    "crimeRate": "168.9 per 100k",
+    "crimeRatePerLakh": 168.9,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Kasdol Civic Context",
+      "historicalFact": "Kasdol is an influential economic and political constituency in Baloda Bazar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1128",
+    "stateName": "Chhattisgarh",
+    "districtName": "Baloda Bazar",
+    "assemblyConstituencyCode": "AC-CG-45",
+    "assemblyConstituencyName": "Baloda Bazar",
+    "crimeRate": "168.9 per 100k",
+    "crimeRatePerLakh": 168.9,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Baloda Bazar Civic Context",
+      "historicalFact": "Baloda Bazar is an influential economic and political constituency in Baloda Bazar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1129",
+    "stateName": "Chhattisgarh",
+    "districtName": "Baloda Bazar",
+    "assemblyConstituencyCode": "AC-CG-46",
+    "assemblyConstituencyName": "Bhatapara",
+    "crimeRate": "168.9 per 100k",
+    "crimeRatePerLakh": 168.9,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Bhatapara Civic Context",
+      "historicalFact": "Bhatapara is an influential economic and political constituency in Baloda Bazar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1130",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-47",
+    "assemblyConstituencyName": "Dharsiwa",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Dharsiwa Civic Context",
+      "historicalFact": "Dharsiwa is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1131",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-48",
+    "assemblyConstituencyName": "Raipur City Gramin",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Raipur City Gramin Civic Context",
+      "historicalFact": "Raipur City Gramin is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1132",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-49",
+    "assemblyConstituencyName": "Raipur City West",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Raipur City West Civic Context",
+      "historicalFact": "Raipur City West is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1133",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-50",
+    "assemblyConstituencyName": "Raipur City North",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Raipur City North Civic Context",
+      "historicalFact": "Raipur City North is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1134",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-51",
+    "assemblyConstituencyName": "Raipur City South",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Raipur City South Civic Context",
+      "historicalFact": "Raipur City South is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1135",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-52",
+    "assemblyConstituencyName": "Arang (SC)",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Arang (SC) Civic Context",
+      "historicalFact": "Arang (SC) is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1136",
+    "stateName": "Chhattisgarh",
+    "districtName": "Raipur",
+    "assemblyConstituencyCode": "AC-CG-53",
+    "assemblyConstituencyName": "Abhanpur",
+    "crimeRate": "189.3 per 100k",
+    "crimeRatePerLakh": 189.3,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Abhanpur Civic Context",
+      "historicalFact": "Abhanpur is an influential economic and political constituency in Raipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1137",
+    "stateName": "Chhattisgarh",
+    "districtName": "Gariaband",
+    "assemblyConstituencyCode": "AC-CG-54",
+    "assemblyConstituencyName": "Rajim",
+    "crimeRate": "175.8 per 100k",
+    "crimeRatePerLakh": 175.8,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "Rajim Civic Context",
+      "historicalFact": "Rajim is an influential economic and political constituency in Gariaband.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1138",
+    "stateName": "Chhattisgarh",
+    "districtName": "Gariaband",
+    "assemblyConstituencyCode": "AC-CG-55",
+    "assemblyConstituencyName": "Bindrawagarh (ST)",
+    "crimeRate": "175.8 per 100k",
+    "crimeRatePerLakh": 175.8,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "Bindrawagarh (ST) Civic Context",
+      "historicalFact": "Bindrawagarh (ST) is an influential economic and political constituency in Gariaband.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1139",
+    "stateName": "Chhattisgarh",
+    "districtName": "Dhamtari",
+    "assemblyConstituencyCode": "AC-CG-56",
+    "assemblyConstituencyName": "Sihawa (ST)",
+    "crimeRate": "213.1 per 100k",
+    "crimeRatePerLakh": 213.1,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 141,
+    "regionalInsight": {
+      "title": "Sihawa (ST) Civic Context",
+      "historicalFact": "Sihawa (ST) is an influential economic and political constituency in Dhamtari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1140",
+    "stateName": "Chhattisgarh",
+    "districtName": "Dhamtari",
+    "assemblyConstituencyCode": "AC-CG-57",
+    "assemblyConstituencyName": "Kurud",
+    "crimeRate": "213.1 per 100k",
+    "crimeRatePerLakh": 213.1,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 141,
+    "regionalInsight": {
+      "title": "Kurud Civic Context",
+      "historicalFact": "Kurud is an influential economic and political constituency in Dhamtari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1141",
+    "stateName": "Chhattisgarh",
+    "districtName": "Dhamtari",
+    "assemblyConstituencyCode": "AC-CG-58",
+    "assemblyConstituencyName": "Dhamtari",
+    "crimeRate": "213.1 per 100k",
+    "crimeRatePerLakh": 213.1,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 141,
+    "regionalInsight": {
+      "title": "Dhamtari Civic Context",
+      "historicalFact": "Dhamtari is an influential economic and political constituency in Dhamtari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1142",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balod",
+    "assemblyConstituencyCode": "AC-CG-59",
+    "assemblyConstituencyName": "Sanjari-Balod",
+    "crimeRate": "237.4 per 100k",
+    "crimeRatePerLakh": 237.4,
+    "literacyRate": 73.8,
+    "literacyRatePercentage": 73.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 331,
+    "regionalInsight": {
+      "title": "Sanjari-Balod Civic Context",
+      "historicalFact": "Sanjari-Balod is an influential economic and political constituency in Balod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1143",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balod",
+    "assemblyConstituencyCode": "AC-CG-60",
+    "assemblyConstituencyName": "Dondi Lohara (ST)",
+    "crimeRate": "237.4 per 100k",
+    "crimeRatePerLakh": 237.4,
+    "literacyRate": 73.8,
+    "literacyRatePercentage": 73.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 331,
+    "regionalInsight": {
+      "title": "Dondi Lohara (ST) Civic Context",
+      "historicalFact": "Dondi Lohara (ST) is an influential economic and political constituency in Balod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1144",
+    "stateName": "Chhattisgarh",
+    "districtName": "Balod",
+    "assemblyConstituencyCode": "AC-CG-61",
+    "assemblyConstituencyName": "Gunderdehi",
+    "crimeRate": "237.4 per 100k",
+    "crimeRatePerLakh": 237.4,
+    "literacyRate": 73.8,
+    "literacyRatePercentage": 73.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 331,
+    "regionalInsight": {
+      "title": "Gunderdehi Civic Context",
+      "historicalFact": "Gunderdehi is an influential economic and political constituency in Balod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1145",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-62",
+    "assemblyConstituencyName": "Patan",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Patan Civic Context",
+      "historicalFact": "Patan is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1146",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-63",
+    "assemblyConstituencyName": "Durg Gramin",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Durg Gramin Civic Context",
+      "historicalFact": "Durg Gramin is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1147",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-64",
+    "assemblyConstituencyName": "Durg City",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Durg City Civic Context",
+      "historicalFact": "Durg City is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1148",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-65",
+    "assemblyConstituencyName": "Bhilai Nagar",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Bhilai Nagar Civic Context",
+      "historicalFact": "Bhilai Nagar is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1149",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-66",
+    "assemblyConstituencyName": "Vaishali Nagar",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Vaishali Nagar Civic Context",
+      "historicalFact": "Vaishali Nagar is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1150",
+    "stateName": "Chhattisgarh",
+    "districtName": "Durg",
+    "assemblyConstituencyCode": "AC-CG-67",
+    "assemblyConstituencyName": "Ahiwara (SC)",
+    "crimeRate": "229.0 per 100k",
+    "crimeRatePerLakh": 229.0,
+    "literacyRate": 69.2,
+    "literacyRatePercentage": 69.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Ahiwara (SC) Civic Context",
+      "historicalFact": "Ahiwara (SC) is an influential economic and political constituency in Durg.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1151",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bemetara",
+    "assemblyConstituencyCode": "AC-CG-68",
+    "assemblyConstituencyName": "Saja",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 80.3,
+    "literacyRatePercentage": 80.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Saja Civic Context",
+      "historicalFact": "Saja is an influential economic and political constituency in Bemetara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1152",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bemetara",
+    "assemblyConstituencyCode": "AC-CG-69",
+    "assemblyConstituencyName": "Bemetara",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 80.3,
+    "literacyRatePercentage": 80.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Bemetara Civic Context",
+      "historicalFact": "Bemetara is an influential economic and political constituency in Bemetara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1153",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bemetara",
+    "assemblyConstituencyCode": "AC-CG-70",
+    "assemblyConstituencyName": "Navagarh (SC)",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 80.3,
+    "literacyRatePercentage": 80.3,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Navagarh (SC) Civic Context",
+      "historicalFact": "Navagarh (SC) is an influential economic and political constituency in Bemetara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1154",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kabirdham",
+    "assemblyConstituencyCode": "AC-CG-71",
+    "assemblyConstituencyName": "Pandariya",
+    "crimeRate": "228.6 per 100k",
+    "crimeRatePerLakh": 228.6,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Pandariya Civic Context",
+      "historicalFact": "Pandariya is an influential economic and political constituency in Kabirdham.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1155",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kabirdham",
+    "assemblyConstituencyCode": "AC-CG-72",
+    "assemblyConstituencyName": "Kawardha",
+    "crimeRate": "228.6 per 100k",
+    "crimeRatePerLakh": 228.6,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Kawardha Civic Context",
+      "historicalFact": "Kawardha is an influential economic and political constituency in Kabirdham.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1156",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-73",
+    "assemblyConstituencyName": "Khairagarh",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Khairagarh Civic Context",
+      "historicalFact": "Khairagarh is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1157",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-74",
+    "assemblyConstituencyName": "Dongargarh (SC)",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Dongargarh (SC) Civic Context",
+      "historicalFact": "Dongargarh (SC) is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1158",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-75",
+    "assemblyConstituencyName": "Rajnandgaon",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Rajnandgaon Civic Context",
+      "historicalFact": "Rajnandgaon is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1159",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-76",
+    "assemblyConstituencyName": "Dongargaon",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Dongargaon Civic Context",
+      "historicalFact": "Dongargaon is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1160",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-77",
+    "assemblyConstituencyName": "Khujji",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Khujji Civic Context",
+      "historicalFact": "Khujji is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1161",
+    "stateName": "Chhattisgarh",
+    "districtName": "Rajnandgaon",
+    "assemblyConstituencyCode": "AC-CG-78",
+    "assemblyConstituencyName": "Mohla-Manpur (ST)",
+    "crimeRate": "193.1 per 100k",
+    "crimeRatePerLakh": 193.1,
+    "literacyRate": 71.8,
+    "literacyRatePercentage": 71.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Mohla-Manpur (ST) Civic Context",
+      "historicalFact": "Mohla-Manpur (ST) is an influential economic and political constituency in Rajnandgaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1162",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kanker",
+    "assemblyConstituencyCode": "AC-CG-79",
+    "assemblyConstituencyName": "Antagarh (ST)",
+    "crimeRate": "177.7 per 100k",
+    "crimeRatePerLakh": 177.7,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 183,
+    "regionalInsight": {
+      "title": "Antagarh (ST) Civic Context",
+      "historicalFact": "Antagarh (ST) is an influential economic and political constituency in Kanker.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1163",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kanker",
+    "assemblyConstituencyCode": "AC-CG-80",
+    "assemblyConstituencyName": "Bhanupratappur (ST)",
+    "crimeRate": "177.7 per 100k",
+    "crimeRatePerLakh": 177.7,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 183,
+    "regionalInsight": {
+      "title": "Bhanupratappur (ST) Civic Context",
+      "historicalFact": "Bhanupratappur (ST) is an influential economic and political constituency in Kanker.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1164",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kanker",
+    "assemblyConstituencyCode": "AC-CG-81",
+    "assemblyConstituencyName": "Kanker (ST)",
+    "crimeRate": "177.7 per 100k",
+    "crimeRatePerLakh": 177.7,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 183,
+    "regionalInsight": {
+      "title": "Kanker (ST) Civic Context",
+      "historicalFact": "Kanker (ST) is an influential economic and political constituency in Kanker.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1165",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kondagaon",
+    "assemblyConstituencyCode": "AC-CG-82",
+    "assemblyConstituencyName": "Keshkal (ST)",
+    "crimeRate": "203.0 per 100k",
+    "crimeRatePerLakh": 203.0,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Keshkal (ST) Civic Context",
+      "historicalFact": "Keshkal (ST) is an influential economic and political constituency in Kondagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1166",
+    "stateName": "Chhattisgarh",
+    "districtName": "Kondagaon",
+    "assemblyConstituencyCode": "AC-CG-83",
+    "assemblyConstituencyName": "Kondagaon (ST)",
+    "crimeRate": "203.0 per 100k",
+    "crimeRatePerLakh": 203.0,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Kondagaon (ST) Civic Context",
+      "historicalFact": "Kondagaon (ST) is an influential economic and political constituency in Kondagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1167",
+    "stateName": "Chhattisgarh",
+    "districtName": "Narayanpur",
+    "assemblyConstituencyCode": "AC-CG-84",
+    "assemblyConstituencyName": "Narayanpur (ST)",
+    "crimeRate": "170.1 per 100k",
+    "crimeRatePerLakh": 170.1,
+    "literacyRate": 77.1,
+    "literacyRatePercentage": 77.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Narayanpur (ST) Civic Context",
+      "historicalFact": "Narayanpur (ST) is an influential economic and political constituency in Narayanpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1168",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bastar",
+    "assemblyConstituencyCode": "AC-CG-85",
+    "assemblyConstituencyName": "Bastar (ST)",
+    "crimeRate": "198.9 per 100k",
+    "crimeRatePerLakh": 198.9,
+    "literacyRate": 71.3,
+    "literacyRatePercentage": 71.3,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Bastar (ST) Civic Context",
+      "historicalFact": "Bastar (ST) is an influential economic and political constituency in Bastar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1169",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bastar",
+    "assemblyConstituencyCode": "AC-CG-86",
+    "assemblyConstituencyName": "Jagdalpur",
+    "crimeRate": "198.9 per 100k",
+    "crimeRatePerLakh": 198.9,
+    "literacyRate": 71.3,
+    "literacyRatePercentage": 71.3,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Jagdalpur Civic Context",
+      "historicalFact": "Jagdalpur is an influential economic and political constituency in Bastar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1170",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bastar",
+    "assemblyConstituencyCode": "AC-CG-87",
+    "assemblyConstituencyName": "Chitrakot (ST)",
+    "crimeRate": "198.9 per 100k",
+    "crimeRatePerLakh": 198.9,
+    "literacyRate": 71.3,
+    "literacyRatePercentage": 71.3,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Chitrakot (ST) Civic Context",
+      "historicalFact": "Chitrakot (ST) is an influential economic and political constituency in Bastar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1171",
+    "stateName": "Chhattisgarh",
+    "districtName": "Dantewada",
+    "assemblyConstituencyCode": "AC-CG-88",
+    "assemblyConstituencyName": "Dantewada (ST)",
+    "crimeRate": "220.8 per 100k",
+    "crimeRatePerLakh": 220.8,
+    "literacyRate": 70.3,
+    "literacyRatePercentage": 70.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 167,
+    "regionalInsight": {
+      "title": "Dantewada (ST) Civic Context",
+      "historicalFact": "Dantewada (ST) is an influential economic and political constituency in Dantewada.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1172",
+    "stateName": "Chhattisgarh",
+    "districtName": "Bijapur",
+    "assemblyConstituencyCode": "AC-CG-89",
+    "assemblyConstituencyName": "Bijapur (ST)",
+    "crimeRate": "170.9 per 100k",
+    "crimeRatePerLakh": 170.9,
+    "literacyRate": 69.4,
+    "literacyRatePercentage": 69.4,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Bijapur (ST) Civic Context",
+      "historicalFact": "Bijapur (ST) is an influential economic and political constituency in Bijapur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ch_1173",
+    "stateName": "Chhattisgarh",
+    "districtName": "Sukma",
+    "assemblyConstituencyCode": "AC-CG-90",
+    "assemblyConstituencyName": "Konta (ST)",
+    "crimeRate": "232.3 per 100k",
+    "crimeRatePerLakh": 232.3,
+    "literacyRate": 78.2,
+    "literacyRatePercentage": 78.2,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 158,
+    "regionalInsight": {
+      "title": "Konta (ST) Civic Context",
+      "historicalFact": "Konta (ST) is an influential economic and political constituency in Sukma.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

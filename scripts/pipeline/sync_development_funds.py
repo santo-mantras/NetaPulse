@@ -28,6 +28,21 @@ STATE_SANCTION_RULES = {
         "scheme": "Punjab Vidhayak Nidhi (MLA-LADS)",
         "sanction_per_year": 50000000, # ₹5.00 Cr
         "citation": "Punjab Planning Board & Rural Development"
+    },
+    "Goa": {
+        "scheme": "Goa Vidhayak Nidhi (MLA-LADS)",
+        "sanction_per_year": 25000000, # ₹2.50 Cr
+        "citation": "Goa Directorate of Planning, Statistics and Evaluation"
+    },
+    "Chhattisgarh": {
+        "scheme": "Chhattisgarh Vidhayak Nidhi (MLA-LADS)",
+        "sanction_per_year": 40000000, # ₹4.00 Cr
+        "citation": "Chhattisgarh State Planning Commission & Panchayat Dept"
+    },
+    "Tamil Nadu": {
+        "scheme": "Tamil Nadu MLACDS (MLA Constituency Development Scheme)",
+        "sanction_per_year": 30000000, # ₹3.00 Cr
+        "citation": "Tamil Nadu Rural Development & Panchayat Raj Department"
     }
 }
 

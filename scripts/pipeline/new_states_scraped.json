@@ -1,0 +1,2920 @@
+{
+  "Goa": [
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-1",
+      "constituency_name": "Mandrem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-2",
+      "constituency_name": "Pernem (SC)",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-3",
+      "constituency_name": "Bicholim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-4",
+      "constituency_name": "Tivim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-5",
+      "constituency_name": "Mapusa",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-6",
+      "constituency_name": "Siolim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-7",
+      "constituency_name": "Saligao",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-8",
+      "constituency_name": "Calangute",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-9",
+      "constituency_name": "Porvorim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-10",
+      "constituency_name": "Aldona",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-11",
+      "constituency_name": "Panaji",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-12",
+      "constituency_name": "Taleigao",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-13",
+      "constituency_name": "St. Cruz",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-14",
+      "constituency_name": "St. Andre",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-15",
+      "constituency_name": "Cumbarjua",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-16",
+      "constituency_name": "Maem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-17",
+      "constituency_name": "Sanquelim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-18",
+      "constituency_name": "Poriem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-19",
+      "constituency_name": "Valpoi",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-20",
+      "constituency_name": "Priol",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-21",
+      "constituency_name": "Ponda",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-22",
+      "constituency_name": "Siroda",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "North Goa",
+      "constituency_code": "AC-GA-23",
+      "constituency_name": "Marcaim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-24",
+      "constituency_name": "Mormugao",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-25",
+      "constituency_name": "Vasco da Gama",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-26",
+      "constituency_name": "Dabolim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-27",
+      "constituency_name": "Cortalim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-28",
+      "constituency_name": "Nuvem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-29",
+      "constituency_name": "Curtorim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-30",
+      "constituency_name": "Fatorda",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-31",
+      "constituency_name": "Margao",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-32",
+      "constituency_name": "Benaulim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-33",
+      "constituency_name": "Navelim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-34",
+      "constituency_name": "Cuncolim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-35",
+      "constituency_name": "Velim",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-36",
+      "constituency_name": "Quepem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-37",
+      "constituency_name": "Curchorem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-38",
+      "constituency_name": "Sanvordem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-39",
+      "constituency_name": "Sanguem",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    },
+    {
+      "state": "Goa",
+      "district": "South Goa",
+      "constituency_code": "AC-GA-40",
+      "constituency_name": "Canacona",
+      "winner": "BJP",
+      "party": "Bharatiya Janata Party"
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "state": "Chhattisgarh",
+      "district": "Koriya",
+      "constituency_code": "AC-CG-1",
+      "constituency_name": "Bharatpur-Sonhat (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Koriya",
+      "constituency_code": "AC-CG-2",
+      "constituency_name": "Manendragarh",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Koriya",
+      "constituency_code": "AC-CG-3",
+      "constituency_name": "Baikunthpur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Surajpur",
+      "constituency_code": "AC-CG-4",
+      "constituency_name": "Premnagar",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Surajpur",
+      "constituency_code": "AC-CG-5",
+      "constituency_name": "Bhatgaon",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balrampur",
+      "constituency_code": "AC-CG-6",
+      "constituency_name": "Pratappur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balrampur",
+      "constituency_code": "AC-CG-7",
+      "constituency_name": "Ramanujganj (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balrampur",
+      "constituency_code": "AC-CG-8",
+      "constituency_name": "Samri (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Surguja",
+      "constituency_code": "AC-CG-9",
+      "constituency_name": "Lundra (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Surguja",
+      "constituency_code": "AC-CG-10",
+      "constituency_name": "Ambikapur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Surguja",
+      "constituency_code": "AC-CG-11",
+      "constituency_name": "Sitapur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Jashpur",
+      "constituency_code": "AC-CG-12",
+      "constituency_name": "Jashpur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Jashpur",
+      "constituency_code": "AC-CG-13",
+      "constituency_name": "Kunkuri (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Jashpur",
+      "constituency_code": "AC-CG-14",
+      "constituency_name": "Pathalgaon (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raigarh",
+      "constituency_code": "AC-CG-15",
+      "constituency_name": "Lailunga (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raigarh",
+      "constituency_code": "AC-CG-16",
+      "constituency_name": "Raigarh",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raigarh",
+      "constituency_code": "AC-CG-17",
+      "constituency_name": "Sarangarh (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raigarh",
+      "constituency_code": "AC-CG-18",
+      "constituency_name": "Kharsia",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raigarh",
+      "constituency_code": "AC-CG-19",
+      "constituency_name": "Dharamjaigarh (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Korba",
+      "constituency_code": "AC-CG-20",
+      "constituency_name": "Rampur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Korba",
+      "constituency_code": "AC-CG-21",
+      "constituency_name": "Korba",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Korba",
+      "constituency_code": "AC-CG-22",
+      "constituency_name": "Katghora",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Korba",
+      "constituency_code": "AC-CG-23",
+      "constituency_name": "Pali-Tanakhar (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Gaurela Pendra Marwahi",
+      "constituency_code": "AC-CG-24",
+      "constituency_name": "Marwahi (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Gaurela Pendra Marwahi",
+      "constituency_code": "AC-CG-25",
+      "constituency_name": "Kota",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mungeli",
+      "constituency_code": "AC-CG-26",
+      "constituency_name": "Lormi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mungeli",
+      "constituency_code": "AC-CG-27",
+      "constituency_name": "Mungeli (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bilaspur",
+      "constituency_code": "AC-CG-28",
+      "constituency_name": "Takhatpur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bilaspur",
+      "constituency_code": "AC-CG-29",
+      "constituency_name": "Bilha",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bilaspur",
+      "constituency_code": "AC-CG-30",
+      "constituency_name": "Bilaspur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bilaspur",
+      "constituency_code": "AC-CG-31",
+      "constituency_name": "Beltara",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bilaspur",
+      "constituency_code": "AC-CG-32",
+      "constituency_name": "Masturi (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-33",
+      "constituency_name": "Akaltara",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-34",
+      "constituency_name": "Janjgir-Champa",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-35",
+      "constituency_name": "Sakti",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-36",
+      "constituency_name": "Chandrapur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-37",
+      "constituency_name": "Jaijaipur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir-Champa",
+      "constituency_code": "AC-CG-38",
+      "constituency_name": "Pamgarh (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mahasamund",
+      "constituency_code": "AC-CG-39",
+      "constituency_name": "Saraipali (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mahasamund",
+      "constituency_code": "AC-CG-40",
+      "constituency_name": "Basna",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mahasamund",
+      "constituency_code": "AC-CG-41",
+      "constituency_name": "Khallari",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mahasamund",
+      "constituency_code": "AC-CG-42",
+      "constituency_name": "Mahasamund",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "constituency_code": "AC-CG-43",
+      "constituency_name": "Bilaigarh (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "constituency_code": "AC-CG-44",
+      "constituency_name": "Kasdol",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "constituency_code": "AC-CG-45",
+      "constituency_name": "Baloda Bazar",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "constituency_code": "AC-CG-46",
+      "constituency_name": "Bhatapara",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-47",
+      "constituency_name": "Dharsiwa",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-48",
+      "constituency_name": "Raipur City Gramin",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-49",
+      "constituency_name": "Raipur City West",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-50",
+      "constituency_name": "Raipur City North",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-51",
+      "constituency_name": "Raipur City South",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-52",
+      "constituency_name": "Arang (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "constituency_code": "AC-CG-53",
+      "constituency_name": "Abhanpur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Gariaband",
+      "constituency_code": "AC-CG-54",
+      "constituency_name": "Rajim",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Gariaband",
+      "constituency_code": "AC-CG-55",
+      "constituency_name": "Bindrawagarh (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Dhamtari",
+      "constituency_code": "AC-CG-56",
+      "constituency_name": "Sihawa (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Dhamtari",
+      "constituency_code": "AC-CG-57",
+      "constituency_name": "Kurud",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Dhamtari",
+      "constituency_code": "AC-CG-58",
+      "constituency_name": "Dhamtari",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balod",
+      "constituency_code": "AC-CG-59",
+      "constituency_name": "Sanjari-Balod",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balod",
+      "constituency_code": "AC-CG-60",
+      "constituency_name": "Dondi Lohara (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balod",
+      "constituency_code": "AC-CG-61",
+      "constituency_name": "Gunderdehi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-62",
+      "constituency_name": "Patan",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-63",
+      "constituency_name": "Durg Gramin",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-64",
+      "constituency_name": "Durg City",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-65",
+      "constituency_name": "Bhilai Nagar",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-66",
+      "constituency_name": "Vaishali Nagar",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Durg",
+      "constituency_code": "AC-CG-67",
+      "constituency_name": "Ahiwara (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bemetara",
+      "constituency_code": "AC-CG-68",
+      "constituency_name": "Saja",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bemetara",
+      "constituency_code": "AC-CG-69",
+      "constituency_name": "Bemetara",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bemetara",
+      "constituency_code": "AC-CG-70",
+      "constituency_name": "Navagarh (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kabirdham",
+      "constituency_code": "AC-CG-71",
+      "constituency_name": "Pandariya",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kabirdham",
+      "constituency_code": "AC-CG-72",
+      "constituency_name": "Kawardha",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-73",
+      "constituency_name": "Khairagarh",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-74",
+      "constituency_name": "Dongargarh (SC)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-75",
+      "constituency_name": "Rajnandgaon",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-76",
+      "constituency_name": "Dongargaon",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-77",
+      "constituency_name": "Khujji",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "constituency_code": "AC-CG-78",
+      "constituency_name": "Mohla-Manpur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kanker",
+      "constituency_code": "AC-CG-79",
+      "constituency_name": "Antagarh (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kanker",
+      "constituency_code": "AC-CG-80",
+      "constituency_name": "Bhanupratappur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kanker",
+      "constituency_code": "AC-CG-81",
+      "constituency_name": "Kanker (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kondagaon",
+      "constituency_code": "AC-CG-82",
+      "constituency_name": "Keshkal (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Kondagaon",
+      "constituency_code": "AC-CG-83",
+      "constituency_name": "Kondagaon (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Narayanpur",
+      "constituency_code": "AC-CG-84",
+      "constituency_name": "Narayanpur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "constituency_code": "AC-CG-85",
+      "constituency_name": "Bastar (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "constituency_code": "AC-CG-86",
+      "constituency_name": "Jagdalpur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "constituency_code": "AC-CG-87",
+      "constituency_name": "Chitrakot (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Dantewada",
+      "constituency_code": "AC-CG-88",
+      "constituency_name": "Dantewada (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bijapur",
+      "constituency_code": "AC-CG-89",
+      "constituency_name": "Bijapur (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Sukma",
+      "constituency_code": "AC-CG-90",
+      "constituency_name": "Konta (ST)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-1",
+      "constituency_name": "Gummidipoondi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-2",
+      "constituency_name": "Ponneri",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-3",
+      "constituency_name": "Tiruttani",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-4",
+      "constituency_name": "Thiruvallur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-5",
+      "constituency_name": "Poonamallee",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvallur",
+      "constituency_code": "AC-TN-6",
+      "constituency_name": "Avadi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-7",
+      "constituency_name": "Maduravoyal",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-8",
+      "constituency_name": "Ambattur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-9",
+      "constituency_name": "Madavaram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-10",
+      "constituency_name": "Thiruvottiyur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-11",
+      "constituency_name": "Dr. R. K. Nagar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-12",
+      "constituency_name": "Perambur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-13",
+      "constituency_name": "Kolathur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-14",
+      "constituency_name": "Villivakkam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-15",
+      "constituency_name": "Thiru-Vi-Ka-Nagar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-16",
+      "constituency_name": "Egmore",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-17",
+      "constituency_name": "Royapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-18",
+      "constituency_name": "Harbour",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-19",
+      "constituency_name": "Chepauk-Thiruvallikeni",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-20",
+      "constituency_name": "Thousand Lights",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-21",
+      "constituency_name": "Anna Nagar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-22",
+      "constituency_name": "Virugampakkam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-23",
+      "constituency_name": "Saidapet",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-24",
+      "constituency_name": "Thiyagarayanagar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-25",
+      "constituency_name": "Mylapore",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-26",
+      "constituency_name": "Velachery",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-27",
+      "constituency_name": "Sholinganallur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "constituency_code": "AC-TN-28",
+      "constituency_name": "Alandur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "constituency_code": "AC-TN-29",
+      "constituency_name": "Sriperumbudur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-30",
+      "constituency_name": "Pallavaram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-31",
+      "constituency_name": "Tambaram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-32",
+      "constituency_name": "Chengalpattu",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-33",
+      "constituency_name": "Thiruporur",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-34",
+      "constituency_name": "Cheyyur",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "constituency_code": "AC-TN-35",
+      "constituency_name": "Madurantakam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "constituency_code": "AC-TN-36",
+      "constituency_name": "Uthiramerur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanchipuram",
+      "constituency_code": "AC-TN-37",
+      "constituency_name": "Kancheepuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ranipet",
+      "constituency_code": "AC-TN-38",
+      "constituency_name": "Arakkonam",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ranipet",
+      "constituency_code": "AC-TN-39",
+      "constituency_name": "Sholinghur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Vellore",
+      "constituency_code": "AC-TN-40",
+      "constituency_name": "Katpadi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ranipet",
+      "constituency_code": "AC-TN-41",
+      "constituency_name": "Ranipet",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ranipet",
+      "constituency_code": "AC-TN-42",
+      "constituency_name": "Arcot",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Vellore",
+      "constituency_code": "AC-TN-43",
+      "constituency_name": "Vellore",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Vellore",
+      "constituency_code": "AC-TN-44",
+      "constituency_name": "Anaikattu",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Vellore",
+      "constituency_code": "AC-TN-45",
+      "constituency_name": "Kilvaithinankuppam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Vellore",
+      "constituency_code": "AC-TN-46",
+      "constituency_name": "Gudiyattam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirupathur",
+      "constituency_code": "AC-TN-47",
+      "constituency_name": "Vaniyambadi",
+      "winner": "IUML",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirupathur",
+      "constituency_code": "AC-TN-48",
+      "constituency_name": "Ambur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirupathur",
+      "constituency_code": "AC-TN-49",
+      "constituency_name": "Jolarpet",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirupathur",
+      "constituency_code": "AC-TN-50",
+      "constituency_name": "Tirupattur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-51",
+      "constituency_name": "Uthangarai",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-52",
+      "constituency_name": "Bargur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-53",
+      "constituency_name": "Krishnagiri",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-54",
+      "constituency_name": "Veppanahalli",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-55",
+      "constituency_name": "Hosur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Krishnagiri",
+      "constituency_code": "AC-TN-56",
+      "constituency_name": "Thalli",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dharmapuri",
+      "constituency_code": "AC-TN-57",
+      "constituency_name": "Palacode",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dharmapuri",
+      "constituency_code": "AC-TN-58",
+      "constituency_name": "Pennagaram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dharmapuri",
+      "constituency_code": "AC-TN-59",
+      "constituency_name": "Dharmapuri",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dharmapuri",
+      "constituency_code": "AC-TN-60",
+      "constituency_name": "Pappireddipatti",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dharmapuri",
+      "constituency_code": "AC-TN-61",
+      "constituency_name": "Harur",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-62",
+      "constituency_name": "Chengam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-63",
+      "constituency_name": "Tiruvannamalai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-64",
+      "constituency_name": "Kilpennathur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-65",
+      "constituency_name": "Kalasapakkam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-66",
+      "constituency_name": "Polur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-67",
+      "constituency_name": "Arani",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-68",
+      "constituency_name": "Cheyyar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvannamalai",
+      "constituency_code": "AC-TN-69",
+      "constituency_name": "Vandavasi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-70",
+      "constituency_name": "Gingee",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-71",
+      "constituency_name": "Mailam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-72",
+      "constituency_name": "Tindivanam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-73",
+      "constituency_name": "Vanur",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-74",
+      "constituency_name": "Villupuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-75",
+      "constituency_name": "Vikravandi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Viluppuram",
+      "constituency_code": "AC-TN-76",
+      "constituency_name": "Tirukkoyilur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kallakurichi",
+      "constituency_code": "AC-TN-77",
+      "constituency_name": "Ulundurpettai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kallakurichi",
+      "constituency_code": "AC-TN-78",
+      "constituency_name": "Rishivandiyam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kallakurichi",
+      "constituency_code": "AC-TN-79",
+      "constituency_name": "Sankarapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kallakurichi",
+      "constituency_code": "AC-TN-80",
+      "constituency_name": "Kallakurichi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-81",
+      "constituency_name": "Gangavalli",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-82",
+      "constituency_name": "Attur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-83",
+      "constituency_name": "Yercaud",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-84",
+      "constituency_name": "Omalur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-85",
+      "constituency_name": "Mettur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-86",
+      "constituency_name": "Edappadi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-87",
+      "constituency_name": "Sankari",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-88",
+      "constituency_name": "Salem (West)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-89",
+      "constituency_name": "Salem (North)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-90",
+      "constituency_name": "Salem (South)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Salem",
+      "constituency_code": "AC-TN-91",
+      "constituency_name": "Veerapandi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-92",
+      "constituency_name": "Rasipuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-93",
+      "constituency_name": "Senthamangalam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-94",
+      "constituency_name": "Namakkal",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-95",
+      "constituency_name": "Paramathi-Velur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-96",
+      "constituency_name": "Tiruchengodu",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Namakkal",
+      "constituency_code": "AC-TN-97",
+      "constituency_name": "Kumarapalayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-98",
+      "constituency_name": "Erode (East)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-99",
+      "constituency_name": "Erode (West)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-100",
+      "constituency_name": "Modakkurichi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-101",
+      "constituency_name": "Dharapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-102",
+      "constituency_name": "Kangayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-103",
+      "constituency_name": "Perundurai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-104",
+      "constituency_name": "Bhavani",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-105",
+      "constituency_name": "Anthiyur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-106",
+      "constituency_name": "Gobichettipalayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Erode",
+      "constituency_code": "AC-TN-107",
+      "constituency_name": "Bhavanisagar",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nilgiris",
+      "constituency_code": "AC-TN-108",
+      "constituency_name": "Udhagamandalam",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nilgiris",
+      "constituency_code": "AC-TN-109",
+      "constituency_name": "Gudalur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nilgiris",
+      "constituency_code": "AC-TN-110",
+      "constituency_name": "Coonoor",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-111",
+      "constituency_name": "Mettuppalayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-112",
+      "constituency_name": "Avanashi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-113",
+      "constituency_name": "Tiruppur (North)",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-114",
+      "constituency_name": "Tiruppur (South)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-115",
+      "constituency_name": "Palladam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-116",
+      "constituency_name": "Sulur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-117",
+      "constituency_name": "Kavundampalayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-118",
+      "constituency_name": "Coimbatore (North)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-119",
+      "constituency_name": "Thondamuthur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-120",
+      "constituency_name": "Coimbatore (South)",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-121",
+      "constituency_name": "Singanallur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-122",
+      "constituency_name": "Kinathukadavu",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-123",
+      "constituency_name": "Pollachi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "constituency_code": "AC-TN-124",
+      "constituency_name": "Valparai",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-125",
+      "constituency_name": "Udumalaipettai",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppur",
+      "constituency_code": "AC-TN-126",
+      "constituency_name": "Madathukulam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-127",
+      "constituency_name": "Palani",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-128",
+      "constituency_name": "Oddanchatram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-129",
+      "constituency_name": "Athoor",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-130",
+      "constituency_name": "Nilakkottai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-131",
+      "constituency_name": "Natham",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-132",
+      "constituency_name": "Dindigul",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Dindigul",
+      "constituency_code": "AC-TN-133",
+      "constituency_name": "Vedasandur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Karur",
+      "constituency_code": "AC-TN-134",
+      "constituency_name": "Aravakurichi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Karur",
+      "constituency_code": "AC-TN-135",
+      "constituency_name": "Karur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Karur",
+      "constituency_code": "AC-TN-136",
+      "constituency_name": "Krishnarayapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Karur",
+      "constituency_code": "AC-TN-137",
+      "constituency_name": "Kulithalai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-138",
+      "constituency_name": "Manapparai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-139",
+      "constituency_name": "Srirangam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-140",
+      "constituency_name": "Tiruchirappalli (West)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-141",
+      "constituency_name": "Tiruchirappalli (East)",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-142",
+      "constituency_name": "Thiruverumbur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-143",
+      "constituency_name": "Lalgudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-144",
+      "constituency_name": "Manachanallur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-145",
+      "constituency_name": "Musiri",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruchirappalli",
+      "constituency_code": "AC-TN-146",
+      "constituency_name": "Thuraiyur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Perambalur",
+      "constituency_code": "AC-TN-147",
+      "constituency_name": "Perambalur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Perambalur",
+      "constituency_code": "AC-TN-148",
+      "constituency_name": "Kunnam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ariyalur",
+      "constituency_code": "AC-TN-149",
+      "constituency_name": "Ariyalur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ariyalur",
+      "constituency_code": "AC-TN-150",
+      "constituency_name": "Jayankondam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-151",
+      "constituency_name": "Tittakudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-152",
+      "constituency_name": "Vriddhachalam",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-153",
+      "constituency_name": "Neyveli",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-154",
+      "constituency_name": "Panruti",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-155",
+      "constituency_name": "Cuddalore",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-156",
+      "constituency_name": "Kurinjipadi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-157",
+      "constituency_name": "Bhuvanagiri",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-158",
+      "constituency_name": "Chidambaram",
+      "winner": "IUML",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cuddalore",
+      "constituency_code": "AC-TN-159",
+      "constituency_name": "Kattumannarkoil",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Mayiladuthurai",
+      "constituency_code": "AC-TN-160",
+      "constituency_name": "Sirkazhi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Mayiladuthurai",
+      "constituency_code": "AC-TN-161",
+      "constituency_name": "Mayiladuthurai",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Mayiladuthurai",
+      "constituency_code": "AC-TN-162",
+      "constituency_name": "Poompuhar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nagapattinam",
+      "constituency_code": "AC-TN-163",
+      "constituency_name": "Nagapattinam",
+      "winner": "VCK",
+      "party": "Viduthalai Chiruthaigal Katchi"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nagapattinam",
+      "constituency_code": "AC-TN-164",
+      "constituency_name": "Kilvelur",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nagapattinam",
+      "constituency_code": "AC-TN-165",
+      "constituency_name": "Vedaranyam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvarur",
+      "constituency_code": "AC-TN-166",
+      "constituency_name": "Thiruthuraipoondi",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvarur",
+      "constituency_code": "AC-TN-167",
+      "constituency_name": "Mannargudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvarur",
+      "constituency_code": "AC-TN-168",
+      "constituency_name": "Thiruvarur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruvarur",
+      "constituency_code": "AC-TN-169",
+      "constituency_name": "Nannilam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-170",
+      "constituency_name": "Thiruvidaimarudur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-171",
+      "constituency_name": "Kumbakonam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-172",
+      "constituency_name": "Papanasam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-173",
+      "constituency_name": "Thiruvaiyaru",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-174",
+      "constituency_name": "Thanjavur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-175",
+      "constituency_name": "Orathanadu",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-176",
+      "constituency_name": "Pattukkottai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thanjavur",
+      "constituency_code": "AC-TN-177",
+      "constituency_name": "Peravurani",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-178",
+      "constituency_name": "Gandarvakkottai",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-179",
+      "constituency_name": "Viralimalai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-180",
+      "constituency_name": "Pudukkottai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-181",
+      "constituency_name": "Thirumayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-182",
+      "constituency_name": "Alangudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukkottai",
+      "constituency_code": "AC-TN-183",
+      "constituency_name": "Aranthangi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Sivaganga",
+      "constituency_code": "AC-TN-184",
+      "constituency_name": "Karaikudi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Sivaganga",
+      "constituency_code": "AC-TN-185",
+      "constituency_name": "Tiruppattur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Sivaganga",
+      "constituency_code": "AC-TN-186",
+      "constituency_name": "Sivaganga",
+      "winner": "CPI",
+      "party": "Communist Party of India"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Sivaganga",
+      "constituency_code": "AC-TN-187",
+      "constituency_name": "Manamadurai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-188",
+      "constituency_name": "Melur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-189",
+      "constituency_name": "Madurai East",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-190",
+      "constituency_name": "Sholavandan",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-191",
+      "constituency_name": "Madurai North",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-192",
+      "constituency_name": "Madurai South",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-193",
+      "constituency_name": "Madurai Central",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-194",
+      "constituency_name": "Madurai West",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-195",
+      "constituency_name": "Thiruparankundram",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-196",
+      "constituency_name": "Thirumangalam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "constituency_code": "AC-TN-197",
+      "constituency_name": "Usilampatti",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Theni",
+      "constituency_code": "AC-TN-198",
+      "constituency_name": "Andipatti",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Theni",
+      "constituency_code": "AC-TN-199",
+      "constituency_name": "Periyakulam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Theni",
+      "constituency_code": "AC-TN-200",
+      "constituency_name": "Bodinayakanur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Theni",
+      "constituency_code": "AC-TN-201",
+      "constituency_name": "Cumbum",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-202",
+      "constituency_name": "Rajapalayam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-203",
+      "constituency_name": "Srivilliputhur",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-204",
+      "constituency_name": "Sattur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-205",
+      "constituency_name": "Sivakasi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-206",
+      "constituency_name": "Virudhunagar",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-207",
+      "constituency_name": "Aruppukkottai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Virudhunagar",
+      "constituency_code": "AC-TN-208",
+      "constituency_name": "Tiruchuli",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ramanathapuram",
+      "constituency_code": "AC-TN-209",
+      "constituency_name": "Paramakudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ramanathapuram",
+      "constituency_code": "AC-TN-210",
+      "constituency_name": "Tiruvadanai",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ramanathapuram",
+      "constituency_code": "AC-TN-211",
+      "constituency_name": "Ramanathapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ramanathapuram",
+      "constituency_code": "AC-TN-212",
+      "constituency_name": "Mudhukulathur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-213",
+      "constituency_name": "Vilathikulam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-214",
+      "constituency_name": "Thoothukkudi",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-215",
+      "constituency_name": "Tiruchendur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-216",
+      "constituency_name": "Srivaikuntam",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-217",
+      "constituency_name": "Ottapidaram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "constituency_code": "AC-TN-218",
+      "constituency_name": "Kovilpatti",
+      "winner": "CPI(M)",
+      "party": "Communist Party of India (Marxist)"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tenkasi",
+      "constituency_code": "AC-TN-219",
+      "constituency_name": "Sankarankovil",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tenkasi",
+      "constituency_code": "AC-TN-220",
+      "constituency_name": "Vasudevanallur",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tenkasi",
+      "constituency_code": "AC-TN-221",
+      "constituency_name": "Kadayanallur",
+      "winner": "IUML",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tenkasi",
+      "constituency_code": "AC-TN-222",
+      "constituency_name": "Tenkasi",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tenkasi",
+      "constituency_code": "AC-TN-223",
+      "constituency_name": "Alangulam",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirunelveli",
+      "constituency_code": "AC-TN-224",
+      "constituency_name": "Tirunelveli",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirunelveli",
+      "constituency_code": "AC-TN-225",
+      "constituency_name": "Ambasamudram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirunelveli",
+      "constituency_code": "AC-TN-226",
+      "constituency_name": "Palayamkottai",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirunelveli",
+      "constituency_code": "AC-TN-227",
+      "constituency_name": "Nanguneri",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tirunelveli",
+      "constituency_code": "AC-TN-228",
+      "constituency_name": "Radhapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-229",
+      "constituency_name": "Kanniyakumari",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-230",
+      "constituency_name": "Nagercoil",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-231",
+      "constituency_name": "Colachal",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-232",
+      "constituency_name": "Padmanabhapuram",
+      "winner": "DMK",
+      "party": "Dravida Munnetra Kazhagam"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-233",
+      "constituency_name": "Vilavancode",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "constituency_code": "AC-TN-234",
+      "constituency_name": "Killiyoor",
+      "winner": "INC",
+      "party": "Indian National Congress"
+    }
+  ]
+}
