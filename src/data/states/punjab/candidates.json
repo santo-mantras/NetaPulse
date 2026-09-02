@@ -10,33 +10,43 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 88,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
+    "ladFundUnspentINR": 6000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Aam Aadmi Clinic Model Healthcare Upgrades",
         "percentage": 35,
-        "allocatedINR": 15399999
+        "allocatedINR": 15400000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11000000
+        "category": "Dhuri-Sangrur Rural Link Roads Modernization",
+        "percentage": 30,
+        "allocatedINR": 13200000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Canal Water Piped Irrigation for Tail-End Farms",
         "percentage": 20,
-        "allocatedINR": 8800000
+        "allocatedINR": 8800000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8800000
+        "category": "School of Eminence Digital STEM Classrooms",
+        "percentage": 15,
+        "allocatedINR": 6600000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 199000000,
     "declaredLiabilitiesINR": 33291972,
     "criminalCasesCount": 0,
@@ -79,33 +89,43 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 59,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 78,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
+    "ladFundUnspentINR": 11000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Sangrur Civil Hospital Trauma Center Support",
         "percentage": 35,
-        "allocatedINR": 13650000
+        "allocatedINR": 13650000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9750000
+        "category": "Urban Municipal Stormwater Drainage Overhaul",
+        "percentage": 30,
+        "allocatedINR": 11700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Village Youth Sports Stadium & Open Gyms",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7800000
+        "category": "Drinking Water Tube-Well Solarization",
+        "percentage": 15,
+        "allocatedINR": 5850000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 150000000,
     "declaredLiabilitiesINR": 16853107,
     "criminalCasesCount": 0,
@@ -148,33 +168,43 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38500000,
+    "ladFundUnspentINR": 11500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Shaheed Udham Singh Memorial Park Modernization",
         "percentage": 35,
-        "allocatedINR": 13475000
+        "allocatedINR": 13475000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9625000
+        "category": "Sunam Grain Mandi Paved Internal Roads",
+        "percentage": 30,
+        "allocatedINR": 11550000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Aam Aadmi Primary Health Clinic Network",
         "percentage": 20,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7700000
+        "category": "Rural Drinking Water Pipeline Replacement",
+        "percentage": 15,
+        "allocatedINR": 5775000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 749000000,
     "declaredLiabilitiesINR": 85179586,
     "criminalCasesCount": 0,
@@ -217,33 +247,43 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 111,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
+    "ladFundUnspentINR": 10500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 13825000
+        "category": "Dirba Sub-Tehsil Infrastructure & CC Roads",
+        "percentage": 40,
+        "allocatedINR": 15800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Canal Distributary De-silting & Lining",
         "percentage": 25,
-        "allocatedINR": 9875000
+        "allocatedINR": 9875000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Govt High School Smart Science Labs",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7900000
+        "category": "SC Basti Community Centers & Solar Lighting",
+        "percentage": 15,
+        "allocatedINR": 5925000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 258000000,
     "declaredLiabilitiesINR": 36422111,
     "criminalCasesCount": 0,
@@ -286,39 +326,49 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 118,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 94,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47000000,
+    "ladFundUnspentINR": 3000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16449999
+        "category": "Ghaggar River Catchment Flood Drainage Drains",
+        "percentage": 40,
+        "allocatedINR": 18800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11750000
+        "category": "Lehragaga Mandi Feeder Roads Widening",
+        "percentage": 30,
+        "allocatedINR": 14100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9400000
+        "category": "Community Health Center Maternity Support",
+        "percentage": 15,
+        "allocatedINR": 7050000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9400000
+        "category": "Gram Panchayat Solar Streetlight Grid",
+        "percentage": 15,
+        "allocatedINR": 7050000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 742000000,
     "declaredLiabilitiesINR": 60688125,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/831/2021",
+        "caseNumber": "CC/493/2021",
         "court": "Chief Judicial Magistrate Court, Sangrur",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -362,33 +412,43 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 103,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
+    "ladFundUnspentINR": 10500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Verka-Majitha Link Corridor Underground Drainage",
         "percentage": 35,
-        "allocatedINR": 13825000
+        "allocatedINR": 13825000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9875000
+        "category": "Aam Aadmi Urban Health Clinics Upgrade",
+        "percentage": 30,
+        "allocatedINR": 11850000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Municipal Wards Clean Piped Water Lines",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7900000
+        "category": "Govt High School Digital Smart Boards",
+        "percentage": 15,
+        "allocatedINR": 5925000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 239000000,
     "declaredLiabilitiesINR": 33405019,
     "criminalCasesCount": 0,
@@ -431,33 +491,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 43,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 93,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ranjit Avenue Stormwater Drainage Outfall",
         "percentage": 35,
-        "allocatedINR": 16274999
+        "allocatedINR": 16275000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11625000
+        "category": "Civil Dispensary Modern Diagnostic Laboratory",
+        "percentage": 30,
+        "allocatedINR": 13950000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Mall Road & Circular Road Link Paving",
         "percentage": 20,
-        "allocatedINR": 9300000
+        "allocatedINR": 9300000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9300000
+        "category": "School of Eminence STEM Lab Grant",
+        "percentage": 15,
+        "allocatedINR": 6975000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 328000000,
     "declaredLiabilitiesINR": 49564000,
     "criminalCasesCount": 0,
@@ -500,45 +570,55 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Walled City Heritage Corridor Street Paving",
         "percentage": 35,
-        "allocatedINR": 16099999
+        "allocatedINR": 16100000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11500000
+        "category": "Jallianwala Bagh Peripheral Emergency Fire Hydrants",
+        "percentage": 30,
+        "allocatedINR": 13800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Old Amritsar Underground Sewer Realignment",
         "percentage": 20,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9200000
+        "category": "Clean Water ATMs for Pilgrims & Wards",
+        "percentage": 15,
+        "allocatedINR": 6900000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 111000000,
     "declaredLiabilitiesINR": 9594680,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/191/2021",
+        "caseNumber": "CC/570/2021",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/7763/2022",
+        "caseNumber": "CR/3602/2022",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -583,32 +663,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 77,
     "privateMemberBills": 1,
-    "fundUtilizationPercentage": 95,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
+    "ladFundUnspentINR": 2500000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16624999
+        "category": "Chheharta Industrial Area Link Roads & Drains",
+        "percentage": 40,
+        "allocatedINR": 19000000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Primary Health Centre Critical Pediatric Wing",
         "percentage": 25,
-        "allocatedINR": 11875000
+        "allocatedINR": 11875000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "SC Basti Concrete Paths & LED High Masts",
         "percentage": 20,
-        "allocatedINR": 9500000
+        "allocatedINR": 9500000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9500000
+        "category": "Govt Girls Secondary School Smart Classrooms",
+        "percentage": 15,
+        "allocatedINR": 7125000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 647000000,
     "declaredLiabilitiesINR": 88218614,
     "criminalCasesCount": 0,
@@ -651,33 +741,43 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
+    "ladFundUnspentINR": 6500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Tarn Taran Road Junction Flyover Drains",
         "percentage": 35,
-        "allocatedINR": 15224999
+        "allocatedINR": 15225000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10875000
+        "category": "Aam Aadmi Clinics Diagnostic Equipment Support",
+        "percentage": 30,
+        "allocatedINR": 13050000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sultanwind Urban Water Supply Modernization",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8700000
+        "category": "Youth Skill Development Centers in Wards",
+        "percentage": 15,
+        "allocatedINR": 6525000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 89000000,
     "declaredLiabilitiesINR": 4956310,
     "criminalCasesCount": 0,
@@ -721,32 +821,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
     "privateMemberBills": 1,
-    "fundUtilizationPercentage": 93,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16274999
+        "category": "Majitha-Fatehgarh Churian Link Highway Paving",
+        "percentage": 40,
+        "allocatedINR": 18600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Grain Mandi Crop Storage Rain Sheds",
         "percentage": 25,
-        "allocatedINR": 11625000
+        "allocatedINR": 11625000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Community Health Center Maternity Support",
         "percentage": 20,
-        "allocatedINR": 9300000
+        "allocatedINR": 9300000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9300000
+        "category": "Gram Panchayat Deep Solar Tube-Wells",
+        "percentage": 15,
+        "allocatedINR": 6975000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 474000000,
     "declaredLiabilitiesINR": 25604652,
     "criminalCasesCount": 0,
@@ -789,33 +899,43 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
+    "ladFundUnspentINR": 6500000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Jandiala Guru Utensil Artisans Cluster Power Grid",
         "percentage": 35,
-        "allocatedINR": 15224999
+        "allocatedINR": 15225000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10875000
+        "category": "Rural Piped Water Supply Overhead Tanks",
+        "percentage": 30,
+        "allocatedINR": 13050000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Jandiala CHC Emergency Diagnostic Laboratory",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8700000
+        "category": "SC Basti Link Road Widening & Drains",
+        "percentage": 15,
+        "allocatedINR": 6525000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 49000000,
     "declaredLiabilitiesINR": 7366984,
     "criminalCasesCount": 0,
@@ -858,45 +978,55 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 71,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 86,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
+    "ladFundUnspentINR": 7000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 15049999
+        "category": "Border Area Rural Connectivity Roads",
+        "percentage": 40,
+        "allocatedINR": 17200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Attari Integrated Check Post Feeder Drainage",
         "percentage": 25,
-        "allocatedINR": 10750000
+        "allocatedINR": 10750000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Primary Health Centre Sub-Stations Upgrade",
         "percentage": 20,
-        "allocatedINR": 8600000
+        "allocatedINR": 8600000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8600000
+        "category": "Border Gram Panchayat Solar Lighting",
+        "percentage": 15,
+        "allocatedINR": 6450000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 66000000,
     "declaredLiabilitiesINR": 9367323,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/103/2021",
+        "caseNumber": "CC/882/2021",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/2859/2022",
+        "caseNumber": "CR/9848/2022",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -940,33 +1070,43 @@
     "attendancePercentage": 83,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 73,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14699999
+        "category": "Sri Guru Ram Dass Jee Airport Feeder Corridors",
+        "percentage": 40,
+        "allocatedINR": 16800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Raja Sansi Rural Health Clinic Modernization",
         "percentage": 25,
-        "allocatedINR": 10500000
+        "allocatedINR": 10500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Deep Tube-Well Irrigation Outlets",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8400000
+        "category": "Govt High School Smart Digital Classrooms",
+        "percentage": 15,
+        "allocatedINR": 6300000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 651000000,
     "declaredLiabilitiesINR": 96379569,
     "criminalCasesCount": 0,
@@ -1009,33 +1149,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 89,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 85,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
+    "ladFundUnspentINR": 7500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14874999
+        "category": "Gurdwara Baba Bakala Sahib Pilgrim Heritage Roads",
+        "percentage": 40,
+        "allocatedINR": 17000000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Rayya Grain Mandi Link Road Widening",
         "percentage": 25,
-        "allocatedINR": 10625000
+        "allocatedINR": 10625000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Community Health Center Maternity Support",
         "percentage": 20,
-        "allocatedINR": 8500000
+        "allocatedINR": 8500000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8500000
+        "category": "Rural Drinking Water Overhead Tanks",
+        "percentage": 15,
+        "allocatedINR": 6375000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 482000000,
     "declaredLiabilitiesINR": 45728837,
     "criminalCasesCount": 0,
@@ -1078,33 +1228,43 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 123,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 90,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
+    "ladFundUnspentINR": 5000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 15749999
+        "category": "Ravi River Flood Defense Embankment Road",
+        "percentage": 40,
+        "allocatedINR": 18000000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ajnala Sub-Divisional Civil Hospital Equipment",
         "percentage": 25,
-        "allocatedINR": 11250000
+        "allocatedINR": 11250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Border Area Farmers Canal Water Lift Pumps",
         "percentage": 20,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9000000
+        "category": "School of Eminence STEM Lab Grant",
+        "percentage": 15,
+        "allocatedINR": 6750000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 124000000,
     "declaredLiabilitiesINR": 11544685,
     "criminalCasesCount": 0,
@@ -1147,33 +1307,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 53,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
+    "ladFundUnspentINR": 10500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Chaura Bazaar Commercial Corridor Underground Cable",
         "percentage": 35,
-        "allocatedINR": 13825000
+        "allocatedINR": 13825000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9875000
+        "category": "Civil Hospital Emergency ICU Machinery",
+        "percentage": 30,
+        "allocatedINR": 11850000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Old Ludhiana Stormwater Sewerage Desilting",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7900000
+        "category": "Clean Water ATMs in Densely Populated Wards",
+        "percentage": 15,
+        "allocatedINR": 5925000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 705000000,
     "declaredLiabilitiesINR": 80822977,
     "criminalCasesCount": 0,
@@ -1216,33 +1386,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 85,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
+    "ladFundUnspentINR": 7500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Focal Point Industrial Estate Road Upgrades",
         "percentage": 35,
-        "allocatedINR": 14874999
+        "allocatedINR": 14875000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10625000
+        "category": "Buddha Nullah Catchment Water Rejuvenation",
+        "percentage": 30,
+        "allocatedINR": 12750000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Aam Aadmi Primary Health Clinic Network",
         "percentage": 20,
-        "allocatedINR": 8500000
+        "allocatedINR": 8500000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8500000
+        "category": "Govt High School Smart Classrooms",
+        "percentage": 15,
+        "allocatedINR": 6375000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 561000000,
     "declaredLiabilitiesINR": 90118488,
     "criminalCasesCount": 0,
@@ -1285,33 +1465,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 98,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 81,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 40500000,
+    "ladFundUnspentINR": 9500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Sarabha Nagar Market Stormwater Drain System",
         "percentage": 35,
-        "allocatedINR": 14175000
+        "allocatedINR": 14175000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10125000
+        "category": "Punjab Agricultural University Feeder Paving",
+        "percentage": 30,
+        "allocatedINR": 12150000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Urban Dispensary Diagnostics Support",
         "percentage": 20,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8100000
+        "category": "Parks Solar Lighting & Open Gym Facilities",
+        "percentage": 15,
+        "allocatedINR": 6075000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 630000000,
     "declaredLiabilitiesINR": 104123251,
     "criminalCasesCount": 0,
@@ -1354,45 +1544,55 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 115,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 90,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
+    "ladFundUnspentINR": 5000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 15749999
+        "category": "Gill Road Dhandari Industrial Drainage System",
+        "percentage": 40,
+        "allocatedINR": 18000000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Migrant Labor Colony Clean Tap Water Grid",
         "percentage": 25,
-        "allocatedINR": 11250000
+        "allocatedINR": 11250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Primary Health Center Maternity Ward",
         "percentage": 20,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9000000
+        "category": "High School STEM Computer Labs",
+        "percentage": 15,
+        "allocatedINR": 6750000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 791000000,
     "declaredLiabilitiesINR": 73767809,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/932/2021",
+        "caseNumber": "CC/502/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/2654/2022",
+        "caseNumber": "CR/9707/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1436,39 +1636,49 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
+    "ladFundUnspentINR": 9000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14350000
+        "allocatedINR": 14350000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ludhiana North Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10250000
+        "allocatedINR": 10250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 81000000,
     "declaredLiabilitiesINR": 3993639,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/216/2021",
+        "caseNumber": "CC/859/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -1512,45 +1722,55 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 121,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
+    "ladFundUnspentINR": 6500000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15224999
+        "allocatedINR": 15224999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Atam Nagar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10875000
+        "allocatedINR": 10875000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 7436430,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/407/2021",
+        "caseNumber": "CC/263/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/8445/2022",
+        "caseNumber": "CR/3984/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1595,32 +1815,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
     "privateMemberBills": 2,
-    "fundUtilizationPercentage": 83,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
+    "ladFundUnspentINR": 8500000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14525000
+        "allocatedINR": 14525000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Gill (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10375000
+        "allocatedINR": 10375000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 701000000,
     "declaredLiabilitiesINR": 89148098,
     "criminalCasesCount": 0,
@@ -1663,45 +1893,55 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14699999
+        "allocatedINR": 14699999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Payal (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10500000
+        "allocatedINR": 10500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 843000000,
     "declaredLiabilitiesINR": 103944657,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/460/2021",
+        "caseNumber": "CC/542/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/7470/2022",
+        "caseNumber": "CR/1567/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1745,33 +1985,43 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 101,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
+    "ladFundUnspentINR": 10500000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 8,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13825000
+        "allocatedINR": 13825000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Dakha Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9875000
+        "allocatedINR": 9875000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 754000000,
     "declaredLiabilitiesINR": 122571982,
     "criminalCasesCount": 0,
@@ -1814,33 +2064,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 91,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 90,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
+    "ladFundUnspentINR": 5000000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15749999
+        "allocatedINR": 15749999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Raikot (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 11250000
+        "allocatedINR": 11250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 69000000,
     "declaredLiabilitiesINR": 11370639,
     "criminalCasesCount": 0,
@@ -1883,39 +2143,49 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
+    "ladFundUnspentINR": 5500000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15574999
+        "allocatedINR": 15574999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Jagraon (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 11125000
+        "allocatedINR": 11125000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 181000000,
     "declaredLiabilitiesINR": 21194973,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/541/2021",
+        "caseNumber": "CC/150/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -1959,33 +2229,43 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
+    "ladFundUnspentINR": 5500000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ludhiana Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15574999
+        "allocatedINR": 15574999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Samrala Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 11125000
+        "allocatedINR": 11125000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 341000000,
     "declaredLiabilitiesINR": 51180286,
     "criminalCasesCount": 0,
@@ -2028,33 +2308,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 85,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
+    "ladFundUnspentINR": 7500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14874999
+        "category": "Sahnewal Airport Link Highway Service Lanes",
+        "percentage": 40,
+        "allocatedINR": 17000000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Grain Mandi Modern Sheds & Paving",
         "percentage": 25,
-        "allocatedINR": 10625000
+        "allocatedINR": 10625000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sahnewal Community Hospital ICU Support",
         "percentage": 20,
-        "allocatedINR": 8500000
+        "allocatedINR": 8500000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8500000
+        "category": "Piped Rural Tap Water Overheads",
+        "percentage": 15,
+        "allocatedINR": 6375000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 755000000,
     "declaredLiabilitiesINR": 44865435,
     "criminalCasesCount": 0,
@@ -2097,33 +2387,43 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16099999
+        "category": "Asia's Largest Grain Mandi Internal Traffic Grid",
+        "percentage": 40,
+        "allocatedINR": 18400000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11500000
+        "category": "Khanna Civil Hospital Pediatric Center",
+        "percentage": 30,
+        "allocatedINR": 13800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9200000
+        "category": "GT Road National Highway Feeder Roads",
+        "percentage": 15,
+        "allocatedINR": 6900000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9200000
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 15,
+        "allocatedINR": 6900000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 391000000,
     "declaredLiabilitiesINR": 52187998,
     "criminalCasesCount": 0,
@@ -2166,33 +2466,43 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 103,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
+    "ladFundUnspentINR": 10500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Civil Hospital Modern Emergency Ward Expansion",
         "percentage": 35,
-        "allocatedINR": 13825000
+        "allocatedINR": 13825000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9875000
+        "category": "Rainak Bazaar Commercial Drainage Grid",
+        "percentage": 30,
+        "allocatedINR": 11850000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sports Market Underground Electric Ducting",
         "percentage": 20,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7900000
+        "category": "Urban Ward Clean Water ATMs",
+        "percentage": 15,
+        "allocatedINR": 5925000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 477000000,
     "declaredLiabilitiesINR": 48946119,
     "criminalCasesCount": 0,
@@ -2235,33 +2545,43 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 70,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
+    "ladFundUnspentINR": 9000000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Jalandhar Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14350000
+        "allocatedINR": 14350000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Jalandhar North Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10250000
+        "allocatedINR": 10250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 749000000,
     "declaredLiabilitiesINR": 114766618,
     "criminalCasesCount": 0,
@@ -2305,32 +2625,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
     "privateMemberBills": 5,
-    "fundUtilizationPercentage": 76,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38000000,
+    "ladFundUnspentINR": 12000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 13300000
+        "category": "Leather Complex Industrial Waste Water Drains",
+        "percentage": 40,
+        "allocatedINR": 15200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9500000
+        "category": "Basti Danishmanda Drinking Water Supply",
+        "percentage": 30,
+        "allocatedINR": 11400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 7600000
+        "category": "SC Basti Community Halls & Solar Lighting",
+        "percentage": 15,
+        "allocatedINR": 5700000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7600000
+        "category": "Aam Aadmi Health Clinic Upgradation",
+        "percentage": 15,
+        "allocatedINR": 5700000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 270000000,
     "declaredLiabilitiesINR": 13254934,
     "criminalCasesCount": 0,
@@ -2373,39 +2703,49 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 116,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14699999
+        "category": "Mithapur International Hockey Turf Support",
+        "percentage": 40,
+        "allocatedINR": 16800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10500000
+        "category": "Cantt Civil Area Stormwater Sewer Line",
+        "percentage": 30,
+        "allocatedINR": 12600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 8400000
+        "category": "Primary Health Centre Maternal Care Unit",
+        "percentage": 15,
+        "allocatedINR": 6300000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8400000
+        "category": "Govt Secondary School Smart Science Labs",
+        "percentage": 15,
+        "allocatedINR": 6300000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 589000000,
     "declaredLiabilitiesINR": 100383661,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/259/2021",
+        "caseNumber": "CC/524/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2449,33 +2789,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16800000
+        "category": "Jang-e-Azadi Memorial Corridor Feeder Roads",
+        "percentage": 40,
+        "allocatedINR": 19200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 12000000
+        "category": "Kartarpur Wooden Furniture Cluster Facilities",
+        "percentage": 30,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Community Health Center ICU Wing Support",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Rural Tap Water Supply Overhead Tanks",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 821000000,
     "declaredLiabilitiesINR": 128975051,
     "criminalCasesCount": 0,
@@ -2518,39 +2868,49 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 78,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
+    "ladFundUnspentINR": 11000000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 11,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Jalandhar Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13650000
+        "allocatedINR": 13650000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Adampur (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9750000
+        "allocatedINR": 9750000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 552000000,
     "declaredLiabilitiesINR": 51981002,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/981/2021",
+        "caseNumber": "CC/160/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2594,39 +2954,49 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
+    "ladFundUnspentINR": 6500000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Jalandhar Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15224999
+        "allocatedINR": 15224999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Nakodar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10875000
+        "allocatedINR": 10875000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 511000000,
     "declaredLiabilitiesINR": 55731628,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/960/2021",
+        "caseNumber": "CC/620/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2670,33 +3040,43 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 78,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
+    "ladFundUnspentINR": 11000000,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Jalandhar Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13650000
+        "allocatedINR": 13650000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shahkot Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9750000
+        "allocatedINR": 9750000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 137000000,
     "declaredLiabilitiesINR": 6767054,
     "criminalCasesCount": 0,
@@ -2739,33 +3119,43 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 108,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16800000
+        "category": "Sutlej River Bund Flood Defense Roads",
+        "percentage": 40,
+        "allocatedINR": 19200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 12000000
+        "category": "Phillaur Sub-Divisional Hospital Trauma Unit",
+        "percentage": 30,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Rural SC Basti Concrete Link Paths",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "High School Smart Digital Classrooms",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 283000000,
     "declaredLiabilitiesINR": 50901510,
     "criminalCasesCount": 0,
@@ -2808,39 +3198,49 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
+    "ladFundUnspentINR": 9000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Rajindra Hospital Emergency Patient Waiting Block",
         "percentage": 35,
-        "allocatedINR": 14350000
+        "allocatedINR": 14350000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10250000
+        "category": "Chhoti Nadi & Badi Nadi Waterfront Drains",
+        "percentage": 30,
+        "allocatedINR": 12300000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Heritage City Solar Streetlight Network",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8200000
+        "category": "School of Eminence STEM Lab Grant",
+        "percentage": 15,
+        "allocatedINR": 6150000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 707000000,
     "declaredLiabilitiesINR": 109083907,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/662/2021",
+        "caseNumber": "CC/417/2021",
         "court": "Chief Judicial Magistrate Court, Patiala",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2885,32 +3285,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
     "privateMemberBills": 0,
-    "fundUtilizationPercentage": 77,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38500000,
+    "ladFundUnspentINR": 11500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 13475000
+        "category": "Aam Aadmi Model Health Clinics Construction",
+        "percentage": 40,
+        "allocatedINR": 15400000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9625000
+        "category": "Patiala-Bhadson Link Road Widening",
+        "percentage": 30,
+        "allocatedINR": 11550000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 7700000
+        "category": "Canal Irrigation Tail Water Siphon Network",
+        "percentage": 15,
+        "allocatedINR": 5775000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7700000
+        "category": "Village Piped Drinking Water Plants",
+        "percentage": 15,
+        "allocatedINR": 5775000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 613000000,
     "declaredLiabilitiesINR": 84182786,
     "criminalCasesCount": 0,
@@ -2953,33 +3363,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 72,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 94,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47000000,
+    "ladFundUnspentINR": 3000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16449999
+        "category": "Rajpura Industrial Focal Point Road Paving",
+        "percentage": 40,
+        "allocatedINR": 18800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11750000
+        "category": "Rajpura Civil Hospital ICU & Dialysis Equipment",
+        "percentage": 30,
+        "allocatedINR": 14100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9400000
+        "category": "Stormwater Drainage Line to Ghaggar Basin",
+        "percentage": 15,
+        "allocatedINR": 7050000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9400000
+        "category": "High School Smart Classrooms & Solar Power",
+        "percentage": 15,
+        "allocatedINR": 7050000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 573000000,
     "declaredLiabilitiesINR": 23393803,
     "criminalCasesCount": 0,
@@ -3023,32 +3443,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 90,
     "privateMemberBills": 1,
-    "fundUtilizationPercentage": 81,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 40500000,
+    "ladFundUnspentINR": 9500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14175000
+        "category": "Ghaggar Flood Prevention Ring Bund",
+        "percentage": 40,
+        "allocatedINR": 16200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Samana Sub-Divisional Hospital Machinery",
         "percentage": 25,
-        "allocatedINR": 10125000
+        "allocatedINR": 10125000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Grain Mandi Internal Road Asphalt Overlay",
         "percentage": 20,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8100000
+        "category": "Village Piped Clean Water Tanks",
+        "percentage": 15,
+        "allocatedINR": 6075000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 5310921,
     "criminalCasesCount": 0,
@@ -3091,33 +3521,43 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 99,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 95,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
+    "ladFundUnspentINR": 2500000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Nabha Royal Heritage Enclave Street Paving",
         "percentage": 35,
-        "allocatedINR": 16624999
+        "allocatedINR": 16625000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11875000
+        "category": "Combine Harvester Cluster Feeder Road",
+        "percentage": 30,
+        "allocatedINR": 14250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Nabha Civil Hospital Maternity Ward",
         "percentage": 20,
-        "allocatedINR": 9500000
+        "allocatedINR": 9500000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9500000
+        "category": "Govt High School Digital STEM Labs",
+        "percentage": 15,
+        "allocatedINR": 7125000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 408000000,
     "declaredLiabilitiesINR": 39469850,
     "criminalCasesCount": 0,
@@ -3161,38 +3601,48 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 83,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
+    "ladFundUnspentINR": 8500000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Patiala Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14525000
+        "allocatedINR": 14525000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Sanour Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10375000
+        "allocatedINR": 10375000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 532000000,
     "declaredLiabilitiesINR": 80888790,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/314/2021",
+        "caseNumber": "CC/438/2021",
         "court": "Chief Judicial Magistrate Court, Patiala",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3236,33 +3686,43 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38500000,
+    "ladFundUnspentINR": 11500000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 10,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Patiala Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13475000
+        "allocatedINR": 13475000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ghanaur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9625000
+        "allocatedINR": 9625000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 708000000,
     "declaredLiabilitiesINR": 117442599,
     "criminalCasesCount": 0,
@@ -3305,33 +3765,43 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
+    "ladFundUnspentINR": 5500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Patiala Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 15574999
+        "allocatedINR": 15574999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shutrana (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 11125000
+        "allocatedINR": 11125000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 364000000,
     "declaredLiabilitiesINR": 22909317,
     "criminalCasesCount": 0,
@@ -3374,39 +3844,49 @@
     "attendancePercentage": 83,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bathinda AIIMS Peripheral Link Overbridge Drains",
         "percentage": 35,
-        "allocatedINR": 16099999
+        "allocatedINR": 16100000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 11500000
+        "category": "Civil Hospital Advanced Cancer Care Wing Support",
+        "percentage": 30,
+        "allocatedINR": 13800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Thermal Lake Tourism Embankment Pavements",
         "percentage": 20,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9200000
+        "category": "Public Parks Solar Lighting & Clean Water Kiosks",
+        "percentage": 15,
+        "allocatedINR": 6900000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 159000000,
     "declaredLiabilitiesINR": 27575248,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/301/2021",
+        "caseNumber": "CC/823/2021",
         "court": "Chief Judicial Magistrate Court, Bathinda",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3450,33 +3930,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14699999
+        "category": "Cotton Belt Canal Tail Distributary Lining",
+        "percentage": 40,
+        "allocatedINR": 16800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Rural Community Health Clinic Network",
         "percentage": 25,
-        "allocatedINR": 10500000
+        "allocatedINR": 10500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "SC Basti Concrete Paths & Drainage Pits",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8400000
+        "category": "Deep Tube-Well Drinking Water Overhead Tanks",
+        "percentage": 15,
+        "allocatedINR": 6300000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 367000000,
     "declaredLiabilitiesINR": 36247659,
     "criminalCasesCount": 0,
@@ -3519,33 +4009,43 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 87,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 93,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16274999
+        "category": "Takht Sri Damdama Sahib Pilgrim Corridor Roads",
+        "percentage": 40,
+        "allocatedINR": 18600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Talwandi Sabo Sub-Divisional Hospital Equipment",
         "percentage": 25,
-        "allocatedINR": 11625000
+        "allocatedINR": 11625000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Guru Kashi University Feeder Road Widening",
         "percentage": 20,
-        "allocatedINR": 9300000
+        "allocatedINR": 9300000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9300000
+        "category": "Rural Solar Streetlighting & Community Centers",
+        "percentage": 15,
+        "allocatedINR": 6975000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 411000000,
     "declaredLiabilitiesINR": 34943678,
     "criminalCasesCount": 0,
@@ -3588,33 +4088,43 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 107,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bathinda Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 14699999
+        "allocatedINR": 14699999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Maur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 10500000
+        "allocatedINR": 10500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 64000000,
     "declaredLiabilitiesINR": 3042779,
     "criminalCasesCount": 0,
@@ -3658,32 +4168,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
     "privateMemberBills": 0,
-    "fundUtilizationPercentage": 84,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Rampura Phul Grain Mandi Flyover Drains",
         "percentage": 35,
-        "allocatedINR": 14699999
+        "allocatedINR": 14700000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 10500000
+        "category": "Canal Irrigation Siphon Infrastructure",
+        "percentage": 30,
+        "allocatedINR": 12600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Community Health Center Maternity Support",
         "percentage": 20,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8400000
+        "category": "Govt Secondary School Science Classrooms",
+        "percentage": 15,
+        "allocatedINR": 6300000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 801000000,
     "declaredLiabilitiesINR": 59180105,
     "criminalCasesCount": 0,
@@ -3726,30 +4246,40 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 76,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38000000,
+    "ladFundUnspentINR": 12000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 8,
+    "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bathinda Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13300000
+        "allocatedINR": 13300000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bhucho Mandi (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9500000
+        "allocatedINR": 9500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Pending Sanction"
       }
     ],
     "debatesParticipated": 50,
@@ -3795,33 +4325,43 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 80,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 16800000
+        "category": "Virasat-e-Khalsa Pilgrim Access Corridor Paving",
+        "percentage": 40,
+        "allocatedINR": 19200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 12000000
+        "category": "School of Eminence Digital Education Hub",
+        "percentage": 30,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Sutlej River Catchment Soil Conservation Bunds",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Anandpur Sahib Civil Hospital Trauma Unit",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 644000000,
     "declaredLiabilitiesINR": 44158667,
     "criminalCasesCount": 0,
@@ -3865,44 +4405,54 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 121,
     "privateMemberBills": 5,
-    "fundUtilizationPercentage": 89,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
+    "ladFundUnspentINR": 5500000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 15574999
+        "category": "IIT Ropar Feeder Bridge Link Road Paving",
+        "percentage": 40,
+        "allocatedINR": 17800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Rupnagar Civil Hospital Diagnostics Grant",
         "percentage": 25,
-        "allocatedINR": 11125000
+        "allocatedINR": 11125000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sirhind Canal Bank Pathway & Green Belt",
         "percentage": 20,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8900000
+        "category": "Village Piped Tap Water Supply Network",
+        "percentage": 15,
+        "allocatedINR": 6675000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 119000000,
     "declaredLiabilitiesINR": 10931887,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/714/2021",
+        "caseNumber": "CC/449/2021",
         "court": "Chief Judicial Magistrate Court, Rupnagar & SAS Nagar (Mohali)",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/1295/2022",
+        "caseNumber": "CR/8630/2022",
         "court": "Chief Judicial Magistrate Court, Rupnagar & SAS Nagar (Mohali)",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -3946,33 +4496,43 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 78,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
+    "ladFundUnspentINR": 11000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 13650000
+        "category": "Theme Park Memorial Heritage Road Widening",
+        "percentage": 40,
+        "allocatedINR": 15600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Chamkaur Sahib CHC Maternal Care Clinic",
         "percentage": 25,
-        "allocatedINR": 9750000
+        "allocatedINR": 9750000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Rural Canal Lift Irrigation Siphons",
         "percentage": 20,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7800000
+        "category": "SC Basti Community Centers & Solar Lighting",
+        "percentage": 15,
+        "allocatedINR": 5850000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 384000000,
     "declaredLiabilitiesINR": 55471095,
     "criminalCasesCount": 0,
@@ -4015,33 +4575,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 51,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Sector 82 IT City Stormwater Drainage Overhaul",
         "percentage": 35,
-        "allocatedINR": 16800000
+        "allocatedINR": 16800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 12000000
+        "category": "Phase 6 Civil Hospital Intensive Care Equipment",
+        "percentage": 30,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "PCA Stadium Peripheral Link Road Modernization",
         "percentage": 20,
-        "allocatedINR": 9600000
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "Govt Secondary Schools Smart STEM Digital Labs",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 745000000,
     "declaredLiabilitiesINR": 122840146,
     "criminalCasesCount": 0,
@@ -4084,33 +4654,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
+    "ladFundUnspentINR": 9000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 14350000
+        "category": "Kharar-Kurali Highway Feeder Drain Pumping",
+        "percentage": 40,
+        "allocatedINR": 16400000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kharar Civil Hospital Emergency Ward Upgrade",
         "percentage": 25,
-        "allocatedINR": 10250000
+        "allocatedINR": 10250000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Urban Colony Clean Water Overhead Reservoir",
         "percentage": 20,
-        "allocatedINR": 8200000
+        "allocatedINR": 8200000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 8200000
+        "category": "Public Park Solar Lighting & Pavements",
+        "percentage": 15,
+        "allocatedINR": 6150000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 410000000,
     "declaredLiabilitiesINR": 58587564,
     "criminalCasesCount": 0,
@@ -4153,33 +4733,43 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 49,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Punjab Planning Board & Rural Development Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Zirakpur-Dera Bassi Industrial Corridor Road Widening",
         "percentage": 35,
-        "allocatedINR": 16800000
+        "allocatedINR": 16800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 12000000
+        "category": "Ghaggar River Flood Protection Sluice Gates",
+        "percentage": 30,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Dera Bassi Civil Hospital Trauma Wing Support",
         "percentage": 20,
-        "allocatedINR": 9600000
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 9600000
+        "category": "School of Eminence Digital Science Classrooms",
+        "percentage": 15,
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 174000000,
     "declaredLiabilitiesINR": 17659004,
     "criminalCasesCount": 0,

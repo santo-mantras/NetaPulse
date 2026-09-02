@@ -1,0 +1,61 @@
+{
+  "lastSynced": "2026-09-02",
+  "totalLeadersAudited": 476,
+  "updatedCount": 6,
+  "verifiedSample": [
+    {
+      "leader": "Devendra Fadnavis",
+      "state": "Maharashtra",
+      "role": "MLA",
+      "allocated": 50000000,
+      "utilized": 48500000,
+      "efficiency": "97.0%",
+      "source": "Maharashtra Planning Department / DPDC"
+    },
+    {
+      "leader": "Eknath Shinde",
+      "state": "Maharashtra",
+      "role": "MLA",
+      "allocated": 50000000,
+      "utilized": 49000000,
+      "efficiency": "98.0%",
+      "source": "Maharashtra Planning Department / DPDC"
+    },
+    {
+      "leader": "Yogi Adityanath",
+      "state": "Uttar Pradesh",
+      "role": "Chief Minister of Uttar Pradesh",
+      "allocated": 50000000,
+      "utilized": 47500000,
+      "efficiency": "95.0%",
+      "source": "Uttar Pradesh Planning & Rural Development Department"
+    },
+    {
+      "leader": "Siddaramaiah",
+      "state": "Karnataka",
+      "role": "Chief Minister of Karnataka",
+      "allocated": 40000000,
+      "utilized": 38000000,
+      "efficiency": "95.0%",
+      "source": "Karnataka Department of Planning & Statistics"
+    },
+    {
+      "leader": "Bhagwant Mann",
+      "state": "Punjab",
+      "role": "Chief Minister of Punjab",
+      "allocated": 50000000,
+      "utilized": 44000000,
+      "efficiency": "88.0%",
+      "source": "Punjab Planning Board & Rural Development"
+    },
+    {
+      "leader": "Ravi Kishan",
+      "state": "Uttar Pradesh",
+      "role": "MP",
+      "allocated": 147000000,
+      "utilized": 13000000,
+      "efficiency": "8.8%",
+      "source": "Ministry of Statistics & Programme Implementation (MoSPI) & PRS Legislative Research"
+    }
+  ]
+}

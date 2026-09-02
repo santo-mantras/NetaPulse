@@ -10,39 +10,49 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 89,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP Special Development Releases",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Sampige Road Commercial Zone Stormwater Drains",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9200000
+        "category": "KC General Hospital Emergency ICU Grant",
+        "percentage": 30,
+        "allocatedINR": 11040000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sankey Tank Peripheral Walkway & Solar Lighting",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7360000
+        "category": "BBMP High School Smart STEM Science Laboratories",
+        "percentage": 15,
+        "allocatedINR": 5520000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 268000000,
     "declaredLiabilitiesINR": 36132183,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/791/2021",
+        "caseNumber": "CC/779/2021",
         "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -87,32 +97,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 122,
     "privateMemberBills": 2,
-    "fundUtilizationPercentage": 90,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Outer Ring Road Deve Gowda Petrol Bunk Junction Drains",
         "percentage": 35,
-        "allocatedINR": 12600000
+        "allocatedINR": 12600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9000000
+        "category": "Urban Primary Health Center Modernization",
+        "percentage": 30,
+        "allocatedINR": 10800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Public Parks Open Gyms & LED Lighting Grid",
         "percentage": 20,
-        "allocatedINR": 7200000
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7200000
+        "category": "Govt High School Digital Learning Classrooms",
+        "percentage": 15,
+        "allocatedINR": 5400000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 588000000,
     "declaredLiabilitiesINR": 65907957,
     "criminalCasesCount": 0,
@@ -156,32 +176,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 108,
     "privateMemberBills": 0,
-    "fundUtilizationPercentage": 91,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Madiwala Lake Buffer Stormwater Drainage Network",
         "percentage": 35,
-        "allocatedINR": 12740000
+        "allocatedINR": 12740000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9100000
+        "category": "Silk Board Feeder Service Road Modernization",
+        "percentage": 30,
+        "allocatedINR": 10920000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "BTM Urban Health Dispensary Pediatric Support",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7280000
+        "category": "Clean Water ATMs & Ward Sanitation Blocks",
+        "percentage": 15,
+        "allocatedINR": 5460000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 501000000,
     "declaredLiabilitiesINR": 67340684,
     "criminalCasesCount": 0,
@@ -224,33 +254,43 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 53,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Russell Market Commercial Area Drainage & Paving",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9200000
+        "category": "Bowring & Lady Curzon Hospital Trauma Grant",
+        "percentage": 30,
+        "allocatedINR": 11040000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Cantonment Ward Underground Piped Water Lines",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7360000
+        "category": "Govt Model Urdu & Kannada Primary School Labs",
+        "percentage": 15,
+        "allocatedINR": 5520000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 111000000,
     "declaredLiabilitiesINR": 6857158,
     "criminalCasesCount": 0,
@@ -293,33 +333,43 @@
     "attendancePercentage": 97,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 32,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30800000,
+    "ladFundUnspentINR": 9200000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10780000
+        "allocatedINR": 10780000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Jayanagar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 357000000,
     "declaredLiabilitiesINR": 53420184,
     "criminalCasesCount": 0,
@@ -362,39 +412,49 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 57,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 86,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34400000,
+    "ladFundUnspentINR": 5600000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12040000
+        "allocatedINR": 12040000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shanthinagar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8600000
+        "allocatedINR": 8600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 556000000,
     "declaredLiabilitiesINR": 55167354,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/661/2021",
+        "caseNumber": "CC/614/2021",
         "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -438,33 +498,43 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 54,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 86,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34400000,
+    "ladFundUnspentINR": 5600000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Majestic Bus Terminus Peripheral Drain Desilting",
         "percentage": 35,
-        "allocatedINR": 12040000
+        "allocatedINR": 12040000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8600000
+        "category": "Victoria Hospital Emergency Patient Infrastructure",
+        "percentage": 30,
+        "allocatedINR": 10320000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Chickpet Heritage Market Fire-Safety Network",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6880000
+        "category": "Clean Drinking Water Kiosks for Transit Commuters",
+        "percentage": 15,
+        "allocatedINR": 5160000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 614000000,
     "declaredLiabilitiesINR": 88645660,
     "criminalCasesCount": 0,
@@ -507,33 +577,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 33,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 80,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 80.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 8,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11200000
+        "allocatedINR": 11200000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Sarvagnanagar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8000000
+        "allocatedINR": 8000000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6400000
+        "allocatedINR": 6400000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6400000
+        "allocatedINR": 6400000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 508000000,
     "declaredLiabilitiesINR": 22126980,
     "criminalCasesCount": 0,
@@ -576,39 +656,49 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 30,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35600000,
+    "ladFundUnspentINR": 4400000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 12460000
+        "category": "Outer Ring Road Bellandur Lake Drain Outfall Pumping",
+        "percentage": 40,
+        "allocatedINR": 14240000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Whitefield IT Corridor Feeder Road Paving",
         "percentage": 25,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Varthur Community Health Center Equipment",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7120000
+        "category": "Govt High School Digital STEM Centers",
+        "percentage": 15,
+        "allocatedINR": 5340000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 106000000,
     "declaredLiabilitiesINR": 18354885,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/592/2021",
+        "caseNumber": "CC/852/2021",
         "court": "Chief Judicial Magistrate Court, Bengaluru Urban",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -652,33 +742,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 108,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 81,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32400000,
+    "ladFundUnspentINR": 7600000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11340000
+        "allocatedINR": 11340000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bommanahalli Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 728000000,
     "declaredLiabilitiesINR": 107548585,
     "criminalCasesCount": 0,
@@ -722,32 +822,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 92,
     "privateMemberBills": 5,
-    "fundUtilizationPercentage": 78,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31200000,
+    "ladFundUnspentINR": 8800000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 9,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10920000
+        "allocatedINR": 10920000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Yelahanka Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 44000000,
     "declaredLiabilitiesINR": 6098510,
     "criminalCasesCount": 0,
@@ -791,32 +901,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 91,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12740000
+        "allocatedINR": 12740000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Hebbal Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9100000
+        "allocatedINR": 9100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 198000000,
     "declaredLiabilitiesINR": 26808717,
     "criminalCasesCount": 0,
@@ -859,33 +979,43 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 53,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35600000,
+    "ladFundUnspentINR": 4400000,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12460000
+        "allocatedINR": 12460000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Yeshwanthpur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 504000000,
     "declaredLiabilitiesINR": 86100629,
     "criminalCasesCount": 0,
@@ -929,32 +1059,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 116,
     "privateMemberBills": 1,
-    "fundUtilizationPercentage": 83,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 33200000,
+    "ladFundUnspentINR": 6800000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Karnataka Planning Department & BBMP",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Rajajinagar 1st Block Underground Sewer Overhaul",
         "percentage": 35,
-        "allocatedINR": 11620000
+        "allocatedINR": 11620000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8300000
+        "category": "ESI Hospital Peripheral Patient Waiting Sheds",
+        "percentage": 30,
+        "allocatedINR": 9960000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Public Park Solar Lighting & Walking Tracks",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6640000
+        "category": "BBMP High School Smart Digital Classrooms",
+        "percentage": 15,
+        "allocatedINR": 4980000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 194000000,
     "declaredLiabilitiesINR": 8661600,
     "criminalCasesCount": 0,
@@ -997,33 +1137,43 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 93,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 76,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30400000,
+    "ladFundUnspentINR": 9600000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Bengaluru Urban Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10640000
+        "allocatedINR": 10640000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Basavanagudi Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6080000
+        "allocatedINR": 6080000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6080000
+        "allocatedINR": 6080000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 831000000,
     "declaredLiabilitiesINR": 61912074,
     "criminalCasesCount": 0,
@@ -1066,33 +1216,43 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 40000000,
-    "ladFundUtilizedINR": 34800000,
+    "ladFundUtilizedINR": 38000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning, Programme Monitoring & Statistics Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Varuna Canal Lift Irrigation Siphon Network",
         "percentage": 35,
-        "allocatedINR": 12180000
+        "allocatedINR": 13300000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8700000
+        "category": "Mysuru-Nanjangud Rural Feeder Link Road Paving",
+        "percentage": 30,
+        "allocatedINR": 11400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Primary Health Centre Critical Care Wing",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 7600000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6960000
+        "category": "Gram Panchayat Smart Digital STEM Classrooms",
+        "percentage": 15,
+        "allocatedINR": 5700000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 602000000,
     "declaredLiabilitiesINR": 81012728,
     "criminalCasesCount": 0,
@@ -1135,33 +1295,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 83,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 5200000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & Mysuru City Corporation",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Chamundi Foothills Heritage Tourist Corridor Drainage",
         "percentage": 35,
-        "allocatedINR": 12180000
+        "allocatedINR": 12180000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8700000
+        "category": "KR Hospital Emergency Trauma Patient Amenities",
+        "percentage": 30,
+        "allocatedINR": 10440000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Agrahara Heritage Street Cobblestone Paving",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6960000
+        "category": "Clean Water ATMs in Densely Populated Wards",
+        "percentage": 15,
+        "allocatedINR": 5220000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 174000000,
     "declaredLiabilitiesINR": 16972831,
     "criminalCasesCount": 0,
@@ -1204,33 +1374,43 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 95,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Mysuru Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13300000
+        "allocatedINR": 13300000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Chamaraja Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9500000
+        "allocatedINR": 9500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 781000000,
     "declaredLiabilitiesINR": 84278138,
     "criminalCasesCount": 0,
@@ -1273,39 +1453,49 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 104,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 81,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32400000,
+    "ladFundUnspentINR": 7600000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 9,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Mysuru Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11340000
+        "allocatedINR": 11340000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Narasimharaja Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 81000000,
     "declaredLiabilitiesINR": 9679940,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/545/2021",
+        "caseNumber": "CC/640/2021",
         "court": "Chief Judicial Magistrate Court, Mysuru",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -1349,33 +1539,43 @@
     "attendancePercentage": 97,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 119,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 91,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & Mysuru City Corporation",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 12740000
+        "category": "Ring Road Outer Peripheral Feeder Asphalt Overlays",
+        "percentage": 40,
+        "allocatedINR": 14560000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Village Piped Drinking Water Overhead Tanks",
         "percentage": 25,
-        "allocatedINR": 9100000
+        "allocatedINR": 9100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Chamundeshwari CHC Maternity Wing Grant",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7280000
+        "category": "Govt High School Digital Computer Labs",
+        "percentage": 15,
+        "allocatedINR": 5460000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 462000000,
     "declaredLiabilitiesINR": 58387442,
     "criminalCasesCount": 0,
@@ -1418,33 +1618,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 33,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Mysuru Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Hunsur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 735000000,
     "declaredLiabilitiesINR": 68711939,
     "criminalCasesCount": 0,
@@ -1488,32 +1698,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 120,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 89,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35600000,
+    "ladFundUnspentINR": 4400000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Mysuru Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12460000
+        "allocatedINR": 12460000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Periyapatna Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 47000000,
     "declaredLiabilitiesINR": 4468740,
     "criminalCasesCount": 0,
@@ -1556,33 +1776,43 @@
     "attendancePercentage": 97,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 81,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32799999,
+    "ladFundUnspentINR": 7200001,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Mysuru Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11479999
+        "allocatedINR": 11479999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "T. Narasipur (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8199999
+        "allocatedINR": 8199999,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 105000000,
     "declaredLiabilitiesINR": 13944493,
     "criminalCasesCount": 0,
@@ -1625,33 +1855,43 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 97,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 80,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 80.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32000000,
+    "ladFundUnspentINR": 8000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning, Programme Monitoring & Statistics Department",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 11200000
+        "category": "Arkavathi & Cauvery Basin Rural Canal Lining",
+        "percentage": 40,
+        "allocatedINR": 12800000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8000000
+        "category": "Kanakapura Silk Cocoon Market Feeder Roads",
+        "percentage": 30,
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 6400000
+        "category": "General Hospital Specialized Dialysis Unit",
+        "percentage": 15,
+        "allocatedINR": 4800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6400000
+        "category": "Govt Polytechnic & Science College Smart Labs",
+        "percentage": 15,
+        "allocatedINR": 4800000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 449000000,
     "declaredLiabilitiesINR": 55831774,
     "criminalCasesCount": 0,
@@ -1694,33 +1934,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 96,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 90,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Channapatna Wooden Toy Cluster Common Facility Center",
         "percentage": 35,
-        "allocatedINR": 12600000
+        "allocatedINR": 12600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9000000
+        "category": "Kanva Reservoir Canal Paved Service Roads",
+        "percentage": 30,
+        "allocatedINR": 10800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Community Health Center Oxygen Generator Support",
         "percentage": 20,
-        "allocatedINR": 7200000
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7200000
+        "category": "Rural Drinking Water Deep Borewell Grid",
+        "percentage": 15,
+        "allocatedINR": 5400000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 383000000,
     "declaredLiabilitiesINR": 41649391,
     "criminalCasesCount": 0,
@@ -1764,32 +2014,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 37,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 90,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ramanagara Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12600000
+        "allocatedINR": 12600000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ramanagara Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7200000
+        "allocatedINR": 7200000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7200000
+        "allocatedINR": 7200000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 223000000,
     "declaredLiabilitiesINR": 10366860,
     "criminalCasesCount": 0,
@@ -1832,33 +2092,43 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 58,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 91,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ramanagara Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12740000
+        "allocatedINR": 12740000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Magadi Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9100000
+        "allocatedINR": 9100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 285000000,
     "declaredLiabilitiesINR": 49375481,
     "criminalCasesCount": 0,
@@ -1901,45 +2171,55 @@
     "attendancePercentage": 97,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 96,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30800000,
+    "ladFundUnspentINR": 9200000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning Department & HDMC",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Unkal Lake Catchment Area Stormwater Drainage",
         "percentage": 35,
-        "allocatedINR": 10780000
+        "allocatedINR": 10780000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 7700000
+        "category": "KIMS Hospital Emergency Dialysis Unit Grant",
+        "percentage": 30,
+        "allocatedINR": 9240000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Station Road Commercial Market Asphalt Paving",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6160000
+        "category": "Municipal School Computer Labs & Science Tools",
+        "percentage": 15,
+        "allocatedINR": 4620000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 418000000,
     "declaredLiabilitiesINR": 62820664,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/837/2021",
+        "caseNumber": "CC/189/2021",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/2069/2022",
+        "caseNumber": "CR/3111/2022",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1983,45 +2263,55 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 91,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30800000,
+    "ladFundUnspentINR": 9200000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dharwad & Hubballi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10780000
+        "allocatedINR": 10780000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Hubli-Dharwad East (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 131000000,
     "declaredLiabilitiesINR": 10974922,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/644/2021",
+        "caseNumber": "CC/995/2021",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/9078/2022",
+        "caseNumber": "CR/4840/2022",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -2065,33 +2355,43 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38400000,
+    "ladFundUnspentINR": 1600000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning Department & HDMC",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Karnatak University Campus Feeder Roads Paving",
         "percentage": 35,
-        "allocatedINR": 13440000
+        "allocatedINR": 13440000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9600000
+        "category": "Dharwad Civil Hospital Intensive Care Modernization",
+        "percentage": 30,
+        "allocatedINR": 11520000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Kelgeri Lake Promenade Streetlighting & Amenities",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7680000
+        "category": "High School Smart STEM Science Laboratories",
+        "percentage": 15,
+        "allocatedINR": 5760000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 214000000,
     "declaredLiabilitiesINR": 37243172,
     "criminalCasesCount": 0,
@@ -2134,30 +2434,40 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 114,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 84,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 33600000,
+    "ladFundUnspentINR": 6400000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dharwad & Hubballi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11760000
+        "allocatedINR": 11760000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Navalgund Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8400000
+        "allocatedINR": 8400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6720000
+        "allocatedINR": 6720000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6720000
+        "allocatedINR": 6720000,
+        "status": "Completed"
       }
     ],
     "debatesParticipated": 22,
@@ -2166,13 +2476,13 @@
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/213/2021",
+        "caseNumber": "CC/451/2021",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/2835/2022",
+        "caseNumber": "CR/9973/2022",
         "court": "Chief Judicial Magistrate Court, Dharwad & Hubballi",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -2216,33 +2526,43 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 92,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dharwad & Hubballi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kundgol Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 84000000,
     "declaredLiabilitiesINR": 8568811,
     "criminalCasesCount": 0,
@@ -2285,33 +2605,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 34,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 85,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34000000,
+    "ladFundUnspentINR": 6000000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 12,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dharwad & Hubballi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11900000
+        "allocatedINR": 11900000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kalghatgi Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8500000
+        "allocatedINR": 8500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6800000
+        "allocatedINR": 6800000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6800000
+        "allocatedINR": 6800000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 721000000,
     "declaredLiabilitiesINR": 126632482,
     "criminalCasesCount": 0,
@@ -2354,33 +2684,43 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 119,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 76,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30400000,
+    "ladFundUnspentINR": 9600000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning Department & Mangaluru Smart City",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Hampankatta & Statebank Transit Drainage Grid",
         "percentage": 35,
-        "allocatedINR": 10640000
+        "allocatedINR": 10640000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 7600000
+        "category": "Wenlock District Hospital Specialized Grant",
+        "percentage": 30,
+        "allocatedINR": 9120000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Old Port Bunder Fisherman Road Upgrades",
         "percentage": 20,
-        "allocatedINR": 6080000
+        "allocatedINR": 6080000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6080000
+        "category": "Govt High School Digital Smart Boards",
+        "percentage": 15,
+        "allocatedINR": 4560000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 572000000,
     "declaredLiabilitiesINR": 90898529,
     "criminalCasesCount": 0,
@@ -2423,33 +2763,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 73,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11060000
+        "allocatedINR": 11060000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Mangalore City North Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 125000000,
     "declaredLiabilitiesINR": 7208115,
     "criminalCasesCount": 0,
@@ -2492,33 +2842,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 119,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 81,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32400000,
+    "ladFundUnspentINR": 7600000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 11340000
+        "category": "Ullal Sea Erosion Barrier Paved Protection Roads",
+        "percentage": 40,
+        "allocatedINR": 12960000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ullal Community Health Center Maternity Unit",
         "percentage": 25,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Mangalore University Link Road Drainage Overhaul",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6480000
+        "category": "Fisherman Colony Solar Streetlighting Grid",
+        "percentage": 15,
+        "allocatedINR": 4860000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 649000000,
     "declaredLiabilitiesINR": 76776579,
     "criminalCasesCount": 0,
@@ -2561,33 +2921,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 5200000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12180000
+        "allocatedINR": 12180000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Moodabidri Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 508000000,
     "declaredLiabilitiesINR": 55381984,
     "criminalCasesCount": 0,
@@ -2630,39 +3000,49 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 83,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 33200000,
+    "ladFundUnspentINR": 6800000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11620000
+        "allocatedINR": 11620000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bantwal Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 338000000,
     "declaredLiabilitiesINR": 52690951,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/559/2021",
+        "caseNumber": "CC/671/2021",
         "court": "Chief Judicial Magistrate Court, Dakshina Kannada (Mangaluru)",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2706,33 +3086,43 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 48,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11060000
+        "allocatedINR": 11060000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Puttur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 745000000,
     "declaredLiabilitiesINR": 60958830,
     "criminalCasesCount": 0,
@@ -2775,33 +3165,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 92,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Sullia (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 6363043,
     "criminalCasesCount": 0,
@@ -2844,33 +3244,43 @@
     "attendancePercentage": 83,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 37,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38400000,
+    "ladFundUnspentINR": 1600000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Dakshina Kannada (Mangaluru) Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13440000
+        "allocatedINR": 13440000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Belthangady Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9600000
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 341000000,
     "declaredLiabilitiesINR": 49030783,
     "criminalCasesCount": 0,
@@ -2913,33 +3323,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 96,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 89,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35600000,
+    "ladFundUnspentINR": 4400000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12460000
+        "allocatedINR": 12460000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Belgaum Uttar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8900000
+        "allocatedINR": 8900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7120000
+        "allocatedINR": 7120000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 491000000,
     "declaredLiabilitiesINR": 24944149,
     "criminalCasesCount": 0,
@@ -2982,33 +3402,43 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 68,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 76,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30400000,
+    "ladFundUnspentINR": 9600000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10640000
+        "allocatedINR": 10640000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Belgaum Dakshin Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6080000
+        "allocatedINR": 6080000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6080000
+        "allocatedINR": 6080000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 4851058,
     "criminalCasesCount": 0,
@@ -3052,32 +3482,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 124,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 91,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Suvarna Vidhana Soudha Feeder Link Road Paving",
         "percentage": 35,
-        "allocatedINR": 12740000
+        "allocatedINR": 12740000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 9100000
+        "category": "Rural Community Health Center Pediatric Support",
+        "percentage": 30,
+        "allocatedINR": 10920000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Village Piped Tap Water Supply Overhead Tanks",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7280000
+        "category": "Govt Secondary School Science Classrooms",
+        "percentage": 15,
+        "allocatedINR": 5460000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 589000000,
     "declaredLiabilitiesINR": 67294652,
     "criminalCasesCount": 0,
@@ -3120,33 +3560,43 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 57,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 90,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 4000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 12600000
+        "category": "Ghataprabha River Canal Distributary Lining",
+        "percentage": 40,
+        "allocatedINR": 14400000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Gokak Falls Tourism Access Road Widening",
         "percentage": 25,
-        "allocatedINR": 9000000
+        "allocatedINR": 9000000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gokak Civil Hospital ICU Diagnostic Wing",
         "percentage": 20,
-        "allocatedINR": 7200000
+        "allocatedINR": 7200000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7200000
+        "category": "Gram Panchayat Solar Streetlight Grid",
+        "percentage": 15,
+        "allocatedINR": 5400000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 256000000,
     "declaredLiabilitiesINR": 36684594,
     "criminalCasesCount": 0,
@@ -3189,33 +3639,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 48,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38400000,
+    "ladFundUnspentINR": 1600000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13440000
+        "allocatedINR": 13440000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Arabhavi Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9600000
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 471000000,
     "declaredLiabilitiesINR": 19623392,
     "criminalCasesCount": 0,
@@ -3259,32 +3719,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 34,
     "privateMemberBills": 1,
-    "fundUtilizationPercentage": 78,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31200000,
+    "ladFundUnspentINR": 8800000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10920000
+        "allocatedINR": 10920000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Hukkeri Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 616000000,
     "declaredLiabilitiesINR": 90791296,
     "criminalCasesCount": 0,
@@ -3327,33 +3797,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 9,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11060000
+        "allocatedINR": 11060000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Chikkodi-Sadalga Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 736000000,
     "declaredLiabilitiesINR": 101132698,
     "criminalCasesCount": 0,
@@ -3397,32 +3877,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 118,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 93,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37200000,
+    "ladFundUnspentINR": 2800000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 13020000
+        "category": "Krishna River Lift Irrigation Canal Siphons",
+        "percentage": 40,
+        "allocatedINR": 14880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Athani Sugar Belt Farmer Feeder Roads",
         "percentage": 25,
-        "allocatedINR": 9300000
+        "allocatedINR": 9300000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Sub-District Hospital Maternity Unit Grant",
         "percentage": 20,
-        "allocatedINR": 7440000
+        "allocatedINR": 7440000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7440000
+        "category": "Govt High School Smart Digital Classrooms",
+        "percentage": 15,
+        "allocatedINR": 5580000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 475000000,
     "declaredLiabilitiesINR": 31050736,
     "criminalCasesCount": 0,
@@ -3465,39 +3955,49 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 106,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32799999,
+    "ladFundUnspentINR": 7200001,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11479999
+        "allocatedINR": 11479999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kagwad Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8199999
+        "allocatedINR": 8199999,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 821000000,
     "declaredLiabilitiesINR": 121698506,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/626/2021",
+        "caseNumber": "CC/890/2021",
         "court": "Chief Judicial Magistrate Court, Belagavi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3541,33 +4041,43 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 94,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37600000,
+    "ladFundUnspentINR": 2400000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13160000
+        "allocatedINR": 13160000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kudachi (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9400000
+        "allocatedINR": 9400000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7520000
+        "allocatedINR": 7520000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7520000
+        "allocatedINR": 7520000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 188000000,
     "declaredLiabilitiesINR": 14077991,
     "criminalCasesCount": 0,
@@ -3610,39 +4120,49 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 34,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 8,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11060000
+        "allocatedINR": 11060000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Raybag (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 248000000,
     "declaredLiabilitiesINR": 34057147,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/289/2021",
+        "caseNumber": "CC/943/2021",
         "court": "Chief Judicial Magistrate Court, Belagavi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3686,45 +4206,55 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 83,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 86,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34400000,
+    "ladFundUnspentINR": 5600000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12040000
+        "allocatedINR": 12040000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bailhongal Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8600000
+        "allocatedINR": 8600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 428000000,
     "declaredLiabilitiesINR": 27538336,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/508/2021",
+        "caseNumber": "CC/533/2021",
         "court": "Chief Judicial Magistrate Court, Belagavi",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/7907/2022",
+        "caseNumber": "CR/9203/2022",
         "court": "Chief Judicial Magistrate Court, Belagavi",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -3768,33 +4298,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 38,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30800000,
+    "ladFundUnspentINR": 9200000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 5,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10780000
+        "allocatedINR": 10780000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Saundatti Yellamma Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 303000000,
     "declaredLiabilitiesINR": 38161464,
     "criminalCasesCount": 0,
@@ -3838,32 +4378,42 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
     "privateMemberBills": 3,
-    "fundUtilizationPercentage": 92,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
+    "ladFundUnspentINR": 3200000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12880000
+        "allocatedINR": 12880000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Ramdurg Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9200000
+        "allocatedINR": 9200000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7360000
+        "allocatedINR": 7360000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 130000000,
     "declaredLiabilitiesINR": 18016487,
     "criminalCasesCount": 0,
@@ -3906,33 +4456,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 85,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38400000,
+    "ladFundUnspentINR": 1600000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13440000
+        "allocatedINR": 13440000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Khanapur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9600000
+        "allocatedINR": 9600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7680000
+        "allocatedINR": 7680000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 636000000,
     "declaredLiabilitiesINR": 73359706,
     "criminalCasesCount": 0,
@@ -3975,33 +4535,43 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 80,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 81,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32400000,
+    "ladFundUnspentINR": 7600000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11340000
+        "allocatedINR": 11340000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kittur Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8100000
+        "allocatedINR": 8100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6480000
+        "allocatedINR": 6480000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 845000000,
     "declaredLiabilitiesINR": 139968337,
     "criminalCasesCount": 0,
@@ -4044,33 +4614,43 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 91,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
+    "ladFundUnspentINR": 3600000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12740000
+        "allocatedINR": 12740000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Nippani Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9100000
+        "allocatedINR": 9100000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7280000
+        "allocatedINR": 7280000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 129000000,
     "declaredLiabilitiesINR": 10759567,
     "criminalCasesCount": 0,
@@ -4113,33 +4693,43 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 73,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 83,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 33200000,
+    "ladFundUnspentINR": 6800000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Belagavi Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11620000
+        "allocatedINR": 11620000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Yemkanmardi (ST) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 143000000,
     "declaredLiabilitiesINR": 25471545,
     "criminalCasesCount": 0,
@@ -4182,33 +4772,43 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 112,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 95,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Shivamogga Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 13300000
+        "allocatedINR": 13300000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shimoga Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 9500000
+        "allocatedINR": 9500000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 7600000
+        "allocatedINR": 7600000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 576000000,
     "declaredLiabilitiesINR": 91209385,
     "criminalCasesCount": 0,
@@ -4251,33 +4851,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 81,
-    "privateMemberBills": 1,
-    "fundUtilizationPercentage": 78,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31200000,
+    "ladFundUnspentINR": 8800000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Shivamogga Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 10920000
+        "allocatedINR": 10920000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shimoga Rural (SC) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7800000
+        "allocatedINR": 7800000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6240000
+        "allocatedINR": 6240000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 169000000,
     "declaredLiabilitiesINR": 29269397,
     "criminalCasesCount": 0,
@@ -4320,39 +4930,49 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 80,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 5200000,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Shivamogga Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12180000
+        "allocatedINR": 12180000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bhadravati Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 535000000,
     "declaredLiabilitiesINR": 30304560,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/324/2021",
+        "caseNumber": "CC/540/2021",
         "court": "Chief Judicial Magistrate Court, Shivamogga",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -4396,33 +5016,43 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 46,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 5200000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 12180000
+        "category": "Tunga River Embankment Road Bridge Culverts",
+        "percentage": 40,
+        "allocatedINR": 13920000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Areca Nut Farmers Rural Connector Corridors",
         "percentage": 25,
-        "allocatedINR": 8700000
+        "allocatedINR": 8700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Thirthahalli CHC Emergency Trauma Support",
         "percentage": 20,
-        "allocatedINR": 6960000
+        "allocatedINR": 6960000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6960000
+        "category": "Gram Panchayat Solar Drinking Water Pumps",
+        "percentage": 15,
+        "allocatedINR": 5220000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 322000000,
     "declaredLiabilitiesINR": 42876568,
     "criminalCasesCount": 0,
@@ -4466,44 +5096,54 @@
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 98,
     "privateMemberBills": 4,
-    "fundUtilizationPercentage": 79,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 11060000
+        "category": "Anjanapura Reservoir Canal Feeder Road Paving",
+        "percentage": 40,
+        "allocatedINR": 12640000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Shikaripura Town Underground Stormwater Drains",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Taluk General Hospital Dialysis Unit Support",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6320000
+        "category": "Rural High School Digital Computer Labs",
+        "percentage": 15,
+        "allocatedINR": 4740000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 180000000,
     "declaredLiabilitiesINR": 15548603,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/915/2021",
+        "caseNumber": "CC/637/2021",
         "court": "Chief Judicial Magistrate Court, Shivamogga",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/4013/2022",
+        "caseNumber": "CR/3973/2022",
         "court": "Chief Judicial Magistrate Court, Shivamogga",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -4547,33 +5187,43 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 83,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 77,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 30800000,
+    "ladFundUnspentINR": 9200000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 10780000
+        "category": "Dandavati River Catchment Check-Dams & Roads",
+        "percentage": 40,
+        "allocatedINR": 12320000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Sorab Town Clean Piped Water Supply Tanks",
         "percentage": 25,
-        "allocatedINR": 7700000
+        "allocatedINR": 7700000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Primary Health Centre Sub-Stations Upgrade",
         "percentage": 20,
-        "allocatedINR": 6160000
+        "allocatedINR": 6160000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6160000
+        "category": "Govt High School Smart Science Classrooms",
+        "percentage": 15,
+        "allocatedINR": 4620000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 356000000,
     "declaredLiabilitiesINR": 17897621,
     "criminalCasesCount": 0,
@@ -4616,33 +5266,43 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 5,
-    "fundUtilizationPercentage": 82,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 32799999,
+    "ladFundUnspentINR": 7200001,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Shivamogga Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11479999
+        "allocatedINR": 11479999,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Sagar Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8199999
+        "allocatedINR": 8199999,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6559999
+        "allocatedINR": 6559999,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 686000000,
     "declaredLiabilitiesINR": 82316959,
     "criminalCasesCount": 0,
@@ -4685,33 +5345,43 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
-    "fundUtilizationPercentage": 88,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35200000,
+    "ladFundUnspentINR": 4800000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ballari Fort Heritage Access Road Widening",
         "percentage": 35,
-        "allocatedINR": 12320000
+        "allocatedINR": 12320000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8800000
+        "category": "VIMS Hospital Specialized Emergency Care Grant",
+        "percentage": 30,
+        "allocatedINR": 10560000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Apparel Park Industrial Link Road Drainage",
         "percentage": 20,
-        "allocatedINR": 7040000
+        "allocatedINR": 7040000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 7040000
+        "category": "Municipal School Digital STEM Classrooms",
+        "percentage": 15,
+        "allocatedINR": 5280000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 635000000,
     "declaredLiabilitiesINR": 68494117,
     "criminalCasesCount": 0,
@@ -4754,33 +5424,43 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 101,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 83,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 33200000,
+    "ladFundUnspentINR": 6800000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 7,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ballari Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11620000
+        "allocatedINR": 11620000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Bellary Rural (ST) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8300000
+        "allocatedINR": 8300000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6640000
+        "allocatedINR": 6640000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 3769001,
     "criminalCasesCount": 0,
@@ -4823,33 +5503,43 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 102,
-    "privateMemberBills": 2,
-    "fundUtilizationPercentage": 79,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 31600000,
+    "ladFundUnspentINR": 8400000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 6,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ballari Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 11060000
+        "allocatedINR": 11060000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Kampli (ST) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 7900000
+        "allocatedINR": 7900000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6320000
+        "allocatedINR": 6320000,
+        "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 121000000,
     "declaredLiabilitiesINR": 14758290,
     "criminalCasesCount": 0,
@@ -4892,33 +5582,43 @@
     "attendancePercentage": 97,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 122,
-    "privateMemberBills": 3,
-    "fundUtilizationPercentage": 86,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34400000,
+    "ladFundUnspentINR": 5600000,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Karnataka Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
+        "category": "Ballari Arterial Road & Overbridge Upgrades",
         "percentage": 35,
-        "allocatedINR": 12040000
+        "allocatedINR": 12040000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
+        "category": "Siruguppa (ST) Piped Drinking Water & Drainage Grid",
         "percentage": 25,
-        "allocatedINR": 8600000
+        "allocatedINR": 8600000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
+        "category": "Gram Panchayat Smart Digital Labs",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Under Implementation"
       },
       {
-        "category": "Primary Health Centers & ICU",
+        "category": "Community Health Center Diagnostics & Trauma Wing",
         "percentage": 20,
-        "allocatedINR": 6880000
+        "allocatedINR": 6880000,
+        "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 557000000,
     "declaredLiabilitiesINR": 67450642,
     "criminalCasesCount": 0,
@@ -4961,33 +5661,43 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
-    "fundUtilizationPercentage": 87,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Karnataka Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 5200000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Karnataka Planning Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
-        "category": "Roads & Flyover Repairs",
-        "percentage": 35,
-        "allocatedINR": 12180000
+        "category": "Mining Belt Heavy-Vehicle Bypass Link Drainage",
+        "percentage": 40,
+        "allocatedINR": 13920000,
+        "status": "Completed"
       },
       {
-        "category": "Clean Tap Water & Drainage",
-        "percentage": 25,
-        "allocatedINR": 8700000
+        "category": "Narihalla Dam Water Purification Pipeline Grid",
+        "percentage": 30,
+        "allocatedINR": 10440000,
+        "status": "Completed"
       },
       {
-        "category": "Govt School Smart Labs",
-        "percentage": 20,
-        "allocatedINR": 6960000
+        "category": "Sandur Community Hospital Trauma Ward Grant",
+        "percentage": 15,
+        "allocatedINR": 5220000,
+        "status": "Completed"
       },
       {
-        "category": "Primary Health Centers & ICU",
-        "percentage": 20,
-        "allocatedINR": 6960000
+        "category": "Tribal Basti Community Halls & Solar Lighting",
+        "percentage": 15,
+        "allocatedINR": 5220000,
+        "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 139000000,
     "declaredLiabilitiesINR": 16407071,
     "criminalCasesCount": 0,

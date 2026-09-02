@@ -43,13 +43,20 @@ export interface CandidateProfile {
     };
     questionsAsked: number;
     privateMemberBills?: number;
+    fundSchemeName?: string;
     fundUtilizationPercentage?: number;
     ladFundAllocatedINR?: number;
     ladFundUtilizedINR?: number;
+    ladFundUnspentINR?: number;
+    worksRecommendedCount?: number;
+    worksCompletedCount?: number;
+    worksPendingCount?: number;
+    fundSourceCitation?: string;
     ladFundCategoryBreakdown?: {
         category: string;
         percentage: number;
         allocatedINR: number;
+        status?: 'Completed' | 'Under Implementation' | 'Pending Sanction';
     }[];
     debatesParticipated?: number;
     declaredAssetsINR: number;

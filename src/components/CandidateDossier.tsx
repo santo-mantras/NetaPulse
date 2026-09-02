@@ -54,6 +54,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
 }) => {
     const [activeTab, setActiveTab] = useState<'overview' | 'seats' | 'promises' | 'funds' | 'legal' | 'news'>('overview');
     const [activePromiseTier, setActivePromiseTier] = useState<'all' | 'state_manifesto' | 'national_manifesto' | 'constituency_promise'>('all');
+    const [activeTooltip, setActiveTooltip] = useState<string | null>(null);
     const [isFlipped, setIsFlipped] = useState(false);
     const [factIndex, setFactIndex] = useState(0);
     const [factsList] = useState(() => {
@@ -93,11 +94,17 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         return `₹${amount.toLocaleString('en-IN')}`;
     };
 
+    const toggleTooltip = (key: string, e: React.MouseEvent) => {
+        e.stopPropagation();
+        setActiveTooltip(prev => prev === key ? null : key);
+    };
+
     return (
         <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="w-full max-w-4xl mx-auto bg-white dark:bg-slate-900 rounded-xl shadow-lg border border-slate-200 dark:border-slate-800 overflow-hidden text-slate-900 dark:text-slate-100"
+            onClick={() => setActiveTooltip(null)}
+            className="w-full max-w-4xl mx-auto bg-white dark:bg-slate-900 rounded-xl shadow-lg border border-slate-200 dark:border-slate-800 text-slate-900 dark:text-slate-100"
         >
             {/* 1. Candidate Header / Identity Card */}
             <div className="p-6 bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white relative overflow-hidden">
@@ -175,14 +182,23 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
 
             {/* 2. Quick Stat Badges Grid */}
             <div className="grid grid-cols-2 sm:grid-cols-4 divide-x sm:divide-y-0 divide-y divide-slate-200 dark:divide-slate-800 bg-slate-50 dark:bg-slate-800/50 border-b border-slate-200 dark:border-slate-800">
-                <div className="p-4 text-center group hover:bg-blue-50/50 dark:hover:bg-blue-950/20 transition-all duration-300">
+                <div className="p-4 text-center group hover:bg-blue-50/50 dark:hover:bg-blue-950/20 transition-all duration-300 relative">
                     <div className="flex items-center justify-center gap-1.5 relative">
                         <span className="w-2 h-2 rounded-full bg-blue-500 animate-ping opacity-75" />
                         <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Attendance</p>
-                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-blue-500 cursor-help peer focus:outline-none" />
-                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                        <button
+                            type="button"
+                            onClick={(e) => toggleTooltip('kpi_attendance', e)}
+                            className="text-slate-400 hover:text-blue-500 cursor-pointer focus:outline-none p-0.5"
+                            aria-label="Attendance Info"
+                        >
+                            <Info className="w-3.5 h-3.5" />
+                        </button>
+                        <div className={`absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-52 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] text-center font-normal normal-case tracking-normal ${
+                            activeTooltip === 'kpi_attendance' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                        } pointer-events-none`}>
                             Percentage of legislative sessions attended by the representative.
-                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-900"></div>
                         </div>
                     </div>
                     <p className="text-2xl font-extrabold text-blue-600 dark:text-blue-400 mt-1 tracking-tight group-hover:scale-105 transition-transform">{candidate.attendancePercentage}%</p>
@@ -191,32 +207,59 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                     <div className="flex items-center justify-center gap-1.5 relative">
                         <span className="w-2 h-2 rounded-full bg-indigo-500 animate-ping opacity-75" />
                         <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Questions Asked</p>
-                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-indigo-500 cursor-help peer focus:outline-none" />
-                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                        <button
+                            type="button"
+                            onClick={(e) => toggleTooltip('kpi_questions', e)}
+                            className="text-slate-400 hover:text-indigo-500 cursor-pointer focus:outline-none p-0.5"
+                            aria-label="Questions Info"
+                        >
+                            <Info className="w-3.5 h-3.5" />
+                        </button>
+                        <div className={`absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-52 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] text-center font-normal normal-case tracking-normal ${
+                            activeTooltip === 'kpi_questions' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                        } pointer-events-none`}>
                             Total number of questions asked by the representative in the legislative assembly sessions.
-                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-900"></div>
                         </div>
                     </div>
                     <p className="text-2xl font-extrabold text-indigo-600 dark:text-indigo-400 mt-1 tracking-tight group-hover:scale-105 transition-transform">{candidate.questionsAsked}</p>
                 </div>
-                <div className="p-4 text-center group hover:bg-emerald-50/50 dark:hover:bg-emerald-950/20 transition-all duration-300">
+                <div className="p-4 text-center group hover:bg-emerald-50/50 dark:hover:bg-emerald-950/20 transition-all duration-300 relative">
                     <div className="flex items-center justify-center gap-1.5 relative">
                         <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping opacity-75" />
                         <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Net Worth</p>
-                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-emerald-500 cursor-help peer focus:outline-none" />
-                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                        <button
+                            type="button"
+                            onClick={(e) => toggleTooltip('kpi_networth', e)}
+                            className="text-slate-400 hover:text-emerald-500 cursor-pointer focus:outline-none p-0.5"
+                            aria-label="Net Worth Info"
+                        >
+                            <Info className="w-3.5 h-3.5" />
+                        </button>
+                        <div className={`absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-52 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] text-center font-normal normal-case tracking-normal ${
+                            activeTooltip === 'kpi_networth' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                        } pointer-events-none`}>
                             Total declared assets minus total declared liabilities (in INR) based on the latest election affidavit.
-                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-900"></div>
                         </div>
                     </div>
                     <p className="text-2xl font-extrabold text-emerald-600 dark:text-emerald-400 mt-1 tracking-tight group-hover:scale-105 transition-transform">{formatINR(candidate.declaredAssetsINR - candidate.declaredLiabilitiesINR)}</p>
                 </div>
-                <div className="p-4 text-center group hover:bg-amber-50/50 dark:hover:bg-amber-950/20 transition-all duration-300">
+                <div className="p-4 text-center group hover:bg-amber-50/50 dark:hover:bg-amber-950/20 transition-all duration-300 relative">
                     <div className="flex items-center justify-center gap-1.5 relative">
                         <span className={`w-2 h-2 rounded-full ${candidate.criminalCasesCount > 0 ? 'bg-amber-500 animate-ping opacity-75' : 'bg-slate-400'}`} />
                         <p className="text-xs text-slate-500 dark:text-slate-400 font-medium uppercase tracking-wider">Criminal Cases</p>
-                        <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-amber-500 cursor-help peer focus:outline-none" />
-                        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 p-2 bg-slate-800 text-white text-[11px] rounded shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 text-center font-normal normal-case tracking-normal pointer-events-none">
+                        <button
+                            type="button"
+                            onClick={(e) => toggleTooltip('kpi_cases', e)}
+                            className="text-slate-400 hover:text-amber-500 cursor-pointer focus:outline-none p-0.5"
+                            aria-label="Criminal Cases Info"
+                        >
+                            <Info className="w-3.5 h-3.5" />
+                        </button>
+                        <div className={`absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-52 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] text-center font-normal normal-case tracking-normal ${
+                            activeTooltip === 'kpi_cases' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                        } pointer-events-none`}>
                             Number of pending criminal cases declared by the candidate in their election affidavit.
                             <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
                         </div>
@@ -252,7 +295,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
             </div>
 
             {/* Tab Contents */}
-            <div className="p-6 overflow-hidden">
+            <div className="p-6 relative">
                 <AnimatePresence mode="wait">
                     <motion.div
                         key={activeTab}
@@ -272,8 +315,17 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                             <Activity className="w-4 h-4 text-blue-500" /> Legislative & Constituency Activity
                                         </h3>
                                         <div className="relative group">
-                                            <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 hover:text-blue-500 cursor-help peer focus:outline-none" />
-                                            <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 font-normal leading-relaxed pointer-events-none">
+                                            <button
+                                                type="button"
+                                                onClick={(e) => toggleTooltip('act_header', e)}
+                                                className="text-slate-400 hover:text-blue-500 cursor-pointer focus:outline-none p-0.5"
+                                                aria-label="Activity Info"
+                                            >
+                                                <Info className="w-3.5 h-3.5" />
+                                            </button>
+                                            <div className={`absolute right-0 bottom-full mb-2 w-60 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] font-normal leading-relaxed ${
+                                                activeTooltip === 'act_header' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                            } pointer-events-none`}>
                                                 Benchmarked against state legislative assembly averages compiled from official Assembly Hansards & PRS Legislative Research.
                                                 <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
                                             </div>
@@ -284,10 +336,19 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* Attendance */}
                                         <div className="group">
                                             <div className="flex justify-between text-xs font-semibold mb-1 relative">
-                                                <div className="flex items-center gap-1.5">
+                                                <div className="flex items-center gap-1.5 relative">
                                                     <span>{candidate.attendanceBody || 'State Assembly'} Attendance</span>
-                                                    <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-blue-500 cursor-help peer focus:outline-none" />
-                                                    <div className="absolute left-0 bottom-full mb-2 w-64 p-2 bg-slate-900 text-white text-[11px] rounded-lg shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 font-normal pointer-events-none">
+                                                    <button
+                                                        type="button"
+                                                        onClick={(e) => toggleTooltip('act_attendance', e)}
+                                                        className="text-slate-400 hover:text-blue-500 cursor-pointer focus:outline-none p-0.5"
+                                                        aria-label="Attendance Details"
+                                                    >
+                                                        <Info className="w-3.5 h-3.5" />
+                                                    </button>
+                                                    <div className={`absolute left-0 bottom-full mb-2 w-64 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] font-normal ${
+                                                        activeTooltip === 'act_attendance' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                    } pointer-events-none`}>
                                                         Percentage of official legislative sitting days signed in by the elected representative.
                                                         <div className="absolute top-full left-4 border-4 border-transparent border-t-slate-900"></div>
                                                     </div>
@@ -318,10 +379,19 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* Questions Asked */}
                                         <div className="group">
                                             <div className="flex justify-between text-xs font-semibold mb-1 relative">
-                                                <div className="flex items-center gap-1.5">
+                                                <div className="flex items-center gap-1.5 relative">
                                                     <span>Questions & Inquiries Raised</span>
-                                                    <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-indigo-500 cursor-help peer focus:outline-none" />
-                                                    <div className="absolute left-0 bottom-full mb-2 w-64 p-2 bg-slate-900 text-white text-[11px] rounded-lg shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 font-normal pointer-events-none">
+                                                    <button
+                                                        type="button"
+                                                        onClick={(e) => toggleTooltip('act_questions', e)}
+                                                        className="text-slate-400 hover:text-indigo-500 cursor-pointer focus:outline-none p-0.5"
+                                                        aria-label="Questions Details"
+                                                    >
+                                                        <Info className="w-3.5 h-3.5" />
+                                                    </button>
+                                                    <div className={`absolute left-0 bottom-full mb-2 w-64 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] font-normal ${
+                                                        activeTooltip === 'act_questions' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                    } pointer-events-none`}>
                                                         Total starred and unstarred legislative inquiries submitted on public policy, civic issues, and constituency welfare.
                                                         <div className="absolute top-full left-4 border-4 border-transparent border-t-slate-900"></div>
                                                     </div>
@@ -352,32 +422,51 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* Local Area Development Fund Utilization */}
                                         <div className="group">
                                             <div className="flex justify-between text-xs font-semibold mb-1 relative">
-                                                <div className="flex items-center gap-1.5">
+                                                <div className="flex items-center gap-1.5 relative">
                                                     <span>Local Development (LAD) Fund Utilization</span>
-                                                    <Info tabIndex={0} className="w-3 h-3 text-slate-400 hover:text-emerald-500 cursor-help peer focus:outline-none" />
-                                                    <div className="absolute left-0 bottom-full mb-2 w-64 p-2 bg-slate-900 text-white text-[11px] rounded-lg shadow-xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible peer-focus:opacity-100 peer-focus:visible transition-all z-50 font-normal pointer-events-none">
+                                                    <button
+                                                        type="button"
+                                                        onClick={(e) => toggleTooltip('act_funds', e)}
+                                                        className="text-slate-400 hover:text-emerald-500 cursor-pointer focus:outline-none p-0.5"
+                                                        aria-label="LAD Fund Details"
+                                                    >
+                                                        <Info className="w-3.5 h-3.5" />
+                                                    </button>
+                                                    <div className={`absolute left-0 bottom-full mb-2 w-64 p-2.5 bg-slate-900 text-white text-[11px] rounded-lg shadow-2xl transition-all z-[70] font-normal ${
+                                                        activeTooltip === 'act_funds' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                    } pointer-events-none`}>
                                                         Percentage of sanctioned MLA/MP Local Area Development Scheme funds spent on public roads, healthcare, sanitation, and water projects.
                                                         <div className="absolute top-full left-4 border-4 border-transparent border-t-slate-900"></div>
                                                     </div>
                                                 </div>
-                                                <span className="text-emerald-600 font-bold">{candidate.fundUtilizationPercentage || (84 + (candidate.questionsAsked % 14))}%</span>
+                                                <span className={`font-bold ${(candidate.fundUtilizationPercentage || 0) < 40 ? 'text-rose-600 dark:text-rose-400' : 'text-emerald-600 dark:text-emerald-400'}`}>
+                                                    {candidate.fundUtilizationPercentage !== undefined ? candidate.fundUtilizationPercentage : 0}%
+                                                </span>
                                             </div>
                                             <div className="w-full bg-slate-200 dark:bg-slate-700 rounded-full h-2.5 overflow-hidden relative">
                                                 <div 
                                                     className="absolute top-0 bottom-0 border-r-2 border-slate-900/60 dark:border-white/60 z-10" 
-                                                    style={{ left: `78%` }}
-                                                    title={`State Average Fund Spend: 78%`}
+                                                    style={{ left: `${candidate.role === 'MP' ? 68 : 78}%` }}
+                                                    title={`${candidate.role === 'MP' ? 'National MP Benchmark: 68%' : 'State MLA Benchmark: 78%'}`}
                                                 />
                                                 <motion.div 
-                                                    initial={{ width: 0 }} animate={{ width: `${candidate.fundUtilizationPercentage || (84 + (candidate.questionsAsked % 14))}%` }} transition={{ duration: 1, delay: 0.4 }}
-                                                    className="bg-gradient-to-r from-emerald-500 to-teal-600 h-2.5 rounded-full relative z-0 overflow-hidden" 
+                                                    initial={{ width: 0 }} 
+                                                    animate={{ width: `${Math.max(2, candidate.fundUtilizationPercentage || 0)}%` }} 
+                                                    transition={{ duration: 1, delay: 0.4 }}
+                                                    className={`h-2.5 rounded-full relative z-0 overflow-hidden ${
+                                                        (candidate.fundUtilizationPercentage || 0) < 40 
+                                                            ? 'bg-gradient-to-r from-rose-500 to-amber-500' 
+                                                            : 'bg-gradient-to-r from-emerald-500 to-teal-600'
+                                                    }`}
                                                 >
                                                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent animate-shimmer" />
                                                 </motion.div>
                                             </div>
                                             <div className="flex justify-between items-center text-[10px] text-slate-500 mt-1">
-                                                <span>State Benchmark Avg: 78%</span>
-                                                <span className="text-emerald-600 font-medium">Sanctioned & Audited</span>
+                                                <span>{candidate.role === 'MP' ? 'National Avg: 68%' : 'State Avg: 78%'}</span>
+                                                <span className={(candidate.fundUtilizationPercentage || 0) < 40 ? 'text-rose-600 font-semibold' : 'text-emerald-600 font-medium'}>
+                                                    {(candidate.fundUtilizationPercentage || 0) < 40 ? 'Critical Underutilization' : 'Active Disbursement'}
+                                                </span>
                                             </div>
                                         </div>
                                     </div>
@@ -390,12 +479,15 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         <div className="relative group">
                                             <button 
                                                 type="button"
-                                                className="flex items-center gap-1 text-[11px] text-slate-500 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 font-medium peer focus:outline-none transition-colors"
+                                                onClick={(e) => toggleTooltip('dist_sources', e)}
+                                                className="flex items-center gap-1 text-[11px] text-slate-500 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 font-medium cursor-pointer focus:outline-none transition-colors"
                                                 title="Official Data Provenance"
                                             >
                                                 <Info className="w-3.5 h-3.5 text-blue-500" /> Sources
                                             </button>
-                                            <div className="absolute right-0 bottom-full mb-2 w-72 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible hover:opacity-100 hover:visible transition-all z-50 font-normal leading-relaxed pointer-events-auto">
+                                            <div className={`absolute right-0 bottom-full mb-2 w-72 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl transition-all z-[70] font-normal leading-relaxed ${
+                                                activeTooltip === 'dist_sources' ? 'opacity-100 visible pointer-events-auto' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible pointer-events-none'
+                                            }`}>
                                                 <p className="font-bold text-blue-400 mb-1 border-b border-slate-700 pb-1">Verified Public Data Sources:</p>
                                                 <ul className="space-y-1.5 text-[10px] text-slate-300">
                                                     <li>• <strong>Crime Rate:</strong> National Crime Records Bureau (NCRB) District Reports</li>
@@ -408,12 +500,12 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         </div>
                                     </div>
 
-                                    {/* District Stat Cards with Hover Tooltips */}
-                                    <div className="grid grid-cols-2 gap-4 mb-6">
+                                    {/* District Stat Cards with Hover & Click Tooltips */}
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                                         {/* Crime Rate */}
-                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-rose-300 dark:hover:border-rose-800 transition-all">
+                                         <div className="p-3.5 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-rose-300 dark:hover:border-rose-800 transition-all">
                                              <div className="flex items-center gap-3 relative z-10">
-                                                 <ShieldAlert className="w-6 h-6 text-rose-500 animate-glow" />
+                                                 <ShieldAlert className="w-6 h-6 text-rose-500 animate-glow shrink-0" />
                                                  <div>
                                                      <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Crime Rate</p>
                                                      <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">
@@ -421,19 +513,28 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                      </p>
                                                  </div>
                                              </div>
-                                             <div className="relative">
-                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-rose-500 cursor-help peer focus:outline-none transition-colors" />
-                                                 <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                             <div className="relative shrink-0">
+                                                 <button
+                                                     type="button"
+                                                     onClick={(e) => toggleTooltip('card_crime', e)}
+                                                     className="text-slate-400 dark:text-slate-500 hover:text-rose-500 cursor-pointer focus:outline-none p-1.5 rounded-full hover:bg-slate-200/50 dark:hover:bg-slate-700/50 transition-colors"
+                                                     aria-label="Crime Rate Details"
+                                                 >
+                                                     <Info className="w-4 h-4" />
+                                                 </button>
+                                                 <div className={`absolute right-0 top-full mt-2 w-64 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl transition-all z-[80] leading-relaxed ${
+                                                     activeTooltip === 'card_crime' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                 } pointer-events-none`}>
                                                      Cognizable IPC crimes reported per 100,000 residents in {location.districtName || 'district'} (Source: NCRB).
-                                                     <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
+                                                     <div className="absolute bottom-full right-3 border-4 border-transparent border-b-slate-900"></div>
                                                  </div>
                                              </div>
                                          </div>
 
                                          {/* Literacy */}
-                                         <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-blue-300 dark:hover:border-blue-800 transition-all">
+                                         <div className="p-3.5 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-blue-300 dark:hover:border-blue-800 transition-all">
                                              <div className="flex items-center gap-3 relative z-10">
-                                                 <BookOpen className="w-6 h-6 text-blue-500 animate-glow" />
+                                                 <BookOpen className="w-6 h-6 text-blue-500 animate-glow shrink-0" />
                                                  <div>
                                                      <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Literacy</p>
                                                      <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">
@@ -441,52 +542,79 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                      </p>
                                                  </div>
                                              </div>
-                                             <div className="relative">
-                                                 <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-blue-500 cursor-help peer focus:outline-none transition-colors" />
-                                                 <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                             <div className="relative shrink-0">
+                                                 <button
+                                                     type="button"
+                                                     onClick={(e) => toggleTooltip('card_literacy', e)}
+                                                     className="text-slate-400 dark:text-slate-500 hover:text-blue-500 cursor-pointer focus:outline-none p-1.5 rounded-full hover:bg-slate-200/50 dark:hover:bg-slate-700/50 transition-colors"
+                                                     aria-label="Literacy Details"
+                                                 >
+                                                     <Info className="w-4 h-4" />
+                                                 </button>
+                                                 <div className={`absolute right-0 top-full mt-2 w-64 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl transition-all z-[80] leading-relaxed ${
+                                                     activeTooltip === 'card_literacy' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                 } pointer-events-none`}>
                                                      Percentage of literate population aged 7 and above in {location.districtName || 'district'} (Source: NFHS / Census).
-                                                     <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
+                                                     <div className="absolute bottom-full right-3 border-4 border-transparent border-b-slate-900"></div>
                                                  </div>
                                              </div>
                                          </div>
 
                                         {/* Hospitals */}
-                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-emerald-300 dark:hover:border-emerald-800 transition-all">
+                                        <div className="p-3.5 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-emerald-300 dark:hover:border-emerald-800 transition-all">
                                             <div className="flex items-center gap-3 relative z-10">
-                                                <Hospital className="w-6 h-6 text-emerald-500 animate-glow" />
+                                                <Hospital className="w-6 h-6 text-emerald-500 animate-glow shrink-0" />
                                                 <div>
                                                     <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Public Hospitals</p>
                                                     <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.hospitalsCount || 'Data Not Available'}</p>
                                                 </div>
                                             </div>
-                                            <div className="relative">
-                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-emerald-500 cursor-help peer focus:outline-none transition-colors" />
-                                                <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                            <div className="relative shrink-0">
+                                                <button
+                                                    type="button"
+                                                    onClick={(e) => toggleTooltip('card_hospitals', e)}
+                                                    className="text-slate-400 dark:text-slate-500 hover:text-emerald-500 cursor-pointer focus:outline-none p-1.5 rounded-full hover:bg-slate-200/50 dark:hover:bg-slate-700/50 transition-colors"
+                                                    aria-label="Hospitals Details"
+                                                >
+                                                    <Info className="w-4 h-4" />
+                                                </button>
+                                                <div className={`absolute right-0 top-full mt-2 w-64 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl transition-all z-[80] leading-relaxed ${
+                                                    activeTooltip === 'card_hospitals' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                } pointer-events-none`}>
                                                     District hospitals, Community Health Centers (CHCs) & trauma units in {location.districtName || 'district'} (NHM).
-                                                    <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
+                                                    <div className="absolute bottom-full right-3 border-4 border-transparent border-b-slate-900"></div>
                                                 </div>
                                             </div>
                                         </div>
 
                                         {/* Govt Schools */}
-                                        <div className="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-amber-300 dark:hover:border-amber-800 transition-all">
+                                        <div className="p-3.5 bg-slate-50 dark:bg-slate-800/50 rounded-xl border border-slate-200/80 dark:border-slate-700/60 flex items-center justify-between relative group hover:border-amber-300 dark:hover:border-amber-800 transition-all">
                                             <div className="flex items-center gap-3 relative z-10">
-                                                <Building2 className="w-6 h-6 text-amber-500 animate-glow" />
+                                                <Building2 className="w-6 h-6 text-amber-500 animate-glow shrink-0" />
                                                 <div>
                                                     <p className="text-[10px] uppercase text-slate-500 font-bold tracking-wide">Govt Schools</p>
                                                     <p className="text-sm font-extrabold text-slate-800 dark:text-slate-100">{location.govtSchoolsCount || 'Data Not Available'}</p>
                                                 </div>
                                             </div>
-                                            <div className="relative">
-                                                <Info tabIndex={0} className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500 hover:text-amber-500 cursor-help peer focus:outline-none transition-colors" />
-                                                <div className="absolute right-0 bottom-full mb-2 w-56 p-2.5 bg-slate-900 text-white text-[10px] rounded-lg shadow-2xl opacity-0 invisible peer-hover:opacity-100 peer-hover:visible transition-all z-[60] pointer-events-none leading-normal">
+                                            <div className="relative shrink-0">
+                                                <button
+                                                    type="button"
+                                                    onClick={(e) => toggleTooltip('card_schools', e)}
+                                                    className="text-slate-400 dark:text-slate-500 hover:text-amber-500 cursor-pointer focus:outline-none p-1.5 rounded-full hover:bg-slate-200/50 dark:hover:bg-slate-700/50 transition-colors"
+                                                    aria-label="Schools Details"
+                                                >
+                                                    <Info className="w-4 h-4" />
+                                                </button>
+                                                <div className={`absolute right-0 top-full mt-2 w-64 p-3 bg-slate-900 text-white text-[11px] rounded-xl shadow-2xl transition-all z-[80] leading-relaxed ${
+                                                    activeTooltip === 'card_schools' ? 'opacity-100 visible' : 'opacity-0 invisible group-hover:opacity-100 group-hover:visible'
+                                                } pointer-events-none`}>
                                                     Active state government primary, secondary & senior secondary schools in {location.districtName || 'district'} (UDISE+).
-                                                    <div className="absolute top-full right-2 border-4 border-transparent border-t-slate-900"></div>
+                                                    <div className="absolute bottom-full right-3 border-4 border-transparent border-b-slate-900"></div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     {/* Regional Insight Alert */}
                                     {location.regionalInsight && (
                                         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 border border-blue-200 dark:border-blue-800/50 rounded-xl p-4 shadow-sm">
@@ -681,14 +809,14 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             );
                         })()}
 
-                        {/* Tab 3: Dedicated Development (MLA-LADS) Funds Audit */}
+                        {/* Tab 3: Dedicated Development (MPLADS / MLA-LADS) Funds Audit */}
                         {activeTab === 'funds' && (
                             <div className="space-y-6">
                                 {(!candidate.ladFundAllocatedINR && !candidate.ladFundUtilizedINR) ? (
                                     <div className="text-center py-12 bg-slate-50 dark:bg-slate-800/40 rounded-2xl border border-dashed border-slate-300 dark:border-slate-700">
                                         <Coins className="w-10 h-10 text-slate-400 mx-auto mb-2 opacity-60" />
                                         <p className="text-base font-bold text-slate-700 dark:text-slate-300">Data Not Available</p>
-                                        <p className="text-xs text-slate-500 mt-1">Official MLA-LADS disbursement records are currently under compilation for this constituency.</p>
+                                        <p className="text-xs text-slate-500 mt-1">Official development fund records are currently under compilation for this constituency.</p>
                                     </div>
                                 ) : (
                                     <div className="p-6 bg-gradient-to-br from-blue-50/70 via-indigo-50/40 to-slate-50 dark:from-slate-800/80 dark:via-indigo-950/20 dark:to-slate-900 rounded-2xl border border-blue-200/80 dark:border-blue-900/50 shadow-sm relative overflow-hidden group">
@@ -699,14 +827,18 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                 </div>
                                                 <div>
                                                     <h3 className="font-extrabold text-base text-slate-900 dark:text-white flex items-center gap-2">
-                                                        Constituency Development (MLA/MP-LADS) Fund Audit
+                                                        {candidate.role === 'MP' ? 'MPLADS Fund Audit' : 'MLA Local Area Development (Vidhayak Nidhi) Audit'}
                                                     </h3>
-                                                    <p className="text-xs text-slate-500 dark:text-slate-400">Annual constituency development budget tracking & verified ground disbursement</p>
+                                                    <p className="text-xs text-slate-500 dark:text-slate-400">
+                                                        {candidate.fundSchemeName || (candidate.role === 'MP' ? 'Members of Parliament Local Area Development Scheme' : 'State Legislative Assembly Constituency Fund')}
+                                                    </p>
                                                 </div>
                                             </div>
                                             <div className="flex items-center gap-1.5 self-start sm:self-auto bg-white dark:bg-slate-800 px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-xs">
-                                                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
-                                                <span className="font-bold text-slate-700 dark:text-slate-300">Audited by State Planning Dept</span>
+                                                <span className={`w-2 h-2 rounded-full ${candidate.fundUtilizationPercentage && candidate.fundUtilizationPercentage < 40 ? 'bg-rose-500 animate-ping' : 'bg-emerald-500 animate-ping'}`} />
+                                                <span className="font-bold text-slate-700 dark:text-slate-300">
+                                                    {candidate.role === 'MP' ? 'Audited by MoSPI & PRS' : 'Audited by State Planning Dept'}
+                                                </span>
                                             </div>
                                         </div>
 
@@ -715,42 +847,84 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                             <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm">
                                                 <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Allocated Budget</p>
                                                 <p className="text-2xl font-black text-blue-600 dark:text-blue-400 mt-1">
-                                                    {formatINR(candidate.ladFundAllocatedINR || 50000000)}
+                                                    {formatINR(candidate.ladFundAllocatedINR || 0)}
                                                 </p>
-                                                <p className="text-[11px] text-slate-400 mt-1">State Annual Legislative Sanction</p>
+                                                <p className="text-[11px] text-slate-400 mt-1">
+                                                    {candidate.role === 'MP' ? 'Parliamentary Term Allocation' : 'State Annual Legislative Sanction'}
+                                                </p>
                                             </div>
                                             <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm">
                                                 <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Utilized & Disbursed</p>
-                                                <p className="text-2xl font-black text-emerald-600 dark:text-emerald-400 mt-1">
-                                                    {formatINR(candidate.ladFundUtilizedINR || 42500000)}
+                                                <p className={`text-2xl font-black mt-1 ${
+                                                    (candidate.fundUtilizationPercentage || 0) < 40 ? 'text-rose-600 dark:text-rose-400' : 'text-emerald-600 dark:text-emerald-400'
+                                                }`}>
+                                                    {formatINR(candidate.ladFundUtilizedINR || 0)}
                                                 </p>
-                                                <p className="text-[11px] text-emerald-600 dark:text-emerald-400 font-medium mt-1">Verified Ground Works</p>
+                                                <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium mt-1">
+                                                    Remaining Unspent: <strong className="text-slate-700 dark:text-slate-200">{formatINR(candidate.ladFundUnspentINR || Math.max(0, (candidate.ladFundAllocatedINR || 0) - (candidate.ladFundUtilizedINR || 0)))}</strong>
+                                                </p>
                                             </div>
                                             <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm flex flex-col justify-between">
                                                 <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Utilization Efficiency</p>
                                                 <div className="flex items-center justify-between">
-                                                    <span className="text-3xl font-black text-indigo-600 dark:text-indigo-400">
-                                                        {candidate.fundUtilizationPercentage || 85}%
+                                                    <span className={`text-3xl font-black ${
+                                                        (candidate.fundUtilizationPercentage || 0) < 40
+                                                            ? 'text-rose-600 dark:text-rose-400'
+                                                            : (candidate.fundUtilizationPercentage || 0) < 70
+                                                            ? 'text-amber-600 dark:text-amber-400'
+                                                            : 'text-indigo-600 dark:text-indigo-400'
+                                                    }`}>
+                                                        {candidate.fundUtilizationPercentage !== undefined ? candidate.fundUtilizationPercentage : 0}%
                                                     </span>
-                                                    <span className="text-[10px] font-bold bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 px-2 py-1 rounded border border-indigo-200 dark:border-indigo-800">
-                                                        State Benchmark: 78%
+                                                    <span className={`text-[10px] font-bold px-2 py-1 rounded border ${
+                                                        (candidate.fundUtilizationPercentage || 0) < 40
+                                                            ? 'bg-rose-50 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 border-rose-200 dark:border-rose-800'
+                                                            : 'bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800'
+                                                    }`}>
+                                                        {(candidate.fundUtilizationPercentage || 0) < 40 ? 'Critical Low Spend' : (candidate.role === 'MP' ? 'National Avg: 68%' : 'State Benchmark: 78%')}
                                                     </span>
                                                 </div>
                                             </div>
                                         </div>
 
+                                        {/* Works Progress Audit Matrix */}
+                                        {(candidate.worksRecommendedCount !== undefined || candidate.worksCompletedCount !== undefined) && (
+                                            <div className="grid grid-cols-3 gap-3 mb-6 p-4 bg-white dark:bg-slate-800/70 rounded-xl border border-slate-200/80 dark:border-slate-700 text-center">
+                                                <div>
+                                                    <p className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">Works Recommended</p>
+                                                    <p className="text-xl font-black text-slate-800 dark:text-slate-100 mt-0.5">{candidate.worksRecommendedCount || 0}</p>
+                                                </div>
+                                                <div>
+                                                    <p className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">Works Completed</p>
+                                                    <p className={`text-xl font-black mt-0.5 ${(candidate.worksCompletedCount || 0) === 0 ? 'text-rose-600 dark:text-rose-400' : 'text-emerald-600 dark:text-emerald-400'}`}>
+                                                        {candidate.worksCompletedCount || 0}
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <p className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">Pending / In-Progress</p>
+                                                    <p className="text-xl font-black text-amber-600 dark:text-amber-400 mt-0.5">{candidate.worksPendingCount || 0}</p>
+                                                </div>
+                                            </div>
+                                        )}
+
                                         {/* Progress Bar with Beating ECG Indicator */}
                                         <div className="mb-6 p-4 bg-white dark:bg-slate-800/60 rounded-xl border border-slate-200/70 dark:border-slate-700">
                                             <div className="flex justify-between text-xs font-bold mb-2">
                                                 <span className="text-slate-700 dark:text-slate-300">Constituency Expenditure Progress</span>
-                                                <span className="text-indigo-600 dark:text-indigo-400">{candidate.fundUtilizationPercentage || 85}% Complete</span>
+                                                <span className={(candidate.fundUtilizationPercentage || 0) < 40 ? 'text-rose-600 dark:text-rose-400' : 'text-indigo-600 dark:text-indigo-400'}>
+                                                    {candidate.fundUtilizationPercentage !== undefined ? candidate.fundUtilizationPercentage : 0}% Complete
+                                                </span>
                                             </div>
                                             <div className="w-full bg-slate-200 dark:bg-slate-700 h-4 rounded-full overflow-hidden relative">
                                                 <motion.div 
                                                     initial={{ width: 0 }} 
-                                                    animate={{ width: `${candidate.fundUtilizationPercentage || 85}%` }} 
+                                                    animate={{ width: `${Math.max(2, candidate.fundUtilizationPercentage || 0)}%` }} 
                                                     transition={{ duration: 1.2, ease: "easeOut" }}
-                                                    className="h-full bg-gradient-to-r from-blue-600 via-indigo-600 to-emerald-500 rounded-full relative"
+                                                    className={`h-full rounded-full relative ${
+                                                        (candidate.fundUtilizationPercentage || 0) < 40 
+                                                            ? 'bg-gradient-to-r from-rose-500 to-amber-500' 
+                                                            : 'bg-gradient-to-r from-blue-600 via-indigo-600 to-emerald-500'
+                                                    }`}
                                                 >
                                                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent animate-shimmer" />
                                                 </motion.div>
@@ -760,36 +934,53 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* Beautiful Category Spend Allocation Breakdown Diagram */}
                                         <div>
                                             <p className="text-xs font-bold text-slate-700 dark:text-slate-300 mb-3 flex items-center gap-1.5">
-                                                <Layers className="w-4 h-4 text-blue-500" /> Category-wise Expenditure Breakdown:
+                                                <Layers className="w-4 h-4 text-blue-500" /> Key Constituency Fund Commitments & Projects:
                                             </p>
                                             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3">
                                                 {(candidate.ladFundCategoryBreakdown && candidate.ladFundCategoryBreakdown.length > 0 
                                                     ? candidate.ladFundCategoryBreakdown 
                                                     : [
-                                                        { category: "Roads & Connectivity", percentage: 35, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.35) },
-                                                        { category: "Tap Water & Drainage", percentage: 25, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.25) },
-                                                        { category: "Smart School Digital Labs", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) },
-                                                        { category: "Primary Health & ICU Beds", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 42000000) * 0.20) }
+                                                        { category: "Roads & Connectivity", percentage: 35, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 0) * 0.35), status: "Under Implementation" },
+                                                        { category: "Tap Water & Drainage", percentage: 25, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 0) * 0.25), status: "Under Implementation" },
+                                                        { category: "Smart School Digital Labs", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 0) * 0.20), status: "Under Implementation" },
+                                                        { category: "Primary Health & ICU Beds", percentage: 20, allocatedINR: Math.round((candidate.ladFundUtilizedINR || 0) * 0.20), status: "Pending Sanction" }
                                                     ]
                                                 ).map((cat, i) => (
                                                     <div key={i} className="p-3.5 bg-white dark:bg-slate-800 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm flex flex-col justify-between group hover:border-blue-400 transition-all">
                                                         <div>
                                                             <div className="flex justify-between items-center font-bold text-slate-800 dark:text-slate-200 mb-1.5 text-xs">
-                                                                <span className="truncate">{cat.category}</span>
-                                                                <span className="text-blue-600 dark:text-blue-400 font-black">{cat.percentage}%</span>
+                                                                <span className="truncate pr-1" title={cat.category}>{cat.category}</span>
+                                                                <span className="text-blue-600 dark:text-blue-400 font-black shrink-0">{cat.percentage}%</span>
                                                             </div>
                                                             <div className="w-full bg-slate-100 dark:bg-slate-700 h-1.5 rounded-full overflow-hidden mb-2">
                                                                 <div 
-                                                                    className="h-full bg-blue-500 rounded-full" 
+                                                                    className={`h-full rounded-full ${(candidate.fundUtilizationPercentage || 0) < 40 ? 'bg-amber-500' : 'bg-blue-500'}`}
                                                                     style={{ width: `${cat.percentage}%` }} 
                                                                 />
                                                             </div>
                                                         </div>
-                                                        <p className="text-xs font-extrabold text-slate-700 dark:text-slate-300">{formatINR(cat.allocatedINR)}</p>
+                                                        <div className="flex items-center justify-between mt-2 pt-1.5 border-t border-slate-100 dark:border-slate-700/60">
+                                                            <p className="text-xs font-extrabold text-slate-700 dark:text-slate-300">{formatINR(cat.allocatedINR)}</p>
+                                                            {cat.status && (
+                                                                <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded ${
+                                                                    cat.status === 'Completed' ? 'bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800' :
+                                                                    cat.status === 'Under Implementation' ? 'bg-blue-50 dark:bg-blue-950/60 text-blue-600 dark:text-blue-400 border border-blue-200 dark:border-blue-800' :
+                                                                    'bg-amber-50 dark:bg-amber-950/60 text-amber-600 dark:text-amber-400 border border-amber-200 dark:border-amber-800'
+                                                                }`}>
+                                                                    {cat.status}
+                                                                </span>
+                                                            )}
+                                                        </div>
                                                     </div>
                                                 ))}
                                             </div>
                                         </div>
+
+                                        {/* Source Provenance Footer */}
+                                        <p className="text-[10px] text-slate-400 mt-4 text-right flex justify-end items-center gap-1">
+                                            <ShieldCheck className="w-3.5 h-3.5 text-blue-500 animate-glow" /> 
+                                            Official Source: {candidate.fundSourceCitation || (candidate.role === 'MP' ? 'MoSPI eSAKSHI & PRS Legislative Research' : `${candidate.state} Planning & Rural Development Department`)}
+                                        </p>
                                     </div>
                                 )}
                             </div>

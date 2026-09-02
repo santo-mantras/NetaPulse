@@ -1,0 +1,48 @@
+name: Sync Development Funds Audit Data
+
+on:
+  schedule:
+    # Runs at 03:00 UTC every 5 days
+    - cron: '0 3 */5 * *'
+  workflow_dispatch:
+
+jobs:
+  sync-funds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Python Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Development Funds Sync Pipeline
+        run: |
+          python scripts/pipeline/sync_development_funds.py
+
+      - name: Recompile Governance Dataset
+        run: |
+          python scripts/pipeline/compile_from_master_csv.py
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Dependencies & Validate Build
+        run: |
+          npm ci
+          npm run build
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): automated 5-day development funds sync [skip ci]"
+          file_pattern: "src/data/* scripts/pipeline/*"
