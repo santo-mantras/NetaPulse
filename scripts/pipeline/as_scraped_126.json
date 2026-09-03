@@ -1,0 +1,1010 @@
+[
+  {
+    "state": "Assam",
+    "district": "Karimganj",
+    "constituency_code": "AC-AS-1",
+    "constituency_name": "Ratabari",
+    "winner": "Bijoy Malakar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Karimganj",
+    "constituency_code": "AC-AS-2",
+    "constituency_name": "Patharkandi",
+    "winner": "Krishnendu Paul",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Karimganj",
+    "constituency_code": "AC-AS-3",
+    "constituency_name": "Karimganj North",
+    "winner": "Kamalakhya Dey Purkayastha",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Karimganj",
+    "constituency_code": "AC-AS-4",
+    "constituency_name": "Karimganj South",
+    "winner": "Siddique Ahmed",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Karimganj",
+    "constituency_code": "AC-AS-5",
+    "constituency_name": "Badarpur",
+    "winner": "Abdul Aziz",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Hailakandi",
+    "constituency_code": "AC-AS-6",
+    "constituency_name": "Hailakandi",
+    "winner": "Zakir Hussain Laskar",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Hailakandi",
+    "constituency_code": "AC-AS-7",
+    "constituency_name": "Katlicherra",
+    "winner": "Sujam Uddin Laskar",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Hailakandi",
+    "constituency_code": "AC-AS-8",
+    "constituency_name": "Algapur",
+    "winner": "Nizamuddin Choudhury",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-9",
+    "constituency_name": "Silchar",
+    "winner": "Dipayan Chakraborty",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-10",
+    "constituency_name": "Sonai",
+    "winner": "Karim Uddin Barbhuiya",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-11",
+    "constituency_name": "Dholai",
+    "winner": "Parimal Suklabaidya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-12",
+    "constituency_name": "Udharbond",
+    "winner": "Mihir Kanti Shome",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-13",
+    "constituency_name": "Lakhipur",
+    "winner": "Kaushik Rai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-14",
+    "constituency_name": "Barkhola",
+    "winner": "Misbahul Islam Laskar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Cachar",
+    "constituency_code": "AC-AS-15",
+    "constituency_name": "Katigorah",
+    "winner": "Khalil Uddin Mazumder",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Dima Hasao",
+    "constituency_code": "AC-AS-16",
+    "constituency_name": "Haflong",
+    "winner": "Nandita Garlosa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Karbi Anglong",
+    "constituency_code": "AC-AS-17",
+    "constituency_name": "Bokajan",
+    "winner": "Numal Momin",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Karbi Anglong",
+    "constituency_code": "AC-AS-18",
+    "constituency_name": "Howraghat",
+    "winner": "Dorsing Ronghang",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Karbi Anglong",
+    "constituency_code": "AC-AS-19",
+    "constituency_name": "Diphu",
+    "winner": "Bidya Sing Engleng",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "West Karbi Anglong",
+    "constituency_code": "AC-AS-20",
+    "constituency_name": "Baithalangso",
+    "winner": "Rupsing Teron",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "South Salmara",
+    "constituency_code": "AC-AS-21",
+    "constituency_name": "Mankachar",
+    "winner": "Adv. Aminul Islam",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "South Salmara",
+    "constituency_code": "AC-AS-22",
+    "constituency_name": "Salmara South",
+    "winner": "Wazed Ali Choudhury",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhubri",
+    "constituency_code": "AC-AS-23",
+    "constituency_name": "Dhubri",
+    "winner": "Nazrul Hoque",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhubri",
+    "constituency_code": "AC-AS-24",
+    "constituency_name": "Gauripur",
+    "winner": "Nijanur Rahman",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhubri",
+    "constituency_code": "AC-AS-25",
+    "constituency_name": "Golakganj",
+    "winner": "Abdus Sobahun Ali Sarkar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhubri",
+    "constituency_code": "AC-AS-26",
+    "constituency_name": "Bilasipara West",
+    "winner": "Hafiz Bashir Ahmed",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhubri",
+    "constituency_code": "AC-AS-27",
+    "constituency_name": "Bilasipara East",
+    "winner": "Samsul Huda",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Kokrajhar",
+    "constituency_code": "AC-AS-28",
+    "constituency_name": "Gossaigaon",
+    "winner": "Majendra Narzary",
+    "party": "Bodoland People's Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Kokrajhar",
+    "constituency_code": "AC-AS-29",
+    "constituency_name": "Kokrajhar West",
+    "winner": "Rabiram Narzary",
+    "party": "Bodoland People's Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Kokrajhar",
+    "constituency_code": "AC-AS-30",
+    "constituency_name": "Kokrajhar East",
+    "winner": "Lawrence Islary",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Chirang",
+    "constituency_code": "AC-AS-31",
+    "constituency_name": "Sidli",
+    "winner": "Joyanta Basumatary",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Bongaigaon",
+    "constituency_code": "AC-AS-32",
+    "constituency_name": "Bongaigaon",
+    "winner": "Phani Bhusan Choudhury",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Chirang",
+    "constituency_code": "AC-AS-33",
+    "constituency_name": "Bijni",
+    "winner": "Ajoy Kumar Ray",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Bongaigaon",
+    "constituency_code": "AC-AS-34",
+    "constituency_name": "Abhayapuri North",
+    "winner": "Abdul Batin Khandkar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Bongaigaon",
+    "constituency_code": "AC-AS-35",
+    "constituency_name": "Abhayapuri South",
+    "winner": "Pradip Sarkar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Goalpara",
+    "constituency_code": "AC-AS-36",
+    "constituency_name": "Dudhnai",
+    "winner": "Jadab Sawargiary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Goalpara",
+    "constituency_code": "AC-AS-37",
+    "constituency_name": "Goalpara East",
+    "winner": "Abdul Kalam Rasheed Alam",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Goalpara",
+    "constituency_code": "AC-AS-38",
+    "constituency_name": "Goalpara West",
+    "winner": "Md. Abdur Rashid Mandal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Goalpara",
+    "constituency_code": "AC-AS-39",
+    "constituency_name": "Jaleswar",
+    "winner": "Aftabuddin Mollah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-40",
+    "constituency_name": "Sorbhog",
+    "winner": "Manoranjan Talukdar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Assam",
+    "district": "Bajali",
+    "constituency_code": "AC-AS-41",
+    "constituency_name": "Bhabanipur",
+    "winner": "Phanidhar Talukdar",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Bajali",
+    "constituency_code": "AC-AS-42",
+    "constituency_name": "Patacharkuchi",
+    "winner": "Ranjeet Kumar Dass",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-43",
+    "constituency_name": "Barpeta",
+    "winner": "Abdur Rahim Ahmed",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-44",
+    "constituency_name": "Jania",
+    "winner": "Rafiqul Islam",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-45",
+    "constituency_name": "Baghbor",
+    "winner": "Sherman Ali Ahmed",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-46",
+    "constituency_name": "Sarukhetri",
+    "winner": "Jakir Hussain Sikdar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Barpeta",
+    "constituency_code": "AC-AS-47",
+    "constituency_name": "Chenga",
+    "winner": "Ashraful Hussain",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-48",
+    "constituency_name": "Boko",
+    "winner": "Nandita Das",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-49",
+    "constituency_name": "Chaygaon",
+    "winner": "Rekibuddin Ahmed",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-50",
+    "constituency_name": "Palasbari",
+    "winner": "Hemanga Thakuria",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup Metropolitan",
+    "constituency_code": "AC-AS-51",
+    "constituency_name": "Jalukbari",
+    "winner": "Himanta Biswa Sarma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup Metropolitan",
+    "constituency_code": "AC-AS-52",
+    "constituency_name": "Dispur",
+    "winner": "Atul Bora",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup Metropolitan",
+    "constituency_code": "AC-AS-53",
+    "constituency_name": "Gauhati East",
+    "winner": "Siddhartha Bhattacharya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup Metropolitan",
+    "constituency_code": "AC-AS-54",
+    "constituency_name": "Gauhati West",
+    "winner": "Ramendra Narayan Kalita",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-55",
+    "constituency_name": "Hajo",
+    "winner": "Suman Haripriya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-56",
+    "constituency_name": "Kamalpur",
+    "winner": "Diganta Kalita",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Kamrup",
+    "constituency_code": "AC-AS-57",
+    "constituency_name": "Rangia",
+    "winner": "Bhabesh Kalita",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Baksa",
+    "constituency_code": "AC-AS-58",
+    "constituency_name": "Tamulpur",
+    "winner": "Leho Ram Boro",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Nalbari",
+    "constituency_code": "AC-AS-59",
+    "constituency_name": "Nalbari",
+    "winner": "Jayanta Malla Baruah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Nalbari",
+    "constituency_code": "AC-AS-60",
+    "constituency_name": "Barkhetry",
+    "winner": "Diganta Barman",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nalbari",
+    "constituency_code": "AC-AS-61",
+    "constituency_name": "Dharmapur",
+    "winner": "Chandra Mohan Patowary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Baksa",
+    "constituency_code": "AC-AS-62",
+    "constituency_name": "Barama",
+    "winner": "Bhupen Boro",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Baksa",
+    "constituency_code": "AC-AS-63",
+    "constituency_name": "Chapaguri",
+    "winner": "Urkhao Gwra Brahma",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Udalguri",
+    "constituency_code": "AC-AS-64",
+    "constituency_name": "Panery",
+    "winner": "Biswajit Daimary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Darrang",
+    "constituency_code": "AC-AS-65",
+    "constituency_name": "Kalaigaon",
+    "winner": "Durga Das Boro",
+    "party": "Bodoland People's Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Darrang",
+    "constituency_code": "AC-AS-66",
+    "constituency_name": "Sipajhar",
+    "winner": "Parmananda Rajbongshi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Darrang",
+    "constituency_code": "AC-AS-67",
+    "constituency_name": "Mangaldoi",
+    "winner": "Basanta Das",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Darrang",
+    "constituency_code": "AC-AS-68",
+    "constituency_name": "Dalgaon",
+    "winner": "Mazibur Rahman",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Udalguri",
+    "constituency_code": "AC-AS-69",
+    "constituency_name": "Udalguri",
+    "winner": "Gobinda Chandra Basumatary",
+    "party": "United People's Party Liberal"
+  },
+  {
+    "state": "Assam",
+    "district": "Udalguri",
+    "constituency_code": "AC-AS-70",
+    "constituency_name": "Majbat",
+    "winner": "Charan Boro",
+    "party": "Bodoland People's Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-71",
+    "constituency_name": "Dhekiajuli",
+    "winner": "Ashok Singhal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-72",
+    "constituency_name": "Barchalla",
+    "winner": "Ganesh Kumar Limbu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-73",
+    "constituency_name": "Tezpur",
+    "winner": "Prithiraj Rava",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-74",
+    "constituency_name": "Rangapara",
+    "winner": "Krishna Kamal Tanti",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-75",
+    "constituency_name": "Sootea",
+    "winner": "Padma Hazarika",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Biswanath",
+    "constituency_code": "AC-AS-76",
+    "constituency_name": "Biswanath",
+    "winner": "Promod Borthakur",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Biswanath",
+    "constituency_code": "AC-AS-77",
+    "constituency_name": "Behali",
+    "winner": "Ranjit Dutta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Sonitpur",
+    "constituency_code": "AC-AS-78",
+    "constituency_name": "Gohpur",
+    "winner": "Utpal Borah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Morigaon",
+    "constituency_code": "AC-AS-79",
+    "constituency_name": "Jagiroad",
+    "winner": "Pijush Hazarika",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Morigaon",
+    "constituency_code": "AC-AS-80",
+    "constituency_name": "Marigaon",
+    "winner": "Rama Kanta Dewri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Morigaon",
+    "constituency_code": "AC-AS-81",
+    "constituency_name": "Laharighat",
+    "winner": "Dr. Asif Mohammad Nazar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-82",
+    "constituency_name": "Raha",
+    "winner": "Sashi Kanta Das",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-83",
+    "constituency_name": "Dhing",
+    "winner": "Aminul Islam",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-84",
+    "constituency_name": "Batadroba",
+    "winner": "Sibamoni Bora",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-85",
+    "constituency_name": "Rupohihat",
+    "winner": "Nurul Huda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-86",
+    "constituency_name": "Nowgong",
+    "winner": "Rupak Sarmah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-87",
+    "constituency_name": "Barhampur",
+    "winner": "Jitu Goswami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-88",
+    "constituency_name": "Samaguri",
+    "winner": "Rakibul Hussain",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Nagaon",
+    "constituency_code": "AC-AS-89",
+    "constituency_name": "Kaliabor",
+    "winner": "Keshab Mahanta",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Hojai",
+    "constituency_code": "AC-AS-90",
+    "constituency_name": "Jamunamukh",
+    "winner": "Sirajuddin Ajmal",
+    "party": "All India United Democratic Front"
+  },
+  {
+    "state": "Assam",
+    "district": "Hojai",
+    "constituency_code": "AC-AS-91",
+    "constituency_name": "Hojai",
+    "winner": "Ramkrishna Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Hojai",
+    "constituency_code": "AC-AS-92",
+    "constituency_name": "Lumding",
+    "winner": "Sibu Misra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Golaghat",
+    "constituency_code": "AC-AS-93",
+    "constituency_name": "Bokakhat",
+    "winner": "Atul Bora",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Golaghat",
+    "constituency_code": "AC-AS-94",
+    "constituency_name": "Sarupathar",
+    "winner": "Biswajit Phukan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Golaghat",
+    "constituency_code": "AC-AS-95",
+    "constituency_name": "Golaghat",
+    "winner": "Ajanta Neog",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Golaghat",
+    "constituency_code": "AC-AS-96",
+    "constituency_name": "Khumtai",
+    "winner": "Mrinal Saikia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Golaghat",
+    "constituency_code": "AC-AS-97",
+    "constituency_name": "Dergaon",
+    "winner": "Bhabendra Nath Bharali",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Jorhat",
+    "constituency_code": "AC-AS-98",
+    "constituency_name": "Jorhat",
+    "winner": "Hitendra Nath Goswami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Majuli",
+    "constituency_code": "AC-AS-99",
+    "constituency_name": "Majuli",
+    "winner": "Sarbananda Sonowal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Jorhat",
+    "constituency_code": "AC-AS-100",
+    "constituency_name": "Titabar",
+    "winner": "Bhaskar Jyoti Baruah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Jorhat",
+    "constituency_code": "AC-AS-101",
+    "constituency_name": "Mariani",
+    "winner": "Rupjyoti Kurmi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Jorhat",
+    "constituency_code": "AC-AS-102",
+    "constituency_name": "Teok",
+    "winner": "Renupoma Rajkhowa",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Sibsagar",
+    "constituency_code": "AC-AS-103",
+    "constituency_name": "Amguri",
+    "winner": "Prodip Hazarika",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Sibsagar",
+    "constituency_code": "AC-AS-104",
+    "constituency_name": "Nazira",
+    "winner": "Debabrata Saikia",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Charaideo",
+    "constituency_code": "AC-AS-105",
+    "constituency_name": "Mahmara",
+    "winner": "Jogen Mohan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Charaideo",
+    "constituency_code": "AC-AS-106",
+    "constituency_name": "Sonari",
+    "winner": "Dharmeswar Konwar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Sibsagar",
+    "constituency_code": "AC-AS-107",
+    "constituency_name": "Thowra",
+    "winner": "Sushanta Borgohain",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Sibsagar",
+    "constituency_code": "AC-AS-108",
+    "constituency_name": "Sibsagar",
+    "winner": "Akhil Gogoi",
+    "party": "Independent"
+  },
+  {
+    "state": "Assam",
+    "district": "Lakhimpur",
+    "constituency_code": "AC-AS-109",
+    "constituency_name": "Bihpuria",
+    "winner": "Amiya Kumar Bhuyan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Lakhimpur",
+    "constituency_code": "AC-AS-110",
+    "constituency_name": "Naoboicha",
+    "winner": "Bharat Chandra Narah",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Assam",
+    "district": "Lakhimpur",
+    "constituency_code": "AC-AS-111",
+    "constituency_name": "Lakhimpur",
+    "winner": "Manab Deka",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Lakhimpur",
+    "constituency_code": "AC-AS-112",
+    "constituency_name": "Dhakuakhana",
+    "winner": "Naba Kumar Doley",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhemaji",
+    "constituency_code": "AC-AS-113",
+    "constituency_name": "Dhemaji",
+    "winner": "Ranoj Pegu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dhemaji",
+    "constituency_code": "AC-AS-114",
+    "constituency_name": "Jonai",
+    "winner": "Bhubon Pegu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-115",
+    "constituency_name": "Moran",
+    "winner": "Chakradhar Gogoi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-116",
+    "constituency_name": "Dibrugarh",
+    "winner": "Prasanta Phukan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-117",
+    "constituency_name": "Lahowal",
+    "winner": "Binod Hazarika",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-118",
+    "constituency_name": "Duliajan",
+    "winner": "Terash Gowalla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-119",
+    "constituency_name": "Tingkhong",
+    "winner": "Bimal Borah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-120",
+    "constituency_name": "Naharkatia",
+    "winner": "Taranga Gogoi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Dibrugarh",
+    "constituency_code": "AC-AS-121",
+    "constituency_name": "Chabua",
+    "winner": "Ponakan Baruah",
+    "party": "Asom Gana Parishad"
+  },
+  {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "constituency_code": "AC-AS-122",
+    "constituency_name": "Tinsukia",
+    "winner": "Sanjoy Kishan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "constituency_code": "AC-AS-123",
+    "constituency_name": "Digboi",
+    "winner": "Suren Phukan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "constituency_code": "AC-AS-124",
+    "constituency_name": "Margherita",
+    "winner": "Bhaskar Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "constituency_code": "AC-AS-125",
+    "constituency_name": "Doomdooma",
+    "winner": "Rupesh Gowala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Assam",
+    "district": "Tinsukia",
+    "constituency_code": "AC-AS-126",
+    "constituency_name": "Sadiya",
+    "winner": "Bolin Chetia",
+    "party": "Bharatiya Janata Party"
+  }
+]

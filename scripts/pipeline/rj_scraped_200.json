@@ -1,0 +1,1602 @@
+[
+  {
+    "state": "Rajasthan",
+    "district": "Sri Ganganagar",
+    "constituency_code": "AC-RJ-1",
+    "constituency_name": "Sadulshahar",
+    "winner": "Gurveer Singh Brar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sri Ganganagar",
+    "constituency_code": "AC-RJ-2",
+    "constituency_name": "Ganganagar",
+    "winner": "Jaydeep Bihani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sri Ganganagar",
+    "constituency_code": "AC-RJ-3",
+    "constituency_name": "Karanpur",
+    "winner": "Rupinder Singh Kooner",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sri Ganganagar",
+    "constituency_code": "AC-RJ-4",
+    "constituency_name": "Suratgarh",
+    "winner": "Dungar Ram Gedar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Anupgarh",
+    "constituency_code": "AC-RJ-5",
+    "constituency_name": "Raisinghnagar",
+    "winner": "Sohan Lal Nayak",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Anupgarh",
+    "constituency_code": "AC-RJ-6",
+    "constituency_name": "Anupgarh",
+    "winner": "Shimla Devi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "constituency_code": "AC-RJ-7",
+    "constituency_name": "Sangaria",
+    "winner": "Abhimanyu Poonia",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "constituency_code": "AC-RJ-8",
+    "constituency_name": "Hanumangarh",
+    "winner": "Ganesh Raj Bansal",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "constituency_code": "AC-RJ-9",
+    "constituency_name": "Pilibanga",
+    "winner": "Vinod Gothwal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "constituency_code": "AC-RJ-10",
+    "constituency_name": "Nohar",
+    "winner": "Amit Chachan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Hanumangarh",
+    "constituency_code": "AC-RJ-11",
+    "constituency_name": "Bhadra",
+    "winner": "Sanjeev Kumar Beniwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-12",
+    "constituency_name": "Khajuwala",
+    "winner": "Vishwanath Meghwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-13",
+    "constituency_name": "Bikaner West",
+    "winner": "Jethanand Vyas",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-14",
+    "constituency_name": "Bikaner East",
+    "winner": "Siddhi Kumari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-15",
+    "constituency_name": "Kolayat",
+    "winner": "Anshuman Singh Bhati",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-16",
+    "constituency_name": "Lunkaransar",
+    "winner": "Sumit Godara",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-17",
+    "constituency_name": "Dungargarh",
+    "winner": "Tarachand Saraswat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "constituency_code": "AC-RJ-18",
+    "constituency_name": "Nokha",
+    "winner": "Sushila Dudi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-19",
+    "constituency_name": "Sadulpur",
+    "winner": "Manoj Kumar",
+    "party": "Bahujan Samaj Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-20",
+    "constituency_name": "Taranagar",
+    "winner": "Narendra Budania",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-21",
+    "constituency_name": "Sardarshahar",
+    "winner": "Anil Kumar Sharma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-22",
+    "constituency_name": "Churu",
+    "winner": "Harlal Saharan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-23",
+    "constituency_name": "Ratangarh",
+    "winner": "Poosaram Godara",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Churu",
+    "constituency_code": "AC-RJ-24",
+    "constituency_name": "Sujangarh",
+    "winner": "Manoj Kumar Meghwal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-25",
+    "constituency_name": "Pilani",
+    "winner": "Pitram Singh Kala",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-26",
+    "constituency_name": "Surajgarh",
+    "winner": "Sharwan Kumar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-27",
+    "constituency_name": "Jhunjhunu",
+    "winner": "Brijendra Singh Ola",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-28",
+    "constituency_name": "Mandawa",
+    "winner": "Rita Choudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-29",
+    "constituency_name": "Nawalgarh",
+    "winner": "Vikram Singh Jakhal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-30",
+    "constituency_name": "Udaipurwati",
+    "winner": "Bhagawana Ram Saini",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhunjhunu",
+    "constituency_code": "AC-RJ-31",
+    "constituency_name": "Khetri",
+    "winner": "Dharampal Gurjar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-32",
+    "constituency_name": "Fatehpur",
+    "winner": "Hakam Ali Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-33",
+    "constituency_name": "Lachhmangarh",
+    "winner": "Govind Singh Dotasra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-34",
+    "constituency_name": "Dhod",
+    "winner": "Gordhan Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-35",
+    "constituency_name": "Sikar",
+    "winner": "Rajendra Pareek",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-36",
+    "constituency_name": "Dantaramgarh",
+    "winner": "Virendra Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-37",
+    "constituency_name": "Khandela",
+    "winner": "Subhash Meel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-38",
+    "constituency_name": "Neem Ka Thana",
+    "winner": "Suresh Modi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sikar",
+    "constituency_code": "AC-RJ-39",
+    "constituency_name": "Srimadhopur",
+    "winner": "Jhabar Singh Kharra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-40",
+    "constituency_name": "Kotputli",
+    "winner": "Hansraj Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-41",
+    "constituency_name": "Viratnagar",
+    "winner": "Kuldeep Dhankad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-42",
+    "constituency_name": "Shahpura",
+    "winner": "Manish Yadav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-43",
+    "constituency_name": "Chomu",
+    "winner": "Dr. Shikha Meel Barala",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-44",
+    "constituency_name": "Phulera",
+    "winner": "Vidhyadhar Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-45",
+    "constituency_name": "Dudu",
+    "winner": "Prem Chand Bairwa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-46",
+    "constituency_name": "Jhotwara",
+    "winner": "Rajyavardhan Singh Rathore",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-47",
+    "constituency_name": "Amber",
+    "winner": "Prashant Sharma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-48",
+    "constituency_name": "Jamwa Ramgarh",
+    "winner": "Mahendra Pal Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-49",
+    "constituency_name": "Hawa Mahal",
+    "winner": "Balmukund Acharya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-50",
+    "constituency_name": "Vidhyadhar Nagar",
+    "winner": "Diya Kumari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-51",
+    "constituency_name": "Civil Lines",
+    "winner": "Gopal Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-52",
+    "constituency_name": "Kishanpole",
+    "winner": "Aminuddin Kagzi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-53",
+    "constituency_name": "Adarsh Nagar",
+    "winner": "Rafeek Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-54",
+    "constituency_name": "Malviya Nagar",
+    "winner": "Kali Charan Saraf",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-55",
+    "constituency_name": "Sanganer",
+    "winner": "Bhajan Lal Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-56",
+    "constituency_name": "Bagru",
+    "winner": "Kailash Chand Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-57",
+    "constituency_name": "Bassi",
+    "winner": "Laxman Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "constituency_code": "AC-RJ-58",
+    "constituency_name": "Chaksu",
+    "winner": "Ramavtar Bairwa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-59",
+    "constituency_name": "Tijara",
+    "winner": "Mahant Balaknath",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-60",
+    "constituency_name": "Kishangarh Bas",
+    "winner": "Deepchand Khairiya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-61",
+    "constituency_name": "Mundawar",
+    "winner": "Lalit Yadav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-62",
+    "constituency_name": "Behror",
+    "winner": "Jaswant Singh Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-63",
+    "constituency_name": "Bansur",
+    "winner": "Devi Singh Shekhawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-64",
+    "constituency_name": "Thanagazi",
+    "winner": "Kanti Prasad Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-65",
+    "constituency_name": "Alwar Rural",
+    "winner": "Tika Ram Jully",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-66",
+    "constituency_name": "Alwar Urban",
+    "winner": "Sanjay Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-67",
+    "constituency_name": "Ramgarh",
+    "winner": "Zubair Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-68",
+    "constituency_name": "Rajgarh-Laxmangarh",
+    "winner": "Mangelal Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Alwar",
+    "constituency_code": "AC-RJ-69",
+    "constituency_name": "Kathumar",
+    "winner": "Ramesh Khinchi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-70",
+    "constituency_name": "Kaman",
+    "winner": "Nauksham Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-71",
+    "constituency_name": "Nagar",
+    "winner": "Jawahar Singh Bedham",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-72",
+    "constituency_name": "Deeg-Kumher",
+    "winner": "Shailesh Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-73",
+    "constituency_name": "Bharatpur",
+    "winner": "Subhash Garg",
+    "party": "Rashtriya Lok Dal"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-74",
+    "constituency_name": "Nadbai",
+    "winner": "Jagat Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-75",
+    "constituency_name": "Weir",
+    "winner": "Bahadur Singh Koli",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bharatpur",
+    "constituency_code": "AC-RJ-76",
+    "constituency_name": "Bayana",
+    "winner": "Ritu Banawat",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dholpur",
+    "constituency_code": "AC-RJ-77",
+    "constituency_name": "Baseri",
+    "winner": "Sanjay Kumar Jatav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dholpur",
+    "constituency_code": "AC-RJ-78",
+    "constituency_name": "Bari",
+    "winner": "Jaswant Singh Gurjar",
+    "party": "Bahujan Samaj Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dholpur",
+    "constituency_code": "AC-RJ-79",
+    "constituency_name": "Dholpur",
+    "winner": "Shobha Rani Kushwaha",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dholpur",
+    "constituency_code": "AC-RJ-80",
+    "constituency_name": "Rajakhera",
+    "winner": "Rohit Bohra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Karauli",
+    "constituency_code": "AC-RJ-81",
+    "constituency_name": "Todabhim",
+    "winner": "Ghanshyam Mahar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Karauli",
+    "constituency_code": "AC-RJ-82",
+    "constituency_name": "Hindaun",
+    "winner": "Anita Jatav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Karauli",
+    "constituency_code": "AC-RJ-83",
+    "constituency_name": "Karauli",
+    "winner": "Darshan Singh Gurjar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Karauli",
+    "constituency_code": "AC-RJ-84",
+    "constituency_name": "Sapotra",
+    "winner": "Hansraj Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "constituency_code": "AC-RJ-85",
+    "constituency_name": "Bandikui",
+    "winner": "Bhagchand Tankda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "constituency_code": "AC-RJ-86",
+    "constituency_name": "Mahuwa",
+    "winner": "Rajendra Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "constituency_code": "AC-RJ-87",
+    "constituency_name": "Sikrai",
+    "winner": "Vikram Bansiwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "constituency_code": "AC-RJ-88",
+    "constituency_name": "Dausa",
+    "winner": "Murari Lal Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dausa",
+    "constituency_code": "AC-RJ-89",
+    "constituency_name": "Lalsot",
+    "winner": "Rambilas Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sawai Madhopur",
+    "constituency_code": "AC-RJ-90",
+    "constituency_name": "Gangapur",
+    "winner": "Ramkesh Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sawai Madhopur",
+    "constituency_code": "AC-RJ-91",
+    "constituency_name": "Bamanwas",
+    "winner": "Indira Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sawai Madhopur",
+    "constituency_code": "AC-RJ-92",
+    "constituency_name": "Sawai Madhopur",
+    "winner": "Kirodi Lal Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sawai Madhopur",
+    "constituency_code": "AC-RJ-93",
+    "constituency_name": "Khandar",
+    "winner": "Jitendra Kumar Gothwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "constituency_code": "AC-RJ-94",
+    "constituency_name": "Malpura",
+    "winner": "Kanhaiya Lal Choudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "constituency_code": "AC-RJ-95",
+    "constituency_name": "Niwai",
+    "winner": "Ram Sahay Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "constituency_code": "AC-RJ-96",
+    "constituency_name": "Tonk",
+    "winner": "Sachin Pilot",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Tonk",
+    "constituency_code": "AC-RJ-97",
+    "constituency_name": "Deoli-Uniara",
+    "winner": "Harish Chandra Meena",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-98",
+    "constituency_name": "Kishangarh",
+    "winner": "Vikash Choudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-99",
+    "constituency_name": "Pushkar",
+    "winner": "Suresh Singh Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-100",
+    "constituency_name": "Ajmer North",
+    "winner": "Vasudev Devnani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-101",
+    "constituency_name": "Ajmer South",
+    "winner": "Anita Bhadel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-102",
+    "constituency_name": "Nasirabad",
+    "winner": "Ramswaroop Lamba",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-103",
+    "constituency_name": "Beawar",
+    "winner": "Shankar Singh Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-104",
+    "constituency_name": "Masuda",
+    "winner": "Virendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Ajmer",
+    "constituency_code": "AC-RJ-105",
+    "constituency_name": "Kekri",
+    "winner": "Shatrughan Gautam",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-106",
+    "constituency_name": "Ladnun",
+    "winner": "Mukesh Bhakar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-107",
+    "constituency_name": "Deedwana",
+    "winner": "Yoonus Khan",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-108",
+    "constituency_name": "Jayal",
+    "winner": "Manju Baghmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-109",
+    "constituency_name": "Nagaur",
+    "winner": "Harendra Mirdha",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-110",
+    "constituency_name": "Khinwsar",
+    "winner": "Hanuman Beniwal",
+    "party": "Rashtriya Loktantrik Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-111",
+    "constituency_name": "Merta",
+    "winner": "Laxman Ram Meghwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-112",
+    "constituency_name": "Degana",
+    "winner": "Ajay Singh Kilak",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-113",
+    "constituency_name": "Makrana",
+    "winner": "Zakir Hussain Gesawat",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-114",
+    "constituency_name": "Parbatsar",
+    "winner": "Ramniwas Gawriya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "constituency_code": "AC-RJ-115",
+    "constituency_name": "Nawan",
+    "winner": "Vijay Singh Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-116",
+    "constituency_name": "Jaitaran",
+    "winner": "Avinash Gehlot",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-117",
+    "constituency_name": "Sojat",
+    "winner": "Shobha Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-118",
+    "constituency_name": "Pali",
+    "winner": "Bheem Raj Bhati",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-119",
+    "constituency_name": "Marwar Junction",
+    "winner": "Kesaram Choudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-120",
+    "constituency_name": "Bali",
+    "winner": "Pushpendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pali",
+    "constituency_code": "AC-RJ-121",
+    "constituency_name": "Sumerpur",
+    "winner": "Joraram Kumawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-122",
+    "constituency_name": "Phalodi",
+    "winner": "Pabba Ram Bishnoi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-123",
+    "constituency_name": "Lohawat",
+    "winner": "Gajendra Singh Khimsar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-124",
+    "constituency_name": "Shergarh",
+    "winner": "Babu Singh Rathore",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-125",
+    "constituency_name": "Osian",
+    "winner": "Bhairaram Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-126",
+    "constituency_name": "Bhopalgarh",
+    "winner": "Geeta Barwar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-127",
+    "constituency_name": "Sardarpura",
+    "winner": "Ashok Gehlot",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-128",
+    "constituency_name": "Jodhpur",
+    "winner": "Atul Bhansali",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-129",
+    "constituency_name": "Soorsagar",
+    "winner": "Devendra Joshi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-130",
+    "constituency_name": "Luni",
+    "winner": "Jogaram Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "constituency_code": "AC-RJ-131",
+    "constituency_name": "Bilara",
+    "winner": "Arjun Lal Garg",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "constituency_code": "AC-RJ-132",
+    "constituency_name": "Jaisalmer",
+    "winner": "Chhotu Singh Bhati",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "constituency_code": "AC-RJ-133",
+    "constituency_name": "Pokaran",
+    "winner": "Pratap Puri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-134",
+    "constituency_name": "Sheo",
+    "winner": "Ravindra Singh Bhati",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-135",
+    "constituency_name": "Barmer",
+    "winner": "Priyanka Chowdhary",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-136",
+    "constituency_name": "Baytoo",
+    "winner": "Harish Chaudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-137",
+    "constituency_name": "Pachpadra",
+    "winner": "Arun Choudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-138",
+    "constituency_name": "Siwana",
+    "winner": "Hameer Singh Bhayal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-139",
+    "constituency_name": "Gudamalani",
+    "winner": "KK Vishnoi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Barmer",
+    "constituency_code": "AC-RJ-140",
+    "constituency_name": "Chohtan",
+    "winner": "Aduram Meghwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "constituency_code": "AC-RJ-141",
+    "constituency_name": "Ahore",
+    "winner": "Chhagan Singh Rajpurohit",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "constituency_code": "AC-RJ-142",
+    "constituency_name": "Jalore",
+    "winner": "Jogeshwar Garg",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "constituency_code": "AC-RJ-143",
+    "constituency_name": "Bhinmal",
+    "winner": "Samarjit Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "constituency_code": "AC-RJ-144",
+    "constituency_name": "Sanchore",
+    "winner": "Jivaram Choudhary",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jalore",
+    "constituency_code": "AC-RJ-145",
+    "constituency_name": "Raniwara",
+    "winner": "Ratan Devasi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sirohi",
+    "constituency_code": "AC-RJ-146",
+    "constituency_name": "Sirohi",
+    "winner": "Ota Ram Dewasi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sirohi",
+    "constituency_code": "AC-RJ-147",
+    "constituency_name": "Pindwara-Abu",
+    "winner": "Samaram Garasiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Sirohi",
+    "constituency_code": "AC-RJ-148",
+    "constituency_name": "Reodar",
+    "winner": "Motiram Koli",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-149",
+    "constituency_name": "Gogunda",
+    "winner": "Pratap Lal Bheel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-150",
+    "constituency_name": "Jhadol",
+    "winner": "Babulal Kharadi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-151",
+    "constituency_name": "Kherwara",
+    "winner": "Dayaram Parmar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-152",
+    "constituency_name": "Udaipur Rural",
+    "winner": "Phool Singh Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-153",
+    "constituency_name": "Udaipur",
+    "winner": "Tarachand Jain",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-154",
+    "constituency_name": "Mavli",
+    "winner": "Pushkar Lal Dangi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-155",
+    "constituency_name": "Vallabhnagar",
+    "winner": "Udailal Dangi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "constituency_code": "AC-RJ-156",
+    "constituency_name": "Salumber",
+    "winner": "Amrit Lal Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-RJ-157",
+    "constituency_name": "Dhariawad",
+    "winner": "Thavar Chand Meena",
+    "party": "Bharat Adivasi Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dungarpur",
+    "constituency_code": "AC-RJ-158",
+    "constituency_name": "Dungarpur",
+    "winner": "Ganesh Ghogra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dungarpur",
+    "constituency_code": "AC-RJ-159",
+    "constituency_name": "Aspur",
+    "winner": "Umesh Meena",
+    "party": "Bharat Adivasi Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dungarpur",
+    "constituency_code": "AC-RJ-160",
+    "constituency_name": "Sagwara",
+    "winner": "Shankarlal Decha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Dungarpur",
+    "constituency_code": "AC-RJ-161",
+    "constituency_name": "Chorasi",
+    "winner": "Rajkumar Roat",
+    "party": "Bharat Adivasi Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Banswara",
+    "constituency_code": "AC-RJ-162",
+    "constituency_name": "Ghatol",
+    "winner": "Nanalal Ninama",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Banswara",
+    "constituency_code": "AC-RJ-163",
+    "constituency_name": "Garhi",
+    "winner": "Kailash Chandra Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Banswara",
+    "constituency_code": "AC-RJ-164",
+    "constituency_name": "Banswara",
+    "winner": "Arjun Singh Bamaniya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Banswara",
+    "constituency_code": "AC-RJ-165",
+    "constituency_name": "Bagidora",
+    "winner": "Mahendra Jeet Singh Malviya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Banswara",
+    "constituency_code": "AC-RJ-166",
+    "constituency_name": "Kushalgarh",
+    "winner": "Ramila Khadiya",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "constituency_code": "AC-RJ-167",
+    "constituency_name": "Kapasan",
+    "winner": "Arjun Lal Jingar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "constituency_code": "AC-RJ-168",
+    "constituency_name": "Begun",
+    "winner": "Suresh Dhakar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "constituency_code": "AC-RJ-169",
+    "constituency_name": "Chittorgarh",
+    "winner": "Chandrabhan Singh Aakya",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "constituency_code": "AC-RJ-170",
+    "constituency_name": "Nimbahera",
+    "winner": "Shrichand Kriplani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Chittorgarh",
+    "constituency_code": "AC-RJ-171",
+    "constituency_name": "Bari Sadri",
+    "winner": "Gautam Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "constituency_code": "AC-RJ-172",
+    "constituency_name": "Pratapgarh",
+    "winner": "Hemant Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Rajsamand",
+    "constituency_code": "AC-RJ-173",
+    "constituency_name": "Bhim",
+    "winner": "Harisingh Rawat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Rajsamand",
+    "constituency_code": "AC-RJ-174",
+    "constituency_name": "Kumbhalgarh",
+    "winner": "Surendra Singh Rathore",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Rajsamand",
+    "constituency_code": "AC-RJ-175",
+    "constituency_name": "Rajsamand",
+    "winner": "Deepti Maheshwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Rajsamand",
+    "constituency_code": "AC-RJ-176",
+    "constituency_name": "Nathdwara",
+    "winner": "Vishvaraj Singh Mewar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-177",
+    "constituency_name": "Asind",
+    "winner": "Jabbar Singh Sankhala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-178",
+    "constituency_name": "Mandal",
+    "winner": "Udai Lal Bhadana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-179",
+    "constituency_name": "Sahara",
+    "winner": "Ladu Lal Pitliya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-180",
+    "constituency_name": "Bhilwara",
+    "winner": "Ashok Kumar Kothari",
+    "party": "Independent"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-181",
+    "constituency_name": "Shahpura",
+    "winner": "Lalaram Bairwa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-182",
+    "constituency_name": "Jahazpur",
+    "winner": "Gopichand Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bhilwara",
+    "constituency_code": "AC-RJ-183",
+    "constituency_name": "Mandalgarh",
+    "winner": "Gopal Lal Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "constituency_code": "AC-RJ-184",
+    "constituency_name": "Hindoli",
+    "winner": "Ashok Chandna",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "constituency_code": "AC-RJ-185",
+    "constituency_name": "Keshoraipatan",
+    "winner": "Chunnilal Premi Bairwa",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Bundi",
+    "constituency_code": "AC-RJ-186",
+    "constituency_name": "Bundi",
+    "winner": "Harimohan Sharma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-187",
+    "constituency_name": "Pipalda",
+    "winner": "Chetan Patel Kolana",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-188",
+    "constituency_name": "Sangod",
+    "winner": "Heeralal Nagar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-189",
+    "constituency_name": "Kota North",
+    "winner": "Shanti Dhariwal",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-190",
+    "constituency_name": "Kota South",
+    "winner": "Sandeep Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-191",
+    "constituency_name": "Ladpura",
+    "winner": "Kalpana Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Kota",
+    "constituency_code": "AC-RJ-192",
+    "constituency_name": "Ramganj Mandi",
+    "winner": "Madan Dilawar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Baran",
+    "constituency_code": "AC-RJ-193",
+    "constituency_name": "Anta",
+    "winner": "Kanwar Lal Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Baran",
+    "constituency_code": "AC-RJ-194",
+    "constituency_name": "Kishanganj",
+    "winner": "Lalit Meena",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Baran",
+    "constituency_code": "AC-RJ-195",
+    "constituency_name": "Baran-Atru",
+    "winner": "Radheyshayam Bairwa",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Baran",
+    "constituency_code": "AC-RJ-196",
+    "constituency_name": "Chhabra",
+    "winner": "Pratap Singh Singhvi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "constituency_code": "AC-RJ-197",
+    "constituency_name": "Dag",
+    "winner": "Kaluram Meghwal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "constituency_code": "AC-RJ-198",
+    "constituency_name": "Jhalrapatan",
+    "winner": "Vasundhara Raje",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "constituency_code": "AC-RJ-199",
+    "constituency_name": "Khanpur",
+    "winner": "Suresh Gurjar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Rajasthan",
+    "district": "Jhalawar",
+    "constituency_code": "AC-RJ-200",
+    "constituency_name": "Manohar Thana",
+    "winner": "Govind Prasad",
+    "party": "Bharatiya Janata Party"
+  }
+]

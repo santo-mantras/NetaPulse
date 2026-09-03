@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "loc_as_2327",
+    "stateName": "Assam",
+    "districtName": "Karimganj",
+    "assemblyConstituencyCode": "AC-AS-1",
+    "assemblyConstituencyName": "Ratabari",
+    "crimeRate": "262.8 per 100k",
+    "crimeRatePerLakh": 262.8,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Ratabari Civic Context",
+      "historicalFact": "Ratabari is an influential economic and political constituency in Karimganj.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2328",
+    "stateName": "Assam",
+    "districtName": "Karimganj",
+    "assemblyConstituencyCode": "AC-AS-2",
+    "assemblyConstituencyName": "Patharkandi",
+    "crimeRate": "262.8 per 100k",
+    "crimeRatePerLakh": 262.8,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Patharkandi Civic Context",
+      "historicalFact": "Patharkandi is an influential economic and political constituency in Karimganj.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2329",
+    "stateName": "Assam",
+    "districtName": "Karimganj",
+    "assemblyConstituencyCode": "AC-AS-3",
+    "assemblyConstituencyName": "Karimganj North",
+    "crimeRate": "262.8 per 100k",
+    "crimeRatePerLakh": 262.8,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Karimganj North Civic Context",
+      "historicalFact": "Karimganj North is an influential economic and political constituency in Karimganj.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2330",
+    "stateName": "Assam",
+    "districtName": "Karimganj",
+    "assemblyConstituencyCode": "AC-AS-4",
+    "assemblyConstituencyName": "Karimganj South",
+    "crimeRate": "262.8 per 100k",
+    "crimeRatePerLakh": 262.8,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Karimganj South Civic Context",
+      "historicalFact": "Karimganj South is an influential economic and political constituency in Karimganj.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2331",
+    "stateName": "Assam",
+    "districtName": "Karimganj",
+    "assemblyConstituencyCode": "AC-AS-5",
+    "assemblyConstituencyName": "Badarpur",
+    "crimeRate": "262.8 per 100k",
+    "crimeRatePerLakh": 262.8,
+    "literacyRate": 82.8,
+    "literacyRatePercentage": 82.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Badarpur Civic Context",
+      "historicalFact": "Badarpur is an influential economic and political constituency in Karimganj.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2332",
+    "stateName": "Assam",
+    "districtName": "Hailakandi",
+    "assemblyConstituencyCode": "AC-AS-6",
+    "assemblyConstituencyName": "Hailakandi",
+    "crimeRate": "150.0 per 100k",
+    "crimeRatePerLakh": 150.0,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Hailakandi Civic Context",
+      "historicalFact": "Hailakandi is an influential economic and political constituency in Hailakandi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2333",
+    "stateName": "Assam",
+    "districtName": "Hailakandi",
+    "assemblyConstituencyCode": "AC-AS-7",
+    "assemblyConstituencyName": "Katlicherra",
+    "crimeRate": "150.0 per 100k",
+    "crimeRatePerLakh": 150.0,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Katlicherra Civic Context",
+      "historicalFact": "Katlicherra is an influential economic and political constituency in Hailakandi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2334",
+    "stateName": "Assam",
+    "districtName": "Hailakandi",
+    "assemblyConstituencyCode": "AC-AS-8",
+    "assemblyConstituencyName": "Algapur",
+    "crimeRate": "150.0 per 100k",
+    "crimeRatePerLakh": 150.0,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Algapur Civic Context",
+      "historicalFact": "Algapur is an influential economic and political constituency in Hailakandi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2335",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-9",
+    "assemblyConstituencyName": "Silchar",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Silchar Civic Context",
+      "historicalFact": "Silchar is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2336",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-10",
+    "assemblyConstituencyName": "Sonai",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Sonai Civic Context",
+      "historicalFact": "Sonai is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2337",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-11",
+    "assemblyConstituencyName": "Dholai",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Dholai Civic Context",
+      "historicalFact": "Dholai is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2338",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-12",
+    "assemblyConstituencyName": "Udharbond",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Udharbond Civic Context",
+      "historicalFact": "Udharbond is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2339",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-13",
+    "assemblyConstituencyName": "Lakhipur",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Lakhipur Civic Context",
+      "historicalFact": "Lakhipur is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2340",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-14",
+    "assemblyConstituencyName": "Barkhola",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Barkhola Civic Context",
+      "historicalFact": "Barkhola is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2341",
+    "stateName": "Assam",
+    "districtName": "Cachar",
+    "assemblyConstituencyCode": "AC-AS-15",
+    "assemblyConstituencyName": "Katigorah",
+    "crimeRate": "200.3 per 100k",
+    "crimeRatePerLakh": 200.3,
+    "literacyRate": 77.3,
+    "literacyRatePercentage": 77.3,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Katigorah Civic Context",
+      "historicalFact": "Katigorah is an influential economic and political constituency in Cachar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2342",
+    "stateName": "Assam",
+    "districtName": "Dima Hasao",
+    "assemblyConstituencyCode": "AC-AS-16",
+    "assemblyConstituencyName": "Haflong",
+    "crimeRate": "214.0 per 100k",
+    "crimeRatePerLakh": 214.0,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 153,
+    "regionalInsight": {
+      "title": "Haflong Civic Context",
+      "historicalFact": "Haflong is an influential economic and political constituency in Dima Hasao.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2343",
+    "stateName": "Assam",
+    "districtName": "Karbi Anglong",
+    "assemblyConstituencyCode": "AC-AS-17",
+    "assemblyConstituencyName": "Bokajan",
+    "crimeRate": "166.7 per 100k",
+    "crimeRatePerLakh": 166.7,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Bokajan Civic Context",
+      "historicalFact": "Bokajan is an influential economic and political constituency in Karbi Anglong.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2344",
+    "stateName": "Assam",
+    "districtName": "Karbi Anglong",
+    "assemblyConstituencyCode": "AC-AS-18",
+    "assemblyConstituencyName": "Howraghat",
+    "crimeRate": "166.7 per 100k",
+    "crimeRatePerLakh": 166.7,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Howraghat Civic Context",
+      "historicalFact": "Howraghat is an influential economic and political constituency in Karbi Anglong.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2345",
+    "stateName": "Assam",
+    "districtName": "Karbi Anglong",
+    "assemblyConstituencyCode": "AC-AS-19",
+    "assemblyConstituencyName": "Diphu",
+    "crimeRate": "166.7 per 100k",
+    "crimeRatePerLakh": 166.7,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Diphu Civic Context",
+      "historicalFact": "Diphu is an influential economic and political constituency in Karbi Anglong.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2346",
+    "stateName": "Assam",
+    "districtName": "West Karbi Anglong",
+    "assemblyConstituencyCode": "AC-AS-20",
+    "assemblyConstituencyName": "Baithalangso",
+    "crimeRate": "232.2 per 100k",
+    "crimeRatePerLakh": 232.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 254,
+    "regionalInsight": {
+      "title": "Baithalangso Civic Context",
+      "historicalFact": "Baithalangso is an influential economic and political constituency in West Karbi Anglong.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2347",
+    "stateName": "Assam",
+    "districtName": "South Salmara",
+    "assemblyConstituencyCode": "AC-AS-21",
+    "assemblyConstituencyName": "Mankachar",
+    "crimeRate": "177.1 per 100k",
+    "crimeRatePerLakh": 177.1,
+    "literacyRate": 73.2,
+    "literacyRatePercentage": 73.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 287,
+    "regionalInsight": {
+      "title": "Mankachar Civic Context",
+      "historicalFact": "Mankachar is an influential economic and political constituency in South Salmara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2348",
+    "stateName": "Assam",
+    "districtName": "South Salmara",
+    "assemblyConstituencyCode": "AC-AS-22",
+    "assemblyConstituencyName": "Salmara South",
+    "crimeRate": "177.1 per 100k",
+    "crimeRatePerLakh": 177.1,
+    "literacyRate": 73.2,
+    "literacyRatePercentage": 73.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 287,
+    "regionalInsight": {
+      "title": "Salmara South Civic Context",
+      "historicalFact": "Salmara South is an influential economic and political constituency in South Salmara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2349",
+    "stateName": "Assam",
+    "districtName": "Dhubri",
+    "assemblyConstituencyCode": "AC-AS-23",
+    "assemblyConstituencyName": "Dhubri",
+    "crimeRate": "269.2 per 100k",
+    "crimeRatePerLakh": 269.2,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 253,
+    "regionalInsight": {
+      "title": "Dhubri Civic Context",
+      "historicalFact": "Dhubri is an influential economic and political constituency in Dhubri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2350",
+    "stateName": "Assam",
+    "districtName": "Dhubri",
+    "assemblyConstituencyCode": "AC-AS-24",
+    "assemblyConstituencyName": "Gauripur",
+    "crimeRate": "269.2 per 100k",
+    "crimeRatePerLakh": 269.2,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 253,
+    "regionalInsight": {
+      "title": "Gauripur Civic Context",
+      "historicalFact": "Gauripur is an influential economic and political constituency in Dhubri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2351",
+    "stateName": "Assam",
+    "districtName": "Dhubri",
+    "assemblyConstituencyCode": "AC-AS-25",
+    "assemblyConstituencyName": "Golakganj",
+    "crimeRate": "269.2 per 100k",
+    "crimeRatePerLakh": 269.2,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 253,
+    "regionalInsight": {
+      "title": "Golakganj Civic Context",
+      "historicalFact": "Golakganj is an influential economic and political constituency in Dhubri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2352",
+    "stateName": "Assam",
+    "districtName": "Dhubri",
+    "assemblyConstituencyCode": "AC-AS-26",
+    "assemblyConstituencyName": "Bilasipara West",
+    "crimeRate": "269.2 per 100k",
+    "crimeRatePerLakh": 269.2,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 253,
+    "regionalInsight": {
+      "title": "Bilasipara West Civic Context",
+      "historicalFact": "Bilasipara West is an influential economic and political constituency in Dhubri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2353",
+    "stateName": "Assam",
+    "districtName": "Dhubri",
+    "assemblyConstituencyCode": "AC-AS-27",
+    "assemblyConstituencyName": "Bilasipara East",
+    "crimeRate": "269.2 per 100k",
+    "crimeRatePerLakh": 269.2,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 253,
+    "regionalInsight": {
+      "title": "Bilasipara East Civic Context",
+      "historicalFact": "Bilasipara East is an influential economic and political constituency in Dhubri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2354",
+    "stateName": "Assam",
+    "districtName": "Kokrajhar",
+    "assemblyConstituencyCode": "AC-AS-28",
+    "assemblyConstituencyName": "Gossaigaon",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Gossaigaon Civic Context",
+      "historicalFact": "Gossaigaon is an influential economic and political constituency in Kokrajhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2355",
+    "stateName": "Assam",
+    "districtName": "Kokrajhar",
+    "assemblyConstituencyCode": "AC-AS-29",
+    "assemblyConstituencyName": "Kokrajhar West",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Kokrajhar West Civic Context",
+      "historicalFact": "Kokrajhar West is an influential economic and political constituency in Kokrajhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2356",
+    "stateName": "Assam",
+    "districtName": "Kokrajhar",
+    "assemblyConstituencyCode": "AC-AS-30",
+    "assemblyConstituencyName": "Kokrajhar East",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Kokrajhar East Civic Context",
+      "historicalFact": "Kokrajhar East is an influential economic and political constituency in Kokrajhar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2357",
+    "stateName": "Assam",
+    "districtName": "Chirang",
+    "assemblyConstituencyCode": "AC-AS-31",
+    "assemblyConstituencyName": "Sidli",
+    "crimeRate": "237.4 per 100k",
+    "crimeRatePerLakh": 237.4,
+    "literacyRate": 80.4,
+    "literacyRatePercentage": 80.4,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Sidli Civic Context",
+      "historicalFact": "Sidli is an influential economic and political constituency in Chirang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2358",
+    "stateName": "Assam",
+    "districtName": "Bongaigaon",
+    "assemblyConstituencyCode": "AC-AS-32",
+    "assemblyConstituencyName": "Bongaigaon",
+    "crimeRate": "186.4 per 100k",
+    "crimeRatePerLakh": 186.4,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Bongaigaon Civic Context",
+      "historicalFact": "Bongaigaon is an influential economic and political constituency in Bongaigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2359",
+    "stateName": "Assam",
+    "districtName": "Chirang",
+    "assemblyConstituencyCode": "AC-AS-33",
+    "assemblyConstituencyName": "Bijni",
+    "crimeRate": "237.4 per 100k",
+    "crimeRatePerLakh": 237.4,
+    "literacyRate": 80.4,
+    "literacyRatePercentage": 80.4,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Bijni Civic Context",
+      "historicalFact": "Bijni is an influential economic and political constituency in Chirang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2360",
+    "stateName": "Assam",
+    "districtName": "Bongaigaon",
+    "assemblyConstituencyCode": "AC-AS-34",
+    "assemblyConstituencyName": "Abhayapuri North",
+    "crimeRate": "186.4 per 100k",
+    "crimeRatePerLakh": 186.4,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Abhayapuri North Civic Context",
+      "historicalFact": "Abhayapuri North is an influential economic and political constituency in Bongaigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2361",
+    "stateName": "Assam",
+    "districtName": "Bongaigaon",
+    "assemblyConstituencyCode": "AC-AS-35",
+    "assemblyConstituencyName": "Abhayapuri South",
+    "crimeRate": "186.4 per 100k",
+    "crimeRatePerLakh": 186.4,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Abhayapuri South Civic Context",
+      "historicalFact": "Abhayapuri South is an influential economic and political constituency in Bongaigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2362",
+    "stateName": "Assam",
+    "districtName": "Goalpara",
+    "assemblyConstituencyCode": "AC-AS-36",
+    "assemblyConstituencyName": "Dudhnai",
+    "crimeRate": "275.0 per 100k",
+    "crimeRatePerLakh": 275.0,
+    "literacyRate": 85.5,
+    "literacyRatePercentage": 85.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 213,
+    "regionalInsight": {
+      "title": "Dudhnai Civic Context",
+      "historicalFact": "Dudhnai is an influential economic and political constituency in Goalpara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2363",
+    "stateName": "Assam",
+    "districtName": "Goalpara",
+    "assemblyConstituencyCode": "AC-AS-37",
+    "assemblyConstituencyName": "Goalpara East",
+    "crimeRate": "275.0 per 100k",
+    "crimeRatePerLakh": 275.0,
+    "literacyRate": 85.5,
+    "literacyRatePercentage": 85.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 213,
+    "regionalInsight": {
+      "title": "Goalpara East Civic Context",
+      "historicalFact": "Goalpara East is an influential economic and political constituency in Goalpara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2364",
+    "stateName": "Assam",
+    "districtName": "Goalpara",
+    "assemblyConstituencyCode": "AC-AS-38",
+    "assemblyConstituencyName": "Goalpara West",
+    "crimeRate": "275.0 per 100k",
+    "crimeRatePerLakh": 275.0,
+    "literacyRate": 85.5,
+    "literacyRatePercentage": 85.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 213,
+    "regionalInsight": {
+      "title": "Goalpara West Civic Context",
+      "historicalFact": "Goalpara West is an influential economic and political constituency in Goalpara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2365",
+    "stateName": "Assam",
+    "districtName": "Goalpara",
+    "assemblyConstituencyCode": "AC-AS-39",
+    "assemblyConstituencyName": "Jaleswar",
+    "crimeRate": "275.0 per 100k",
+    "crimeRatePerLakh": 275.0,
+    "literacyRate": 85.5,
+    "literacyRatePercentage": 85.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 213,
+    "regionalInsight": {
+      "title": "Jaleswar Civic Context",
+      "historicalFact": "Jaleswar is an influential economic and political constituency in Goalpara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2366",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-40",
+    "assemblyConstituencyName": "Sorbhog",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Sorbhog Civic Context",
+      "historicalFact": "Sorbhog is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2367",
+    "stateName": "Assam",
+    "districtName": "Bajali",
+    "assemblyConstituencyCode": "AC-AS-41",
+    "assemblyConstituencyName": "Bhabanipur",
+    "crimeRate": "165.0 per 100k",
+    "crimeRatePerLakh": 165.0,
+    "literacyRate": 80.4,
+    "literacyRatePercentage": 80.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 314,
+    "regionalInsight": {
+      "title": "Bhabanipur Civic Context",
+      "historicalFact": "Bhabanipur is an influential economic and political constituency in Bajali.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2368",
+    "stateName": "Assam",
+    "districtName": "Bajali",
+    "assemblyConstituencyCode": "AC-AS-42",
+    "assemblyConstituencyName": "Patacharkuchi",
+    "crimeRate": "165.0 per 100k",
+    "crimeRatePerLakh": 165.0,
+    "literacyRate": 80.4,
+    "literacyRatePercentage": 80.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 314,
+    "regionalInsight": {
+      "title": "Patacharkuchi Civic Context",
+      "historicalFact": "Patacharkuchi is an influential economic and political constituency in Bajali.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2369",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-43",
+    "assemblyConstituencyName": "Barpeta",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Barpeta Civic Context",
+      "historicalFact": "Barpeta is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2370",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-44",
+    "assemblyConstituencyName": "Jania",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Jania Civic Context",
+      "historicalFact": "Jania is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2371",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-45",
+    "assemblyConstituencyName": "Baghbor",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Baghbor Civic Context",
+      "historicalFact": "Baghbor is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2372",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-46",
+    "assemblyConstituencyName": "Sarukhetri",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Sarukhetri Civic Context",
+      "historicalFact": "Sarukhetri is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2373",
+    "stateName": "Assam",
+    "districtName": "Barpeta",
+    "assemblyConstituencyCode": "AC-AS-47",
+    "assemblyConstituencyName": "Chenga",
+    "crimeRate": "238.9 per 100k",
+    "crimeRatePerLakh": 238.9,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Chenga Civic Context",
+      "historicalFact": "Chenga is an influential economic and political constituency in Barpeta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2374",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-48",
+    "assemblyConstituencyName": "Boko",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Boko Civic Context",
+      "historicalFact": "Boko is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2375",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-49",
+    "assemblyConstituencyName": "Chaygaon",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Chaygaon Civic Context",
+      "historicalFact": "Chaygaon is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2376",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-50",
+    "assemblyConstituencyName": "Palasbari",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Palasbari Civic Context",
+      "historicalFact": "Palasbari is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2377",
+    "stateName": "Assam",
+    "districtName": "Kamrup Metropolitan",
+    "assemblyConstituencyCode": "AC-AS-51",
+    "assemblyConstituencyName": "Jalukbari",
+    "crimeRate": "200.8 per 100k",
+    "crimeRatePerLakh": 200.8,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Jalukbari Civic Context",
+      "historicalFact": "Jalukbari is an influential economic and political constituency in Kamrup Metropolitan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2378",
+    "stateName": "Assam",
+    "districtName": "Kamrup Metropolitan",
+    "assemblyConstituencyCode": "AC-AS-52",
+    "assemblyConstituencyName": "Dispur",
+    "crimeRate": "200.8 per 100k",
+    "crimeRatePerLakh": 200.8,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Dispur Civic Context",
+      "historicalFact": "Dispur is an influential economic and political constituency in Kamrup Metropolitan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2379",
+    "stateName": "Assam",
+    "districtName": "Kamrup Metropolitan",
+    "assemblyConstituencyCode": "AC-AS-53",
+    "assemblyConstituencyName": "Gauhati East",
+    "crimeRate": "200.8 per 100k",
+    "crimeRatePerLakh": 200.8,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Gauhati East Civic Context",
+      "historicalFact": "Gauhati East is an influential economic and political constituency in Kamrup Metropolitan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2380",
+    "stateName": "Assam",
+    "districtName": "Kamrup Metropolitan",
+    "assemblyConstituencyCode": "AC-AS-54",
+    "assemblyConstituencyName": "Gauhati West",
+    "crimeRate": "200.8 per 100k",
+    "crimeRatePerLakh": 200.8,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Gauhati West Civic Context",
+      "historicalFact": "Gauhati West is an influential economic and political constituency in Kamrup Metropolitan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2381",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-55",
+    "assemblyConstituencyName": "Hajo",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Hajo Civic Context",
+      "historicalFact": "Hajo is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2382",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-56",
+    "assemblyConstituencyName": "Kamalpur",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Kamalpur Civic Context",
+      "historicalFact": "Kamalpur is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2383",
+    "stateName": "Assam",
+    "districtName": "Kamrup",
+    "assemblyConstituencyCode": "AC-AS-57",
+    "assemblyConstituencyName": "Rangia",
+    "crimeRate": "254.4 per 100k",
+    "crimeRatePerLakh": 254.4,
+    "literacyRate": 74.1,
+    "literacyRatePercentage": 74.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 234,
+    "regionalInsight": {
+      "title": "Rangia Civic Context",
+      "historicalFact": "Rangia is an influential economic and political constituency in Kamrup.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2384",
+    "stateName": "Assam",
+    "districtName": "Baksa",
+    "assemblyConstituencyCode": "AC-AS-58",
+    "assemblyConstituencyName": "Tamulpur",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 274,
+    "regionalInsight": {
+      "title": "Tamulpur Civic Context",
+      "historicalFact": "Tamulpur is an influential economic and political constituency in Baksa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2385",
+    "stateName": "Assam",
+    "districtName": "Nalbari",
+    "assemblyConstituencyCode": "AC-AS-59",
+    "assemblyConstituencyName": "Nalbari",
+    "crimeRate": "160.4 per 100k",
+    "crimeRatePerLakh": 160.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 211,
+    "regionalInsight": {
+      "title": "Nalbari Civic Context",
+      "historicalFact": "Nalbari is an influential economic and political constituency in Nalbari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2386",
+    "stateName": "Assam",
+    "districtName": "Nalbari",
+    "assemblyConstituencyCode": "AC-AS-60",
+    "assemblyConstituencyName": "Barkhetry",
+    "crimeRate": "160.4 per 100k",
+    "crimeRatePerLakh": 160.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 211,
+    "regionalInsight": {
+      "title": "Barkhetry Civic Context",
+      "historicalFact": "Barkhetry is an influential economic and political constituency in Nalbari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2387",
+    "stateName": "Assam",
+    "districtName": "Nalbari",
+    "assemblyConstituencyCode": "AC-AS-61",
+    "assemblyConstituencyName": "Dharmapur",
+    "crimeRate": "160.4 per 100k",
+    "crimeRatePerLakh": 160.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 211,
+    "regionalInsight": {
+      "title": "Dharmapur Civic Context",
+      "historicalFact": "Dharmapur is an influential economic and political constituency in Nalbari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2388",
+    "stateName": "Assam",
+    "districtName": "Baksa",
+    "assemblyConstituencyCode": "AC-AS-62",
+    "assemblyConstituencyName": "Barama",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 274,
+    "regionalInsight": {
+      "title": "Barama Civic Context",
+      "historicalFact": "Barama is an influential economic and political constituency in Baksa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2389",
+    "stateName": "Assam",
+    "districtName": "Baksa",
+    "assemblyConstituencyCode": "AC-AS-63",
+    "assemblyConstituencyName": "Chapaguri",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 274,
+    "regionalInsight": {
+      "title": "Chapaguri Civic Context",
+      "historicalFact": "Chapaguri is an influential economic and political constituency in Baksa.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2390",
+    "stateName": "Assam",
+    "districtName": "Udalguri",
+    "assemblyConstituencyCode": "AC-AS-64",
+    "assemblyConstituencyName": "Panery",
+    "crimeRate": "241.6 per 100k",
+    "crimeRatePerLakh": 241.6,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Panery Civic Context",
+      "historicalFact": "Panery is an influential economic and political constituency in Udalguri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2391",
+    "stateName": "Assam",
+    "districtName": "Darrang",
+    "assemblyConstituencyCode": "AC-AS-65",
+    "assemblyConstituencyName": "Kalaigaon",
+    "crimeRate": "218.8 per 100k",
+    "crimeRatePerLakh": 218.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Kalaigaon Civic Context",
+      "historicalFact": "Kalaigaon is an influential economic and political constituency in Darrang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2392",
+    "stateName": "Assam",
+    "districtName": "Darrang",
+    "assemblyConstituencyCode": "AC-AS-66",
+    "assemblyConstituencyName": "Sipajhar",
+    "crimeRate": "218.8 per 100k",
+    "crimeRatePerLakh": 218.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Sipajhar Civic Context",
+      "historicalFact": "Sipajhar is an influential economic and political constituency in Darrang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2393",
+    "stateName": "Assam",
+    "districtName": "Darrang",
+    "assemblyConstituencyCode": "AC-AS-67",
+    "assemblyConstituencyName": "Mangaldoi",
+    "crimeRate": "218.8 per 100k",
+    "crimeRatePerLakh": 218.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Mangaldoi Civic Context",
+      "historicalFact": "Mangaldoi is an influential economic and political constituency in Darrang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2394",
+    "stateName": "Assam",
+    "districtName": "Darrang",
+    "assemblyConstituencyCode": "AC-AS-68",
+    "assemblyConstituencyName": "Dalgaon",
+    "crimeRate": "218.8 per 100k",
+    "crimeRatePerLakh": 218.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Dalgaon Civic Context",
+      "historicalFact": "Dalgaon is an influential economic and political constituency in Darrang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2395",
+    "stateName": "Assam",
+    "districtName": "Udalguri",
+    "assemblyConstituencyCode": "AC-AS-69",
+    "assemblyConstituencyName": "Udalguri",
+    "crimeRate": "241.6 per 100k",
+    "crimeRatePerLakh": 241.6,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Udalguri Civic Context",
+      "historicalFact": "Udalguri is an influential economic and political constituency in Udalguri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2396",
+    "stateName": "Assam",
+    "districtName": "Udalguri",
+    "assemblyConstituencyCode": "AC-AS-70",
+    "assemblyConstituencyName": "Majbat",
+    "crimeRate": "241.6 per 100k",
+    "crimeRatePerLakh": 241.6,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Majbat Civic Context",
+      "historicalFact": "Majbat is an influential economic and political constituency in Udalguri.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2397",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-71",
+    "assemblyConstituencyName": "Dhekiajuli",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Dhekiajuli Civic Context",
+      "historicalFact": "Dhekiajuli is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2398",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-72",
+    "assemblyConstituencyName": "Barchalla",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Barchalla Civic Context",
+      "historicalFact": "Barchalla is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2399",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-73",
+    "assemblyConstituencyName": "Tezpur",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Tezpur Civic Context",
+      "historicalFact": "Tezpur is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2400",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-74",
+    "assemblyConstituencyName": "Rangapara",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Rangapara Civic Context",
+      "historicalFact": "Rangapara is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2401",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-75",
+    "assemblyConstituencyName": "Sootea",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Sootea Civic Context",
+      "historicalFact": "Sootea is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2402",
+    "stateName": "Assam",
+    "districtName": "Biswanath",
+    "assemblyConstituencyCode": "AC-AS-76",
+    "assemblyConstituencyName": "Biswanath",
+    "crimeRate": "278.6 per 100k",
+    "crimeRatePerLakh": 278.6,
+    "literacyRate": 87.6,
+    "literacyRatePercentage": 87.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 250,
+    "regionalInsight": {
+      "title": "Biswanath Civic Context",
+      "historicalFact": "Biswanath is an influential economic and political constituency in Biswanath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2403",
+    "stateName": "Assam",
+    "districtName": "Biswanath",
+    "assemblyConstituencyCode": "AC-AS-77",
+    "assemblyConstituencyName": "Behali",
+    "crimeRate": "278.6 per 100k",
+    "crimeRatePerLakh": 278.6,
+    "literacyRate": 87.6,
+    "literacyRatePercentage": 87.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 250,
+    "regionalInsight": {
+      "title": "Behali Civic Context",
+      "historicalFact": "Behali is an influential economic and political constituency in Biswanath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2404",
+    "stateName": "Assam",
+    "districtName": "Sonitpur",
+    "assemblyConstituencyCode": "AC-AS-78",
+    "assemblyConstituencyName": "Gohpur",
+    "crimeRate": "211.1 per 100k",
+    "crimeRatePerLakh": 211.1,
+    "literacyRate": 78.7,
+    "literacyRatePercentage": 78.7,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 155,
+    "regionalInsight": {
+      "title": "Gohpur Civic Context",
+      "historicalFact": "Gohpur is an influential economic and political constituency in Sonitpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2405",
+    "stateName": "Assam",
+    "districtName": "Morigaon",
+    "assemblyConstituencyCode": "AC-AS-79",
+    "assemblyConstituencyName": "Jagiroad",
+    "crimeRate": "190.4 per 100k",
+    "crimeRatePerLakh": 190.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Jagiroad Civic Context",
+      "historicalFact": "Jagiroad is an influential economic and political constituency in Morigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2406",
+    "stateName": "Assam",
+    "districtName": "Morigaon",
+    "assemblyConstituencyCode": "AC-AS-80",
+    "assemblyConstituencyName": "Marigaon",
+    "crimeRate": "190.4 per 100k",
+    "crimeRatePerLakh": 190.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Marigaon Civic Context",
+      "historicalFact": "Marigaon is an influential economic and political constituency in Morigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2407",
+    "stateName": "Assam",
+    "districtName": "Morigaon",
+    "assemblyConstituencyCode": "AC-AS-81",
+    "assemblyConstituencyName": "Laharighat",
+    "crimeRate": "190.4 per 100k",
+    "crimeRatePerLakh": 190.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Laharighat Civic Context",
+      "historicalFact": "Laharighat is an influential economic and political constituency in Morigaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2408",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-82",
+    "assemblyConstituencyName": "Raha",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Raha Civic Context",
+      "historicalFact": "Raha is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2409",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-83",
+    "assemblyConstituencyName": "Dhing",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Dhing Civic Context",
+      "historicalFact": "Dhing is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2410",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-84",
+    "assemblyConstituencyName": "Batadroba",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Batadroba Civic Context",
+      "historicalFact": "Batadroba is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2411",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-85",
+    "assemblyConstituencyName": "Rupohihat",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Rupohihat Civic Context",
+      "historicalFact": "Rupohihat is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2412",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-86",
+    "assemblyConstituencyName": "Nowgong",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Nowgong Civic Context",
+      "historicalFact": "Nowgong is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2413",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-87",
+    "assemblyConstituencyName": "Barhampur",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Barhampur Civic Context",
+      "historicalFact": "Barhampur is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2414",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-88",
+    "assemblyConstituencyName": "Samaguri",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Samaguri Civic Context",
+      "historicalFact": "Samaguri is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2415",
+    "stateName": "Assam",
+    "districtName": "Nagaon",
+    "assemblyConstituencyCode": "AC-AS-89",
+    "assemblyConstituencyName": "Kaliabor",
+    "crimeRate": "221.5 per 100k",
+    "crimeRatePerLakh": 221.5,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 227,
+    "regionalInsight": {
+      "title": "Kaliabor Civic Context",
+      "historicalFact": "Kaliabor is an influential economic and political constituency in Nagaon.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2416",
+    "stateName": "Assam",
+    "districtName": "Hojai",
+    "assemblyConstituencyCode": "AC-AS-90",
+    "assemblyConstituencyName": "Jamunamukh",
+    "crimeRate": "241.4 per 100k",
+    "crimeRatePerLakh": 241.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 301,
+    "regionalInsight": {
+      "title": "Jamunamukh Civic Context",
+      "historicalFact": "Jamunamukh is an influential economic and political constituency in Hojai.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2417",
+    "stateName": "Assam",
+    "districtName": "Hojai",
+    "assemblyConstituencyCode": "AC-AS-91",
+    "assemblyConstituencyName": "Hojai",
+    "crimeRate": "241.4 per 100k",
+    "crimeRatePerLakh": 241.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 301,
+    "regionalInsight": {
+      "title": "Hojai Civic Context",
+      "historicalFact": "Hojai is an influential economic and political constituency in Hojai.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2418",
+    "stateName": "Assam",
+    "districtName": "Hojai",
+    "assemblyConstituencyCode": "AC-AS-92",
+    "assemblyConstituencyName": "Lumding",
+    "crimeRate": "241.4 per 100k",
+    "crimeRatePerLakh": 241.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 301,
+    "regionalInsight": {
+      "title": "Lumding Civic Context",
+      "historicalFact": "Lumding is an influential economic and political constituency in Hojai.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2419",
+    "stateName": "Assam",
+    "districtName": "Golaghat",
+    "assemblyConstituencyCode": "AC-AS-93",
+    "assemblyConstituencyName": "Bokakhat",
+    "crimeRate": "232.5 per 100k",
+    "crimeRatePerLakh": 232.5,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Bokakhat Civic Context",
+      "historicalFact": "Bokakhat is an influential economic and political constituency in Golaghat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2420",
+    "stateName": "Assam",
+    "districtName": "Golaghat",
+    "assemblyConstituencyCode": "AC-AS-94",
+    "assemblyConstituencyName": "Sarupathar",
+    "crimeRate": "232.5 per 100k",
+    "crimeRatePerLakh": 232.5,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Sarupathar Civic Context",
+      "historicalFact": "Sarupathar is an influential economic and political constituency in Golaghat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2421",
+    "stateName": "Assam",
+    "districtName": "Golaghat",
+    "assemblyConstituencyCode": "AC-AS-95",
+    "assemblyConstituencyName": "Golaghat",
+    "crimeRate": "232.5 per 100k",
+    "crimeRatePerLakh": 232.5,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Golaghat Civic Context",
+      "historicalFact": "Golaghat is an influential economic and political constituency in Golaghat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2422",
+    "stateName": "Assam",
+    "districtName": "Golaghat",
+    "assemblyConstituencyCode": "AC-AS-96",
+    "assemblyConstituencyName": "Khumtai",
+    "crimeRate": "232.5 per 100k",
+    "crimeRatePerLakh": 232.5,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Khumtai Civic Context",
+      "historicalFact": "Khumtai is an influential economic and political constituency in Golaghat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2423",
+    "stateName": "Assam",
+    "districtName": "Golaghat",
+    "assemblyConstituencyCode": "AC-AS-97",
+    "assemblyConstituencyName": "Dergaon",
+    "crimeRate": "232.5 per 100k",
+    "crimeRatePerLakh": 232.5,
+    "literacyRate": 78.9,
+    "literacyRatePercentage": 78.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Dergaon Civic Context",
+      "historicalFact": "Dergaon is an influential economic and political constituency in Golaghat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2424",
+    "stateName": "Assam",
+    "districtName": "Jorhat",
+    "assemblyConstituencyCode": "AC-AS-98",
+    "assemblyConstituencyName": "Jorhat",
+    "crimeRate": "253.4 per 100k",
+    "crimeRatePerLakh": 253.4,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 322,
+    "regionalInsight": {
+      "title": "Jorhat Civic Context",
+      "historicalFact": "Jorhat is an influential economic and political constituency in Jorhat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2425",
+    "stateName": "Assam",
+    "districtName": "Majuli",
+    "assemblyConstituencyCode": "AC-AS-99",
+    "assemblyConstituencyName": "Majuli",
+    "crimeRate": "224.8 per 100k",
+    "crimeRatePerLakh": 224.8,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 343,
+    "regionalInsight": {
+      "title": "Majuli Civic Context",
+      "historicalFact": "Majuli is an influential economic and political constituency in Majuli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2426",
+    "stateName": "Assam",
+    "districtName": "Jorhat",
+    "assemblyConstituencyCode": "AC-AS-100",
+    "assemblyConstituencyName": "Titabar",
+    "crimeRate": "253.4 per 100k",
+    "crimeRatePerLakh": 253.4,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 322,
+    "regionalInsight": {
+      "title": "Titabar Civic Context",
+      "historicalFact": "Titabar is an influential economic and political constituency in Jorhat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2427",
+    "stateName": "Assam",
+    "districtName": "Jorhat",
+    "assemblyConstituencyCode": "AC-AS-101",
+    "assemblyConstituencyName": "Mariani",
+    "crimeRate": "253.4 per 100k",
+    "crimeRatePerLakh": 253.4,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 322,
+    "regionalInsight": {
+      "title": "Mariani Civic Context",
+      "historicalFact": "Mariani is an influential economic and political constituency in Jorhat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2428",
+    "stateName": "Assam",
+    "districtName": "Jorhat",
+    "assemblyConstituencyCode": "AC-AS-102",
+    "assemblyConstituencyName": "Teok",
+    "crimeRate": "253.4 per 100k",
+    "crimeRatePerLakh": 253.4,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 322,
+    "regionalInsight": {
+      "title": "Teok Civic Context",
+      "historicalFact": "Teok is an influential economic and political constituency in Jorhat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2429",
+    "stateName": "Assam",
+    "districtName": "Sibsagar",
+    "assemblyConstituencyCode": "AC-AS-103",
+    "assemblyConstituencyName": "Amguri",
+    "crimeRate": "226.3 per 100k",
+    "crimeRatePerLakh": 226.3,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Amguri Civic Context",
+      "historicalFact": "Amguri is an influential economic and political constituency in Sibsagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2430",
+    "stateName": "Assam",
+    "districtName": "Sibsagar",
+    "assemblyConstituencyCode": "AC-AS-104",
+    "assemblyConstituencyName": "Nazira",
+    "crimeRate": "226.3 per 100k",
+    "crimeRatePerLakh": 226.3,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Nazira Civic Context",
+      "historicalFact": "Nazira is an influential economic and political constituency in Sibsagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2431",
+    "stateName": "Assam",
+    "districtName": "Charaideo",
+    "assemblyConstituencyCode": "AC-AS-105",
+    "assemblyConstituencyName": "Mahmara",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 271,
+    "regionalInsight": {
+      "title": "Mahmara Civic Context",
+      "historicalFact": "Mahmara is an influential economic and political constituency in Charaideo.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2432",
+    "stateName": "Assam",
+    "districtName": "Charaideo",
+    "assemblyConstituencyCode": "AC-AS-106",
+    "assemblyConstituencyName": "Sonari",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 271,
+    "regionalInsight": {
+      "title": "Sonari Civic Context",
+      "historicalFact": "Sonari is an influential economic and political constituency in Charaideo.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2433",
+    "stateName": "Assam",
+    "districtName": "Sibsagar",
+    "assemblyConstituencyCode": "AC-AS-107",
+    "assemblyConstituencyName": "Thowra",
+    "crimeRate": "226.3 per 100k",
+    "crimeRatePerLakh": 226.3,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Thowra Civic Context",
+      "historicalFact": "Thowra is an influential economic and political constituency in Sibsagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2434",
+    "stateName": "Assam",
+    "districtName": "Sibsagar",
+    "assemblyConstituencyCode": "AC-AS-108",
+    "assemblyConstituencyName": "Sibsagar",
+    "crimeRate": "226.3 per 100k",
+    "crimeRatePerLakh": 226.3,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Sibsagar Civic Context",
+      "historicalFact": "Sibsagar is an influential economic and political constituency in Sibsagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2435",
+    "stateName": "Assam",
+    "districtName": "Lakhimpur",
+    "assemblyConstituencyCode": "AC-AS-109",
+    "assemblyConstituencyName": "Bihpuria",
+    "crimeRate": "163.4 per 100k",
+    "crimeRatePerLakh": 163.4,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Bihpuria Civic Context",
+      "historicalFact": "Bihpuria is an influential economic and political constituency in Lakhimpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2436",
+    "stateName": "Assam",
+    "districtName": "Lakhimpur",
+    "assemblyConstituencyCode": "AC-AS-110",
+    "assemblyConstituencyName": "Naoboicha",
+    "crimeRate": "163.4 per 100k",
+    "crimeRatePerLakh": 163.4,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Naoboicha Civic Context",
+      "historicalFact": "Naoboicha is an influential economic and political constituency in Lakhimpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2437",
+    "stateName": "Assam",
+    "districtName": "Lakhimpur",
+    "assemblyConstituencyCode": "AC-AS-111",
+    "assemblyConstituencyName": "Lakhimpur",
+    "crimeRate": "163.4 per 100k",
+    "crimeRatePerLakh": 163.4,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Lakhimpur Civic Context",
+      "historicalFact": "Lakhimpur is an influential economic and political constituency in Lakhimpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2438",
+    "stateName": "Assam",
+    "districtName": "Lakhimpur",
+    "assemblyConstituencyCode": "AC-AS-112",
+    "assemblyConstituencyName": "Dhakuakhana",
+    "crimeRate": "163.4 per 100k",
+    "crimeRatePerLakh": 163.4,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Dhakuakhana Civic Context",
+      "historicalFact": "Dhakuakhana is an influential economic and political constituency in Lakhimpur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2439",
+    "stateName": "Assam",
+    "districtName": "Dhemaji",
+    "assemblyConstituencyCode": "AC-AS-113",
+    "assemblyConstituencyName": "Dhemaji",
+    "crimeRate": "246.6 per 100k",
+    "crimeRatePerLakh": 246.6,
+    "literacyRate": 77.7,
+    "literacyRatePercentage": 77.7,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Dhemaji Civic Context",
+      "historicalFact": "Dhemaji is an influential economic and political constituency in Dhemaji.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2440",
+    "stateName": "Assam",
+    "districtName": "Dhemaji",
+    "assemblyConstituencyCode": "AC-AS-114",
+    "assemblyConstituencyName": "Jonai",
+    "crimeRate": "246.6 per 100k",
+    "crimeRatePerLakh": 246.6,
+    "literacyRate": 77.7,
+    "literacyRatePercentage": 77.7,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Jonai Civic Context",
+      "historicalFact": "Jonai is an influential economic and political constituency in Dhemaji.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2441",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-115",
+    "assemblyConstituencyName": "Moran",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Moran Civic Context",
+      "historicalFact": "Moran is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2442",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-116",
+    "assemblyConstituencyName": "Dibrugarh",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Dibrugarh Civic Context",
+      "historicalFact": "Dibrugarh is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2443",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-117",
+    "assemblyConstituencyName": "Lahowal",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Lahowal Civic Context",
+      "historicalFact": "Lahowal is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2444",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-118",
+    "assemblyConstituencyName": "Duliajan",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Duliajan Civic Context",
+      "historicalFact": "Duliajan is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2445",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-119",
+    "assemblyConstituencyName": "Tingkhong",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Tingkhong Civic Context",
+      "historicalFact": "Tingkhong is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2446",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-120",
+    "assemblyConstituencyName": "Naharkatia",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Naharkatia Civic Context",
+      "historicalFact": "Naharkatia is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2447",
+    "stateName": "Assam",
+    "districtName": "Dibrugarh",
+    "assemblyConstituencyCode": "AC-AS-121",
+    "assemblyConstituencyName": "Chabua",
+    "crimeRate": "202.4 per 100k",
+    "crimeRatePerLakh": 202.4,
+    "literacyRate": 84.3,
+    "literacyRatePercentage": 84.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Chabua Civic Context",
+      "historicalFact": "Chabua is an influential economic and political constituency in Dibrugarh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2448",
+    "stateName": "Assam",
+    "districtName": "Tinsukia",
+    "assemblyConstituencyCode": "AC-AS-122",
+    "assemblyConstituencyName": "Tinsukia",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 156,
+    "regionalInsight": {
+      "title": "Tinsukia Civic Context",
+      "historicalFact": "Tinsukia is an influential economic and political constituency in Tinsukia.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2449",
+    "stateName": "Assam",
+    "districtName": "Tinsukia",
+    "assemblyConstituencyCode": "AC-AS-123",
+    "assemblyConstituencyName": "Digboi",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 156,
+    "regionalInsight": {
+      "title": "Digboi Civic Context",
+      "historicalFact": "Digboi is an influential economic and political constituency in Tinsukia.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2450",
+    "stateName": "Assam",
+    "districtName": "Tinsukia",
+    "assemblyConstituencyCode": "AC-AS-124",
+    "assemblyConstituencyName": "Margherita",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 156,
+    "regionalInsight": {
+      "title": "Margherita Civic Context",
+      "historicalFact": "Margherita is an influential economic and political constituency in Tinsukia.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2451",
+    "stateName": "Assam",
+    "districtName": "Tinsukia",
+    "assemblyConstituencyCode": "AC-AS-125",
+    "assemblyConstituencyName": "Doomdooma",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 156,
+    "regionalInsight": {
+      "title": "Doomdooma Civic Context",
+      "historicalFact": "Doomdooma is an influential economic and political constituency in Tinsukia.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_as_2452",
+    "stateName": "Assam",
+    "districtName": "Tinsukia",
+    "assemblyConstituencyCode": "AC-AS-126",
+    "assemblyConstituencyName": "Sadiya",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 75.1,
+    "literacyRatePercentage": 75.1,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 156,
+    "regionalInsight": {
+      "title": "Sadiya Civic Context",
+      "historicalFact": "Sadiya is an influential economic and political constituency in Tinsukia.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

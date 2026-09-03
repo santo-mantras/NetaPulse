@@ -1,0 +1,4370 @@
+[
+  {
+    "id": "loc_gu_1408",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-1",
+    "assemblyConstituencyName": "Abdasa",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Abdasa Civic Context",
+      "historicalFact": "Abdasa is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1409",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-2",
+    "assemblyConstituencyName": "Mandvi",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Mandvi Civic Context",
+      "historicalFact": "Mandvi is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1410",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-3",
+    "assemblyConstituencyName": "Bhuj",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Bhuj Civic Context",
+      "historicalFact": "Bhuj is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1411",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-4",
+    "assemblyConstituencyName": "Anjar",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Anjar Civic Context",
+      "historicalFact": "Anjar is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1412",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-5",
+    "assemblyConstituencyName": "Gandhidham",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Gandhidham Civic Context",
+      "historicalFact": "Gandhidham is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1413",
+    "stateName": "Gujarat",
+    "districtName": "Kutch",
+    "assemblyConstituencyCode": "AC-GJ-6",
+    "assemblyConstituencyName": "Rapar",
+    "crimeRate": "264.9 per 100k",
+    "crimeRatePerLakh": 264.9,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Rapar Civic Context",
+      "historicalFact": "Rapar is an influential economic and political constituency in Kutch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1414",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-7",
+    "assemblyConstituencyName": "Vav",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Vav Civic Context",
+      "historicalFact": "Vav is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1415",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-8",
+    "assemblyConstituencyName": "Tharad",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Tharad Civic Context",
+      "historicalFact": "Tharad is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1416",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-9",
+    "assemblyConstituencyName": "Dhanera",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Dhanera Civic Context",
+      "historicalFact": "Dhanera is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1417",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-10",
+    "assemblyConstituencyName": "Danta",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Danta Civic Context",
+      "historicalFact": "Danta is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1418",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-11",
+    "assemblyConstituencyName": "Vadgam",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Vadgam Civic Context",
+      "historicalFact": "Vadgam is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1419",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-12",
+    "assemblyConstituencyName": "Palanpur",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Palanpur Civic Context",
+      "historicalFact": "Palanpur is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1420",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-13",
+    "assemblyConstituencyName": "Deesa",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Deesa Civic Context",
+      "historicalFact": "Deesa is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1421",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-14",
+    "assemblyConstituencyName": "Deodar",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Deodar Civic Context",
+      "historicalFact": "Deodar is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1422",
+    "stateName": "Gujarat",
+    "districtName": "Banaskantha",
+    "assemblyConstituencyCode": "AC-GJ-15",
+    "assemblyConstituencyName": "Kankrej",
+    "crimeRate": "272.7 per 100k",
+    "crimeRatePerLakh": 272.7,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Kankrej Civic Context",
+      "historicalFact": "Kankrej is an influential economic and political constituency in Banaskantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1423",
+    "stateName": "Gujarat",
+    "districtName": "Patan",
+    "assemblyConstituencyCode": "AC-GJ-16",
+    "assemblyConstituencyName": "Radhanpur",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Radhanpur Civic Context",
+      "historicalFact": "Radhanpur is an influential economic and political constituency in Patan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1424",
+    "stateName": "Gujarat",
+    "districtName": "Patan",
+    "assemblyConstituencyCode": "AC-GJ-17",
+    "assemblyConstituencyName": "Chanasma",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Chanasma Civic Context",
+      "historicalFact": "Chanasma is an influential economic and political constituency in Patan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1425",
+    "stateName": "Gujarat",
+    "districtName": "Patan",
+    "assemblyConstituencyCode": "AC-GJ-18",
+    "assemblyConstituencyName": "Patan",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Patan Civic Context",
+      "historicalFact": "Patan is an influential economic and political constituency in Patan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1426",
+    "stateName": "Gujarat",
+    "districtName": "Patan",
+    "assemblyConstituencyCode": "AC-GJ-19",
+    "assemblyConstituencyName": "Sidhpur",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Sidhpur Civic Context",
+      "historicalFact": "Sidhpur is an influential economic and political constituency in Patan.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1427",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-20",
+    "assemblyConstituencyName": "Kheralu",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Kheralu Civic Context",
+      "historicalFact": "Kheralu is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1428",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-21",
+    "assemblyConstituencyName": "Unjha",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Unjha Civic Context",
+      "historicalFact": "Unjha is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1429",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-22",
+    "assemblyConstituencyName": "Visnagar",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Visnagar Civic Context",
+      "historicalFact": "Visnagar is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1430",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-23",
+    "assemblyConstituencyName": "Bechraji",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Bechraji Civic Context",
+      "historicalFact": "Bechraji is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1431",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-24",
+    "assemblyConstituencyName": "Kadi",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Kadi Civic Context",
+      "historicalFact": "Kadi is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1432",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-25",
+    "assemblyConstituencyName": "Mahesana",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Mahesana Civic Context",
+      "historicalFact": "Mahesana is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1433",
+    "stateName": "Gujarat",
+    "districtName": "Mehsana",
+    "assemblyConstituencyCode": "AC-GJ-26",
+    "assemblyConstituencyName": "Vijapur",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Vijapur Civic Context",
+      "historicalFact": "Vijapur is an influential economic and political constituency in Mehsana.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1434",
+    "stateName": "Gujarat",
+    "districtName": "Sabarkantha",
+    "assemblyConstituencyCode": "AC-GJ-27",
+    "assemblyConstituencyName": "Himatnagar",
+    "crimeRate": "206.2 per 100k",
+    "crimeRatePerLakh": 206.2,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Himatnagar Civic Context",
+      "historicalFact": "Himatnagar is an influential economic and political constituency in Sabarkantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1435",
+    "stateName": "Gujarat",
+    "districtName": "Sabarkantha",
+    "assemblyConstituencyCode": "AC-GJ-28",
+    "assemblyConstituencyName": "Idar",
+    "crimeRate": "206.2 per 100k",
+    "crimeRatePerLakh": 206.2,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Idar Civic Context",
+      "historicalFact": "Idar is an influential economic and political constituency in Sabarkantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1436",
+    "stateName": "Gujarat",
+    "districtName": "Sabarkantha",
+    "assemblyConstituencyCode": "AC-GJ-29",
+    "assemblyConstituencyName": "Khedbrahma",
+    "crimeRate": "206.2 per 100k",
+    "crimeRatePerLakh": 206.2,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Khedbrahma Civic Context",
+      "historicalFact": "Khedbrahma is an influential economic and political constituency in Sabarkantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1437",
+    "stateName": "Gujarat",
+    "districtName": "Aravalli",
+    "assemblyConstituencyCode": "AC-GJ-30",
+    "assemblyConstituencyName": "Bhiloda",
+    "crimeRate": "155.9 per 100k",
+    "crimeRatePerLakh": 155.9,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 201,
+    "regionalInsight": {
+      "title": "Bhiloda Civic Context",
+      "historicalFact": "Bhiloda is an influential economic and political constituency in Aravalli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1438",
+    "stateName": "Gujarat",
+    "districtName": "Aravalli",
+    "assemblyConstituencyCode": "AC-GJ-31",
+    "assemblyConstituencyName": "Modasa",
+    "crimeRate": "155.9 per 100k",
+    "crimeRatePerLakh": 155.9,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 201,
+    "regionalInsight": {
+      "title": "Modasa Civic Context",
+      "historicalFact": "Modasa is an influential economic and political constituency in Aravalli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1439",
+    "stateName": "Gujarat",
+    "districtName": "Aravalli",
+    "assemblyConstituencyCode": "AC-GJ-32",
+    "assemblyConstituencyName": "Bayad",
+    "crimeRate": "155.9 per 100k",
+    "crimeRatePerLakh": 155.9,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 201,
+    "regionalInsight": {
+      "title": "Bayad Civic Context",
+      "historicalFact": "Bayad is an influential economic and political constituency in Aravalli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1440",
+    "stateName": "Gujarat",
+    "districtName": "Sabarkantha",
+    "assemblyConstituencyCode": "AC-GJ-33",
+    "assemblyConstituencyName": "Prantij",
+    "crimeRate": "206.2 per 100k",
+    "crimeRatePerLakh": 206.2,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Prantij Civic Context",
+      "historicalFact": "Prantij is an influential economic and political constituency in Sabarkantha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1441",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "AC-GJ-34",
+    "assemblyConstituencyName": "Dahegam",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Dahegam Civic Context",
+      "historicalFact": "Dahegam is an influential economic and political constituency in Gandhinagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1442",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "AC-GJ-35",
+    "assemblyConstituencyName": "Gandhinagar South",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Gandhinagar South Civic Context",
+      "historicalFact": "Gandhinagar South is an influential economic and political constituency in Gandhinagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1443",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "AC-GJ-36",
+    "assemblyConstituencyName": "Gandhinagar North",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Gandhinagar North Civic Context",
+      "historicalFact": "Gandhinagar North is an influential economic and political constituency in Gandhinagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1444",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "AC-GJ-37",
+    "assemblyConstituencyName": "Mansa",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Mansa Civic Context",
+      "historicalFact": "Mansa is an influential economic and political constituency in Gandhinagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1445",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "AC-GJ-38",
+    "assemblyConstituencyName": "Kalol",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Kalol Civic Context",
+      "historicalFact": "Kalol is an influential economic and political constituency in Gandhinagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1446",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-39",
+    "assemblyConstituencyName": "Viramgam",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Viramgam Civic Context",
+      "historicalFact": "Viramgam is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1447",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-40",
+    "assemblyConstituencyName": "Sanand",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Sanand Civic Context",
+      "historicalFact": "Sanand is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1448",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-41",
+    "assemblyConstituencyName": "Ghatlodia",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Ghatlodia Civic Context",
+      "historicalFact": "Ghatlodia is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1449",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-42",
+    "assemblyConstituencyName": "Vejalpur",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Vejalpur Civic Context",
+      "historicalFact": "Vejalpur is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1450",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-43",
+    "assemblyConstituencyName": "Vatva",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Vatva Civic Context",
+      "historicalFact": "Vatva is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1451",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-44",
+    "assemblyConstituencyName": "Ellisbridge",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Ellisbridge Civic Context",
+      "historicalFact": "Ellisbridge is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1452",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-45",
+    "assemblyConstituencyName": "Naranpura",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Naranpura Civic Context",
+      "historicalFact": "Naranpura is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1453",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-46",
+    "assemblyConstituencyName": "Nikol",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Nikol Civic Context",
+      "historicalFact": "Nikol is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1454",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-47",
+    "assemblyConstituencyName": "Naroda",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Naroda Civic Context",
+      "historicalFact": "Naroda is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1455",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-48",
+    "assemblyConstituencyName": "Thakkarbapa Nagar",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Thakkarbapa Nagar Civic Context",
+      "historicalFact": "Thakkarbapa Nagar is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1456",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-49",
+    "assemblyConstituencyName": "Bapunagar",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Bapunagar Civic Context",
+      "historicalFact": "Bapunagar is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1457",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-50",
+    "assemblyConstituencyName": "Amraiwadi",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Amraiwadi Civic Context",
+      "historicalFact": "Amraiwadi is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1458",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-51",
+    "assemblyConstituencyName": "Dariapur",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Dariapur Civic Context",
+      "historicalFact": "Dariapur is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1459",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-52",
+    "assemblyConstituencyName": "Jamalpur-Khadiya",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Jamalpur-Khadiya Civic Context",
+      "historicalFact": "Jamalpur-Khadiya is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1460",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-53",
+    "assemblyConstituencyName": "Maninagar",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Maninagar Civic Context",
+      "historicalFact": "Maninagar is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1461",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-54",
+    "assemblyConstituencyName": "Danilimda",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Danilimda Civic Context",
+      "historicalFact": "Danilimda is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1462",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-55",
+    "assemblyConstituencyName": "Sabarmati",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Sabarmati Civic Context",
+      "historicalFact": "Sabarmati is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1463",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-56",
+    "assemblyConstituencyName": "Asarwa",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Asarwa Civic Context",
+      "historicalFact": "Asarwa is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1464",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-57",
+    "assemblyConstituencyName": "Daskroi",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Daskroi Civic Context",
+      "historicalFact": "Daskroi is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1465",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-58",
+    "assemblyConstituencyName": "Dholka",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Dholka Civic Context",
+      "historicalFact": "Dholka is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1466",
+    "stateName": "Gujarat",
+    "districtName": "Ahmedabad",
+    "assemblyConstituencyCode": "AC-GJ-59",
+    "assemblyConstituencyName": "Dhandhuka",
+    "crimeRate": "197.3 per 100k",
+    "crimeRatePerLakh": 197.3,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Dhandhuka Civic Context",
+      "historicalFact": "Dhandhuka is an influential economic and political constituency in Ahmedabad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1467",
+    "stateName": "Gujarat",
+    "districtName": "Surendranagar",
+    "assemblyConstituencyCode": "AC-GJ-60",
+    "assemblyConstituencyName": "Dasada",
+    "crimeRate": "197.9 per 100k",
+    "crimeRatePerLakh": 197.9,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Dasada Civic Context",
+      "historicalFact": "Dasada is an influential economic and political constituency in Surendranagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1468",
+    "stateName": "Gujarat",
+    "districtName": "Surendranagar",
+    "assemblyConstituencyCode": "AC-GJ-61",
+    "assemblyConstituencyName": "Limbdi",
+    "crimeRate": "197.9 per 100k",
+    "crimeRatePerLakh": 197.9,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Limbdi Civic Context",
+      "historicalFact": "Limbdi is an influential economic and political constituency in Surendranagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1469",
+    "stateName": "Gujarat",
+    "districtName": "Surendranagar",
+    "assemblyConstituencyCode": "AC-GJ-62",
+    "assemblyConstituencyName": "Wadhwan",
+    "crimeRate": "197.9 per 100k",
+    "crimeRatePerLakh": 197.9,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Wadhwan Civic Context",
+      "historicalFact": "Wadhwan is an influential economic and political constituency in Surendranagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1470",
+    "stateName": "Gujarat",
+    "districtName": "Surendranagar",
+    "assemblyConstituencyCode": "AC-GJ-63",
+    "assemblyConstituencyName": "Chotila",
+    "crimeRate": "197.9 per 100k",
+    "crimeRatePerLakh": 197.9,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Chotila Civic Context",
+      "historicalFact": "Chotila is an influential economic and political constituency in Surendranagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1471",
+    "stateName": "Gujarat",
+    "districtName": "Surendranagar",
+    "assemblyConstituencyCode": "AC-GJ-64",
+    "assemblyConstituencyName": "Dhrangadhra",
+    "crimeRate": "197.9 per 100k",
+    "crimeRatePerLakh": 197.9,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Dhrangadhra Civic Context",
+      "historicalFact": "Dhrangadhra is an influential economic and political constituency in Surendranagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1472",
+    "stateName": "Gujarat",
+    "districtName": "Morbi",
+    "assemblyConstituencyCode": "AC-GJ-65",
+    "assemblyConstituencyName": "Morbi",
+    "crimeRate": "178.1 per 100k",
+    "crimeRatePerLakh": 178.1,
+    "literacyRate": 87.9,
+    "literacyRatePercentage": 87.9,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Morbi Civic Context",
+      "historicalFact": "Morbi is an influential economic and political constituency in Morbi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1473",
+    "stateName": "Gujarat",
+    "districtName": "Morbi",
+    "assemblyConstituencyCode": "AC-GJ-66",
+    "assemblyConstituencyName": "Tankara",
+    "crimeRate": "178.1 per 100k",
+    "crimeRatePerLakh": 178.1,
+    "literacyRate": 87.9,
+    "literacyRatePercentage": 87.9,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Tankara Civic Context",
+      "historicalFact": "Tankara is an influential economic and political constituency in Morbi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1474",
+    "stateName": "Gujarat",
+    "districtName": "Morbi",
+    "assemblyConstituencyCode": "AC-GJ-67",
+    "assemblyConstituencyName": "Wankaner",
+    "crimeRate": "178.1 per 100k",
+    "crimeRatePerLakh": 178.1,
+    "literacyRate": 87.9,
+    "literacyRatePercentage": 87.9,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Wankaner Civic Context",
+      "historicalFact": "Wankaner is an influential economic and political constituency in Morbi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1475",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-68",
+    "assemblyConstituencyName": "Rajkot East",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Rajkot East Civic Context",
+      "historicalFact": "Rajkot East is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1476",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-69",
+    "assemblyConstituencyName": "Rajkot West",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Rajkot West Civic Context",
+      "historicalFact": "Rajkot West is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1477",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-70",
+    "assemblyConstituencyName": "Rajkot South",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Rajkot South Civic Context",
+      "historicalFact": "Rajkot South is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1478",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-71",
+    "assemblyConstituencyName": "Rajkot Rural",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Rajkot Rural Civic Context",
+      "historicalFact": "Rajkot Rural is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1479",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-72",
+    "assemblyConstituencyName": "Jasdan",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Jasdan Civic Context",
+      "historicalFact": "Jasdan is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1480",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-73",
+    "assemblyConstituencyName": "Gondal",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Gondal Civic Context",
+      "historicalFact": "Gondal is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1481",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-74",
+    "assemblyConstituencyName": "Jetpur",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Jetpur Civic Context",
+      "historicalFact": "Jetpur is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1482",
+    "stateName": "Gujarat",
+    "districtName": "Rajkot",
+    "assemblyConstituencyCode": "AC-GJ-75",
+    "assemblyConstituencyName": "Dhoraji",
+    "crimeRate": "158.4 per 100k",
+    "crimeRatePerLakh": 158.4,
+    "literacyRate": 83.8,
+    "literacyRatePercentage": 83.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 229,
+    "regionalInsight": {
+      "title": "Dhoraji Civic Context",
+      "historicalFact": "Dhoraji is an influential economic and political constituency in Rajkot.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1483",
+    "stateName": "Gujarat",
+    "districtName": "Jamnagar",
+    "assemblyConstituencyCode": "AC-GJ-76",
+    "assemblyConstituencyName": "Kalavad",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Kalavad Civic Context",
+      "historicalFact": "Kalavad is an influential economic and political constituency in Jamnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1484",
+    "stateName": "Gujarat",
+    "districtName": "Jamnagar",
+    "assemblyConstituencyCode": "AC-GJ-77",
+    "assemblyConstituencyName": "Jamnagar Rural",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Jamnagar Rural Civic Context",
+      "historicalFact": "Jamnagar Rural is an influential economic and political constituency in Jamnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1485",
+    "stateName": "Gujarat",
+    "districtName": "Jamnagar",
+    "assemblyConstituencyCode": "AC-GJ-78",
+    "assemblyConstituencyName": "Jamnagar North",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Jamnagar North Civic Context",
+      "historicalFact": "Jamnagar North is an influential economic and political constituency in Jamnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1486",
+    "stateName": "Gujarat",
+    "districtName": "Jamnagar",
+    "assemblyConstituencyCode": "AC-GJ-79",
+    "assemblyConstituencyName": "Jamnagar South",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Jamnagar South Civic Context",
+      "historicalFact": "Jamnagar South is an influential economic and political constituency in Jamnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1487",
+    "stateName": "Gujarat",
+    "districtName": "Jamnagar",
+    "assemblyConstituencyCode": "AC-GJ-80",
+    "assemblyConstituencyName": "Jamjodhpur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Jamjodhpur Civic Context",
+      "historicalFact": "Jamjodhpur is an influential economic and political constituency in Jamnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1488",
+    "stateName": "Gujarat",
+    "districtName": "Devbhumi Dwarka",
+    "assemblyConstituencyCode": "AC-GJ-81",
+    "assemblyConstituencyName": "Khambaliya",
+    "crimeRate": "158.0 per 100k",
+    "crimeRatePerLakh": 158.0,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Khambaliya Civic Context",
+      "historicalFact": "Khambaliya is an influential economic and political constituency in Devbhumi Dwarka.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1489",
+    "stateName": "Gujarat",
+    "districtName": "Devbhumi Dwarka",
+    "assemblyConstituencyCode": "AC-GJ-82",
+    "assemblyConstituencyName": "Dwarka",
+    "crimeRate": "158.0 per 100k",
+    "crimeRatePerLakh": 158.0,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Dwarka Civic Context",
+      "historicalFact": "Dwarka is an influential economic and political constituency in Devbhumi Dwarka.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1490",
+    "stateName": "Gujarat",
+    "districtName": "Porbandar",
+    "assemblyConstituencyCode": "AC-GJ-83",
+    "assemblyConstituencyName": "Porbandar",
+    "crimeRate": "259.0 per 100k",
+    "crimeRatePerLakh": 259.0,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 295,
+    "regionalInsight": {
+      "title": "Porbandar Civic Context",
+      "historicalFact": "Porbandar is an influential economic and political constituency in Porbandar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1491",
+    "stateName": "Gujarat",
+    "districtName": "Porbandar",
+    "assemblyConstituencyCode": "AC-GJ-84",
+    "assemblyConstituencyName": "Kutiyana",
+    "crimeRate": "259.0 per 100k",
+    "crimeRatePerLakh": 259.0,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 295,
+    "regionalInsight": {
+      "title": "Kutiyana Civic Context",
+      "historicalFact": "Kutiyana is an influential economic and political constituency in Porbandar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1492",
+    "stateName": "Gujarat",
+    "districtName": "Junagadh",
+    "assemblyConstituencyCode": "AC-GJ-85",
+    "assemblyConstituencyName": "Manavadar",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Manavadar Civic Context",
+      "historicalFact": "Manavadar is an influential economic and political constituency in Junagadh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1493",
+    "stateName": "Gujarat",
+    "districtName": "Junagadh",
+    "assemblyConstituencyCode": "AC-GJ-86",
+    "assemblyConstituencyName": "Junagadh",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Junagadh Civic Context",
+      "historicalFact": "Junagadh is an influential economic and political constituency in Junagadh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1494",
+    "stateName": "Gujarat",
+    "districtName": "Junagadh",
+    "assemblyConstituencyCode": "AC-GJ-87",
+    "assemblyConstituencyName": "Visavadar",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Visavadar Civic Context",
+      "historicalFact": "Visavadar is an influential economic and political constituency in Junagadh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1495",
+    "stateName": "Gujarat",
+    "districtName": "Junagadh",
+    "assemblyConstituencyCode": "AC-GJ-88",
+    "assemblyConstituencyName": "Keshod",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Keshod Civic Context",
+      "historicalFact": "Keshod is an influential economic and political constituency in Junagadh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1496",
+    "stateName": "Gujarat",
+    "districtName": "Junagadh",
+    "assemblyConstituencyCode": "AC-GJ-89",
+    "assemblyConstituencyName": "Mangrol (Junagadh)",
+    "crimeRate": "251.1 per 100k",
+    "crimeRatePerLakh": 251.1,
+    "literacyRate": 82.3,
+    "literacyRatePercentage": 82.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Mangrol (Junagadh) Civic Context",
+      "historicalFact": "Mangrol (Junagadh) is an influential economic and political constituency in Junagadh.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1497",
+    "stateName": "Gujarat",
+    "districtName": "Gir Somnath",
+    "assemblyConstituencyCode": "AC-GJ-90",
+    "assemblyConstituencyName": "Somnath",
+    "crimeRate": "181.4 per 100k",
+    "crimeRatePerLakh": 181.4,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 304,
+    "regionalInsight": {
+      "title": "Somnath Civic Context",
+      "historicalFact": "Somnath is an influential economic and political constituency in Gir Somnath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1498",
+    "stateName": "Gujarat",
+    "districtName": "Gir Somnath",
+    "assemblyConstituencyCode": "AC-GJ-91",
+    "assemblyConstituencyName": "Talala",
+    "crimeRate": "181.4 per 100k",
+    "crimeRatePerLakh": 181.4,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 304,
+    "regionalInsight": {
+      "title": "Talala Civic Context",
+      "historicalFact": "Talala is an influential economic and political constituency in Gir Somnath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1499",
+    "stateName": "Gujarat",
+    "districtName": "Gir Somnath",
+    "assemblyConstituencyCode": "AC-GJ-92",
+    "assemblyConstituencyName": "Kodinar",
+    "crimeRate": "181.4 per 100k",
+    "crimeRatePerLakh": 181.4,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 304,
+    "regionalInsight": {
+      "title": "Kodinar Civic Context",
+      "historicalFact": "Kodinar is an influential economic and political constituency in Gir Somnath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1500",
+    "stateName": "Gujarat",
+    "districtName": "Gir Somnath",
+    "assemblyConstituencyCode": "AC-GJ-93",
+    "assemblyConstituencyName": "Una",
+    "crimeRate": "181.4 per 100k",
+    "crimeRatePerLakh": 181.4,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 304,
+    "regionalInsight": {
+      "title": "Una Civic Context",
+      "historicalFact": "Una is an influential economic and political constituency in Gir Somnath.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1501",
+    "stateName": "Gujarat",
+    "districtName": "Amreli",
+    "assemblyConstituencyCode": "AC-GJ-94",
+    "assemblyConstituencyName": "Dhari",
+    "crimeRate": "248.2 per 100k",
+    "crimeRatePerLakh": 248.2,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 315,
+    "regionalInsight": {
+      "title": "Dhari Civic Context",
+      "historicalFact": "Dhari is an influential economic and political constituency in Amreli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1502",
+    "stateName": "Gujarat",
+    "districtName": "Amreli",
+    "assemblyConstituencyCode": "AC-GJ-95",
+    "assemblyConstituencyName": "Amreli",
+    "crimeRate": "248.2 per 100k",
+    "crimeRatePerLakh": 248.2,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 315,
+    "regionalInsight": {
+      "title": "Amreli Civic Context",
+      "historicalFact": "Amreli is an influential economic and political constituency in Amreli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1503",
+    "stateName": "Gujarat",
+    "districtName": "Amreli",
+    "assemblyConstituencyCode": "AC-GJ-96",
+    "assemblyConstituencyName": "Lathi",
+    "crimeRate": "248.2 per 100k",
+    "crimeRatePerLakh": 248.2,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 315,
+    "regionalInsight": {
+      "title": "Lathi Civic Context",
+      "historicalFact": "Lathi is an influential economic and political constituency in Amreli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1504",
+    "stateName": "Gujarat",
+    "districtName": "Amreli",
+    "assemblyConstituencyCode": "AC-GJ-97",
+    "assemblyConstituencyName": "Savarkundla",
+    "crimeRate": "248.2 per 100k",
+    "crimeRatePerLakh": 248.2,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 315,
+    "regionalInsight": {
+      "title": "Savarkundla Civic Context",
+      "historicalFact": "Savarkundla is an influential economic and political constituency in Amreli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1505",
+    "stateName": "Gujarat",
+    "districtName": "Amreli",
+    "assemblyConstituencyCode": "AC-GJ-98",
+    "assemblyConstituencyName": "Rajula",
+    "crimeRate": "248.2 per 100k",
+    "crimeRatePerLakh": 248.2,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 315,
+    "regionalInsight": {
+      "title": "Rajula Civic Context",
+      "historicalFact": "Rajula is an influential economic and political constituency in Amreli.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1506",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-99",
+    "assemblyConstituencyName": "Mahuva (Bhavnagar)",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Mahuva (Bhavnagar) Civic Context",
+      "historicalFact": "Mahuva (Bhavnagar) is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1507",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-100",
+    "assemblyConstituencyName": "Talaja",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Talaja Civic Context",
+      "historicalFact": "Talaja is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1508",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-101",
+    "assemblyConstituencyName": "Gariadhar",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Gariadhar Civic Context",
+      "historicalFact": "Gariadhar is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1509",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-102",
+    "assemblyConstituencyName": "Palitana",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Palitana Civic Context",
+      "historicalFact": "Palitana is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1510",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-103",
+    "assemblyConstituencyName": "Bhavnagar Rural",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Bhavnagar Rural Civic Context",
+      "historicalFact": "Bhavnagar Rural is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1511",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-104",
+    "assemblyConstituencyName": "Bhavnagar East",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Bhavnagar East Civic Context",
+      "historicalFact": "Bhavnagar East is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1512",
+    "stateName": "Gujarat",
+    "districtName": "Bhavnagar",
+    "assemblyConstituencyCode": "AC-GJ-105",
+    "assemblyConstituencyName": "Bhavnagar West",
+    "crimeRate": "145.1 per 100k",
+    "crimeRatePerLakh": 145.1,
+    "literacyRate": 72.5,
+    "literacyRatePercentage": 72.5,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 350,
+    "regionalInsight": {
+      "title": "Bhavnagar West Civic Context",
+      "historicalFact": "Bhavnagar West is an influential economic and political constituency in Bhavnagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1513",
+    "stateName": "Gujarat",
+    "districtName": "Botad",
+    "assemblyConstituencyCode": "AC-GJ-106",
+    "assemblyConstituencyName": "Gadhada",
+    "crimeRate": "230.6 per 100k",
+    "crimeRatePerLakh": 230.6,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Gadhada Civic Context",
+      "historicalFact": "Gadhada is an influential economic and political constituency in Botad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1514",
+    "stateName": "Gujarat",
+    "districtName": "Botad",
+    "assemblyConstituencyCode": "AC-GJ-107",
+    "assemblyConstituencyName": "Botad",
+    "crimeRate": "230.6 per 100k",
+    "crimeRatePerLakh": 230.6,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Botad Civic Context",
+      "historicalFact": "Botad is an influential economic and political constituency in Botad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1515",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-108",
+    "assemblyConstituencyName": "Khambhat",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Khambhat Civic Context",
+      "historicalFact": "Khambhat is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1516",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-109",
+    "assemblyConstituencyName": "Borsad",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Borsad Civic Context",
+      "historicalFact": "Borsad is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1517",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-110",
+    "assemblyConstituencyName": "Anklav",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Anklav Civic Context",
+      "historicalFact": "Anklav is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1518",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-111",
+    "assemblyConstituencyName": "Umreth",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Umreth Civic Context",
+      "historicalFact": "Umreth is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1519",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-112",
+    "assemblyConstituencyName": "Anand",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Anand Civic Context",
+      "historicalFact": "Anand is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1520",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-113",
+    "assemblyConstituencyName": "Petlad",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Petlad Civic Context",
+      "historicalFact": "Petlad is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1521",
+    "stateName": "Gujarat",
+    "districtName": "Anand",
+    "assemblyConstituencyCode": "AC-GJ-114",
+    "assemblyConstituencyName": "Sojitra",
+    "crimeRate": "253.5 per 100k",
+    "crimeRatePerLakh": 253.5,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 252,
+    "regionalInsight": {
+      "title": "Sojitra Civic Context",
+      "historicalFact": "Sojitra is an influential economic and political constituency in Anand.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1522",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-115",
+    "assemblyConstituencyName": "Matar",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Matar Civic Context",
+      "historicalFact": "Matar is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1523",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-116",
+    "assemblyConstituencyName": "Nadiad",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Nadiad Civic Context",
+      "historicalFact": "Nadiad is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1524",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-117",
+    "assemblyConstituencyName": "Mehmedabad",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Mehmedabad Civic Context",
+      "historicalFact": "Mehmedabad is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1525",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-118",
+    "assemblyConstituencyName": "Mahudha",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Mahudha Civic Context",
+      "historicalFact": "Mahudha is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1526",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-119",
+    "assemblyConstituencyName": "Thasra",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Thasra Civic Context",
+      "historicalFact": "Thasra is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1527",
+    "stateName": "Gujarat",
+    "districtName": "Kheda",
+    "assemblyConstituencyCode": "AC-GJ-120",
+    "assemblyConstituencyName": "Kapadvanj",
+    "crimeRate": "260.6 per 100k",
+    "crimeRatePerLakh": 260.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 341,
+    "regionalInsight": {
+      "title": "Kapadvanj Civic Context",
+      "historicalFact": "Kapadvanj is an influential economic and political constituency in Kheda.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1528",
+    "stateName": "Gujarat",
+    "districtName": "Mahisagar",
+    "assemblyConstituencyCode": "AC-GJ-121",
+    "assemblyConstituencyName": "Balasinor",
+    "crimeRate": "200.0 per 100k",
+    "crimeRatePerLakh": 200.0,
+    "literacyRate": 87.2,
+    "literacyRatePercentage": 87.2,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 325,
+    "regionalInsight": {
+      "title": "Balasinor Civic Context",
+      "historicalFact": "Balasinor is an influential economic and political constituency in Mahisagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1529",
+    "stateName": "Gujarat",
+    "districtName": "Mahisagar",
+    "assemblyConstituencyCode": "AC-GJ-122",
+    "assemblyConstituencyName": "Lunawada",
+    "crimeRate": "200.0 per 100k",
+    "crimeRatePerLakh": 200.0,
+    "literacyRate": 87.2,
+    "literacyRatePercentage": 87.2,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 325,
+    "regionalInsight": {
+      "title": "Lunawada Civic Context",
+      "historicalFact": "Lunawada is an influential economic and political constituency in Mahisagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1530",
+    "stateName": "Gujarat",
+    "districtName": "Mahisagar",
+    "assemblyConstituencyCode": "AC-GJ-123",
+    "assemblyConstituencyName": "Santrampur",
+    "crimeRate": "200.0 per 100k",
+    "crimeRatePerLakh": 200.0,
+    "literacyRate": 87.2,
+    "literacyRatePercentage": 87.2,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 325,
+    "regionalInsight": {
+      "title": "Santrampur Civic Context",
+      "historicalFact": "Santrampur is an influential economic and political constituency in Mahisagar.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1531",
+    "stateName": "Gujarat",
+    "districtName": "Panchmahal",
+    "assemblyConstituencyCode": "AC-GJ-124",
+    "assemblyConstituencyName": "Shehra",
+    "crimeRate": "163.0 per 100k",
+    "crimeRatePerLakh": 163.0,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Shehra Civic Context",
+      "historicalFact": "Shehra is an influential economic and political constituency in Panchmahal.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1532",
+    "stateName": "Gujarat",
+    "districtName": "Panchmahal",
+    "assemblyConstituencyCode": "AC-GJ-125",
+    "assemblyConstituencyName": "Morva Hadaf",
+    "crimeRate": "163.0 per 100k",
+    "crimeRatePerLakh": 163.0,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Morva Hadaf Civic Context",
+      "historicalFact": "Morva Hadaf is an influential economic and political constituency in Panchmahal.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1533",
+    "stateName": "Gujarat",
+    "districtName": "Panchmahal",
+    "assemblyConstituencyCode": "AC-GJ-126",
+    "assemblyConstituencyName": "Godhra",
+    "crimeRate": "163.0 per 100k",
+    "crimeRatePerLakh": 163.0,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Godhra Civic Context",
+      "historicalFact": "Godhra is an influential economic and political constituency in Panchmahal.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1534",
+    "stateName": "Gujarat",
+    "districtName": "Panchmahal",
+    "assemblyConstituencyCode": "AC-GJ-127",
+    "assemblyConstituencyName": "Kalol (Panchmahal)",
+    "crimeRate": "163.0 per 100k",
+    "crimeRatePerLakh": 163.0,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Kalol (Panchmahal) Civic Context",
+      "historicalFact": "Kalol (Panchmahal) is an influential economic and political constituency in Panchmahal.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1535",
+    "stateName": "Gujarat",
+    "districtName": "Panchmahal",
+    "assemblyConstituencyCode": "AC-GJ-128",
+    "assemblyConstituencyName": "Halol",
+    "crimeRate": "163.0 per 100k",
+    "crimeRatePerLakh": 163.0,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 236,
+    "regionalInsight": {
+      "title": "Halol Civic Context",
+      "historicalFact": "Halol is an influential economic and political constituency in Panchmahal.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1536",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-129",
+    "assemblyConstituencyName": "Fatepura",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Fatepura Civic Context",
+      "historicalFact": "Fatepura is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1537",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-130",
+    "assemblyConstituencyName": "Jhalod",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Jhalod Civic Context",
+      "historicalFact": "Jhalod is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1538",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-131",
+    "assemblyConstituencyName": "Limkheda",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Limkheda Civic Context",
+      "historicalFact": "Limkheda is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1539",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-132",
+    "assemblyConstituencyName": "Dahod",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Dahod Civic Context",
+      "historicalFact": "Dahod is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1540",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-133",
+    "assemblyConstituencyName": "Garbada",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Garbada Civic Context",
+      "historicalFact": "Garbada is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1541",
+    "stateName": "Gujarat",
+    "districtName": "Dahod",
+    "assemblyConstituencyCode": "AC-GJ-134",
+    "assemblyConstituencyName": "Devgadhbariya",
+    "crimeRate": "253.7 per 100k",
+    "crimeRatePerLakh": 253.7,
+    "literacyRate": 75.7,
+    "literacyRatePercentage": 75.7,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 180,
+    "regionalInsight": {
+      "title": "Devgadhbariya Civic Context",
+      "historicalFact": "Devgadhbariya is an influential economic and political constituency in Dahod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1542",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-135",
+    "assemblyConstituencyName": "Savli",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Savli Civic Context",
+      "historicalFact": "Savli is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1543",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-136",
+    "assemblyConstituencyName": "Vaghodiya",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Vaghodiya Civic Context",
+      "historicalFact": "Vaghodiya is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1544",
+    "stateName": "Gujarat",
+    "districtName": "Chhota Udaipur",
+    "assemblyConstituencyCode": "AC-GJ-137",
+    "assemblyConstituencyName": "Chhota Udaipur",
+    "crimeRate": "242.6 per 100k",
+    "crimeRatePerLakh": 242.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Chhota Udaipur Civic Context",
+      "historicalFact": "Chhota Udaipur is an influential economic and political constituency in Chhota Udaipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1545",
+    "stateName": "Gujarat",
+    "districtName": "Chhota Udaipur",
+    "assemblyConstituencyCode": "AC-GJ-138",
+    "assemblyConstituencyName": "Jetpur (Chhota Udaipur)",
+    "crimeRate": "242.6 per 100k",
+    "crimeRatePerLakh": 242.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Jetpur (Chhota Udaipur) Civic Context",
+      "historicalFact": "Jetpur (Chhota Udaipur) is an influential economic and political constituency in Chhota Udaipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1546",
+    "stateName": "Gujarat",
+    "districtName": "Chhota Udaipur",
+    "assemblyConstituencyCode": "AC-GJ-139",
+    "assemblyConstituencyName": "Sankheda",
+    "crimeRate": "242.6 per 100k",
+    "crimeRatePerLakh": 242.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Sankheda Civic Context",
+      "historicalFact": "Sankheda is an influential economic and political constituency in Chhota Udaipur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1547",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-140",
+    "assemblyConstituencyName": "Dabhoi",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Dabhoi Civic Context",
+      "historicalFact": "Dabhoi is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1548",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-141",
+    "assemblyConstituencyName": "Vadodara City",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Vadodara City Civic Context",
+      "historicalFact": "Vadodara City is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1549",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-142",
+    "assemblyConstituencyName": "Sayajigunj",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Sayajigunj Civic Context",
+      "historicalFact": "Sayajigunj is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1550",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-143",
+    "assemblyConstituencyName": "Akota",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Akota Civic Context",
+      "historicalFact": "Akota is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1551",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-144",
+    "assemblyConstituencyName": "Raopura",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Raopura Civic Context",
+      "historicalFact": "Raopura is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1552",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-145",
+    "assemblyConstituencyName": "Manjalpur",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Manjalpur Civic Context",
+      "historicalFact": "Manjalpur is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1553",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-146",
+    "assemblyConstituencyName": "Padra",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Padra Civic Context",
+      "historicalFact": "Padra is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1554",
+    "stateName": "Gujarat",
+    "districtName": "Vadodara",
+    "assemblyConstituencyCode": "AC-GJ-147",
+    "assemblyConstituencyName": "Karjan",
+    "crimeRate": "143.4 per 100k",
+    "crimeRatePerLakh": 143.4,
+    "literacyRate": 74.2,
+    "literacyRatePercentage": 74.2,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Karjan Civic Context",
+      "historicalFact": "Karjan is an influential economic and political constituency in Vadodara.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1555",
+    "stateName": "Gujarat",
+    "districtName": "Narmada",
+    "assemblyConstituencyCode": "AC-GJ-148",
+    "assemblyConstituencyName": "Nandod",
+    "crimeRate": "152.7 per 100k",
+    "crimeRatePerLakh": 152.7,
+    "literacyRate": 86.5,
+    "literacyRatePercentage": 86.5,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Nandod Civic Context",
+      "historicalFact": "Nandod is an influential economic and political constituency in Narmada.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1556",
+    "stateName": "Gujarat",
+    "districtName": "Narmada",
+    "assemblyConstituencyCode": "AC-GJ-149",
+    "assemblyConstituencyName": "Dediapada",
+    "crimeRate": "152.7 per 100k",
+    "crimeRatePerLakh": 152.7,
+    "literacyRate": 86.5,
+    "literacyRatePercentage": 86.5,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Dediapada Civic Context",
+      "historicalFact": "Dediapada is an influential economic and political constituency in Narmada.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1557",
+    "stateName": "Gujarat",
+    "districtName": "Bharuch",
+    "assemblyConstituencyCode": "AC-GJ-150",
+    "assemblyConstituencyName": "Jambusar",
+    "crimeRate": "276.5 per 100k",
+    "crimeRatePerLakh": 276.5,
+    "literacyRate": 83.6,
+    "literacyRatePercentage": 83.6,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Jambusar Civic Context",
+      "historicalFact": "Jambusar is an influential economic and political constituency in Bharuch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1558",
+    "stateName": "Gujarat",
+    "districtName": "Bharuch",
+    "assemblyConstituencyCode": "AC-GJ-151",
+    "assemblyConstituencyName": "Vagra",
+    "crimeRate": "276.5 per 100k",
+    "crimeRatePerLakh": 276.5,
+    "literacyRate": 83.6,
+    "literacyRatePercentage": 83.6,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Vagra Civic Context",
+      "historicalFact": "Vagra is an influential economic and political constituency in Bharuch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1559",
+    "stateName": "Gujarat",
+    "districtName": "Bharuch",
+    "assemblyConstituencyCode": "AC-GJ-152",
+    "assemblyConstituencyName": "Jhagadiya",
+    "crimeRate": "276.5 per 100k",
+    "crimeRatePerLakh": 276.5,
+    "literacyRate": 83.6,
+    "literacyRatePercentage": 83.6,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Jhagadiya Civic Context",
+      "historicalFact": "Jhagadiya is an influential economic and political constituency in Bharuch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1560",
+    "stateName": "Gujarat",
+    "districtName": "Bharuch",
+    "assemblyConstituencyCode": "AC-GJ-153",
+    "assemblyConstituencyName": "Bharuch",
+    "crimeRate": "276.5 per 100k",
+    "crimeRatePerLakh": 276.5,
+    "literacyRate": 83.6,
+    "literacyRatePercentage": 83.6,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Bharuch Civic Context",
+      "historicalFact": "Bharuch is an influential economic and political constituency in Bharuch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1561",
+    "stateName": "Gujarat",
+    "districtName": "Bharuch",
+    "assemblyConstituencyCode": "AC-GJ-154",
+    "assemblyConstituencyName": "Ankleshwar",
+    "crimeRate": "276.5 per 100k",
+    "crimeRatePerLakh": 276.5,
+    "literacyRate": 83.6,
+    "literacyRatePercentage": 83.6,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Ankleshwar Civic Context",
+      "historicalFact": "Ankleshwar is an influential economic and political constituency in Bharuch.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1562",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-155",
+    "assemblyConstituencyName": "Olpad",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Olpad Civic Context",
+      "historicalFact": "Olpad is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1563",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-156",
+    "assemblyConstituencyName": "Mangrol",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Mangrol Civic Context",
+      "historicalFact": "Mangrol is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1564",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-157",
+    "assemblyConstituencyName": "Mandvi (Surat)",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Mandvi (Surat) Civic Context",
+      "historicalFact": "Mandvi (Surat) is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1565",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-158",
+    "assemblyConstituencyName": "Kamrej",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Kamrej Civic Context",
+      "historicalFact": "Kamrej is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1566",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-159",
+    "assemblyConstituencyName": "Surat East",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Surat East Civic Context",
+      "historicalFact": "Surat East is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1567",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-160",
+    "assemblyConstituencyName": "Surat North",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Surat North Civic Context",
+      "historicalFact": "Surat North is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1568",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-161",
+    "assemblyConstituencyName": "Varachha Road",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Varachha Road Civic Context",
+      "historicalFact": "Varachha Road is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1569",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-162",
+    "assemblyConstituencyName": "Karanj",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Karanj Civic Context",
+      "historicalFact": "Karanj is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1570",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-163",
+    "assemblyConstituencyName": "Limbayat",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Limbayat Civic Context",
+      "historicalFact": "Limbayat is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1571",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-164",
+    "assemblyConstituencyName": "Udhna",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Udhna Civic Context",
+      "historicalFact": "Udhna is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1572",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-165",
+    "assemblyConstituencyName": "Majura",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Majura Civic Context",
+      "historicalFact": "Majura is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1573",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-166",
+    "assemblyConstituencyName": "Katargam",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Katargam Civic Context",
+      "historicalFact": "Katargam is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1574",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-167",
+    "assemblyConstituencyName": "Surat West",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Surat West Civic Context",
+      "historicalFact": "Surat West is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1575",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-168",
+    "assemblyConstituencyName": "Choryasi",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Choryasi Civic Context",
+      "historicalFact": "Choryasi is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1576",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-169",
+    "assemblyConstituencyName": "Bardoli",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Bardoli Civic Context",
+      "historicalFact": "Bardoli is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1577",
+    "stateName": "Gujarat",
+    "districtName": "Surat",
+    "assemblyConstituencyCode": "AC-GJ-170",
+    "assemblyConstituencyName": "Mahuva",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Mahuva Civic Context",
+      "historicalFact": "Mahuva is an influential economic and political constituency in Surat.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1578",
+    "stateName": "Gujarat",
+    "districtName": "Tapi",
+    "assemblyConstituencyCode": "AC-GJ-171",
+    "assemblyConstituencyName": "Vyara",
+    "crimeRate": "169.1 per 100k",
+    "crimeRatePerLakh": 169.1,
+    "literacyRate": 84.2,
+    "literacyRatePercentage": 84.2,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 215,
+    "regionalInsight": {
+      "title": "Vyara Civic Context",
+      "historicalFact": "Vyara is an influential economic and political constituency in Tapi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1579",
+    "stateName": "Gujarat",
+    "districtName": "Tapi",
+    "assemblyConstituencyCode": "AC-GJ-172",
+    "assemblyConstituencyName": "Nizar",
+    "crimeRate": "169.1 per 100k",
+    "crimeRatePerLakh": 169.1,
+    "literacyRate": 84.2,
+    "literacyRatePercentage": 84.2,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 215,
+    "regionalInsight": {
+      "title": "Nizar Civic Context",
+      "historicalFact": "Nizar is an influential economic and political constituency in Tapi.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1580",
+    "stateName": "Gujarat",
+    "districtName": "Dang",
+    "assemblyConstituencyCode": "AC-GJ-173",
+    "assemblyConstituencyName": "Dangs",
+    "crimeRate": "197.0 per 100k",
+    "crimeRatePerLakh": 197.0,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 231,
+    "regionalInsight": {
+      "title": "Dangs Civic Context",
+      "historicalFact": "Dangs is an influential economic and political constituency in Dang.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1581",
+    "stateName": "Gujarat",
+    "districtName": "Navsari",
+    "assemblyConstituencyCode": "AC-GJ-174",
+    "assemblyConstituencyName": "Jalalpore",
+    "crimeRate": "146.9 per 100k",
+    "crimeRatePerLakh": 146.9,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 261,
+    "regionalInsight": {
+      "title": "Jalalpore Civic Context",
+      "historicalFact": "Jalalpore is an influential economic and political constituency in Navsari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1582",
+    "stateName": "Gujarat",
+    "districtName": "Navsari",
+    "assemblyConstituencyCode": "AC-GJ-175",
+    "assemblyConstituencyName": "Navsari",
+    "crimeRate": "146.9 per 100k",
+    "crimeRatePerLakh": 146.9,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 261,
+    "regionalInsight": {
+      "title": "Navsari Civic Context",
+      "historicalFact": "Navsari is an influential economic and political constituency in Navsari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1583",
+    "stateName": "Gujarat",
+    "districtName": "Navsari",
+    "assemblyConstituencyCode": "AC-GJ-176",
+    "assemblyConstituencyName": "Gandevi",
+    "crimeRate": "146.9 per 100k",
+    "crimeRatePerLakh": 146.9,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 261,
+    "regionalInsight": {
+      "title": "Gandevi Civic Context",
+      "historicalFact": "Gandevi is an influential economic and political constituency in Navsari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1584",
+    "stateName": "Gujarat",
+    "districtName": "Navsari",
+    "assemblyConstituencyCode": "AC-GJ-177",
+    "assemblyConstituencyName": "Vansda",
+    "crimeRate": "146.9 per 100k",
+    "crimeRatePerLakh": 146.9,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 261,
+    "regionalInsight": {
+      "title": "Vansda Civic Context",
+      "historicalFact": "Vansda is an influential economic and political constituency in Navsari.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1585",
+    "stateName": "Gujarat",
+    "districtName": "Valsad",
+    "assemblyConstituencyCode": "AC-GJ-178",
+    "assemblyConstituencyName": "Dharampur",
+    "crimeRate": "224.3 per 100k",
+    "crimeRatePerLakh": 224.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 246,
+    "regionalInsight": {
+      "title": "Dharampur Civic Context",
+      "historicalFact": "Dharampur is an influential economic and political constituency in Valsad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1586",
+    "stateName": "Gujarat",
+    "districtName": "Valsad",
+    "assemblyConstituencyCode": "AC-GJ-179",
+    "assemblyConstituencyName": "Valsad",
+    "crimeRate": "224.3 per 100k",
+    "crimeRatePerLakh": 224.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 246,
+    "regionalInsight": {
+      "title": "Valsad Civic Context",
+      "historicalFact": "Valsad is an influential economic and political constituency in Valsad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1587",
+    "stateName": "Gujarat",
+    "districtName": "Valsad",
+    "assemblyConstituencyCode": "AC-GJ-180",
+    "assemblyConstituencyName": "Pardi",
+    "crimeRate": "224.3 per 100k",
+    "crimeRatePerLakh": 224.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 246,
+    "regionalInsight": {
+      "title": "Pardi Civic Context",
+      "historicalFact": "Pardi is an influential economic and political constituency in Valsad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1588",
+    "stateName": "Gujarat",
+    "districtName": "Valsad",
+    "assemblyConstituencyCode": "AC-GJ-181",
+    "assemblyConstituencyName": "Kaprada",
+    "crimeRate": "224.3 per 100k",
+    "crimeRatePerLakh": 224.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 246,
+    "regionalInsight": {
+      "title": "Kaprada Civic Context",
+      "historicalFact": "Kaprada is an influential economic and political constituency in Valsad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_gu_1589",
+    "stateName": "Gujarat",
+    "districtName": "Valsad",
+    "assemblyConstituencyCode": "AC-GJ-182",
+    "assemblyConstituencyName": "Umbergaon",
+    "crimeRate": "224.3 per 100k",
+    "crimeRatePerLakh": 224.3,
+    "literacyRate": 86.7,
+    "literacyRatePercentage": 86.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 246,
+    "regionalInsight": {
+      "title": "Umbergaon Civic Context",
+      "historicalFact": "Umbergaon is an influential economic and political constituency in Valsad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

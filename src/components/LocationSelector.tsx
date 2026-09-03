@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import type { LocationHierarchy, CandidateProfile } from '../types/governance';
 import { Search, MapPin, User, RotateCcw, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -11,13 +11,20 @@ interface LocationSelectorProps {
 }
 
 export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, candidates, onLocationSelect, onSearch }) => {
-    // Unique lists
-    const states = Array.from(new Set(locations.map(l => l.stateName)));
+    // 1. States sorted alphabetically (A-Z)
+    const states = useMemo(() => {
+        return Array.from(new Set(locations.map(l => l.stateName)))
+            .sort((a, b) => a.localeCompare(b));
+    }, [locations]);
 
     const defaultState = states[0] || 'Maharashtra';
-    const defaultDistricts = Array.from(new Set(locations.filter(l => l.stateName === defaultState).map(l => l.districtName)));
+    const defaultDistricts = Array.from(new Set(locations.filter(l => l.stateName === defaultState).map(l => l.districtName)))
+        .sort((a, b) => a.localeCompare(b));
     const defaultDistrict = defaultDistricts[0] || '';
-    const defaultConsts = locations.filter(l => l.stateName === defaultState && l.districtName === defaultDistrict).map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+    const defaultConsts = locations
+        .filter(l => l.stateName === defaultState && l.districtName === defaultDistrict)
+        .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
+        .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
     const defaultConstituency = defaultConsts[0] || '';
 
     const [selectedState, setSelectedState] = useState(defaultState);
@@ -29,20 +36,31 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
     const [suggestions, setSuggestions] = useState<CandidateProfile[]>([]);
     const [showSuggestions, setShowSuggestions] = useState(false);
 
-    const availableDistricts = Array.from(new Set(
-        locations.filter(l => l.stateName === selectedState).map(l => l.districtName)
-    ));
+    // 2. Districts sorted alphabetically (A-Z)
+    const availableDistricts = useMemo(() => {
+        return Array.from(new Set(
+            locations.filter(l => l.stateName === selectedState).map(l => l.districtName)
+        )).sort((a, b) => a.localeCompare(b));
+    }, [locations, selectedState]);
 
-    const availableConstituencies = locations
-        .filter(l => l.stateName === selectedState && l.districtName === selectedDistrict)
-        .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+    // 3. Constituencies sorted alphabetically by constituency name (A-Z, Option A)
+    const availableConstituencies = useMemo(() => {
+        return locations
+            .filter(l => l.stateName === selectedState && l.districtName === selectedDistrict)
+            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
+            .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+    }, [locations, selectedState, selectedDistrict]);
 
     // Reset all selections to top default state
     const handleReset = () => {
         const topState = states[0] || 'Maharashtra';
-        const topDistricts = Array.from(new Set(locations.filter(l => l.stateName === topState).map(l => l.districtName)));
+        const topDistricts = Array.from(new Set(locations.filter(l => l.stateName === topState).map(l => l.districtName)))
+            .sort((a, b) => a.localeCompare(b));
         const topDist = topDistricts[0] || '';
-        const topConsts = locations.filter(l => l.stateName === topState && l.districtName === topDist).map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+        const topConsts = locations
+            .filter(l => l.stateName === topState && l.districtName === topDist)
+            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
+            .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
         const topConst = topConsts[0] || '';
 
         setSelectedState(topState);
@@ -65,23 +83,34 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
         }
     }, [selectedState, selectedDistrict, selectedConstituency, locations, onLocationSelect]);
 
-    // Handle cascading resets
+    // Handle cascading resets with alphabetical order
     const handleStateChange = (state: string) => {
         setSelectedState(state);
-        const newDistricts = Array.from(new Set(locations.filter(l => l.stateName === state).map(l => l.districtName)));
+        setSearchQuery('');
+        onSearch('');
+        setShowSuggestions(false);
+
+        const newDistricts = Array.from(new Set(locations.filter(l => l.stateName === state).map(l => l.districtName)))
+            .sort((a, b) => a.localeCompare(b));
         const firstDist = newDistricts[0] || '';
         setSelectedDistrict(firstDist);
 
         const newConst = locations
             .filter(l => l.stateName === state && l.districtName === firstDist)
+            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
             .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
         setSelectedConstituency(newConst[0] || '');
     };
 
     const handleDistrictChange = (dist: string) => {
         setSelectedDistrict(dist);
+        setSearchQuery('');
+        onSearch('');
+        setShowSuggestions(false);
+
         const newConst = locations
             .filter(l => l.stateName === selectedState && l.districtName === dist)
+            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
             .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
         setSelectedConstituency(newConst[0] || '');
     };

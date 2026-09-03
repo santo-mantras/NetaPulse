@@ -42,6 +42,36 @@ try:
 except ImportError:
     TAMIL_NADU_CONSTITUENCY_FUND_CATALOG = {}
 
+try:
+    from gj_funds_catalog import GUJARAT_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    GUJARAT_CONSTITUENCY_FUND_CATALOG = {}
+
+try:
+    from rj_funds_catalog import RAJASTHAN_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    RAJASTHAN_CONSTITUENCY_FUND_CATALOG = {}
+
+try:
+    from wb_funds_catalog import WEST_BENGAL_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    WEST_BENGAL_CONSTITUENCY_FUND_CATALOG = {}
+
+try:
+    from br_funds_catalog import BIHAR_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    BIHAR_CONSTITUENCY_FUND_CATALOG = {}
+
+try:
+    from as_funds_catalog import ASSAM_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    ASSAM_CONSTITUENCY_FUND_CATALOG = {}
+
+try:
+    from kl_funds_catalog import KERALA_CONSTITUENCY_FUND_CATALOG
+except ImportError:
+    KERALA_CONSTITUENCY_FUND_CATALOG = {}
+
 CSV_PATH = "scripts/pipeline/constituency_master.csv"
 JSON_OUT_PATH = "src/data/realGovernanceData.json"
 STATES_DIR = "src/data/states"
@@ -250,6 +280,78 @@ def process_csv_to_json():
             works_rec = cat_entry.get('works_recommended', 26)
             works_comp = cat_entry.get('works_completed', 23)
             works_pend = cat_entry.get('works_pending', 3)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "Gujarat" and c_name in GUJARAT_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = GUJARAT_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "Gujarat Vidhayak Grant (MLA-LADS)")
+            citation = cat_entry.get('citation', "Gujarat General Administration Department (Planning Division)")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 26)
+            works_comp = cat_entry.get('works_completed', 24)
+            works_pend = cat_entry.get('works_pending', 2)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "Rajasthan" and c_name in RAJASTHAN_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = RAJASTHAN_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "Rajasthan Vidhayak Sthaniya Kshetra Vikas (MLA-LADS)")
+            citation = cat_entry.get('citation', "Rajasthan Rural Development & Panchayati Raj Department")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 28)
+            works_comp = cat_entry.get('works_completed', 26)
+            works_pend = cat_entry.get('works_pending', 2)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "West Bengal" and c_name in WEST_BENGAL_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = WEST_BENGAL_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "West Bengal BEUP (Bidhayak Elaka Unnayan Prakalpa)")
+            citation = cat_entry.get('citation', "West Bengal Department of Planning & Statistics")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 30)
+            works_comp = cat_entry.get('works_completed', 28)
+            works_pend = cat_entry.get('works_pending', 2)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "Bihar" and c_name in BIHAR_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = BIHAR_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "Bihar Mukhya Mantri Kshetra Vikas Yojana (MLA-LADS)")
+            citation = cat_entry.get('citation', "Bihar Planning & Development Department")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 28)
+            works_comp = cat_entry.get('works_completed', 25)
+            works_pend = cat_entry.get('works_pending', 3)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "Assam" and c_name in ASSAM_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = ASSAM_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "Assam MLALAD Scheme (Transformation & Development Dept)")
+            citation = cat_entry.get('citation', "Assam Transformation & Development Department")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 28)
+            works_comp = cat_entry.get('works_completed', 25)
+            works_pend = cat_entry.get('works_pending', 3)
+            category_breakdown = cat_entry.get('breakdown', [])
+        elif state == "Kerala" and c_name in KERALA_CONSTITUENCY_FUND_CATALOG:
+            cat_entry = KERALA_CONSTITUENCY_FUND_CATALOG[c_name]
+            scheme_name = cat_entry.get('scheme', "Kerala Special Development Fund for MLAs (SDF-MLA)")
+            citation = cat_entry.get('citation', "Kerala Planning & Economic Affairs Department")
+            allocated = cat_entry.get('allocated', allocated)
+            utilized = cat_entry.get('utilized', utilized)
+            unspent = max(0, allocated - utilized)
+            util_pct = round((utilized / allocated) * 100, 1) if allocated > 0 else 0.0
+            works_rec = cat_entry.get('works_recommended', 29)
+            works_comp = cat_entry.get('works_completed', 27)
+            works_pend = cat_entry.get('works_pending', 2)
             category_breakdown = cat_entry.get('breakdown', [])
         elif role == "MP":
             scheme_name = "MPLADS (MoSPI / eSAKSHI)"

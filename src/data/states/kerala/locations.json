@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "loc_ke_2453",
+    "stateName": "Kerala",
+    "districtName": "Kasaragod",
+    "assemblyConstituencyCode": "AC-KL-1",
+    "assemblyConstituencyName": "Manjeshwar",
+    "crimeRate": "220.2 per 100k",
+    "crimeRatePerLakh": 220.2,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 144,
+    "regionalInsight": {
+      "title": "Manjeshwar Civic Context",
+      "historicalFact": "Manjeshwar is an influential economic and political constituency in Kasaragod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2454",
+    "stateName": "Kerala",
+    "districtName": "Kasaragod",
+    "assemblyConstituencyCode": "AC-KL-2",
+    "assemblyConstituencyName": "Kasaragod",
+    "crimeRate": "220.2 per 100k",
+    "crimeRatePerLakh": 220.2,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 144,
+    "regionalInsight": {
+      "title": "Kasaragod Civic Context",
+      "historicalFact": "Kasaragod is an influential economic and political constituency in Kasaragod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2455",
+    "stateName": "Kerala",
+    "districtName": "Kasaragod",
+    "assemblyConstituencyCode": "AC-KL-3",
+    "assemblyConstituencyName": "Udma",
+    "crimeRate": "220.2 per 100k",
+    "crimeRatePerLakh": 220.2,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 144,
+    "regionalInsight": {
+      "title": "Udma Civic Context",
+      "historicalFact": "Udma is an influential economic and political constituency in Kasaragod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2456",
+    "stateName": "Kerala",
+    "districtName": "Kasaragod",
+    "assemblyConstituencyCode": "AC-KL-4",
+    "assemblyConstituencyName": "Kanhangad",
+    "crimeRate": "220.2 per 100k",
+    "crimeRatePerLakh": 220.2,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 144,
+    "regionalInsight": {
+      "title": "Kanhangad Civic Context",
+      "historicalFact": "Kanhangad is an influential economic and political constituency in Kasaragod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2457",
+    "stateName": "Kerala",
+    "districtName": "Kasaragod",
+    "assemblyConstituencyCode": "AC-KL-5",
+    "assemblyConstituencyName": "Thrikaripur",
+    "crimeRate": "220.2 per 100k",
+    "crimeRatePerLakh": 220.2,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 144,
+    "regionalInsight": {
+      "title": "Thrikaripur Civic Context",
+      "historicalFact": "Thrikaripur is an influential economic and political constituency in Kasaragod.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2458",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-6",
+    "assemblyConstituencyName": "Payyanur",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Payyanur Civic Context",
+      "historicalFact": "Payyanur is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2459",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-7",
+    "assemblyConstituencyName": "Kalliasseri",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Kalliasseri Civic Context",
+      "historicalFact": "Kalliasseri is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2460",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-8",
+    "assemblyConstituencyName": "Taliparamba",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Taliparamba Civic Context",
+      "historicalFact": "Taliparamba is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2461",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-9",
+    "assemblyConstituencyName": "Irikkur",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Irikkur Civic Context",
+      "historicalFact": "Irikkur is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2462",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-10",
+    "assemblyConstituencyName": "Azhikode",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Azhikode Civic Context",
+      "historicalFact": "Azhikode is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2463",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-11",
+    "assemblyConstituencyName": "Kannur",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Kannur Civic Context",
+      "historicalFact": "Kannur is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2464",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-12",
+    "assemblyConstituencyName": "Dharmadam",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Dharmadam Civic Context",
+      "historicalFact": "Dharmadam is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2465",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-13",
+    "assemblyConstituencyName": "Thalassery",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Thalassery Civic Context",
+      "historicalFact": "Thalassery is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2466",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-14",
+    "assemblyConstituencyName": "Kuthuparamba",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Kuthuparamba Civic Context",
+      "historicalFact": "Kuthuparamba is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2467",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-15",
+    "assemblyConstituencyName": "Mattannur",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Mattannur Civic Context",
+      "historicalFact": "Mattannur is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2468",
+    "stateName": "Kerala",
+    "districtName": "Kannur",
+    "assemblyConstituencyCode": "AC-KL-16",
+    "assemblyConstituencyName": "Peravoor",
+    "crimeRate": "143.1 per 100k",
+    "crimeRatePerLakh": 143.1,
+    "literacyRate": 74.0,
+    "literacyRatePercentage": 74.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 210,
+    "regionalInsight": {
+      "title": "Peravoor Civic Context",
+      "historicalFact": "Peravoor is an influential economic and political constituency in Kannur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2469",
+    "stateName": "Kerala",
+    "districtName": "Wayanad",
+    "assemblyConstituencyCode": "AC-KL-17",
+    "assemblyConstituencyName": "Mananthavady",
+    "crimeRate": "209.5 per 100k",
+    "crimeRatePerLakh": 209.5,
+    "literacyRate": 84.9,
+    "literacyRatePercentage": 84.9,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Mananthavady Civic Context",
+      "historicalFact": "Mananthavady is an influential economic and political constituency in Wayanad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2470",
+    "stateName": "Kerala",
+    "districtName": "Wayanad",
+    "assemblyConstituencyCode": "AC-KL-18",
+    "assemblyConstituencyName": "Sulthan Bathery",
+    "crimeRate": "209.5 per 100k",
+    "crimeRatePerLakh": 209.5,
+    "literacyRate": 84.9,
+    "literacyRatePercentage": 84.9,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Sulthan Bathery Civic Context",
+      "historicalFact": "Sulthan Bathery is an influential economic and political constituency in Wayanad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2471",
+    "stateName": "Kerala",
+    "districtName": "Wayanad",
+    "assemblyConstituencyCode": "AC-KL-19",
+    "assemblyConstituencyName": "Kalpetta",
+    "crimeRate": "209.5 per 100k",
+    "crimeRatePerLakh": 209.5,
+    "literacyRate": 84.9,
+    "literacyRatePercentage": 84.9,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 352,
+    "regionalInsight": {
+      "title": "Kalpetta Civic Context",
+      "historicalFact": "Kalpetta is an influential economic and political constituency in Wayanad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2472",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-20",
+    "assemblyConstituencyName": "Vadakara",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Vadakara Civic Context",
+      "historicalFact": "Vadakara is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2473",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-21",
+    "assemblyConstituencyName": "Kuttiady",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Kuttiady Civic Context",
+      "historicalFact": "Kuttiady is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2474",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-22",
+    "assemblyConstituencyName": "Nadapuram",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Nadapuram Civic Context",
+      "historicalFact": "Nadapuram is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2475",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-23",
+    "assemblyConstituencyName": "Koyilandy",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Koyilandy Civic Context",
+      "historicalFact": "Koyilandy is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2476",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-24",
+    "assemblyConstituencyName": "Perambra",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Perambra Civic Context",
+      "historicalFact": "Perambra is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2477",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-25",
+    "assemblyConstituencyName": "Balussery",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Balussery Civic Context",
+      "historicalFact": "Balussery is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2478",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-26",
+    "assemblyConstituencyName": "Elathur",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Elathur Civic Context",
+      "historicalFact": "Elathur is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2479",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-27",
+    "assemblyConstituencyName": "Kozhikode North",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Kozhikode North Civic Context",
+      "historicalFact": "Kozhikode North is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2480",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-28",
+    "assemblyConstituencyName": "Kozhikode South",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Kozhikode South Civic Context",
+      "historicalFact": "Kozhikode South is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2481",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-29",
+    "assemblyConstituencyName": "Beypore",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Beypore Civic Context",
+      "historicalFact": "Beypore is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2482",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-30",
+    "assemblyConstituencyName": "Kunnamangalam",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Kunnamangalam Civic Context",
+      "historicalFact": "Kunnamangalam is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2483",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-31",
+    "assemblyConstituencyName": "Koduvally",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Koduvally Civic Context",
+      "historicalFact": "Koduvally is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2484",
+    "stateName": "Kerala",
+    "districtName": "Kozhikode",
+    "assemblyConstituencyCode": "AC-KL-32",
+    "assemblyConstituencyName": "Thiruvambady",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 76.4,
+    "literacyRatePercentage": 76.4,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Thiruvambady Civic Context",
+      "historicalFact": "Thiruvambady is an influential economic and political constituency in Kozhikode.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2485",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-33",
+    "assemblyConstituencyName": "Kondotty",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Kondotty Civic Context",
+      "historicalFact": "Kondotty is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2486",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-34",
+    "assemblyConstituencyName": "Eranad",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Eranad Civic Context",
+      "historicalFact": "Eranad is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2487",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-35",
+    "assemblyConstituencyName": "Nilambur",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Nilambur Civic Context",
+      "historicalFact": "Nilambur is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2488",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-36",
+    "assemblyConstituencyName": "Wandoor",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Wandoor Civic Context",
+      "historicalFact": "Wandoor is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2489",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-37",
+    "assemblyConstituencyName": "Manjeri",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Manjeri Civic Context",
+      "historicalFact": "Manjeri is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2490",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-38",
+    "assemblyConstituencyName": "Perinthalmanna",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Perinthalmanna Civic Context",
+      "historicalFact": "Perinthalmanna is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2491",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-39",
+    "assemblyConstituencyName": "Mankada",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Mankada Civic Context",
+      "historicalFact": "Mankada is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2492",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-40",
+    "assemblyConstituencyName": "Malappuram",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Malappuram Civic Context",
+      "historicalFact": "Malappuram is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2493",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-41",
+    "assemblyConstituencyName": "Vengara",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Vengara Civic Context",
+      "historicalFact": "Vengara is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2494",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-42",
+    "assemblyConstituencyName": "Vallikkunnu",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Vallikkunnu Civic Context",
+      "historicalFact": "Vallikkunnu is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2495",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-43",
+    "assemblyConstituencyName": "Tirurangadi",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Tirurangadi Civic Context",
+      "historicalFact": "Tirurangadi is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2496",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-44",
+    "assemblyConstituencyName": "Tanur",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Tanur Civic Context",
+      "historicalFact": "Tanur is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2497",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-45",
+    "assemblyConstituencyName": "Tirur",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Tirur Civic Context",
+      "historicalFact": "Tirur is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2498",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-46",
+    "assemblyConstituencyName": "Kottakkal",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Kottakkal Civic Context",
+      "historicalFact": "Kottakkal is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2499",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-47",
+    "assemblyConstituencyName": "Thavanur",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Thavanur Civic Context",
+      "historicalFact": "Thavanur is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2500",
+    "stateName": "Kerala",
+    "districtName": "Malappuram",
+    "assemblyConstituencyCode": "AC-KL-48",
+    "assemblyConstituencyName": "Ponnani",
+    "crimeRate": "264.1 per 100k",
+    "crimeRatePerLakh": 264.1,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 162,
+    "regionalInsight": {
+      "title": "Ponnani Civic Context",
+      "historicalFact": "Ponnani is an influential economic and political constituency in Malappuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2501",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-49",
+    "assemblyConstituencyName": "Thrithala",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Thrithala Civic Context",
+      "historicalFact": "Thrithala is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2502",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-50",
+    "assemblyConstituencyName": "Pattambi",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Pattambi Civic Context",
+      "historicalFact": "Pattambi is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2503",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-51",
+    "assemblyConstituencyName": "Shornur",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Shornur Civic Context",
+      "historicalFact": "Shornur is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2504",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-52",
+    "assemblyConstituencyName": "Ottapalam",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Ottapalam Civic Context",
+      "historicalFact": "Ottapalam is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2505",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-53",
+    "assemblyConstituencyName": "Kongad",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Kongad Civic Context",
+      "historicalFact": "Kongad is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2506",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-54",
+    "assemblyConstituencyName": "Mannarkkad",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Mannarkkad Civic Context",
+      "historicalFact": "Mannarkkad is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2507",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-55",
+    "assemblyConstituencyName": "Malampuzha",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Malampuzha Civic Context",
+      "historicalFact": "Malampuzha is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2508",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-56",
+    "assemblyConstituencyName": "Palakkad",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Palakkad Civic Context",
+      "historicalFact": "Palakkad is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2509",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-57",
+    "assemblyConstituencyName": "Tarur",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Tarur Civic Context",
+      "historicalFact": "Tarur is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2510",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-58",
+    "assemblyConstituencyName": "Chittur",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Chittur Civic Context",
+      "historicalFact": "Chittur is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2511",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-59",
+    "assemblyConstituencyName": "Nenmara",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Nenmara Civic Context",
+      "historicalFact": "Nenmara is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2512",
+    "stateName": "Kerala",
+    "districtName": "Palakkad",
+    "assemblyConstituencyCode": "AC-KL-60",
+    "assemblyConstituencyName": "Alathur",
+    "crimeRate": "263.6 per 100k",
+    "crimeRatePerLakh": 263.6,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 349,
+    "regionalInsight": {
+      "title": "Alathur Civic Context",
+      "historicalFact": "Alathur is an influential economic and political constituency in Palakkad.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2513",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-61",
+    "assemblyConstituencyName": "Chelakkara",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Chelakkara Civic Context",
+      "historicalFact": "Chelakkara is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2514",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-62",
+    "assemblyConstituencyName": "Kunnamkulam",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Kunnamkulam Civic Context",
+      "historicalFact": "Kunnamkulam is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2515",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-63",
+    "assemblyConstituencyName": "Guruvayur",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Guruvayur Civic Context",
+      "historicalFact": "Guruvayur is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2516",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-64",
+    "assemblyConstituencyName": "Manalur",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Manalur Civic Context",
+      "historicalFact": "Manalur is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2517",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-65",
+    "assemblyConstituencyName": "Wadakkanchery",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Wadakkanchery Civic Context",
+      "historicalFact": "Wadakkanchery is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2518",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-66",
+    "assemblyConstituencyName": "Ollur",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Ollur Civic Context",
+      "historicalFact": "Ollur is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2519",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-67",
+    "assemblyConstituencyName": "Thrissur",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Thrissur Civic Context",
+      "historicalFact": "Thrissur is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2520",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-68",
+    "assemblyConstituencyName": "Nattika",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Nattika Civic Context",
+      "historicalFact": "Nattika is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2521",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-69",
+    "assemblyConstituencyName": "Kaipamangalam",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Kaipamangalam Civic Context",
+      "historicalFact": "Kaipamangalam is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2522",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-70",
+    "assemblyConstituencyName": "Irinjalakuda",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Irinjalakuda Civic Context",
+      "historicalFact": "Irinjalakuda is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2523",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-71",
+    "assemblyConstituencyName": "Puthukkad",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Puthukkad Civic Context",
+      "historicalFact": "Puthukkad is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2524",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-72",
+    "assemblyConstituencyName": "Chalakudy",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Chalakudy Civic Context",
+      "historicalFact": "Chalakudy is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2525",
+    "stateName": "Kerala",
+    "districtName": "Thrissur",
+    "assemblyConstituencyCode": "AC-KL-73",
+    "assemblyConstituencyName": "Kodungallur",
+    "crimeRate": "268.6 per 100k",
+    "crimeRatePerLakh": 268.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 197,
+    "regionalInsight": {
+      "title": "Kodungallur Civic Context",
+      "historicalFact": "Kodungallur is an influential economic and political constituency in Thrissur.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2526",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-74",
+    "assemblyConstituencyName": "Perumbavoor",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Perumbavoor Civic Context",
+      "historicalFact": "Perumbavoor is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2527",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-75",
+    "assemblyConstituencyName": "Angamaly",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Angamaly Civic Context",
+      "historicalFact": "Angamaly is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2528",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-76",
+    "assemblyConstituencyName": "Aluva",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Aluva Civic Context",
+      "historicalFact": "Aluva is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2529",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-77",
+    "assemblyConstituencyName": "Kalamassery",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Kalamassery Civic Context",
+      "historicalFact": "Kalamassery is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2530",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-78",
+    "assemblyConstituencyName": "Paravur",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Paravur Civic Context",
+      "historicalFact": "Paravur is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2531",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-79",
+    "assemblyConstituencyName": "Vypin",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Vypin Civic Context",
+      "historicalFact": "Vypin is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2532",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-80",
+    "assemblyConstituencyName": "Kochi",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Kochi Civic Context",
+      "historicalFact": "Kochi is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2533",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-81",
+    "assemblyConstituencyName": "Thrippunithura",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Thrippunithura Civic Context",
+      "historicalFact": "Thrippunithura is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2534",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-82",
+    "assemblyConstituencyName": "Ernakulam",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Ernakulam Civic Context",
+      "historicalFact": "Ernakulam is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2535",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-83",
+    "assemblyConstituencyName": "Thrikkakara",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Thrikkakara Civic Context",
+      "historicalFact": "Thrikkakara is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2536",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-84",
+    "assemblyConstituencyName": "Kunnathunad",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Kunnathunad Civic Context",
+      "historicalFact": "Kunnathunad is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2537",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-85",
+    "assemblyConstituencyName": "Piravom",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Piravom Civic Context",
+      "historicalFact": "Piravom is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2538",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-86",
+    "assemblyConstituencyName": "Muvattupuzha",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Muvattupuzha Civic Context",
+      "historicalFact": "Muvattupuzha is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2539",
+    "stateName": "Kerala",
+    "districtName": "Ernakulam",
+    "assemblyConstituencyCode": "AC-KL-87",
+    "assemblyConstituencyName": "Kothamangalam",
+    "crimeRate": "190.6 per 100k",
+    "crimeRatePerLakh": 190.6,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 358,
+    "regionalInsight": {
+      "title": "Kothamangalam Civic Context",
+      "historicalFact": "Kothamangalam is an influential economic and political constituency in Ernakulam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2540",
+    "stateName": "Kerala",
+    "districtName": "Idukki",
+    "assemblyConstituencyCode": "AC-KL-88",
+    "assemblyConstituencyName": "Devikulam",
+    "crimeRate": "179.2 per 100k",
+    "crimeRatePerLakh": 179.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Devikulam Civic Context",
+      "historicalFact": "Devikulam is an influential economic and political constituency in Idukki.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2541",
+    "stateName": "Kerala",
+    "districtName": "Idukki",
+    "assemblyConstituencyCode": "AC-KL-89",
+    "assemblyConstituencyName": "Udumbanchola",
+    "crimeRate": "179.2 per 100k",
+    "crimeRatePerLakh": 179.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Udumbanchola Civic Context",
+      "historicalFact": "Udumbanchola is an influential economic and political constituency in Idukki.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2542",
+    "stateName": "Kerala",
+    "districtName": "Idukki",
+    "assemblyConstituencyCode": "AC-KL-90",
+    "assemblyConstituencyName": "Thodupuzha",
+    "crimeRate": "179.2 per 100k",
+    "crimeRatePerLakh": 179.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Thodupuzha Civic Context",
+      "historicalFact": "Thodupuzha is an influential economic and political constituency in Idukki.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2543",
+    "stateName": "Kerala",
+    "districtName": "Idukki",
+    "assemblyConstituencyCode": "AC-KL-91",
+    "assemblyConstituencyName": "Idukki",
+    "crimeRate": "179.2 per 100k",
+    "crimeRatePerLakh": 179.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Idukki Civic Context",
+      "historicalFact": "Idukki is an influential economic and political constituency in Idukki.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2544",
+    "stateName": "Kerala",
+    "districtName": "Idukki",
+    "assemblyConstituencyCode": "AC-KL-92",
+    "assemblyConstituencyName": "Peerumade",
+    "crimeRate": "179.2 per 100k",
+    "crimeRatePerLakh": 179.2,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 181,
+    "regionalInsight": {
+      "title": "Peerumade Civic Context",
+      "historicalFact": "Peerumade is an influential economic and political constituency in Idukki.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2545",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-93",
+    "assemblyConstituencyName": "Pala",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Pala Civic Context",
+      "historicalFact": "Pala is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2546",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-94",
+    "assemblyConstituencyName": "Kaduthuruthy",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Kaduthuruthy Civic Context",
+      "historicalFact": "Kaduthuruthy is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2547",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-95",
+    "assemblyConstituencyName": "Vaikom",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Vaikom Civic Context",
+      "historicalFact": "Vaikom is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2548",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-96",
+    "assemblyConstituencyName": "Ettumanoor",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Ettumanoor Civic Context",
+      "historicalFact": "Ettumanoor is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2549",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-97",
+    "assemblyConstituencyName": "Kottayam",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Kottayam Civic Context",
+      "historicalFact": "Kottayam is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2550",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-98",
+    "assemblyConstituencyName": "Puthuppally",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Puthuppally Civic Context",
+      "historicalFact": "Puthuppally is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2551",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-99",
+    "assemblyConstituencyName": "Changanassery",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Changanassery Civic Context",
+      "historicalFact": "Changanassery is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2552",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-100",
+    "assemblyConstituencyName": "Kanjirappally",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Kanjirappally Civic Context",
+      "historicalFact": "Kanjirappally is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2553",
+    "stateName": "Kerala",
+    "districtName": "Kottayam",
+    "assemblyConstituencyCode": "AC-KL-101",
+    "assemblyConstituencyName": "Poonjar",
+    "crimeRate": "245.9 per 100k",
+    "crimeRatePerLakh": 245.9,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Poonjar Civic Context",
+      "historicalFact": "Poonjar is an influential economic and political constituency in Kottayam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2554",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-102",
+    "assemblyConstituencyName": "Aroor",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Aroor Civic Context",
+      "historicalFact": "Aroor is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2555",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-103",
+    "assemblyConstituencyName": "Cherthala",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Cherthala Civic Context",
+      "historicalFact": "Cherthala is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2556",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-104",
+    "assemblyConstituencyName": "Alappuzha",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Alappuzha Civic Context",
+      "historicalFact": "Alappuzha is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2557",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-105",
+    "assemblyConstituencyName": "Ambalappuzha",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Ambalappuzha Civic Context",
+      "historicalFact": "Ambalappuzha is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2558",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-106",
+    "assemblyConstituencyName": "Kuttanad",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Kuttanad Civic Context",
+      "historicalFact": "Kuttanad is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2559",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-107",
+    "assemblyConstituencyName": "Haripad",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Haripad Civic Context",
+      "historicalFact": "Haripad is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2560",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-108",
+    "assemblyConstituencyName": "Kayamkulam",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Kayamkulam Civic Context",
+      "historicalFact": "Kayamkulam is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2561",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-109",
+    "assemblyConstituencyName": "Mavelikara",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Mavelikara Civic Context",
+      "historicalFact": "Mavelikara is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2562",
+    "stateName": "Kerala",
+    "districtName": "Alappuzha",
+    "assemblyConstituencyCode": "AC-KL-110",
+    "assemblyConstituencyName": "Chengannur",
+    "crimeRate": "154.3 per 100k",
+    "crimeRatePerLakh": 154.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Chengannur Civic Context",
+      "historicalFact": "Chengannur is an influential economic and political constituency in Alappuzha.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2563",
+    "stateName": "Kerala",
+    "districtName": "Pathanamthitta",
+    "assemblyConstituencyCode": "AC-KL-111",
+    "assemblyConstituencyName": "Thiruvalla",
+    "crimeRate": "218.7 per 100k",
+    "crimeRatePerLakh": 218.7,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Thiruvalla Civic Context",
+      "historicalFact": "Thiruvalla is an influential economic and political constituency in Pathanamthitta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2564",
+    "stateName": "Kerala",
+    "districtName": "Pathanamthitta",
+    "assemblyConstituencyCode": "AC-KL-112",
+    "assemblyConstituencyName": "Ranni",
+    "crimeRate": "218.7 per 100k",
+    "crimeRatePerLakh": 218.7,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Ranni Civic Context",
+      "historicalFact": "Ranni is an influential economic and political constituency in Pathanamthitta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2565",
+    "stateName": "Kerala",
+    "districtName": "Pathanamthitta",
+    "assemblyConstituencyCode": "AC-KL-113",
+    "assemblyConstituencyName": "Aranmula",
+    "crimeRate": "218.7 per 100k",
+    "crimeRatePerLakh": 218.7,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Aranmula Civic Context",
+      "historicalFact": "Aranmula is an influential economic and political constituency in Pathanamthitta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2566",
+    "stateName": "Kerala",
+    "districtName": "Pathanamthitta",
+    "assemblyConstituencyCode": "AC-KL-114",
+    "assemblyConstituencyName": "Konni",
+    "crimeRate": "218.7 per 100k",
+    "crimeRatePerLakh": 218.7,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Konni Civic Context",
+      "historicalFact": "Konni is an influential economic and political constituency in Pathanamthitta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2567",
+    "stateName": "Kerala",
+    "districtName": "Pathanamthitta",
+    "assemblyConstituencyCode": "AC-KL-115",
+    "assemblyConstituencyName": "Adoor",
+    "crimeRate": "218.7 per 100k",
+    "crimeRatePerLakh": 218.7,
+    "literacyRate": 74.5,
+    "literacyRatePercentage": 74.5,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Adoor Civic Context",
+      "historicalFact": "Adoor is an influential economic and political constituency in Pathanamthitta.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2568",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-116",
+    "assemblyConstituencyName": "Karunagappally",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Karunagappally Civic Context",
+      "historicalFact": "Karunagappally is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2569",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-117",
+    "assemblyConstituencyName": "Chavara",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Chavara Civic Context",
+      "historicalFact": "Chavara is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2570",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-118",
+    "assemblyConstituencyName": "Kunnathur",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Kunnathur Civic Context",
+      "historicalFact": "Kunnathur is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2571",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-119",
+    "assemblyConstituencyName": "Kottarakkara",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Kottarakkara Civic Context",
+      "historicalFact": "Kottarakkara is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2572",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-120",
+    "assemblyConstituencyName": "Pathanapuram",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Pathanapuram Civic Context",
+      "historicalFact": "Pathanapuram is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2573",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-121",
+    "assemblyConstituencyName": "Punalur",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Punalur Civic Context",
+      "historicalFact": "Punalur is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2574",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-122",
+    "assemblyConstituencyName": "Chadayamangalam",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Chadayamangalam Civic Context",
+      "historicalFact": "Chadayamangalam is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2575",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-123",
+    "assemblyConstituencyName": "Kundara",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Kundara Civic Context",
+      "historicalFact": "Kundara is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2576",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-124",
+    "assemblyConstituencyName": "Kollam",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Kollam Civic Context",
+      "historicalFact": "Kollam is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2577",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-125",
+    "assemblyConstituencyName": "Eravipuram",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Eravipuram Civic Context",
+      "historicalFact": "Eravipuram is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2578",
+    "stateName": "Kerala",
+    "districtName": "Kollam",
+    "assemblyConstituencyCode": "AC-KL-126",
+    "assemblyConstituencyName": "Chathannoor",
+    "crimeRate": "258.5 per 100k",
+    "crimeRatePerLakh": 258.5,
+    "literacyRate": 81.4,
+    "literacyRatePercentage": 81.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 200,
+    "regionalInsight": {
+      "title": "Chathannoor Civic Context",
+      "historicalFact": "Chathannoor is an influential economic and political constituency in Kollam.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2579",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-127",
+    "assemblyConstituencyName": "Varkala",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Varkala Civic Context",
+      "historicalFact": "Varkala is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2580",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-128",
+    "assemblyConstituencyName": "Attingal",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Attingal Civic Context",
+      "historicalFact": "Attingal is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2581",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-129",
+    "assemblyConstituencyName": "Chirayinkeezhu",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Chirayinkeezhu Civic Context",
+      "historicalFact": "Chirayinkeezhu is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2582",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-130",
+    "assemblyConstituencyName": "Nedumangad",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Nedumangad Civic Context",
+      "historicalFact": "Nedumangad is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2583",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-131",
+    "assemblyConstituencyName": "Vamanapuram",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Vamanapuram Civic Context",
+      "historicalFact": "Vamanapuram is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2584",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-132",
+    "assemblyConstituencyName": "Kazhakootam",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Kazhakootam Civic Context",
+      "historicalFact": "Kazhakootam is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2585",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-133",
+    "assemblyConstituencyName": "Vattiyoorkavu",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Vattiyoorkavu Civic Context",
+      "historicalFact": "Vattiyoorkavu is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2586",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-134",
+    "assemblyConstituencyName": "Thiruvananthapuram",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Thiruvananthapuram Civic Context",
+      "historicalFact": "Thiruvananthapuram is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2587",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-135",
+    "assemblyConstituencyName": "Nemom",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Nemom Civic Context",
+      "historicalFact": "Nemom is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2588",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-136",
+    "assemblyConstituencyName": "Aruvikkara",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Aruvikkara Civic Context",
+      "historicalFact": "Aruvikkara is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2589",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-137",
+    "assemblyConstituencyName": "Parassala",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Parassala Civic Context",
+      "historicalFact": "Parassala is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2590",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-138",
+    "assemblyConstituencyName": "Kattakkada",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Kattakkada Civic Context",
+      "historicalFact": "Kattakkada is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2591",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-139",
+    "assemblyConstituencyName": "Kovalam",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Kovalam Civic Context",
+      "historicalFact": "Kovalam is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ke_2592",
+    "stateName": "Kerala",
+    "districtName": "Thiruvananthapuram",
+    "assemblyConstituencyCode": "AC-KL-140",
+    "assemblyConstituencyName": "Neyyattinkara",
+    "crimeRate": "254.1 per 100k",
+    "crimeRatePerLakh": 254.1,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Neyyattinkara Civic Context",
+      "historicalFact": "Neyyattinkara is an influential economic and political constituency in Thiruvananthapuram.",
+      "currentChallenge": "Key public focus areas include road modernization and drinking water access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

@@ -1,0 +1,1458 @@
+[
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-1",
+    "constituency_name": "Abdasa",
+    "winner": "P. M. Jadeja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-2",
+    "constituency_name": "Mandvi",
+    "winner": "Aniruddh Dave",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-3",
+    "constituency_name": "Bhuj",
+    "winner": "Keshubhai Shivdas Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-4",
+    "constituency_name": "Anjar",
+    "winner": "Chhanga Trikam Bijal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-5",
+    "constituency_name": "Gandhidham",
+    "winner": "Malti Maheshwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kutch",
+    "constituency_code": "AC-GJ-6",
+    "constituency_name": "Rapar",
+    "winner": "Virendrasinh Jadeja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-7",
+    "constituency_name": "Vav",
+    "winner": "Geniben Thakor",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-8",
+    "constituency_name": "Tharad",
+    "winner": "Shankar Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-9",
+    "constituency_name": "Dhanera",
+    "winner": "Mavji Desai",
+    "party": "Ind"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-10",
+    "constituency_name": "Danta",
+    "winner": "Kantibhai Kharadi",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-11",
+    "constituency_name": "Vadgam",
+    "winner": "Jignesh Mevani",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-12",
+    "constituency_name": "Palanpur",
+    "winner": "Aniket Thakar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-13",
+    "constituency_name": "Deesa",
+    "winner": "Pravinkumar Mali",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-14",
+    "constituency_name": "Deodar",
+    "winner": "Keshaji Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Banaskantha",
+    "constituency_code": "AC-GJ-15",
+    "constituency_name": "Kankrej",
+    "winner": "Amrutbhai Thakor",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Patan",
+    "constituency_code": "AC-GJ-16",
+    "constituency_name": "Radhanpur",
+    "winner": "Lavingji Thakor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Patan",
+    "constituency_code": "AC-GJ-17",
+    "constituency_name": "Chanasma",
+    "winner": "Dineshbhai Thakor",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Patan",
+    "constituency_code": "AC-GJ-18",
+    "constituency_name": "Patan",
+    "winner": "Kiritkumar Patel",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Patan",
+    "constituency_code": "AC-GJ-19",
+    "constituency_name": "Sidhpur",
+    "winner": "Balvantsinh Rajput",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-20",
+    "constituency_name": "Kheralu",
+    "winner": "Sardarsinh Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-21",
+    "constituency_name": "Unjha",
+    "winner": "Kiritkuimar Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-22",
+    "constituency_name": "Visnagar",
+    "winner": "Rushikesh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-23",
+    "constituency_name": "Bechraji",
+    "winner": "Sukhaji Thakor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-24",
+    "constituency_name": "Kadi",
+    "winner": "Karshanbhai Solanki",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-25",
+    "constituency_name": "Mahesana",
+    "winner": "Mukesh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mehsana",
+    "constituency_code": "AC-GJ-26",
+    "constituency_name": "Vijapur",
+    "winner": "C. J. Chavda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "constituency_code": "AC-GJ-27",
+    "constituency_name": "Himatnagar",
+    "winner": "V. D. Zala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "constituency_code": "AC-GJ-28",
+    "constituency_name": "Idar",
+    "winner": "Ramanlal Vora",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "constituency_code": "AC-GJ-29",
+    "constituency_name": "Khedbrahma",
+    "winner": "Tushar Chaudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Aravalli",
+    "constituency_code": "AC-GJ-30",
+    "constituency_name": "Bhiloda",
+    "winner": "Punamchand Baranda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Aravalli",
+    "constituency_code": "AC-GJ-31",
+    "constituency_name": "Modasa",
+    "winner": "Bhikhusinh Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Aravalli",
+    "constituency_code": "AC-GJ-32",
+    "constituency_name": "Bayad",
+    "winner": "Dhavalsinh Zala",
+    "party": "Ind"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Sabarkantha",
+    "constituency_code": "AC-GJ-33",
+    "constituency_name": "Prantij",
+    "winner": "Gajendrasinh Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "constituency_code": "AC-GJ-34",
+    "constituency_name": "Dahegam",
+    "winner": "Balrajsinh Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "constituency_code": "AC-GJ-35",
+    "constituency_name": "Gandhinagar South",
+    "winner": "Alpesh Thakor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "constituency_code": "AC-GJ-36",
+    "constituency_name": "Gandhinagar North",
+    "winner": "Ritaben Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "constituency_code": "AC-GJ-37",
+    "constituency_name": "Mansa",
+    "winner": "Jayantibhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gandhinagar",
+    "constituency_code": "AC-GJ-38",
+    "constituency_name": "Kalol",
+    "winner": "Laxmanji Thakor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-39",
+    "constituency_name": "Viramgam",
+    "winner": "Hardik Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-40",
+    "constituency_name": "Sanand",
+    "winner": "Kanubhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-41",
+    "constituency_name": "Ghatlodia",
+    "winner": "Bhupendrabhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-42",
+    "constituency_name": "Vejalpur",
+    "winner": "Amit Thaker",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-43",
+    "constituency_name": "Vatva",
+    "winner": "Babusinh Jadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-44",
+    "constituency_name": "Ellisbridge",
+    "winner": "Amit Popatlal Shah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-45",
+    "constituency_name": "Naranpura",
+    "winner": "Jitendrakumar Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-46",
+    "constituency_name": "Nikol",
+    "winner": "Jagdish Vishwakarma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-47",
+    "constituency_name": "Naroda",
+    "winner": "Payal Kukrani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-48",
+    "constituency_name": "Thakkarbapa Nagar",
+    "winner": "Kanchanben Radadiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-49",
+    "constituency_name": "Bapunagar",
+    "winner": "Dineshsinh Kushwaha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-50",
+    "constituency_name": "Amraiwadi",
+    "winner": "Hasmukh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-51",
+    "constituency_name": "Dariapur",
+    "winner": "Kaushik Jain",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-52",
+    "constituency_name": "Jamalpur-Khadiya",
+    "winner": "Imran Khedawala",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-53",
+    "constituency_name": "Maninagar",
+    "winner": "Amul Bhatt",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-54",
+    "constituency_name": "Danilimda",
+    "winner": "Shailesh Parmar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-55",
+    "constituency_name": "Sabarmati",
+    "winner": "Harshad Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-56",
+    "constituency_name": "Asarwa",
+    "winner": "Darshna Vaghela",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-57",
+    "constituency_name": "Daskroi",
+    "winner": "Babubhai Jamnadas",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-58",
+    "constituency_name": "Dholka",
+    "winner": "Kiritsinh Dabhi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Ahmedabad",
+    "constituency_code": "AC-GJ-59",
+    "constituency_name": "Dhandhuka",
+    "winner": "Kalabhai Dabhi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "constituency_code": "AC-GJ-60",
+    "constituency_name": "Dasada",
+    "winner": "Parshottam Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "constituency_code": "AC-GJ-61",
+    "constituency_name": "Limbdi",
+    "winner": "Kiritsinh Rana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "constituency_code": "AC-GJ-62",
+    "constituency_name": "Wadhwan",
+    "winner": "Jagdish Makwana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "constituency_code": "AC-GJ-63",
+    "constituency_name": "Chotila",
+    "winner": "Shamji Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surendranagar",
+    "constituency_code": "AC-GJ-64",
+    "constituency_name": "Dhrangadhra",
+    "winner": "Prakash Varmora",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Morbi",
+    "constituency_code": "AC-GJ-65",
+    "constituency_name": "Morbi",
+    "winner": "Kantilal Amrutiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Morbi",
+    "constituency_code": "AC-GJ-66",
+    "constituency_name": "Tankara",
+    "winner": "Durlabhji Dethariya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Morbi",
+    "constituency_code": "AC-GJ-67",
+    "constituency_name": "Wankaner",
+    "winner": "Jitu Somani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-68",
+    "constituency_name": "Rajkot East",
+    "winner": "Uday Kangad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-69",
+    "constituency_name": "Rajkot West",
+    "winner": "Darshita Shah",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-70",
+    "constituency_name": "Rajkot South",
+    "winner": "Rameshbhai Tilala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-71",
+    "constituency_name": "Rajkot Rural",
+    "winner": "Bhanuben Babariya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-72",
+    "constituency_name": "Jasdan",
+    "winner": "Kunvarjibhai Bavaliya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-73",
+    "constituency_name": "Gondal",
+    "winner": "Geetaba Jadeja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-74",
+    "constituency_name": "Jetpur",
+    "winner": "Jayeshbhai Radadiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "constituency_code": "AC-GJ-75",
+    "constituency_name": "Dhoraji",
+    "winner": "Mahendrabhai Padalia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "constituency_code": "AC-GJ-76",
+    "constituency_name": "Kalavad",
+    "winner": "Meghjibhai Chavda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "constituency_code": "AC-GJ-77",
+    "constituency_name": "Jamnagar Rural",
+    "winner": "Raghavji Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "constituency_code": "AC-GJ-78",
+    "constituency_name": "Jamnagar North",
+    "winner": "Rivaba Jadeja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "constituency_code": "AC-GJ-79",
+    "constituency_name": "Jamnagar South",
+    "winner": "Divyesh Akbari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "constituency_code": "AC-GJ-80",
+    "constituency_name": "Jamjodhpur",
+    "winner": "Hemant Ahir",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Devbhumi Dwarka",
+    "constituency_code": "AC-GJ-81",
+    "constituency_name": "Khambaliya",
+    "winner": "Mulubhai Bera",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Devbhumi Dwarka",
+    "constituency_code": "AC-GJ-82",
+    "constituency_name": "Dwarka",
+    "winner": "Pabubha Manek",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Porbandar",
+    "constituency_code": "AC-GJ-83",
+    "constituency_name": "Porbandar",
+    "winner": "Arjun Modhwadia",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Porbandar",
+    "constituency_code": "AC-GJ-84",
+    "constituency_name": "Kutiyana",
+    "winner": "Kandhal Jadeja",
+    "party": "Samajwadi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Junagadh",
+    "constituency_code": "AC-GJ-85",
+    "constituency_name": "Manavadar",
+    "winner": "Arvind Ladani",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Junagadh",
+    "constituency_code": "AC-GJ-86",
+    "constituency_name": "Junagadh",
+    "winner": "Sanjay Koradia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Junagadh",
+    "constituency_code": "AC-GJ-87",
+    "constituency_name": "Visavadar",
+    "winner": "Bhupat Bhayani",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Junagadh",
+    "constituency_code": "AC-GJ-88",
+    "constituency_name": "Keshod",
+    "winner": "Devabhai Malam",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Junagadh",
+    "constituency_code": "AC-GJ-89",
+    "constituency_name": "Mangrol (Junagadh)",
+    "winner": "Bhagvanjibhai Karagatiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "constituency_code": "AC-GJ-90",
+    "constituency_name": "Somnath",
+    "winner": "Vimal Chudasma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "constituency_code": "AC-GJ-91",
+    "constituency_name": "Talala",
+    "winner": "Bhagabhai Dhanabhai Barad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "constituency_code": "AC-GJ-92",
+    "constituency_name": "Kodinar",
+    "winner": "Pradyuman Vaja",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Gir Somnath",
+    "constituency_code": "AC-GJ-93",
+    "constituency_name": "Una",
+    "winner": "Kalubhai Rathod",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "constituency_code": "AC-GJ-94",
+    "constituency_name": "Dhari",
+    "winner": "Jaysukhbhai Kakadiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "constituency_code": "AC-GJ-95",
+    "constituency_name": "Amreli",
+    "winner": "Kaushik Kantibhai Vekariya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "constituency_code": "AC-GJ-96",
+    "constituency_name": "Lathi",
+    "winner": "Janakbhai Talaviya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "constituency_code": "AC-GJ-97",
+    "constituency_name": "Savarkundla",
+    "winner": "Mahesh Kaswala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Amreli",
+    "constituency_code": "AC-GJ-98",
+    "constituency_name": "Rajula",
+    "winner": "Hirabhai Solanki",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-99",
+    "constituency_name": "Mahuva (Bhavnagar)",
+    "winner": "Shivabhai Gohil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-100",
+    "constituency_name": "Talaja",
+    "winner": "Gautambhai Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-101",
+    "constituency_name": "Gariadhar",
+    "winner": "Sudhir Vaghani",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-102",
+    "constituency_name": "Palitana",
+    "winner": "Bhikabhai Baraiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-103",
+    "constituency_name": "Bhavnagar Rural",
+    "winner": "Parshottam Solanki",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-104",
+    "constituency_name": "Bhavnagar East",
+    "winner": "Sejalben Pandya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bhavnagar",
+    "constituency_code": "AC-GJ-105",
+    "constituency_name": "Bhavnagar West",
+    "winner": "Jitu Vaghani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Botad",
+    "constituency_code": "AC-GJ-106",
+    "constituency_name": "Gadhada",
+    "winner": "Shambhuprasad Tundiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Botad",
+    "constituency_code": "AC-GJ-107",
+    "constituency_name": "Botad",
+    "winner": "Umesh Makwana",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-108",
+    "constituency_name": "Khambhat",
+    "winner": "Chirag Patel",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-109",
+    "constituency_name": "Borsad",
+    "winner": "Ramanbhai Bhikhabhai Solanki",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-110",
+    "constituency_name": "Anklav",
+    "winner": "Amit Chavda",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-111",
+    "constituency_name": "Umreth",
+    "winner": "Govindbhai Raijibhai Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-112",
+    "constituency_name": "Anand",
+    "winner": "Yogesh R. Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-113",
+    "constituency_name": "Petlad",
+    "winner": "Kamleshbhai Rameshbhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Anand",
+    "constituency_code": "AC-GJ-114",
+    "constituency_name": "Sojitra",
+    "winner": "Vipulkumar Vinubhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-115",
+    "constituency_name": "Matar",
+    "winner": "Kalpeshbhai Ashabhai Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-116",
+    "constituency_name": "Nadiad",
+    "winner": "Pankaj Desai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-117",
+    "constituency_name": "Mehmedabad",
+    "winner": "Arjunsinh Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-118",
+    "constituency_name": "Mahudha",
+    "winner": "Sanjaysinh Mahida",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-119",
+    "constituency_name": "Thasra",
+    "winner": "Yogendrasinh Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Kheda",
+    "constituency_code": "AC-GJ-120",
+    "constituency_name": "Kapadvanj",
+    "winner": "Rajeshkumar Zala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mahisagar",
+    "constituency_code": "AC-GJ-121",
+    "constituency_name": "Balasinor",
+    "winner": "Mansinh Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mahisagar",
+    "constituency_code": "AC-GJ-122",
+    "constituency_name": "Lunawada",
+    "winner": "Gulabsinh Chauhan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Mahisagar",
+    "constituency_code": "AC-GJ-123",
+    "constituency_name": "Santrampur",
+    "winner": "Kuber Dindor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Panchmahal",
+    "constituency_code": "AC-GJ-124",
+    "constituency_name": "Shehra",
+    "winner": "Jethabhai Ahir",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Panchmahal",
+    "constituency_code": "AC-GJ-125",
+    "constituency_name": "Morva Hadaf",
+    "winner": "Nimisha Suthar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Panchmahal",
+    "constituency_code": "AC-GJ-126",
+    "constituency_name": "Godhra",
+    "winner": "C.K Raulji",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Panchmahal",
+    "constituency_code": "AC-GJ-127",
+    "constituency_name": "Kalol",
+    "winner": "Fatesinh Chauhan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Panchmahal",
+    "constituency_code": "AC-GJ-128",
+    "constituency_name": "Halol",
+    "winner": "Jaydrathsinh Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-129",
+    "constituency_name": "Fatepura",
+    "winner": "Ramesh Katara",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-130",
+    "constituency_name": "Jhalod",
+    "winner": "Mahesh Bhuriya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-131",
+    "constituency_name": "Limkheda",
+    "winner": "Shaileshbhai Bhabhor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-132",
+    "constituency_name": "Dahod",
+    "winner": "Kanaiyalal Kishori",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-133",
+    "constituency_name": "Garbada",
+    "winner": "Mahendrabhai Bhabhor",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dahod",
+    "constituency_code": "AC-GJ-134",
+    "constituency_name": "Devgadhbariya",
+    "winner": "Bachubhai Khabad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-135",
+    "constituency_name": "Savli",
+    "winner": "Ketan Inamdar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-136",
+    "constituency_name": "Vaghodiya",
+    "winner": "Dharmendrasinh Vaghela",
+    "party": "Ind"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Chhota Udaipur",
+    "constituency_code": "AC-GJ-137",
+    "constituency_name": "Chhota Udaipur",
+    "winner": "Rajendrasinh Rathva",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Chhota Udaipur",
+    "constituency_code": "AC-GJ-138",
+    "constituency_name": "Jetpur",
+    "winner": "Jayantibhai Rathva",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Chhota Udaipur",
+    "constituency_code": "AC-GJ-139",
+    "constituency_name": "Sankheda",
+    "winner": "Abhesinh Tadvi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-140",
+    "constituency_name": "Dabhoi",
+    "winner": "Shaileshbhai Mehta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-141",
+    "constituency_name": "Vadodara City",
+    "winner": "Manisha Vakil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-142",
+    "constituency_name": "Sayajigunj",
+    "winner": "Keyur Rokadia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-143",
+    "constituency_name": "Akota",
+    "winner": "Chaitanya Desai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-144",
+    "constituency_name": "Raopura",
+    "winner": "Balkrushna Shukla",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-145",
+    "constituency_name": "Manjalpur",
+    "winner": "Yogesh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-146",
+    "constituency_name": "Padra",
+    "winner": "Chaitanyasinh Pratapsinh Zala",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Vadodara",
+    "constituency_code": "AC-GJ-147",
+    "constituency_name": "Karjan",
+    "winner": "Akshaykumar Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Narmada",
+    "constituency_code": "AC-GJ-148",
+    "constituency_name": "Nandod",
+    "winner": "Darshna Vasava",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Narmada",
+    "constituency_code": "AC-GJ-149",
+    "constituency_name": "Dediapada",
+    "winner": "Chaitar Vasava",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "constituency_code": "AC-GJ-150",
+    "constituency_name": "Jambusar",
+    "winner": "Devkishordasji Swami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "constituency_code": "AC-GJ-151",
+    "constituency_name": "Vagra",
+    "winner": "Arunsinh Rana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "constituency_code": "AC-GJ-152",
+    "constituency_name": "Jhagadiya",
+    "winner": "Ritesh Vasava",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "constituency_code": "AC-GJ-153",
+    "constituency_name": "Bharuch",
+    "winner": "Ramesh Mistry",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "constituency_code": "AC-GJ-154",
+    "constituency_name": "Ankleshwar",
+    "winner": "Ishwarsinh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-155",
+    "constituency_name": "Olpad",
+    "winner": "Mukeshbhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-156",
+    "constituency_name": "Mangrol",
+    "winner": "Ganpat Vasava",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-157",
+    "constituency_name": "Mandvi",
+    "winner": "Kunvarji Halpati",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-158",
+    "constituency_name": "Kamrej",
+    "winner": "Praful Pansheriya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-159",
+    "constituency_name": "Surat East",
+    "winner": "Arvind Rana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-160",
+    "constituency_name": "Surat North",
+    "winner": "Kanti Balar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-161",
+    "constituency_name": "Varachha Road",
+    "winner": "Kishor Kanani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-162",
+    "constituency_name": "Karanj",
+    "winner": "Pravin Ghoghari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-163",
+    "constituency_name": "Limbayat",
+    "winner": "Sangita Patil",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-164",
+    "constituency_name": "Udhna",
+    "winner": "Manu Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-165",
+    "constituency_name": "Majura",
+    "winner": "Harsh Sanghavi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-166",
+    "constituency_name": "Katargam",
+    "winner": "Vinodbhai Moradiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-167",
+    "constituency_name": "Surat West",
+    "winner": "Purnesh Modi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-168",
+    "constituency_name": "Choryasi",
+    "winner": "Sandip Desai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-169",
+    "constituency_name": "Bardoli",
+    "winner": "Ishwarbhai Parmar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Surat",
+    "constituency_code": "AC-GJ-170",
+    "constituency_name": "Mahuva",
+    "winner": "Mohanbhai Dhodiya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Tapi",
+    "constituency_code": "AC-GJ-171",
+    "constituency_name": "Vyara",
+    "winner": "Mohan Kokani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Tapi",
+    "constituency_code": "AC-GJ-172",
+    "constituency_name": "Nizar",
+    "winner": "Jayram Gamit",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Dang",
+    "constituency_code": "AC-GJ-173",
+    "constituency_name": "Dangs",
+    "winner": "Vijay Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Navsari",
+    "constituency_code": "AC-GJ-174",
+    "constituency_name": "Jalalpore",
+    "winner": "R. C. Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Navsari",
+    "constituency_code": "AC-GJ-175",
+    "constituency_name": "Navsari",
+    "winner": "Rakesh Desai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Navsari",
+    "constituency_code": "AC-GJ-176",
+    "constituency_name": "Gandevi",
+    "winner": "Naresh Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Navsari",
+    "constituency_code": "AC-GJ-177",
+    "constituency_name": "Vansda",
+    "winner": "Anantkumar Patel",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "constituency_code": "AC-GJ-178",
+    "constituency_name": "Dharampur",
+    "winner": "Arvind Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "constituency_code": "AC-GJ-179",
+    "constituency_name": "Valsad",
+    "winner": "Bharatbhai Patel",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "constituency_code": "AC-GJ-180",
+    "constituency_name": "Pardi",
+    "winner": "Kanubhai Desai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "constituency_code": "AC-GJ-181",
+    "constituency_name": "Kaprada",
+    "winner": "Jitubhai Chaudhary",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Gujarat",
+    "district": "Valsad",
+    "constituency_code": "AC-GJ-182",
+    "constituency_name": "Umbergaon",
+    "winner": "Ramanlal Patkar",
+    "party": "Bharatiya Janata Party"
+  }
+]

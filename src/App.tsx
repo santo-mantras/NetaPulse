@@ -151,11 +151,14 @@ function App() {
       <footer className="mt-20 border-t border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 backdrop-blur-md py-8">
         <div className="max-w-6xl mx-auto px-4 text-center space-y-4">
           <div className="flex flex-col items-center justify-center">
-            <p className="text-sm text-slate-600 dark:text-slate-400 italic font-medium">
-              "Satyānna pramaditavyam - Do not deviate from the truth."
+            <p className="text-base text-slate-800 dark:text-slate-200 font-bold tracking-wide">
+              "सत्यान्न प्रमदितव्यम्"
+            </p>
+            <p className="text-xs text-slate-500 dark:text-slate-400 italic font-medium mt-0.5">
+              "Do not deviate from the truth."
             </p>
             <p className="text-[10px] text-slate-400 dark:text-slate-500 font-semibold tracking-wider uppercase mt-1">
-              — Taittiriya Upanishad
+              — TAITTIRIYA UPANISHAD
             </p>
           </div>
           

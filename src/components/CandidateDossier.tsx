@@ -33,7 +33,8 @@ import {
     Vote,
     Coins,
     Flag,
-    Landmark
+    Landmark,
+    ChevronRight
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -271,27 +272,43 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
             </div>
 
             {/* 3. Navigation Tabs */}
-            <div className="flex border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-x-auto custom-scrollbar">
-                {[
-                    { id: 'overview', icon: User, label: 'Performance Overview' },
-                    { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Seats Analysis` },
-                    { id: 'promises', icon: CheckCircle2, label: `Guarantees & Promises (${promises.length})` },
-                    { id: 'funds', icon: Coins, label: 'Development Funds' },
-                    { id: 'legal', icon: Scale, label: 'Legal & Assets' },
-                    { id: 'news', icon: Newspaper, label: `Media Spotlight (${news.length})` }
-                ].map((tab) => (
-                    <button
-                        key={tab.id}
-                        onClick={() => setActiveTab(tab.id as any)}
-                        className={`flex items-center gap-2 px-5 py-4 text-sm font-semibold border-b-2 whitespace-nowrap transition-colors relative ${
-                            activeTab === tab.id
-                                ? 'border-blue-600 text-blue-600 dark:border-blue-400 dark:text-blue-400'
-                                : 'border-transparent text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200'
-                        }`}
-                    >
-                        <tab.icon className="w-4 h-4" /> {tab.label}
-                    </button>
-                ))}
+            <div className="relative border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+                <div className="flex overflow-x-auto custom-scrollbar scroll-smooth pr-14 md:pr-0">
+                    {[
+                        { id: 'overview', icon: User, label: 'Performance Overview' },
+                        { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Seats Analysis` },
+                        { id: 'promises', icon: CheckCircle2, label: `Guarantees & Promises (${promises.length})` },
+                        { id: 'funds', icon: Coins, label: 'Development Funds' },
+                        { id: 'legal', icon: Scale, label: 'Legal & Assets' },
+                        { id: 'news', icon: Newspaper, label: `Media Spotlight (${news.length})` }
+                    ].map((tab) => (
+                        <button
+                            key={tab.id}
+                            onClick={() => setActiveTab(tab.id as any)}
+                            className={`flex items-center gap-2 px-5 py-4 text-sm font-semibold border-b-2 whitespace-nowrap transition-colors relative ${
+                                activeTab === tab.id
+                                    ? 'border-blue-600 text-blue-600 dark:border-blue-400 dark:text-blue-400'
+                                    : 'border-transparent text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200'
+                            }`}
+                        >
+                            <tab.icon className="w-4 h-4" /> {tab.label}
+
+                            {/* Subtle animated swipe cue on mobile for the first two tabs */}
+                            {(tab.id === 'overview' || tab.id === 'seats') && (
+                                <span className="md:hidden inline-flex items-center ml-1 px-1.5 py-0.5 rounded-full text-[9px] font-bold bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 animate-pulse">
+                                    Swipe &rarr;
+                                </span>
+                            )}
+                        </button>
+                    ))}
+                </div>
+
+                {/* Mobile Right Edge Swipe Hint Overlay */}
+                <div className="md:hidden absolute right-0 top-0 bottom-0 w-12 bg-gradient-to-l from-white via-white/80 to-transparent dark:from-slate-900 dark:via-slate-900/80 pointer-events-none flex items-center justify-end pr-1 z-10">
+                    <span className="flex items-center justify-center w-6 h-6 rounded-full bg-blue-600/90 text-white shadow-md animate-bounce">
+                        <ChevronRight className="w-3.5 h-3.5" />
+                    </span>
+                </div>
             </div>
 
             {/* Tab Contents */}
@@ -1231,6 +1248,152 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         { party: "Pattali Makkal Katchi", seats: 5, pct: 2.1 },
                                         { party: "Bharatiya Janata Party", seats: 4, pct: 1.7 },
                                         { party: "Others", seats: 8, pct: 3.5 }
+                                    ]
+                                },
+                                "Gujarat": {
+                                    totalAssembly: 182,
+                                    totalLokSabha: 26,
+                                    totalDistricts: 33,
+                                    majorityMark: 92,
+                                    currentRuler: "Bharatiya Janata Party",
+                                    partyColors: {
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Aam Aadmi Party": "#3b82f6",
+                                        "Samajwadi Party": "#10b981",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Bharatiya Janata Party", seats: 156, pct: 85.7 },
+                                        { party: "Indian National Congress", seats: 17, pct: 9.3 },
+                                        { party: "Aam Aadmi Party", seats: 5, pct: 2.7 },
+                                        { party: "Samajwadi Party", seats: 1, pct: 0.5 },
+                                        { party: "Others / Independents", seats: 3, pct: 1.6 }
+                                    ]
+                                },
+                                "Rajasthan": {
+                                    totalAssembly: 200,
+                                    totalLokSabha: 25,
+                                    totalDistricts: 34,
+                                    majorityMark: 101,
+                                    currentRuler: "Bharatiya Janata Party",
+                                    partyColors: {
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Bharat Adivasi Party": "#10b981",
+                                        "Bahujan Samaj Party": "#3b82f6",
+                                        "Rashtriya Loktantrik Party": "#eab308",
+                                        "Rashtriya Lok Dal": "#84cc16",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Bharatiya Janata Party", seats: 115, pct: 57.5 },
+                                        { party: "Indian National Congress", seats: 69, pct: 34.5 },
+                                        { party: "Bharat Adivasi Party", seats: 3, pct: 1.5 },
+                                        { party: "Bahujan Samaj Party", seats: 2, pct: 1.0 },
+                                        { party: "Rashtriya Loktantrik Party", seats: 1, pct: 0.5 },
+                                        { party: "Rashtriya Lok Dal", seats: 1, pct: 0.5 },
+                                        { party: "Others / Independents", seats: 9, pct: 4.5 }
+                                    ]
+                                },
+                                "West Bengal": {
+                                    totalAssembly: 294,
+                                    totalLokSabha: 42,
+                                    totalDistricts: 23,
+                                    majorityMark: 148,
+                                    currentRuler: "All India Trinamool Congress",
+                                    partyColors: {
+                                        "All India Trinamool Congress": "#10b981",
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian Secular Front": "#3b82f6",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "All India Trinamool Congress", seats: 215, pct: 73.1 },
+                                        { party: "Bharatiya Janata Party", seats: 77, pct: 26.2 },
+                                        { party: "Indian Secular Front", seats: 1, pct: 0.3 },
+                                        { party: "Others / Independents", seats: 1, pct: 0.3 }
+                                    ]
+                                },
+                                "Bihar": {
+                                    totalAssembly: 243,
+                                    totalLokSabha: 40,
+                                    totalDistricts: 38,
+                                    majorityMark: 122,
+                                    currentRuler: "National Democratic Alliance (NDA)",
+                                    partyColors: {
+                                        "Rashtriya Janata Dal": "#16a34a",
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Janata Dal (United)": "#10b981",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Communist Party of India (Marxist-Leninist) Liberation": "#ef4444",
+                                        "All India Majlis-e-Ittehadul Muslimeen": "#047857",
+                                        "Hindustani Awam Morcha (Secular)": "#eab308",
+                                        "Vikassheel Insaan Party": "#3b82f6",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Rashtriya Janata Dal", seats: 75, pct: 30.9 },
+                                        { party: "Bharatiya Janata Party", seats: 74, pct: 30.5 },
+                                        { party: "Janata Dal (United)", seats: 43, pct: 17.7 },
+                                        { party: "Indian National Congress", seats: 19, pct: 7.8 },
+                                        { party: "Communist Party of India (Marxist-Leninist) Liberation", seats: 12, pct: 4.9 },
+                                        { party: "All India Majlis-e-Ittehadul Muslimeen", seats: 5, pct: 2.1 },
+                                        { party: "Hindustani Awam Morcha (Secular)", seats: 4, pct: 1.6 },
+                                        { party: "Vikassheel Insaan Party", seats: 4, pct: 1.6 },
+                                        { party: "Others / Independents", seats: 7, pct: 2.9 }
+                                    ]
+                                },
+                                "Assam": {
+                                    totalAssembly: 126,
+                                    totalLokSabha: 14,
+                                    totalDistricts: 34,
+                                    majorityMark: 64,
+                                    currentRuler: "National Democratic Alliance (Mitrajot)",
+                                    partyColors: {
+                                        "Bharatiya Janata Party": "#f97316",
+                                        "Indian National Congress": "#06b6d4",
+                                        "All India United Democratic Front": "#10b981",
+                                        "Asom Gana Parishad": "#3b82f6",
+                                        "United People's Party Liberal": "#eab308",
+                                        "Bodoland People's Front": "#ec4899",
+                                        "Communist Party of India (Marxist)": "#ef4444",
+                                        "Raijor Dal": "#8b5cf6",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Bharatiya Janata Party", seats: 60, pct: 47.6 },
+                                        { party: "Indian National Congress", seats: 29, pct: 23.0 },
+                                        { party: "All India United Democratic Front", seats: 16, pct: 12.7 },
+                                        { party: "Asom Gana Parishad", seats: 9, pct: 7.1 },
+                                        { party: "United People's Party Liberal", seats: 6, pct: 4.8 },
+                                        { party: "Bodoland People's Front", seats: 4, pct: 3.2 },
+                                        { party: "Communist Party of India (Marxist)", seats: 1, pct: 0.8 },
+                                        { party: "Raijor Dal", seats: 1, pct: 0.8 }
+                                    ]
+                                },
+                                "Kerala": {
+                                    totalAssembly: 140,
+                                    totalLokSabha: 20,
+                                    totalDistricts: 14,
+                                    majorityMark: 71,
+                                    currentRuler: "Left Democratic Front (LDF)",
+                                    partyColors: {
+                                        "Communist Party of India (Marxist)": "#ef4444",
+                                        "Indian National Congress": "#06b6d4",
+                                        "Indian Union Muslim League": "#10b981",
+                                        "Communist Party of India": "#b91c1c",
+                                        "Kerala Congress (M)": "#f97316",
+                                        "Others": "#64748b"
+                                    },
+                                    seatTally: [
+                                        { party: "Communist Party of India (Marxist)", seats: 62, pct: 44.3 },
+                                        { party: "Indian National Congress", seats: 21, pct: 15.0 },
+                                        { party: "Communist Party of India", seats: 17, pct: 12.1 },
+                                        { party: "Indian Union Muslim League", seats: 15, pct: 10.7 },
+                                        { party: "Kerala Congress (M)", seats: 5, pct: 3.6 },
+                                        { party: "Others / Independents", seats: 20, pct: 14.3 }
                                     ]
                                 }
                             };

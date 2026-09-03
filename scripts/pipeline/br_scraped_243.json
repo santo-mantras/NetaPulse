@@ -1,0 +1,1946 @@
+[
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-1",
+    "constituency_name": "Valmiki Nagar",
+    "winner": "Dhirendra Singh",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-2",
+    "constituency_name": "Ramnagar",
+    "winner": "Bhagirathi Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-3",
+    "constituency_name": "Narkatiaganj",
+    "winner": "Rashmi Varma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-4",
+    "constituency_name": "Bagaha",
+    "winner": "Ram Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-5",
+    "constituency_name": "Lauriya",
+    "winner": "Vinay Bihari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-6",
+    "constituency_name": "Nautan",
+    "winner": "Narayan Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-7",
+    "constituency_name": "Chanpatia",
+    "winner": "Umakant Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-8",
+    "constituency_name": "Bettiah",
+    "winner": "Renu Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "West Champaran",
+    "constituency_code": "AC-BR-9",
+    "constituency_name": "Sikta",
+    "winner": "Birendra Gupta",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-10",
+    "constituency_name": "Raxaul",
+    "winner": "Pramod Sinha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-11",
+    "constituency_name": "Sugauli",
+    "winner": "Shashi Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-12",
+    "constituency_name": "Narkatia",
+    "winner": "Shamim Ahmad",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-13",
+    "constituency_name": "Harsidhi",
+    "winner": "Krishnanandan Paswan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-14",
+    "constituency_name": "Govindganj",
+    "winner": "Sunil Tiwari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-15",
+    "constituency_name": "Kesaria",
+    "winner": "Shalini Mishra",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-16",
+    "constituency_name": "Kalyanpur",
+    "winner": "Manoj Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-17",
+    "constituency_name": "Pipra",
+    "winner": "Shyambabu Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-18",
+    "constituency_name": "Madhuban",
+    "winner": "Rana Randhir",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-19",
+    "constituency_name": "Motihari",
+    "winner": "Pramod Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-20",
+    "constituency_name": "Chiraiya",
+    "winner": "Lal Babu Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "East Champaran",
+    "constituency_code": "AC-BR-21",
+    "constituency_name": "Dhaka",
+    "winner": "Pawan Jaiswal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sheohar",
+    "constituency_code": "AC-BR-22",
+    "constituency_name": "Sheohar",
+    "winner": "Chetan Anand",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-23",
+    "constituency_name": "Riga",
+    "winner": "Moti Lal Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-24",
+    "constituency_name": "Bathnaha",
+    "winner": "Anil Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-25",
+    "constituency_name": "Parihar",
+    "winner": "Gayatri Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-26",
+    "constituency_name": "Sursand",
+    "winner": "Dilip Ray",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-27",
+    "constituency_name": "Bajpatti",
+    "winner": "Mukesh Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-28",
+    "constituency_name": "Sitamarhi",
+    "winner": "Mithilesh Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-29",
+    "constituency_name": "Runnisaidpur",
+    "winner": "Pankaj Mishra",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sitamarhi",
+    "constituency_code": "AC-BR-30",
+    "constituency_name": "Belsand",
+    "winner": "Sanjay Gupta",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-31",
+    "constituency_name": "Harlakhi",
+    "winner": "Sudhanshu Shekhar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-32",
+    "constituency_name": "Benipatti",
+    "winner": "Vinod Jha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-33",
+    "constituency_name": "Khajauli",
+    "winner": "Arun Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-34",
+    "constituency_name": "Babubarhi",
+    "winner": "Mina Kumari",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-35",
+    "constituency_name": "Bisfi",
+    "winner": "Haribhushan Thakur",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-36",
+    "constituency_name": "Madhubani",
+    "winner": "Samir Kumar Mahaseth",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-37",
+    "constituency_name": "Rajnagar",
+    "winner": "Ram Prit",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-38",
+    "constituency_name": "Jhanjharpur",
+    "winner": "Nitish Mishra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-39",
+    "constituency_name": "Phulparas",
+    "winner": "Sheela Kumari",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhubani",
+    "constituency_code": "AC-BR-40",
+    "constituency_name": "Laukaha",
+    "winner": "Bharat Mandal",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Supaul",
+    "constituency_code": "AC-BR-41",
+    "constituency_name": "Nirmali",
+    "winner": "Aniruddha Yadav",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Supaul",
+    "constituency_code": "AC-BR-42",
+    "constituency_name": "Pipra",
+    "winner": "Rambilash Kamat",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Supaul",
+    "constituency_code": "AC-BR-43",
+    "constituency_name": "Supaul",
+    "winner": "Bijendra Yadav",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Supaul",
+    "constituency_code": "AC-BR-44",
+    "constituency_name": "Triveniganj",
+    "winner": "Veena Bharti",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Supaul",
+    "constituency_code": "AC-BR-45",
+    "constituency_name": "Chhatapur",
+    "winner": "Neeraj Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-46",
+    "constituency_name": "Narpatganj",
+    "winner": "Jai Prakash Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-47",
+    "constituency_name": "Raniganj",
+    "winner": "Achmit Rishidev",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-48",
+    "constituency_name": "Forbesganj",
+    "winner": "Vidya Sagar Keshri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-49",
+    "constituency_name": "Araria",
+    "winner": "Abidur Rahman",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-50",
+    "constituency_name": "Jokihat",
+    "winner": "Shahnawaz",
+    "party": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "state": "Bihar",
+    "district": "Araria",
+    "constituency_code": "AC-BR-51",
+    "constituency_name": "Sikti",
+    "winner": "Vijay Kumar Mandal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kishanganj",
+    "constituency_code": "AC-BR-52",
+    "constituency_name": "Bahadurganj",
+    "winner": "Md. Anzar Nayeemi",
+    "party": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kishanganj",
+    "constituency_code": "AC-BR-53",
+    "constituency_name": "Thakurganj",
+    "winner": "Saud Alam",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kishanganj",
+    "constituency_code": "AC-BR-54",
+    "constituency_name": "Kishanganj",
+    "winner": "Ijaharul Husain",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kishanganj",
+    "constituency_code": "AC-BR-55",
+    "constituency_name": "Kochadhaman",
+    "winner": "Md. Izhar Asfi",
+    "party": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-56",
+    "constituency_name": "Amour",
+    "winner": "Akhtarul Iman",
+    "party": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-57",
+    "constituency_name": "Baisi",
+    "winner": "Ruknuddin Ahmad",
+    "party": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-58",
+    "constituency_name": "Kasba",
+    "winner": "Md. Afaque Alam",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-59",
+    "constituency_name": "Banmankhi",
+    "winner": "Krishna Kumar Rishi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-60",
+    "constituency_name": "Rupauli",
+    "winner": "Bima Bharti",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-61",
+    "constituency_name": "Dhamdaha",
+    "winner": "Leshi Singh",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Purnia",
+    "constituency_code": "AC-BR-62",
+    "constituency_name": "Purnia",
+    "winner": "Vijay Kumar Khemka",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-63",
+    "constituency_name": "Katihar",
+    "winner": "Tarkishore Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-64",
+    "constituency_name": "Kadwa",
+    "winner": "Shakeel Ahmad Khan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-65",
+    "constituency_name": "Balrampur",
+    "winner": "Mahboob Alam",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-66",
+    "constituency_name": "Pranpur",
+    "winner": "Nisha Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-67",
+    "constituency_name": "Manihari",
+    "winner": "Manohar Prasad Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-68",
+    "constituency_name": "Barari",
+    "winner": "Bijay Singh",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Katihar",
+    "constituency_code": "AC-BR-69",
+    "constituency_name": "Korha",
+    "winner": "Kavita Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhepura",
+    "constituency_code": "AC-BR-70",
+    "constituency_name": "Alamnagar",
+    "winner": "Narendra Yadav",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhepura",
+    "constituency_code": "AC-BR-71",
+    "constituency_name": "Bihariganj",
+    "winner": "Niranjan Mehta",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhepura",
+    "constituency_code": "AC-BR-72",
+    "constituency_name": "Singheshwar",
+    "winner": "Chandrahas Chaupal",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Madhepura",
+    "constituency_code": "AC-BR-73",
+    "constituency_name": "Madhepura",
+    "winner": "Chandra Shekhar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saharsa",
+    "constituency_code": "AC-BR-74",
+    "constituency_name": "Sonbarsha",
+    "winner": "Ratnesh Sada",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saharsa",
+    "constituency_code": "AC-BR-75",
+    "constituency_name": "Saharsa",
+    "winner": "Alok Ranjan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saharsa",
+    "constituency_code": "AC-BR-76",
+    "constituency_name": "Simri Bakhtiarpur",
+    "winner": "Yusuf Salahuddin",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saharsa",
+    "constituency_code": "AC-BR-77",
+    "constituency_name": "Mahishi",
+    "winner": "Gunjeshwar Sah",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-78",
+    "constituency_name": "KusheshwarAsthan",
+    "winner": "Shashibhushan Hajari",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-79",
+    "constituency_name": "Gaura Bauram",
+    "winner": "Swarna Singh",
+    "party": "Vikassheel Insaan Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-80",
+    "constituency_name": "Benipur",
+    "winner": "Binay Choudhary",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-81",
+    "constituency_name": "Alinagar",
+    "winner": "Mishri Lal Yadav",
+    "party": "Vikassheel Insaan Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-82",
+    "constituency_name": "Darbhanga Rural",
+    "winner": "Lalit Kumar Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-83",
+    "constituency_name": "Darbhanga",
+    "winner": "Sanjay Saraogi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-84",
+    "constituency_name": "Hayaghat",
+    "winner": "Ram Chandra Prasad",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-85",
+    "constituency_name": "Bahadurpur",
+    "winner": "Madan Sahni",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-86",
+    "constituency_name": "Keoti",
+    "winner": "Murari Mohan Jha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Darbhanga",
+    "constituency_code": "AC-BR-87",
+    "constituency_name": "Jale",
+    "winner": "Jibesh Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-88",
+    "constituency_name": "Gaighat",
+    "winner": "Niranjan Roy",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-89",
+    "constituency_name": "Aurai",
+    "winner": "Ram Surat Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-90",
+    "constituency_name": "Minapur",
+    "winner": "Rajeev Kumar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-91",
+    "constituency_name": "Bochaha",
+    "winner": "Musafir Paswan",
+    "party": "Vikassheel Insaan Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-92",
+    "constituency_name": "Sakra",
+    "winner": "Ashok KumarChodhary",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-93",
+    "constituency_name": "Kurhani",
+    "winner": "Anil Kumar Sahni",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-94",
+    "constituency_name": "Muzaffarpur",
+    "winner": "Bijendra Chaudhary",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-95",
+    "constituency_name": "Kanti",
+    "winner": "Md. Israil Mansuri",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-96",
+    "constituency_name": "Baruraj",
+    "winner": "Arun Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-97",
+    "constituency_name": "Paroo",
+    "winner": "Ashok KumarSingh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Muzaffarpur",
+    "constituency_code": "AC-BR-98",
+    "constituency_name": "Sahebganj",
+    "winner": "Raju Kumar Singh",
+    "party": "Vikassheel Insaan Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-99",
+    "constituency_name": "Baikunthpur",
+    "winner": "Prem Shankar Ps.",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-100",
+    "constituency_name": "Barauli",
+    "winner": "Rampravesh Rai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-101",
+    "constituency_name": "Gopalganj",
+    "winner": "Subash Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-102",
+    "constituency_name": "Kuchaikote",
+    "winner": "Amrendra Pandey",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-103",
+    "constituency_name": "Bhorey",
+    "winner": "Sunil Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gopalganj",
+    "constituency_code": "AC-BR-104",
+    "constituency_name": "Hathua",
+    "winner": "Rajesh Kumar Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-105",
+    "constituency_name": "Siwan",
+    "winner": "Awadh BihariChaudhary",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-106",
+    "constituency_name": "Ziradei",
+    "winner": "Amarjeet Kushwaha",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-107",
+    "constituency_name": "Darauli",
+    "winner": "Satyadeo Ram",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-108",
+    "constituency_name": "Raghunathpur",
+    "winner": "Harishankar Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-109",
+    "constituency_name": "Daraundha",
+    "winner": "Karnjeet Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-110",
+    "constituency_name": "Barharia",
+    "winner": "Bachcha Pandey",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-111",
+    "constituency_name": "Goriakothi",
+    "winner": "Devesh Kant Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Siwan",
+    "constituency_code": "AC-BR-112",
+    "constituency_name": "Maharajganj",
+    "winner": "Vijay ShankerDubey",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-113",
+    "constituency_name": "Ekma",
+    "winner": "Srikant Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-114",
+    "constituency_name": "Manjhi",
+    "winner": "Dr. Satyendra Yadav",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-115",
+    "constituency_name": "Baniapur",
+    "winner": "Kedar Nath Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-116",
+    "constituency_name": "Taraiya",
+    "winner": "Janak Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-117",
+    "constituency_name": "Marhaura",
+    "winner": "Jitendra Kumar Ray",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-118",
+    "constituency_name": "Chapra",
+    "winner": "Dr. C. N. Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-119",
+    "constituency_name": "Garkha",
+    "winner": "Surendra Ram",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-120",
+    "constituency_name": "Amnour",
+    "winner": "Krishan Kumar Mantoo",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-121",
+    "constituency_name": "Parsa",
+    "winner": "Chhote Lal Ray",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Saran",
+    "constituency_code": "AC-BR-122",
+    "constituency_name": "Sonepur",
+    "winner": "Dr. Ramanuj Prasad",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-123",
+    "constituency_name": "Hajipur",
+    "winner": "Awadhesh Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-124",
+    "constituency_name": "Lalganj",
+    "winner": "Sanjay Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-125",
+    "constituency_name": "Vaishali",
+    "winner": "Siddharth Patel",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-126",
+    "constituency_name": "Mahua",
+    "winner": "Mukesh Raushan",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-127",
+    "constituency_name": "Rajapakar",
+    "winner": "Pratima Kumari",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-128",
+    "constituency_name": "Raghopur",
+    "winner": "Tejashwi Prasad Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-129",
+    "constituency_name": "Mahnar",
+    "winner": "Bina Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Vaishali",
+    "constituency_code": "AC-BR-130",
+    "constituency_name": "Patepur",
+    "winner": "Lakhendra Raushan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-131",
+    "constituency_name": "Kalyanpur",
+    "winner": "Maheshwar Hazari",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-132",
+    "constituency_name": "Warisnagar",
+    "winner": "Ashok Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-133",
+    "constituency_name": "Samastipur",
+    "winner": "Akhtarul Islam Shahin",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-134",
+    "constituency_name": "Ujiarpur",
+    "winner": "Alok Kumar Mehta",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-135",
+    "constituency_name": "Morwa",
+    "winner": "Ranvijay Sahu",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-136",
+    "constituency_name": "Sarairanjan",
+    "winner": "Vijay KumarChoudhary",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-137",
+    "constituency_name": "Mohiuddinnagar",
+    "winner": "Rajesh Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-138",
+    "constituency_name": "Bibhutipur",
+    "winner": "Ajay Kumar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-139",
+    "constituency_name": "Rosera",
+    "winner": "Birendra Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Samastipur",
+    "constituency_code": "AC-BR-140",
+    "constituency_name": "Hasanpur",
+    "winner": "Tej Pratap Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-141",
+    "constituency_name": "Cheria Bariarpur",
+    "winner": "Raj Vanshi Mahto",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-142",
+    "constituency_name": "Bachhwara",
+    "winner": "Surendra Mehata",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-143",
+    "constituency_name": "Teghra",
+    "winner": "Ram Ratan Singh",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-144",
+    "constituency_name": "Matihani",
+    "winner": "Raj Kumar Singh",
+    "party": "Lok Janshakti Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-145",
+    "constituency_name": "Sahebpur Kamal",
+    "winner": "Satanand Sambuddha",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-146",
+    "constituency_name": "Begusarai",
+    "winner": "Kundan Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Begusarai",
+    "constituency_code": "AC-BR-147",
+    "constituency_name": "Bakhri",
+    "winner": "Suryakant Paswan",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Bihar",
+    "district": "Khagaria",
+    "constituency_code": "AC-BR-148",
+    "constituency_name": "Alauli",
+    "winner": "Ramvriksh Sada",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Khagaria",
+    "constituency_code": "AC-BR-149",
+    "constituency_name": "Khagaria",
+    "winner": "Chhatrapati Yadav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Khagaria",
+    "constituency_code": "AC-BR-150",
+    "constituency_name": "Beldaur",
+    "winner": "Panna Lal Patel",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Khagaria",
+    "constituency_code": "AC-BR-151",
+    "constituency_name": "Parbatta",
+    "winner": "Sanjeev Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-152",
+    "constituency_name": "Bihpur",
+    "winner": "Kumar Shailendra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-153",
+    "constituency_name": "Gopalpur",
+    "winner": "Narendra Niraj",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-154",
+    "constituency_name": "Pirpainti",
+    "winner": "Lalan Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-155",
+    "constituency_name": "Kahalgaon",
+    "winner": "Pawan Kumar Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-156",
+    "constituency_name": "Bhagalpur",
+    "winner": "Ajit Sharma",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-157",
+    "constituency_name": "Sultanganj",
+    "winner": "Lalit Narayan Mandal",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhagalpur",
+    "constituency_code": "AC-BR-158",
+    "constituency_name": "Nathnagar",
+    "winner": "Ali Ashraf Siddiqui",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Banka",
+    "constituency_code": "AC-BR-159",
+    "constituency_name": "Amarpur",
+    "winner": "Jayant Raj",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Banka",
+    "constituency_code": "AC-BR-160",
+    "constituency_name": "Dhauraiya",
+    "winner": "Bhudeo Choudhary",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Banka",
+    "constituency_code": "AC-BR-161",
+    "constituency_name": "Banka",
+    "winner": "Ram Narayan Mandal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Banka",
+    "constituency_code": "AC-BR-162",
+    "constituency_name": "Katoria",
+    "winner": "Dr. Nikki Hembrom",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Banka",
+    "constituency_code": "AC-BR-163",
+    "constituency_name": "Belhar",
+    "winner": "Manoj Yadav",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Munger",
+    "constituency_code": "AC-BR-164",
+    "constituency_name": "Tarapur",
+    "winner": "Mewa Lal Choudhary",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Munger",
+    "constituency_code": "AC-BR-165",
+    "constituency_name": "Munger",
+    "winner": "Pranav Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Munger",
+    "constituency_code": "AC-BR-166",
+    "constituency_name": "Jamalpur",
+    "winner": "Ajay Kumar Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Lakhisarai",
+    "constituency_code": "AC-BR-167",
+    "constituency_name": "Surajgarha",
+    "winner": "Prahlad Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Lakhisarai",
+    "constituency_code": "AC-BR-168",
+    "constituency_name": "Lakhisarai",
+    "winner": "Vijay Kumar Sinha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sheikhpura",
+    "constituency_code": "AC-BR-169",
+    "constituency_name": "Sheikhpura",
+    "winner": "Vijay Kumar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Sheikhpura",
+    "constituency_code": "AC-BR-170",
+    "constituency_name": "Barbigha",
+    "winner": "Sudarshan Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-171",
+    "constituency_name": "Asthawan",
+    "winner": "Jitendra Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-172",
+    "constituency_name": "Biharsharif",
+    "winner": "Dr. Sunil Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-173",
+    "constituency_name": "Rajgir",
+    "winner": "Kaushal Kishore",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-174",
+    "constituency_name": "Islampur",
+    "winner": "Rakesh KumarRoushan",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-175",
+    "constituency_name": "Hilsa",
+    "winner": "Krishnamurari Sharan",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-176",
+    "constituency_name": "Nalanda",
+    "winner": "Shrawon Kumar",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nalanda",
+    "constituency_code": "AC-BR-177",
+    "constituency_name": "Harnaut",
+    "winner": "Hari Narayan Singh",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-178",
+    "constituency_name": "Mokama",
+    "winner": "Anant Kumar Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-179",
+    "constituency_name": "Barh",
+    "winner": "Gyanendra Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-180",
+    "constituency_name": "Bakhtiarpur",
+    "winner": "Aniruddh Kumar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-181",
+    "constituency_name": "Digha",
+    "winner": "Sanjiv Chaurasia",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-182",
+    "constituency_name": "Bankipur",
+    "winner": "Nitin Nabin",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-183",
+    "constituency_name": "Kumhrar",
+    "winner": "Arun Kumar Sinha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-184",
+    "constituency_name": "Patna Sahib",
+    "winner": "Nand Kishore Yadav",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-185",
+    "constituency_name": "Fatuha",
+    "winner": "Dr. Ramanand Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-186",
+    "constituency_name": "Danapur",
+    "winner": "Rit Lal Ray",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-187",
+    "constituency_name": "Maner",
+    "winner": "Bhai Virendra",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-188",
+    "constituency_name": "Phulwari",
+    "winner": "Gopal Ravidas",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-189",
+    "constituency_name": "Masaurhi",
+    "winner": "Rekha Devi",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-190",
+    "constituency_name": "Paliganj",
+    "winner": "Sandeep Saurav",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Patna",
+    "constituency_code": "AC-BR-191",
+    "constituency_name": "Bikram",
+    "winner": "Siddharth Saurav",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-192",
+    "constituency_name": "Sandesh",
+    "winner": "Kiran Devi",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-193",
+    "constituency_name": "Barhara",
+    "winner": "Raghvendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-194",
+    "constituency_name": "Arrah",
+    "winner": "AmrendraPratap Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-195",
+    "constituency_name": "Agiaon",
+    "winner": "Manoj Manzil",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-196",
+    "constituency_name": "Tarari",
+    "winner": "Sudama Prasad",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-197",
+    "constituency_name": "Jagdishpur",
+    "winner": "Ram Vishun Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Bhojpur",
+    "constituency_code": "AC-BR-198",
+    "constituency_name": "Shahpur",
+    "winner": "Rahul Tiwary",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Buxar",
+    "constituency_code": "AC-BR-199",
+    "constituency_name": "Brahampur",
+    "winner": "Shambhu Nath Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Buxar",
+    "constituency_code": "AC-BR-200",
+    "constituency_name": "Buxar",
+    "winner": "Sanjay Kr. Tiwari",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Buxar",
+    "constituency_code": "AC-BR-201",
+    "constituency_name": "Dumraon",
+    "winner": "Ajit Kumar Singh",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Buxar",
+    "constituency_code": "AC-BR-202",
+    "constituency_name": "Rajpur",
+    "winner": "Vishwanath Ram",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kaimur",
+    "constituency_code": "AC-BR-203",
+    "constituency_name": "Ramgarh",
+    "winner": "Sudhakar Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kaimur",
+    "constituency_code": "AC-BR-204",
+    "constituency_name": "Mohania",
+    "winner": "Sangita Kumari",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kaimur",
+    "constituency_code": "AC-BR-205",
+    "constituency_name": "Bhabua",
+    "winner": "Bharat Bind",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Kaimur",
+    "constituency_code": "AC-BR-206",
+    "constituency_name": "Chainpur",
+    "winner": "Mohd. Zama Khan",
+    "party": "Bahujan Samaj Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-207",
+    "constituency_name": "Chenari",
+    "winner": "Murari Gautam",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-208",
+    "constituency_name": "Sasaram",
+    "winner": "Rajesh Kumar Gupta",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-209",
+    "constituency_name": "Kargahar",
+    "winner": "Santosh Kumar Mishra",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-210",
+    "constituency_name": "Dinara",
+    "winner": "Vijay Kumar Mandal",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-211",
+    "constituency_name": "Nokha",
+    "winner": "Anita Devi",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-212",
+    "constituency_name": "Dehri",
+    "winner": "Phate Bahadur Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Rohtas",
+    "constituency_code": "AC-BR-213",
+    "constituency_name": "Karakat",
+    "winner": "Arun Singh",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Arwal",
+    "constituency_code": "AC-BR-214",
+    "constituency_name": "Arwal",
+    "winner": "Maha Nand Singh",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Arwal",
+    "constituency_code": "AC-BR-215",
+    "constituency_name": "Kurtha",
+    "winner": "Bagi Kumar Verma",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jehanabad",
+    "constituency_code": "AC-BR-216",
+    "constituency_name": "Jehanabad",
+    "winner": "Kumar Krishna Mohan",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jehanabad",
+    "constituency_code": "AC-BR-217",
+    "constituency_name": "Ghosi",
+    "winner": "Ram Bali Yadav",
+    "party": "CPI(ML)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jehanabad",
+    "constituency_code": "AC-BR-218",
+    "constituency_name": "Makhdumpur",
+    "winner": "Satish Kumar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-219",
+    "constituency_name": "Goh",
+    "winner": "Bheem Kumar Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-220",
+    "constituency_name": "Obra",
+    "winner": "Rishi Kumar",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-221",
+    "constituency_name": "Nabinagar",
+    "winner": "Vijay Singh",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-222",
+    "constituency_name": "Kutumba",
+    "winner": "Rajesh Kumar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-223",
+    "constituency_name": "Aurangabad",
+    "winner": "Anand Shankar Singh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Aurangabad",
+    "constituency_code": "AC-BR-224",
+    "constituency_name": "Rafiganj",
+    "winner": "Md. Nehaluddin",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-225",
+    "constituency_name": "Gurua",
+    "winner": "Vinay Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-226",
+    "constituency_name": "Sherghati",
+    "winner": "Manju Agrawal",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-227",
+    "constituency_name": "Imamganj",
+    "winner": "Jitan Ram Manjhi",
+    "party": "HAM"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-228",
+    "constituency_name": "Barachatti",
+    "winner": "Jyoti Devi",
+    "party": "HAM"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-229",
+    "constituency_name": "Bodh Gaya",
+    "winner": "Kumar Sarvjeet",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-230",
+    "constituency_name": "Gaya Town",
+    "winner": "Prem Kumar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-231",
+    "constituency_name": "Tikari",
+    "winner": "Anil Kumar",
+    "party": "HAM"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-232",
+    "constituency_name": "Belaganj",
+    "winner": "Surendra Prasad Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-233",
+    "constituency_name": "Atri",
+    "winner": "Ajay Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Gaya",
+    "constituency_code": "AC-BR-234",
+    "constituency_name": "Wazirganj",
+    "winner": "Birendra Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nawada",
+    "constituency_code": "AC-BR-235",
+    "constituency_name": "Rajauli",
+    "winner": "Prakash Veer",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nawada",
+    "constituency_code": "AC-BR-236",
+    "constituency_name": "Hisua",
+    "winner": "Nitu Kumari",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nawada",
+    "constituency_code": "AC-BR-237",
+    "constituency_name": "Nawada",
+    "winner": "Vibha Devi Yadav",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nawada",
+    "constituency_code": "AC-BR-238",
+    "constituency_name": "Gobindpur",
+    "winner": "Md. Kamran",
+    "party": "Rashtriya Janata Dal"
+  },
+  {
+    "state": "Bihar",
+    "district": "Nawada",
+    "constituency_code": "AC-BR-239",
+    "constituency_name": "Warsaliganj",
+    "winner": "Aruna Devi",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jamui",
+    "constituency_code": "AC-BR-240",
+    "constituency_name": "Sikandra",
+    "winner": "Prafull Kumar Manjhi",
+    "party": "HAM"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jamui",
+    "constituency_code": "AC-BR-241",
+    "constituency_name": "Jamui",
+    "winner": "Shreyasi Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jamui",
+    "constituency_code": "AC-BR-242",
+    "constituency_name": "Jhajha",
+    "winner": "Damodar Rawat",
+    "party": "Janata Dal (United)"
+  },
+  {
+    "state": "Bihar",
+    "district": "Jamui",
+    "constituency_code": "AC-BR-243",
+    "constituency_name": "Chakai",
+    "winner": "Sumit Singh",
+    "party": "Independent"
+  }
+]

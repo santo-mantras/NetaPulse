@@ -1,0 +1,2354 @@
+[
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-1",
+    "constituency_name": "Mekliganj",
+    "winner": "Adhikary Paresh Chandra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-2",
+    "constituency_name": "Mathabhanga",
+    "winner": "Sushil Barman",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-3",
+    "constituency_name": "Coochbehar Uttar",
+    "winner": "Sukumar Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-4",
+    "constituency_name": "Coochbehar Dakshin",
+    "winner": "Nikhil Ranjan Dey",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-5",
+    "constituency_name": "Sitalkuchi",
+    "winner": "Baren Chandra Barman",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-6",
+    "constituency_name": "Sitai",
+    "winner": "Jagadish Chandra Barma Basunia",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-7",
+    "constituency_name": "Dinhata",
+    "winner": "Nisith Pramanik",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-8",
+    "constituency_name": "Natabari",
+    "winner": "Mihir Goswami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Cooch Behar",
+    "constituency_code": "AC-WB-9",
+    "constituency_name": "Tufanganj",
+    "winner": "Malati Rava Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "constituency_code": "AC-WB-10",
+    "constituency_name": "Kumargram",
+    "winner": "Manoj Kumar Oraon",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "constituency_code": "AC-WB-11",
+    "constituency_name": "Kalchini",
+    "winner": "Bishal Lama",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "constituency_code": "AC-WB-12",
+    "constituency_name": "Alipurduars",
+    "winner": "Suman Kanjilal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "constituency_code": "AC-WB-13",
+    "constituency_name": "Falakata",
+    "winner": "Dipak Barman",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Alipurduar",
+    "constituency_code": "AC-WB-14",
+    "constituency_name": "Madarihat",
+    "winner": "Manoj Tigga",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-15",
+    "constituency_name": "Dhupguri",
+    "winner": "Bishnu Pada Ray",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-16",
+    "constituency_name": "Maynaguri",
+    "winner": "Kaushik Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-17",
+    "constituency_name": "Jalpaiguri",
+    "winner": "Dr. Pradip Kumar Barma",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-18",
+    "constituency_name": "Rajganj",
+    "winner": "Khageswar Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-19",
+    "constituency_name": "Dabgram-Fulbari",
+    "winner": "Sikha Chatterjee",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-20",
+    "constituency_name": "Mal",
+    "winner": "Bulu Chik Baraik",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jalpaiguri",
+    "constituency_code": "AC-WB-21",
+    "constituency_name": "Nagrakata",
+    "winner": "Puna Bhengra",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kalimpong",
+    "constituency_code": "AC-WB-22",
+    "constituency_name": "Kalimpong",
+    "winner": "Ruden Sada Lepcha",
+    "party": "Independent"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "constituency_code": "AC-WB-23",
+    "constituency_name": "Darjeeling",
+    "winner": "Neeraj Tamang Zimba",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "constituency_code": "AC-WB-24",
+    "constituency_name": "Kurseong",
+    "winner": "Bishnu Prasad Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "constituency_code": "AC-WB-25",
+    "constituency_name": "Matigara-Naxalbari",
+    "winner": "Anandamay Barman",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "constituency_code": "AC-WB-26",
+    "constituency_name": "Siliguri",
+    "winner": "Sankar Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Darjeeling",
+    "constituency_code": "AC-WB-27",
+    "constituency_name": "Phansidewa",
+    "winner": "Durga Murmu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-28",
+    "constituency_name": "Chopra",
+    "winner": "Hamidul Rahaman",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-29",
+    "constituency_name": "Islampur",
+    "winner": "Abdul Karim Chowdhary",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-30",
+    "constituency_name": "Goalpokhar",
+    "winner": "Md. Ghulam Rabbani",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-31",
+    "constituency_name": "Chakulia",
+    "winner": "Azad Minhajul Arfin",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-32",
+    "constituency_name": "Karandighi",
+    "winner": "Goutam Paul",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-33",
+    "constituency_name": "Hemtabad",
+    "winner": "Satyajit Barman",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-34",
+    "constituency_name": "Kaliaganj",
+    "winner": "Soumen Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-35",
+    "constituency_name": "Raiganj",
+    "winner": "Krishna Kalyani",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Uttar Dinajpur",
+    "constituency_code": "AC-WB-36",
+    "constituency_name": "Itahar",
+    "winner": "Mosaraf Hussen",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-37",
+    "constituency_name": "Kushmandi",
+    "winner": "Rekha Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-38",
+    "constituency_name": "Kumarganj",
+    "winner": "Toraf Hossain Mandal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-39",
+    "constituency_name": "Balurghat",
+    "winner": "Ashok Kumar Lahiri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-40",
+    "constituency_name": "Tapan",
+    "winner": "Budhrai Tudu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-41",
+    "constituency_name": "Gangarampur",
+    "winner": "Satyendra Nath Ray",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Dakshin Dinajpur",
+    "constituency_code": "AC-WB-42",
+    "constituency_name": "Harirampur",
+    "winner": "Biplab Mitra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-43",
+    "constituency_name": "Habibpur",
+    "winner": "Joyel Murmu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-44",
+    "constituency_name": "Gazole",
+    "winner": "Chinmoy Deb Barman",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-45",
+    "constituency_name": "Chanchal",
+    "winner": "Nihar Ranjan Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-46",
+    "constituency_name": "Harischandrapur",
+    "winner": "Tajmul Hossain",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-47",
+    "constituency_name": "Malatipur",
+    "winner": "Abdur Rahim Boxi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-48",
+    "constituency_name": "Ratua",
+    "winner": "Samar Mukherjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-49",
+    "constituency_name": "Manikchak",
+    "winner": "Sabitri Mitra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-50",
+    "constituency_name": "Maldaha",
+    "winner": "Gopal Chandra Saha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-51",
+    "constituency_name": "English Bazar",
+    "winner": "Sreerupa Mitra Chaudhury",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-52",
+    "constituency_name": "Mothabari",
+    "winner": "Yeasmin Sabina",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-53",
+    "constituency_name": "Sujapur",
+    "winner": "Md Abdul Ghani",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Malda",
+    "constituency_code": "AC-WB-54",
+    "constituency_name": "Baisnabnagar",
+    "winner": "Chandana Sarkar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-55",
+    "constituency_name": "Farakka",
+    "winner": "Manirul Islam",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-56",
+    "constituency_name": "Samserganj",
+    "winner": "Amirul Islam",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-57",
+    "constituency_name": "Suti",
+    "winner": "Emani Biswas",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-58",
+    "constituency_name": "Jangipur",
+    "winner": "Zakir Hossain",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-59",
+    "constituency_name": "Raghunathganj",
+    "winner": "Akhruzzaman",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-60",
+    "constituency_name": "Sagardighi",
+    "winner": "Subrata Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-61",
+    "constituency_name": "Lalgola",
+    "winner": "Ali Mohammad",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-62",
+    "constituency_name": "Bhagawangola",
+    "winner": "Idris Ali",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-63",
+    "constituency_name": "Raninagar",
+    "winner": "Abdul Soumik Hossain",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-64",
+    "constituency_name": "Murshidabad",
+    "winner": "Gouri Sankar Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-65",
+    "constituency_name": "Nabagram",
+    "winner": "Kanai Chandra Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-66",
+    "constituency_name": "Khargram",
+    "winner": "Ashis Marjit",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-67",
+    "constituency_name": "Burwan",
+    "winner": "Jiban Krishna Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-68",
+    "constituency_name": "Kandi",
+    "winner": "Apurba Sarkar (David)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-69",
+    "constituency_name": "Bharatpur",
+    "winner": "Humayun Kabir",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-70",
+    "constituency_name": "Rejinagar",
+    "winner": "Rabiul Alam Chowdhury",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-71",
+    "constituency_name": "Beldanga",
+    "winner": "Hasanuzzaman Sk",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-72",
+    "constituency_name": "Baharampur",
+    "winner": "Subrata Maitra (Kanchan)",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-73",
+    "constituency_name": "Hariharpara",
+    "winner": "Niamot Sheikh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-74",
+    "constituency_name": "Nowda",
+    "winner": "Sahina Momtaz Khan",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-75",
+    "constituency_name": "Domkal",
+    "winner": "Jafikul Islam",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Murshidabad",
+    "constituency_code": "AC-WB-76",
+    "constituency_name": "Jalangi",
+    "winner": "Abdur Razzak",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-77",
+    "constituency_name": "Karimpur",
+    "winner": "Bimalendu Sinha Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-78",
+    "constituency_name": "Tehatta",
+    "winner": "Tapas Kumar Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-79",
+    "constituency_name": "Palashipara",
+    "winner": "Dr. Manik Bhattacharya",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-80",
+    "constituency_name": "Kaliganj",
+    "winner": "Nasiruddin Ahamed (Lal)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-81",
+    "constituency_name": "Nakashipara",
+    "winner": "Kallol Khan",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-82",
+    "constituency_name": "Chapra",
+    "winner": "Rukbanur Rahman",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-83",
+    "constituency_name": "Krishnanagar Uttar",
+    "winner": "Mukul Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-84",
+    "constituency_name": "Nabadwip",
+    "winner": "Pundarikakshya Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-85",
+    "constituency_name": "Krishnanagar Dakshin",
+    "winner": "Ujjal Biswas",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-86",
+    "constituency_name": "Santipur",
+    "winner": "Jagannath Sarkar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-87",
+    "constituency_name": "Ranaghat Uttar Paschim",
+    "winner": "Parthasarathi Chatterjee",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-88",
+    "constituency_name": "Krishnaganj",
+    "winner": "Ashis Kumar Biswas",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-89",
+    "constituency_name": "Ranaghat Uttar Purba",
+    "winner": "Ashim Biswas",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-90",
+    "constituency_name": "Ranaghat Dakshin",
+    "winner": "Mukut Mani Adhikari",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-91",
+    "constituency_name": "Chakdaha",
+    "winner": "Bankim Chandra Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-92",
+    "constituency_name": "Kalyani",
+    "winner": "Ambika Roy",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Nadia",
+    "constituency_code": "AC-WB-93",
+    "constituency_name": "Haringhata",
+    "winner": "Asim Kumar Sarkar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-94",
+    "constituency_name": "Bagda",
+    "winner": "Biswajit Das",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-95",
+    "constituency_name": "Bangaon Uttar",
+    "winner": "Ashok Kirtania",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-96",
+    "constituency_name": "Bangaon Dakshin",
+    "winner": "Swapan Majumder",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-97",
+    "constituency_name": "Gaighata",
+    "winner": "Subrata Thakur",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-98",
+    "constituency_name": "Swarupnagar",
+    "winner": "Bina Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-99",
+    "constituency_name": "Baduria",
+    "winner": "Abdur Rahim Quazi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-100",
+    "constituency_name": "Habra",
+    "winner": "Jyoti Priya Mallick",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-101",
+    "constituency_name": "Ashoknagar",
+    "winner": "Narayan Goswami",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-102",
+    "constituency_name": "Amdanga",
+    "winner": "Rafiqur Rahaman",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-103",
+    "constituency_name": "Bijpur",
+    "winner": "Subodh Adhikary",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-104",
+    "constituency_name": "Naihati",
+    "winner": "Partha Bhowmick",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-105",
+    "constituency_name": "Bhatpara",
+    "winner": "Pawan Kumar Singh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-106",
+    "constituency_name": "Jagatdal",
+    "winner": "Somenath Shyam Ichini",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-107",
+    "constituency_name": "Noapara",
+    "winner": "Manju Basu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-108",
+    "constituency_name": "Barrackpur",
+    "winner": "Raju Chakraborty (Raj)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-109",
+    "constituency_name": "Khardaha",
+    "winner": "Kajal Sinha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-110",
+    "constituency_name": "Dum Dum Uttar",
+    "winner": "Chandrima Bhattacharya",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-111",
+    "constituency_name": "Panihati",
+    "winner": "Nirmal Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-112",
+    "constituency_name": "Kamarhati",
+    "winner": "Madan Mitra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-113",
+    "constituency_name": "Baranagar",
+    "winner": "Tapas Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-114",
+    "constituency_name": "Dum Dum",
+    "winner": "Bratya Basu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-115",
+    "constituency_name": "Rajarhat New Town",
+    "winner": "Tapash Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-116",
+    "constituency_name": "Bidhannagar",
+    "winner": "Sujit Bose",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-117",
+    "constituency_name": "Rajarhat Gopalpur",
+    "winner": "Aditi Munshi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-118",
+    "constituency_name": "Madhyamgram",
+    "winner": "Rathin Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-119",
+    "constituency_name": "Barasat",
+    "winner": "Chiranjeet Chakrabarti",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-120",
+    "constituency_name": "Deganga",
+    "winner": "Rahima Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-121",
+    "constituency_name": "Haroa",
+    "winner": "Islam Sk Nurul (Haji)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-122",
+    "constituency_name": "Minakhan",
+    "winner": "Usha Rani Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-123",
+    "constituency_name": "Sandeshkhali",
+    "winner": "Sukumar Mahata",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-124",
+    "constituency_name": "Basirhat Dakshin",
+    "winner": "Dr. Saptarshi Banerjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-125",
+    "constituency_name": "Basirhat Uttar",
+    "winner": "Rafikul Islam Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "North 24 Parganas",
+    "constituency_code": "AC-WB-126",
+    "constituency_name": "Hingalganj",
+    "winner": "Debes Mandal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-127",
+    "constituency_name": "Gosaba",
+    "winner": "Jayanta Naskar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-128",
+    "constituency_name": "Basanti",
+    "winner": "Shyamal Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-129",
+    "constituency_name": "Kultali",
+    "winner": "Ganesh Chandra Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-130",
+    "constituency_name": "Patharpratima",
+    "winner": "Samir Kumar Jana",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-131",
+    "constituency_name": "Kakdwip",
+    "winner": "Manturam Pakhira",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-132",
+    "constituency_name": "Sagar",
+    "winner": "Bankim Chandra Hazra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-133",
+    "constituency_name": "Kulpi",
+    "winner": "Jogaranjan Halder",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-134",
+    "constituency_name": "Raidighi",
+    "winner": "Aloke Jaldata",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-135",
+    "constituency_name": "Mandirbazar",
+    "winner": "Joydeb Halder",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-136",
+    "constituency_name": "Jaynagar",
+    "winner": "Biswanath Das",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-137",
+    "constituency_name": "Baruipur Purba",
+    "winner": "Bivas Sardar (Vobo)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-138",
+    "constituency_name": "Canning Paschim",
+    "winner": "Paresh Ram Das",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-139",
+    "constituency_name": "Canning Purba",
+    "winner": "Saokat Molla",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-140",
+    "constituency_name": "Baruipur Paschim",
+    "winner": "Biman Banerjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-141",
+    "constituency_name": "Magrahat Purba",
+    "winner": "Namita Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-142",
+    "constituency_name": "Magrahat Paschim",
+    "winner": "Gias Uddin Molla",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-143",
+    "constituency_name": "Diamond Harbour",
+    "winner": "Pannalal Halder",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-144",
+    "constituency_name": "Falta",
+    "winner": "Sankar Kumar Naskar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-145",
+    "constituency_name": "Satgachhia",
+    "winner": "Mohan Chandra Naskar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-146",
+    "constituency_name": "Bishnupur",
+    "winner": "Dilip Mondal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-147",
+    "constituency_name": "Sonarpur Dakshin",
+    "winner": "Arundhuti Maitra (Lovely)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-148",
+    "constituency_name": "Bhangar",
+    "winner": "Md. Nawsad Siddique",
+    "party": "Indian Secular Front"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-149",
+    "constituency_name": "Kasba",
+    "winner": "Ahmed Javed Khan",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-150",
+    "constituency_name": "Jadavpur",
+    "winner": "Debabrata Majumdar (Malay)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-151",
+    "constituency_name": "Sonarpur Uttar",
+    "winner": "Firdousi Begum",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-152",
+    "constituency_name": "Tollyganj",
+    "winner": "Aroop Biswas",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-153",
+    "constituency_name": "Behala Purba",
+    "winner": "Ratna Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-154",
+    "constituency_name": "Behala Paschim",
+    "winner": "Partha Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-155",
+    "constituency_name": "Maheshtala",
+    "winner": "Dulal Chandra Das",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-156",
+    "constituency_name": "Budge Budge",
+    "winner": "Ashok Kumar Deb",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "South 24 Parganas",
+    "constituency_code": "AC-WB-157",
+    "constituency_name": "Metiaburuz",
+    "winner": "Abdul Khaleque Molla",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-158",
+    "constituency_name": "Kolkata Port",
+    "winner": "Firhad Hakim",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-159",
+    "constituency_name": "Bhabanipur",
+    "winner": "Sobhandeb Chattopadhyay",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-160",
+    "constituency_name": "Rashbehari",
+    "winner": "Debasish Kumar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-161",
+    "constituency_name": "Ballygunge",
+    "winner": "Subrata Mukherjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-162",
+    "constituency_name": "Chowrangee",
+    "winner": "Bandyopadhyay Nayna",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-163",
+    "constituency_name": "Entally",
+    "winner": "Swarna Kamal Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-164",
+    "constituency_name": "Beleghata",
+    "winner": "Paresh Paul",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-165",
+    "constituency_name": "Jorasanko",
+    "winner": "Vivek Gupta",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-166",
+    "constituency_name": "Shyampukur",
+    "winner": "Dr. Shashi Panja",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-167",
+    "constituency_name": "Maniktala",
+    "winner": "Sadhan Pande",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "constituency_code": "AC-WB-168",
+    "constituency_name": "Kashipur-Belgachhia",
+    "winner": "Atin Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-169",
+    "constituency_name": "Bally",
+    "winner": "Rana Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-170",
+    "constituency_name": "Howrah Uttar",
+    "winner": "Gautam Chowdhuri",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-171",
+    "constituency_name": "Howrah Madhya",
+    "winner": "Arup Roy, S/O Late Prabhat Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-172",
+    "constituency_name": "Shibpur",
+    "winner": "Manoj Tiwary",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-173",
+    "constituency_name": "Howrah Dakshin",
+    "winner": "Nandita Chowdhury",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-174",
+    "constituency_name": "Sankrail",
+    "winner": "Priya Paul",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-175",
+    "constituency_name": "Panchla",
+    "winner": "Gulsan Mullick",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-176",
+    "constituency_name": "Uluberia Purba",
+    "winner": "Bidesh Ranjan Bose",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-177",
+    "constituency_name": "Uluberia Uttar",
+    "winner": "Dr. Nirmal Maji",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-178",
+    "constituency_name": "Uluberia Dakshin",
+    "winner": "Pulak Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-179",
+    "constituency_name": "Shyampur",
+    "winner": "Kalipada Mandal",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-180",
+    "constituency_name": "Bagnan",
+    "winner": "Arunava Sen (Raja)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-181",
+    "constituency_name": "Amta",
+    "winner": "Sukanta Kumar Paul",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-182",
+    "constituency_name": "Udaynarayanpur",
+    "winner": "Samir Kumar Panja",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-183",
+    "constituency_name": "Jagatballavpur",
+    "winner": "Sitanath Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Howrah",
+    "constituency_code": "AC-WB-184",
+    "constituency_name": "Domjur",
+    "winner": "Kalyan Ghosh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-185",
+    "constituency_name": "Uttarpara",
+    "winner": "Kanchan Mullick",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-186",
+    "constituency_name": "Sreerampur",
+    "winner": "Dr. Sudipto Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-187",
+    "constituency_name": "Champdani",
+    "winner": "Arindam Guin (Bubai)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-188",
+    "constituency_name": "Singur",
+    "winner": "Becharam Manna",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-189",
+    "constituency_name": "Chandannagar",
+    "winner": "Indranil Sen",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-190",
+    "constituency_name": "Chunchura",
+    "winner": "Asit Mazumder (Tapan)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-191",
+    "constituency_name": "Balagarh",
+    "winner": "Manoranjan Bapari",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-192",
+    "constituency_name": "Pandua",
+    "winner": "Dr. Ratna De Nag",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-193",
+    "constituency_name": "Saptagram",
+    "winner": "Tapan Dasgupta",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-194",
+    "constituency_name": "Chanditala",
+    "winner": "Swati Khandoker",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-195",
+    "constituency_name": "Jangipara",
+    "winner": "Snehasis Chakraborty",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-196",
+    "constituency_name": "Haripal",
+    "winner": "Dr. Karabi Manna",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-197",
+    "constituency_name": "Dhanekhali",
+    "winner": "Asima Patra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-198",
+    "constituency_name": "Tarakeswar",
+    "winner": "Ramendu Sinharay",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-199",
+    "constituency_name": "Pursurah",
+    "winner": "Biman Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-200",
+    "constituency_name": "Arambag",
+    "winner": "Madhusudan Bag",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-201",
+    "constituency_name": "Goghat",
+    "winner": "Biswanath Karak",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Hooghly",
+    "constituency_code": "AC-WB-202",
+    "constituency_name": "Khanakul",
+    "winner": "Susanta Ghosh",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-203",
+    "constituency_name": "Tamluk",
+    "winner": "Saumen Kumar Mahapatra",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-204",
+    "constituency_name": "Panskura Purba",
+    "winner": "Biplab Roy Chowdhury",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-205",
+    "constituency_name": "Panskura Paschim",
+    "winner": "Phiroja Bibi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-206",
+    "constituency_name": "Moyna",
+    "winner": "Ashoke Dinda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-207",
+    "constituency_name": "Nandakumar",
+    "winner": "Sukumar De",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-208",
+    "constituency_name": "Mahisadal",
+    "winner": "Tilak Kumar Chakraborty",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-209",
+    "constituency_name": "Haldia",
+    "winner": "Tapasi Mondal",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-210",
+    "constituency_name": "Nandigram",
+    "winner": "Adhikari Suvendu",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-211",
+    "constituency_name": "Chandipur",
+    "winner": "Soham Chakraborty",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-212",
+    "constituency_name": "Patashpur",
+    "winner": "Uttam Barik",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-213",
+    "constituency_name": "Kanthi Uttar",
+    "winner": "Sumita Sinha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-214",
+    "constituency_name": "Bhagabanpur",
+    "winner": "Rabindranath Maity",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-215",
+    "constituency_name": "Khejuri",
+    "winner": "Santanu Pramanik",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-216",
+    "constituency_name": "Kanthi Dakshin",
+    "winner": "Arup Kumar Das",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-217",
+    "constituency_name": "Ramnagar",
+    "winner": "Akhil Giri",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Medinipur",
+    "constituency_code": "AC-WB-218",
+    "constituency_name": "Egra",
+    "winner": "Tarun Kumar Maity",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-219",
+    "constituency_name": "Dantan",
+    "winner": "Bikram Chandra Pradhan",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jhargram",
+    "constituency_code": "AC-WB-220",
+    "constituency_name": "Nayagram",
+    "winner": "Dulal Murmu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jhargram",
+    "constituency_code": "AC-WB-221",
+    "constituency_name": "Gopiballavpur",
+    "winner": "Dr. Khagendra Nath Mahata",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jhargram",
+    "constituency_code": "AC-WB-222",
+    "constituency_name": "Jhargram",
+    "winner": "Birbaha Hansda",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-223",
+    "constituency_name": "Keshiary",
+    "winner": "Paresh Murmu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-224",
+    "constituency_name": "Kharagpur Sadar",
+    "winner": "Hiranmoy Chattopadhyaya",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-225",
+    "constituency_name": "Narayangarh",
+    "winner": "Atta Surja Kanta",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-226",
+    "constituency_name": "Sabang",
+    "winner": "Manas Ranjan Bhunia",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-227",
+    "constituency_name": "Pingla",
+    "winner": "Ajit Maity",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-228",
+    "constituency_name": "Kharagpur",
+    "winner": "Dinen Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-229",
+    "constituency_name": "Debra",
+    "winner": "Humayun Kabir",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-230",
+    "constituency_name": "Daspur",
+    "winner": "Mamata Bhunia",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-231",
+    "constituency_name": "Ghatal",
+    "winner": "Sital Kapat",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-232",
+    "constituency_name": "Chandrakona",
+    "winner": "Arup Dhara",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-233",
+    "constituency_name": "Garbeta",
+    "winner": "Uttara Singha (Hazra)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-234",
+    "constituency_name": "Salboni",
+    "winner": "Srikanta Mahata",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-235",
+    "constituency_name": "Keshpur",
+    "winner": "Seuli Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Medinipur",
+    "constituency_code": "AC-WB-236",
+    "constituency_name": "Medinipur",
+    "winner": "June Maliah",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Jhargram",
+    "constituency_code": "AC-WB-237",
+    "constituency_name": "Binpur",
+    "winner": "Debnath Hansda",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-238",
+    "constituency_name": "Bandwan",
+    "winner": "Rajib Lochan Saren",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-239",
+    "constituency_name": "Balarampur",
+    "winner": "Baneswar Mahato",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-240",
+    "constituency_name": "Baghmundi",
+    "winner": "Sushanta Mahato",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-241",
+    "constituency_name": "Joypur",
+    "winner": "Nara Hari Mahato",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-242",
+    "constituency_name": "Purulia",
+    "winner": "Sudip Kumar Mukherjee",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-243",
+    "constituency_name": "Manbazar",
+    "winner": "Sandhyarani Tudu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-244",
+    "constituency_name": "Kashipur",
+    "winner": "Kamalakanta Hansda",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-245",
+    "constituency_name": "Para",
+    "winner": "Nadiar Chand Bouri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purulia",
+    "constituency_code": "AC-WB-246",
+    "constituency_name": "Raghunathpur",
+    "winner": "Vivekananda Bauri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-247",
+    "constituency_name": "Saltora",
+    "winner": "Bauri Chandana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-248",
+    "constituency_name": "Chhatna",
+    "winner": "Satyanarayan Mukhopadhyay",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-249",
+    "constituency_name": "Ranibandh",
+    "winner": "Jyotsna Mandi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-250",
+    "constituency_name": "Raipur",
+    "winner": "Mrityunjoy Murmu",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-251",
+    "constituency_name": "Taldangra",
+    "winner": "Arup Chakraborty",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-252",
+    "constituency_name": "Bankura",
+    "winner": "Niladri Sekhar Dana",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-253",
+    "constituency_name": "Barjora",
+    "winner": "Alok Mukherjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-254",
+    "constituency_name": "Onda",
+    "winner": "Amarnath Shakha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-255",
+    "constituency_name": "Bishnupur",
+    "winner": "Tanmay Ghosh (Bumba)",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-256",
+    "constituency_name": "Katulpur",
+    "winner": "Harakali Protiher",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-257",
+    "constituency_name": "Indus",
+    "winner": "Nirmal Kumar Dhara",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Bankura",
+    "constituency_code": "AC-WB-258",
+    "constituency_name": "Sonamukhi",
+    "winner": "Dibakar Gharami",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-259",
+    "constituency_name": "Khandaghosh",
+    "winner": "Nabin Chandra Bag",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-260",
+    "constituency_name": "Bardhaman Dakshin",
+    "winner": "Khokan Das",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-261",
+    "constituency_name": "Raina",
+    "winner": "Shampa Dhara",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-262",
+    "constituency_name": "Jamalpur",
+    "winner": "Alok Kumar Majhi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-263",
+    "constituency_name": "Monteswar",
+    "winner": "Chowdhury Siddiqullah",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-264",
+    "constituency_name": "Kalna",
+    "winner": "Deboprasad Bag (Poltu)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-265",
+    "constituency_name": "Memari",
+    "winner": "Madhusudan Bhattacharya",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-266",
+    "constituency_name": "Bardhaman Uttar",
+    "winner": "Nisith Kumar Malik",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-267",
+    "constituency_name": "Bhatar",
+    "winner": "Adhikari Mangobinda",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-268",
+    "constituency_name": "Purbasthali Dakshin",
+    "winner": "Swapan Debnath",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-269",
+    "constituency_name": "Purbasthali Uttar",
+    "winner": "Tapan Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-270",
+    "constituency_name": "Katwa",
+    "winner": "Rabindranath Chatterjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-271",
+    "constituency_name": "Ketugram",
+    "winner": "Sekh Sahonawez",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-272",
+    "constituency_name": "Mangalkot",
+    "winner": "Apurba Chowdhury (Achal)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-273",
+    "constituency_name": "Ausgram",
+    "winner": "Abhedananda Thander",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Purba Bardhaman",
+    "constituency_code": "AC-WB-274",
+    "constituency_name": "Galsi",
+    "winner": "Nepal Ghorui",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-275",
+    "constituency_name": "Pandabeswar",
+    "winner": "Narendranath Chakraborty",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-276",
+    "constituency_name": "Durgapur Purba",
+    "winner": "Pradip Mazumdar",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-277",
+    "constituency_name": "Durgapur Paschim",
+    "winner": "Lakshman Chandra Ghorui",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-278",
+    "constituency_name": "Raniganj",
+    "winner": "Tapas Banerjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-279",
+    "constituency_name": "Jamuria",
+    "winner": "Hareram Singh",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-280",
+    "constituency_name": "Asansol Dakshin",
+    "winner": "Agnimitra Paul",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-281",
+    "constituency_name": "Asansol Uttar",
+    "winner": "Ghatak Moloy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-282",
+    "constituency_name": "Kulti",
+    "winner": "Ajay Kumar Poddar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "constituency_code": "AC-WB-283",
+    "constituency_name": "Barabani",
+    "winner": "Bidhan Upadhyay",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-284",
+    "constituency_name": "Dubrajpur",
+    "winner": "Anup Kumar Saha",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-285",
+    "constituency_name": "Suri",
+    "winner": "Bikash Roychoudhury",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-286",
+    "constituency_name": "Bolpur",
+    "winner": "Sinha Chandranath",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-287",
+    "constituency_name": "Nanoor",
+    "winner": "Bidhan Chandra Majhi",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-288",
+    "constituency_name": "Labpur",
+    "winner": "Abhijit Sinha (Rana)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-289",
+    "constituency_name": "Sainthia",
+    "winner": "Nilabati Saha",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-290",
+    "constituency_name": "Mayureswar",
+    "winner": "Abhijit Roy",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-291",
+    "constituency_name": "Rampurhat",
+    "winner": "Asish Banerjee",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-292",
+    "constituency_name": "Hansan",
+    "winner": "Dr. Asok Kumar Chattopadhyay",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-293",
+    "constituency_name": "Nalhati",
+    "winner": "Rajendra Prasad Singh (Raju Singh)",
+    "party": "All India Trinamool Congress"
+  },
+  {
+    "state": "West Bengal",
+    "district": "Birbhum",
+    "constituency_code": "AC-WB-294",
+    "constituency_name": "Murarai",
+    "winner": "Dr. Mosarraf Hossain",
+    "party": "All India Trinamool Congress"
+  }
+]

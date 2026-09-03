@@ -1,0 +1,1122 @@
+[
+  {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "constituency_code": "AC-KL-1",
+    "constituency_name": "Manjeshwar",
+    "winner": "A. K. M. Ashraf",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "constituency_code": "AC-KL-2",
+    "constituency_name": "Kasaragod",
+    "winner": "N. A. Nellikkunnu",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "constituency_code": "AC-KL-3",
+    "constituency_name": "Udma",
+    "winner": "C. H. Kunhambu",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "constituency_code": "AC-KL-4",
+    "constituency_name": "Kanhangad",
+    "winner": "E. Chandrasekharan",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kasaragod",
+    "constituency_code": "AC-KL-5",
+    "constituency_name": "Thrikaripur",
+    "winner": "M. Rajagopalan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-6",
+    "constituency_name": "Payyanur",
+    "winner": "TI. Madhusoodanan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-7",
+    "constituency_name": "Kalliasseri",
+    "winner": "M. Vijin",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-8",
+    "constituency_name": "Taliparamba",
+    "winner": "M. V. Govindan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-9",
+    "constituency_name": "Irikkur",
+    "winner": "Sajeev Joseph",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-10",
+    "constituency_name": "Azhikode",
+    "winner": "K. V. Sumesh",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-11",
+    "constituency_name": "Kannur",
+    "winner": "Kadannappalli Ramachandran",
+    "party": "Cong(S)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-12",
+    "constituency_name": "Dharmadam",
+    "winner": "Pinarayi Vijayan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-13",
+    "constituency_name": "Thalassery",
+    "winner": "A. N. Shamseer",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-14",
+    "constituency_name": "Kuthuparamba",
+    "winner": "K. P. Mohanan",
+    "party": "LJD"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-15",
+    "constituency_name": "Mattannur",
+    "winner": "K. K. Shailaja",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kannur",
+    "constituency_code": "AC-KL-16",
+    "constituency_name": "Peravoor",
+    "winner": "Sunny Joseph",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Wayanad",
+    "constituency_code": "AC-KL-17",
+    "constituency_name": "Mananthavady",
+    "winner": "O. R. Kelu",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Wayanad",
+    "constituency_code": "AC-KL-18",
+    "constituency_name": "Sulthan Bathery",
+    "winner": "I. C. Balakrishnan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Wayanad",
+    "constituency_code": "AC-KL-19",
+    "constituency_name": "Kalpetta",
+    "winner": "T. Siddique",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-20",
+    "constituency_name": "Vadakara",
+    "winner": "K. K. Rema",
+    "party": "RMPI"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-21",
+    "constituency_name": "Kuttiady",
+    "winner": "K. P. Kunhammadkutty",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-22",
+    "constituency_name": "Nadapuram",
+    "winner": "E. K. Vijayan",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-23",
+    "constituency_name": "Koyilandy",
+    "winner": "Kanathil Jameela",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-24",
+    "constituency_name": "Perambra",
+    "winner": "T. P. Ramakrishnan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-25",
+    "constituency_name": "Balussery",
+    "winner": "K. M. Sachin Dev",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-26",
+    "constituency_name": "Elathur",
+    "winner": "A. K. Saseendran",
+    "party": "Nationalist Congress Party"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-27",
+    "constituency_name": "Kozhikode North",
+    "winner": "Thottathil Raveendran",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-28",
+    "constituency_name": "Kozhikode South",
+    "winner": "Ahamed Devarkovil",
+    "party": "INL"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-29",
+    "constituency_name": "Beypore",
+    "winner": "P. A. Mohammed Riyas",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-30",
+    "constituency_name": "Kunnamangalam",
+    "winner": "P. T. A. Rahim",
+    "party": "Independent"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-31",
+    "constituency_name": "Koduvally",
+    "winner": "M. K. Muneer",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kozhikode",
+    "constituency_code": "AC-KL-32",
+    "constituency_name": "Thiruvambady",
+    "winner": "Linto Joseph",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-33",
+    "constituency_name": "Kondotty",
+    "winner": "T. V. Ibrahim",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-34",
+    "constituency_name": "Eranad",
+    "winner": "P. K. Basheer",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-35",
+    "constituency_name": "Nilambur",
+    "winner": "P. V. Anvar",
+    "party": "Independent"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-36",
+    "constituency_name": "Wandoor",
+    "winner": "A. P. Anil Kumar",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-37",
+    "constituency_name": "Manjeri",
+    "winner": "U. A. Latheef",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-38",
+    "constituency_name": "Perinthalmanna",
+    "winner": "Najeeb Kanthapuram",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-39",
+    "constituency_name": "Mankada",
+    "winner": "Manjalamkuzhi Ali",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-40",
+    "constituency_name": "Malappuram",
+    "winner": "P. Ubaidulla",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-41",
+    "constituency_name": "Vengara",
+    "winner": "P. K. Kunhalikutty",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-42",
+    "constituency_name": "Vallikkunnu",
+    "winner": "P. Abdul Hameed",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-43",
+    "constituency_name": "Tirurangadi",
+    "winner": "K. P. A. Majeed",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-44",
+    "constituency_name": "Tanur",
+    "winner": "V. Abdurahman",
+    "party": "National Secular Conference"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-45",
+    "constituency_name": "Tirur",
+    "winner": "Kurukkoli Moideen",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-46",
+    "constituency_name": "Kottakkal",
+    "winner": "K. K. Abid Hussain Thangal",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-47",
+    "constituency_name": "Thavanur",
+    "winner": "K. T. Jaleel",
+    "party": "Independent"
+  },
+  {
+    "state": "Kerala",
+    "district": "Malappuram",
+    "constituency_code": "AC-KL-48",
+    "constituency_name": "Ponnani",
+    "winner": "P. Nandakumar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-49",
+    "constituency_name": "Thrithala",
+    "winner": "M. B. Rajesh",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-50",
+    "constituency_name": "Pattambi",
+    "winner": "Muhammed Muhsin",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-51",
+    "constituency_name": "Shornur",
+    "winner": "P. Mammikutty",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-52",
+    "constituency_name": "Ottapalam",
+    "winner": "K. Premkumar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-53",
+    "constituency_name": "Kongad",
+    "winner": "K. Shanthakumari",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-54",
+    "constituency_name": "Mannarkkad",
+    "winner": "N. Shamsudheen",
+    "party": "Indian Union Muslim League"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-55",
+    "constituency_name": "Malampuzha",
+    "winner": "A. Prabhakaran",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-56",
+    "constituency_name": "Palakkad",
+    "winner": "Shafi Parambil",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-57",
+    "constituency_name": "Tarur",
+    "winner": "P. P. Sumod",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-58",
+    "constituency_name": "Chittur",
+    "winner": "K. Krishnankutty",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-59",
+    "constituency_name": "Nenmara",
+    "winner": "K. Babu",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Palakkad",
+    "constituency_code": "AC-KL-60",
+    "constituency_name": "Alathur",
+    "winner": "K. D. Prasenan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-61",
+    "constituency_name": "Chelakkara",
+    "winner": "K. Radhakrishnan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-62",
+    "constituency_name": "Kunnamkulam",
+    "winner": "A. C. Moideen",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-63",
+    "constituency_name": "Guruvayur",
+    "winner": "N. K. Akbar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-64",
+    "constituency_name": "Manalur",
+    "winner": "Murali Perunelly",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-65",
+    "constituency_name": "Wadakkanchery",
+    "winner": "Xavier Chittilappilly",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-66",
+    "constituency_name": "Ollur",
+    "winner": "K. Rajan",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-67",
+    "constituency_name": "Thrissur",
+    "winner": "P. Balachandran",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-68",
+    "constituency_name": "Nattika",
+    "winner": "C. C. Mukundan",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-69",
+    "constituency_name": "Kaipamangalam",
+    "winner": "E. T. Taison",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-70",
+    "constituency_name": "Irinjalakuda",
+    "winner": "R. Bindu",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-71",
+    "constituency_name": "Puthukkad",
+    "winner": "K. K. Ramachandran",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-72",
+    "constituency_name": "Chalakudy",
+    "winner": "T. J. Saneesh Kumar Joseph",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thrissur",
+    "constituency_code": "AC-KL-73",
+    "constituency_name": "Kodungallur",
+    "winner": "V. R. Sunil Kumar",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-74",
+    "constituency_name": "Perumbavoor",
+    "winner": "Eldhose Kunnappilly",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-75",
+    "constituency_name": "Angamaly",
+    "winner": "Roji M. John",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-76",
+    "constituency_name": "Aluva",
+    "winner": "Anwar Sadath",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-77",
+    "constituency_name": "Kalamassery",
+    "winner": "P. Rajeev",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-78",
+    "constituency_name": "Paravur",
+    "winner": "V. D. Satheesan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-79",
+    "constituency_name": "Vypin",
+    "winner": "K. N. Unnikrishnan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-80",
+    "constituency_name": "Kochi",
+    "winner": "K. J. Maxi",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-81",
+    "constituency_name": "Thrippunithura",
+    "winner": "K. Babu",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-82",
+    "constituency_name": "Ernakulam",
+    "winner": "T. J. Vinod",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-83",
+    "constituency_name": "Thrikkakara",
+    "winner": "P. T. Thomas",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-84",
+    "constituency_name": "Kunnathunad",
+    "winner": "P. V. Sreenijin",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-85",
+    "constituency_name": "Piravom",
+    "winner": "Anoop Jacob",
+    "party": "Kerala Congress (Jacob)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-86",
+    "constituency_name": "Muvattupuzha",
+    "winner": "Mathew Kuzhalnadan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "constituency_code": "AC-KL-87",
+    "constituency_name": "Kothamangalam",
+    "winner": "Antony John",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Idukki",
+    "constituency_code": "AC-KL-88",
+    "constituency_name": "Devikulam",
+    "winner": "A. Raja",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Idukki",
+    "constituency_code": "AC-KL-89",
+    "constituency_name": "Udumbanchola",
+    "winner": "M. M. Mani",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Idukki",
+    "constituency_code": "AC-KL-90",
+    "constituency_name": "Thodupuzha",
+    "winner": "P. J. Joseph",
+    "party": "KEC"
+  },
+  {
+    "state": "Kerala",
+    "district": "Idukki",
+    "constituency_code": "AC-KL-91",
+    "constituency_name": "Idukki",
+    "winner": "Roshy Augustine",
+    "party": "Kerala Congress (M)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Idukki",
+    "constituency_code": "AC-KL-92",
+    "constituency_name": "Peerumade",
+    "winner": "Vazhoor Soman",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-93",
+    "constituency_name": "Pala",
+    "winner": "Mani C. Kappan",
+    "party": "KDP"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-94",
+    "constituency_name": "Kaduthuruthy",
+    "winner": "Monce Joseph",
+    "party": "KEC"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-95",
+    "constituency_name": "Vaikom",
+    "winner": "C. K. Asha",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-96",
+    "constituency_name": "Ettumanoor",
+    "winner": "V. N. Vasavan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-97",
+    "constituency_name": "Kottayam",
+    "winner": "Thiruvanchoor Radhakrishnan",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-98",
+    "constituency_name": "Puthuppally",
+    "winner": "Oommen Chandy",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-99",
+    "constituency_name": "Changanassery",
+    "winner": "Job Michael",
+    "party": "Kerala Congress (M)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-100",
+    "constituency_name": "Kanjirappally",
+    "winner": "N. Jayaraj",
+    "party": "Kerala Congress (M)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kottayam",
+    "constituency_code": "AC-KL-101",
+    "constituency_name": "Poonjar",
+    "winner": "Sebastian Kulathunkal",
+    "party": "Kerala Congress (M)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-102",
+    "constituency_name": "Aroor",
+    "winner": "Daleema Jojo",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-103",
+    "constituency_name": "Cherthala",
+    "winner": "P. Prasad",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-104",
+    "constituency_name": "Alappuzha",
+    "winner": "P. P. Chitharanjan",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-105",
+    "constituency_name": "Ambalappuzha",
+    "winner": "H. Salam",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-106",
+    "constituency_name": "Kuttanad",
+    "winner": "Thomas K. Thomas",
+    "party": "Nationalist Congress Party"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-107",
+    "constituency_name": "Haripad",
+    "winner": "Ramesh Chennithala",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-108",
+    "constituency_name": "Kayamkulam",
+    "winner": "U. Prathibha",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-109",
+    "constituency_name": "Mavelikara",
+    "winner": "M. S. Arun Kumar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "constituency_code": "AC-KL-110",
+    "constituency_name": "Chengannur",
+    "winner": "Saji Cherian",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "constituency_code": "AC-KL-111",
+    "constituency_name": "Thiruvalla",
+    "winner": "Mathew T. Thomas",
+    "party": "Janata Dal (Secular)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "constituency_code": "AC-KL-112",
+    "constituency_name": "Ranni",
+    "winner": "Pramod Narayan",
+    "party": "Kerala Congress (M)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "constituency_code": "AC-KL-113",
+    "constituency_name": "Aranmula",
+    "winner": "Veena George",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "constituency_code": "AC-KL-114",
+    "constituency_name": "Konni",
+    "winner": "K. U. Jenish Kumar",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Pathanamthitta",
+    "constituency_code": "AC-KL-115",
+    "constituency_name": "Adoor",
+    "winner": "Chittayam Gopakumar",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-116",
+    "constituency_name": "Karunagappally",
+    "winner": "C. R. Mahesh",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-117",
+    "constituency_name": "Chavara",
+    "winner": "Sujith Vijayanpillai",
+    "party": "Independent"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-118",
+    "constituency_name": "Kunnathur",
+    "winner": "Kovoor Kunjumon",
+    "party": "Independent"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-119",
+    "constituency_name": "Kottarakkara",
+    "winner": "K. N. Balagopal",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-120",
+    "constituency_name": "Pathanapuram",
+    "winner": "K. B. Ganesh Kumar",
+    "party": "Kerala Congress (B)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-121",
+    "constituency_name": "Punalur",
+    "winner": "P. S. Supal",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-122",
+    "constituency_name": "Chadayamangalam",
+    "winner": "J. Chinchu Rani",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-123",
+    "constituency_name": "Kundara",
+    "winner": "P. C. Vishnunath",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-124",
+    "constituency_name": "Kollam",
+    "winner": "Mukesh",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-125",
+    "constituency_name": "Eravipuram",
+    "winner": "M. Noushad",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Kollam",
+    "constituency_code": "AC-KL-126",
+    "constituency_name": "Chathannoor",
+    "winner": "G. S. Jayalal",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-127",
+    "constituency_name": "Varkala",
+    "winner": "V. Joy",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-128",
+    "constituency_name": "Attingal",
+    "winner": "O. S. Ambika",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-129",
+    "constituency_name": "Chirayinkeezhu",
+    "winner": "V. Sasi",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-130",
+    "constituency_name": "Nedumangad",
+    "winner": "G. R. Anil",
+    "party": "Communist Party of India"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-131",
+    "constituency_name": "Vamanapuram",
+    "winner": "D. K. Murali",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-132",
+    "constituency_name": "Kazhakootam",
+    "winner": "Kadakampally Surendran",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-133",
+    "constituency_name": "Vattiyoorkavu",
+    "winner": "V. K. Prasanth",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-134",
+    "constituency_name": "Thiruvananthapuram",
+    "winner": "Antony Raju",
+    "party": "JKC"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-135",
+    "constituency_name": "Nemom",
+    "winner": "V. Sivankutty",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-136",
+    "constituency_name": "Aruvikkara",
+    "winner": "G. Stephen",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-137",
+    "constituency_name": "Parassala",
+    "winner": "C. K. Hareendran",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-138",
+    "constituency_name": "Kattakkada",
+    "winner": "I. B. Sathish",
+    "party": "Communist Party of India (Marxist)"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-139",
+    "constituency_name": "Kovalam",
+    "winner": "M. Vincent",
+    "party": "Indian National Congress"
+  },
+  {
+    "state": "Kerala",
+    "district": "Thiruvananthapuram",
+    "constituency_code": "AC-KL-140",
+    "constituency_name": "Neyyattinkara",
+    "winner": "K. Ansalan",
+    "party": "Communist Party of India (Marxist)"
+  }
+]
