@@ -17,15 +17,11 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
             .sort((a, b) => a.localeCompare(b));
     }, [locations]);
 
-    const defaultState = states[0] || 'Maharashtra';
-    const defaultDistricts = Array.from(new Set(locations.filter(l => l.stateName === defaultState).map(l => l.districtName)))
-        .sort((a, b) => a.localeCompare(b));
-    const defaultDistrict = defaultDistricts[0] || '';
-    const defaultConsts = locations
-        .filter(l => l.stateName === defaultState && l.districtName === defaultDistrict)
-        .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
-        .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
-    const defaultConstituency = defaultConsts[0] || '';
+    // Default initial selection: Assam Chief Minister Himanta Biswa Sarma (Jalukbari, Kamrup Metropolitan)
+    // Ensures first impression has authentic leader profile with verified portrait
+    const defaultState = 'Assam';
+    const defaultDistrict = 'Kamrup Metropolitan';
+    const defaultConstituency = 'AC-AS-51 Jalukbari';
 
     const [selectedState, setSelectedState] = useState(defaultState);
     const [selectedDistrict, setSelectedDistrict] = useState(defaultDistrict);
@@ -51,21 +47,11 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
             .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
     }, [locations, selectedState, selectedDistrict]);
 
-    // Reset all selections to top default state
+    // Reset all selections to default Assam CM state
     const handleReset = () => {
-        const topState = states[0] || 'Maharashtra';
-        const topDistricts = Array.from(new Set(locations.filter(l => l.stateName === topState).map(l => l.districtName)))
-            .sort((a, b) => a.localeCompare(b));
-        const topDist = topDistricts[0] || '';
-        const topConsts = locations
-            .filter(l => l.stateName === topState && l.districtName === topDist)
-            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
-            .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
-        const topConst = topConsts[0] || '';
-
-        setSelectedState(topState);
-        setSelectedDistrict(topDist);
-        setSelectedConstituency(topConst);
+        setSelectedState(defaultState);
+        setSelectedDistrict(defaultDistrict);
+        setSelectedConstituency(defaultConstituency);
         setSearchQuery('');
         onSearch('');
         setShowSuggestions(false);
@@ -140,7 +126,10 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
         setShowSuggestions(false);
         onSearch(candidate.name);
         
-        const loc = locations.find(l => l.assemblyConstituencyName === candidate.constituencyName);
+        const loc = locations.find(l => 
+            l.assemblyConstituencyName === candidate.constituencyName && 
+            (!candidate.state || l.stateName === candidate.state)
+        );
         if (loc) {
             setSelectedState(loc.stateName);
             setSelectedDistrict(loc.districtName);

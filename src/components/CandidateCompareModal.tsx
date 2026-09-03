@@ -33,41 +33,45 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
         }
     }, [initialCandidateB]);
 
-    // Unique list of states
+    // Unique list of states sorted alphabetically
     const states = useMemo(() => {
-        const list = Array.from(new Set(allCandidates.map(c => c.state).filter(Boolean)));
+        const list = Array.from(new Set(allCandidates.map(c => c.state).filter(Boolean)))
+            .sort((a, b) => a.localeCompare(b));
         return ['All', ...list];
     }, [allCandidates]);
 
-    // Districts filtered by selected state
+    // Districts filtered by selected state and sorted alphabetically
     const districts = useMemo(() => {
         if (selectedState === 'All') return ['All'];
         const matchingLocs = locations.filter(l => l.stateName === selectedState);
-        const dists = Array.from(new Set(matchingLocs.map(l => l.districtName).filter(Boolean)));
+        const dists = Array.from(new Set(matchingLocs.map(l => l.districtName).filter(Boolean)))
+            .sort((a, b) => a.localeCompare(b));
         return ['All', ...dists];
     }, [selectedState, locations]);
 
-    // Filter available candidates for Candidate B selection
+    // Filter available candidates for Candidate B selection and sort alphabetically by leader name
     const filteredCandidatesB = useMemo(() => {
-        return allCandidates.filter(c => {
-            if (c.id === candidateA.id) return false;
-            if (selectedState !== 'All' && c.state !== selectedState) return false;
-            
-            if (selectedDistrict !== 'All') {
-                const loc = locations.find(l => l.assemblyConstituencyName === c.constituencyName);
-                if (loc && loc.districtName !== selectedDistrict) return false;
-            }
+        return allCandidates
+            .filter(c => {
+                if (c.id === candidateA.id) return false;
+                if (selectedState !== 'All' && c.state !== selectedState) return false;
+                
+                if (selectedDistrict !== 'All') {
+                    const loc = locations.find(l => l.assemblyConstituencyName === c.constituencyName && (!c.state || l.stateName === c.state));
+                    if (loc && loc.districtName !== selectedDistrict) return false;
+                }
 
-            if (searchQuery.trim().length > 0) {
-                const q = searchQuery.toLowerCase().trim();
-                const matchName = c.name.toLowerCase().includes(q);
-                const matchConst = c.constituencyName.toLowerCase().includes(q);
-                const matchParty = c.party.toLowerCase().includes(q);
-                if (!matchName && !matchConst && !matchParty) return false;
-            }
+                if (searchQuery.trim().length > 0) {
+                    const q = searchQuery.toLowerCase().trim();
+                    const matchName = c.name.toLowerCase().includes(q);
+                    const matchConst = c.constituencyName.toLowerCase().includes(q);
+                    const matchParty = c.party.toLowerCase().includes(q);
+                    if (!matchName && !matchConst && !matchParty) return false;
+                }
 
-            return true;
-        });
+                return true;
+            })
+            .sort((a, b) => a.name.localeCompare(b.name));
     }, [allCandidates, candidateA.id, selectedState, selectedDistrict, searchQuery, locations]);
 
     // Active candidate B computation

@@ -10,7 +10,9 @@ import { motion } from 'framer-motion';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
-  const [selectedLocation, setSelectedLocation] = useState<LocationHierarchy>(mockLocations[0]);
+  // Default landing location: Assam Chief Minister Himanta Biswa Sarma (Jalukbari, Kamrup Metropolitan)
+  const defaultLandingLoc = mockLocations.find(l => l.stateName === 'Assam' && l.assemblyConstituencyName === 'Jalukbari') || mockLocations[0];
+  const [selectedLocation, setSelectedLocation] = useState<LocationHierarchy>(defaultLandingLoc);
   const [searchQuery, setSearchQuery] = useState('');
   const [isCompareModalOpen, setIsCompareModalOpen] = useState(false);
 
@@ -46,7 +48,10 @@ function App() {
       }
     }
   } else {
-    const locationCandidates = Object.values(mockCandidates).filter(c => c.constituencyName === selectedLocation.assemblyConstituencyName);
+    const locationCandidates = Object.values(mockCandidates).filter(c => 
+      c.constituencyName === selectedLocation.assemblyConstituencyName &&
+      (!c.state || !selectedLocation.stateName || c.state === selectedLocation.stateName)
+    );
     
     if (locationCandidates.length > 0) {
       primaryCandidate = locationCandidates[0];
