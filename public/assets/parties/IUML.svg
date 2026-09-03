@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#15803D"/>
+  <!-- Crescent and Star -->
+  <path d="M52 26 C40 26 30 36 30 50 C30 64 40 74 52 74 C44 70 38 60 38 50 C38 40 44 30 52 26 Z" fill="#FFFFFF"/>
+  <polygon points="62,38 64,43 69,43 65,46 67,51 62,48 57,51 59,46 55,43 60,43" fill="#FFFFFF"/>
+  <!-- Ladder Symbol -->
+  <line x1="56" y1="52" x2="56" y2="76" stroke="#FFFFFF" stroke-width="2.5"/>
+  <line x1="68" y1="52" x2="68" y2="76" stroke="#FFFFFF" stroke-width="2.5"/>
+  <line x1="56" y1="58" x2="68" y2="58" stroke="#FFFFFF" stroke-width="2.5"/>
+  <line x1="56" y1="64" x2="68" y2="64" stroke="#FFFFFF" stroke-width="2.5"/>
+  <line x1="56" y1="70" x2="68" y2="70" stroke="#FFFFFF" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#16A34A"/>
+  <!-- Mango Symbol -->
+  <path d="M50 30 C36 30 26 44 32 60 C38 74 54 78 64 70 C74 62 76 46 64 36 C58 32 54 30 50 30 Z" fill="#FACC15"/>
+  <path d="M50 30 Q54 22 56 16" stroke="#15803D" stroke-width="3" fill="none"/>
+  <path d="M53 24 Q62 20 66 26 Q60 30 53 24 Z" fill="#22C55E"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#DC2626"/>
+  <!-- Hammer -->
+  <rect x="42" y="24" width="16" height="8" rx="2" fill="#FFFFFF"/>
+  <rect x="48" y="28" width="4" height="24" fill="#FFFFFF"/>
+  <!-- Sickle -->
+  <path d="M64 42 C64 26 44 24 38 32 C30 42 40 58 54 58 C62 58 64 50 64 42 Z" stroke="#FFFFFF" stroke-width="4.5" fill="none"/>
+  <path d="M38 60 L44 54" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Star -->
+  <polygon points="72,24 74,29 79,29 75,32 77,37 72,34 67,37 69,32 65,29 70,29" fill="#FFFFFF"/>
+</svg>

@@ -72,6 +72,17 @@ try:
 except ImportError:
     KERALA_CONSTITUENCY_FUND_CATALOG = {}
 
+try:
+    from district_insights_catalog import get_district_civic_insight
+except ImportError:
+    def get_district_civic_insight(s, d, c):
+        return f"{c} is an influential economic and political constituency in {d}.", "Key public focus areas include road modernization and drinking water access."
+
+try:
+    from state_profiles_catalog import STATE_PROFILES
+except ImportError:
+    STATE_PROFILES = {}
+
 CSV_PATH = "scripts/pipeline/constituency_master.csv"
 JSON_OUT_PATH = "src/data/realGovernanceData.json"
 STATES_DIR = "src/data/states"
@@ -125,17 +136,80 @@ def get_party_logo_and_code(party_name):
         "Aam Aadmi Party": ("AAP", f"{BASE_ASSET_PATH}/parties/AAP.svg"),
         "AAP": ("AAP", f"{BASE_ASSET_PATH}/parties/AAP.svg"),
         "Shiv Sena": ("SHS", f"{BASE_ASSET_PATH}/parties/SHS.svg"),
+        "SHS": ("SHS", f"{BASE_ASSET_PATH}/parties/SHS.svg"),
         "Shiv Sena (UBT)": ("SSUBT", f"{BASE_ASSET_PATH}/parties/SSUBT.svg"),
+        "Shiv Sena (Uddhav Balasaheb Thackeray)": ("SSUBT", f"{BASE_ASSET_PATH}/parties/SSUBT.svg"),
         "Nationalist Congress Party": ("NCP", f"{BASE_ASSET_PATH}/parties/NCP.svg"),
+        "NCP": ("NCP", f"{BASE_ASSET_PATH}/parties/NCP.svg"),
+        "Nationalist Congress Party (Sharadchandra Pawar)": ("NCP", f"{BASE_ASSET_PATH}/parties/NCP.svg"),
         "Janata Dal (Secular)": ("JDS", f"{BASE_ASSET_PATH}/parties/JDS.svg"),
+        "JDS": ("JDS", f"{BASE_ASSET_PATH}/parties/JDS.svg"),
         "Shiromani Akali Dal": ("SAD", f"{BASE_ASSET_PATH}/parties/SAD.svg"),
+        "SAD": ("SAD", f"{BASE_ASSET_PATH}/parties/SAD.svg"),
         "Bahujan Samaj Party": ("BSP", f"{BASE_ASSET_PATH}/parties/BSP.svg"),
         "BSP": ("BSP", f"{BASE_ASSET_PATH}/parties/BSP.svg"),
         "Dravida Munnetra Kazhagam": ("DMK", f"{BASE_ASSET_PATH}/parties/DMK.svg"),
         "DMK": ("DMK", f"{BASE_ASSET_PATH}/parties/DMK.svg"),
         "All India Anna Dravida Munnetra Kazhagam": ("AIADMK", f"{BASE_ASSET_PATH}/parties/AIADMK.svg"),
         "AIADMK": ("AIADMK", f"{BASE_ASSET_PATH}/parties/AIADMK.svg"),
-        "Independent": ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg")
+        "ADMK": ("AIADMK", f"{BASE_ASSET_PATH}/parties/AIADMK.svg"),
+        "All India Trinamool Congress": ("AITC", f"{BASE_ASSET_PATH}/parties/AITC.svg"),
+        "AITC": ("AITC", f"{BASE_ASSET_PATH}/parties/AITC.svg"),
+        "TMC": ("AITC", f"{BASE_ASSET_PATH}/parties/AITC.svg"),
+        "Communist Party of India (Marxist)": ("CPIM", f"{BASE_ASSET_PATH}/parties/CPIM.svg"),
+        "CPI(M)": ("CPIM", f"{BASE_ASSET_PATH}/parties/CPIM.svg"),
+        "CPM": ("CPIM", f"{BASE_ASSET_PATH}/parties/CPIM.svg"),
+        "Communist Party of India": ("CPI", f"{BASE_ASSET_PATH}/parties/CPI.svg"),
+        "CPI": ("CPI", f"{BASE_ASSET_PATH}/parties/CPI.svg"),
+        "Rashtriya Janata Dal": ("RJD", f"{BASE_ASSET_PATH}/parties/RJD.svg"),
+        "RJD": ("RJD", f"{BASE_ASSET_PATH}/parties/RJD.svg"),
+        "Janata Dal (United)": ("JDU", f"{BASE_ASSET_PATH}/parties/JDU.svg"),
+        "JD(U)": ("JDU", f"{BASE_ASSET_PATH}/parties/JDU.svg"),
+        "JDU": ("JDU", f"{BASE_ASSET_PATH}/parties/JDU.svg"),
+        "All India United Democratic Front": ("AIUDF", f"{BASE_ASSET_PATH}/parties/AIUDF.svg"),
+        "AIUDF": ("AIUDF", f"{BASE_ASSET_PATH}/parties/AIUDF.svg"),
+        "Indian Union Muslim League": ("IUML", f"{BASE_ASSET_PATH}/parties/IUML.svg"),
+        "IUML": ("IUML", f"{BASE_ASSET_PATH}/parties/IUML.svg"),
+        "Asom Gana Parishad": ("AGP", f"{BASE_ASSET_PATH}/parties/AGP.svg"),
+        "AGP": ("AGP", f"{BASE_ASSET_PATH}/parties/AGP.svg"),
+        "Kerala Congress (M)": ("KC", f"{BASE_ASSET_PATH}/parties/KC.svg"),
+        "Kerala Congress (Jacob)": ("KC", f"{BASE_ASSET_PATH}/parties/KC.svg"),
+        "Kerala Congress (B)": ("KC", f"{BASE_ASSET_PATH}/parties/KC.svg"),
+        "KEC": ("KC", f"{BASE_ASSET_PATH}/parties/KC.svg"),
+        "All India Majlis-e-Ittehadul Muslimeen": ("AIMIM", f"{BASE_ASSET_PATH}/parties/AIMIM.svg"),
+        "All India Majlis-E-Ittehadul Muslimeen": ("AIMIM", f"{BASE_ASSET_PATH}/parties/AIMIM.svg"),
+        "AIMIM": ("AIMIM", f"{BASE_ASSET_PATH}/parties/AIMIM.svg"),
+        "Rashtriya Lok Dal": ("RLD", f"{BASE_ASSET_PATH}/parties/RLD.svg"),
+        "RLD": ("RLD", f"{BASE_ASSET_PATH}/parties/RLD.svg"),
+        "Apna Dal (Sonelal)": ("AD", f"{BASE_ASSET_PATH}/parties/AD.svg"),
+        "Apna Dal (S)": ("AD", f"{BASE_ASSET_PATH}/parties/AD.svg"),
+        "Apna Dal": ("AD", f"{BASE_ASSET_PATH}/parties/AD.svg"),
+        "CPI(ML)": ("CPIML", f"{BASE_ASSET_PATH}/parties/CPIML.svg"),
+        "Communist Party of India (Marxist-Leninist) Liberation": ("CPIML", f"{BASE_ASSET_PATH}/parties/CPIML.svg"),
+        "NISHAD Party": ("NISHAD", f"{BASE_ASSET_PATH}/parties/NISHAD.svg"),
+        "Suheldev Bharatiya Samaj Party": ("SBSP", f"{BASE_ASSET_PATH}/parties/SBSP.svg"),
+        "SBSP": ("SBSP", f"{BASE_ASSET_PATH}/parties/SBSP.svg"),
+        "United People's Party Liberal": ("UPPL", f"{BASE_ASSET_PATH}/parties/UPPL.svg"),
+        "UPPL": ("UPPL", f"{BASE_ASSET_PATH}/parties/UPPL.svg"),
+        "Pattali Makkal Katchi": ("PMK", f"{BASE_ASSET_PATH}/parties/PMK.svg"),
+        "PMK": ("PMK", f"{BASE_ASSET_PATH}/parties/PMK.svg"),
+        "Viduthalai Chiruthaigal Katchi": ("VCK", f"{BASE_ASSET_PATH}/parties/VCK.svg"),
+        "VCK": ("VCK", f"{BASE_ASSET_PATH}/parties/VCK.svg"),
+        "Rashtriya Loktantrik Party": ("RLP", f"{BASE_ASSET_PATH}/parties/RLP.svg"),
+        "RLP": ("RLP", f"{BASE_ASSET_PATH}/parties/RLP.svg"),
+        "Vikassheel Insaan Party": ("NISHAD", f"{BASE_ASSET_PATH}/parties/NISHAD.svg"),
+        "HAM": ("HAM", f"{BASE_ASSET_PATH}/parties/HAM.svg"),
+        "Hindustani Awam Morcha (Secular)": ("HAM", f"{BASE_ASSET_PATH}/parties/HAM.svg"),
+        "Bodoland People's Front": ("BPF", f"{BASE_ASSET_PATH}/parties/BPF.svg"),
+        "BPF": ("BPF", f"{BASE_ASSET_PATH}/parties/BPF.svg"),
+        "Bahujan Vikas Aghadi": ("BVA", f"{BASE_ASSET_PATH}/parties/BVA.svg"),
+        "BVA": ("BVA", f"{BASE_ASSET_PATH}/parties/BVA.svg"),
+        "Bharat Adivasi Party": ("BAP", f"{BASE_ASSET_PATH}/parties/BAP.svg"),
+        "BAP": ("BAP", f"{BASE_ASSET_PATH}/parties/BAP.svg"),
+        "Maharashtra Navnirman Sena": ("MNS", f"{BASE_ASSET_PATH}/parties/MNS.svg"),
+        "MNS": ("MNS", f"{BASE_ASSET_PATH}/parties/MNS.svg"),
+        "Independent": ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg"),
+        "Ind": ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg")
     }
     return mapping.get(party_name, ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg"))
 
@@ -414,6 +488,8 @@ def process_csv_to_json():
         hospitals_val = cached_dist["hospitals"]
         schools_val = cached_dist["schools"]
 
+        hist_fact, curr_chal = get_district_civic_insight(state, district, c_name)
+
         loc_obj = {
             "id": loc_id,
             "stateName": state,
@@ -428,8 +504,8 @@ def process_csv_to_json():
             "govtSchoolsCount": schools_val,
             "regionalInsight": {
                 "title": f"{c_name} Civic Context",
-                "historicalFact": f"{c_name} is an influential economic and political constituency in {district}.",
-                "currentChallenge": f"Key public focus areas include road modernization and drinking water access."
+                "historicalFact": hist_fact,
+                "currentChallenge": curr_chal
             },
             "districtStatsSources": {
                 "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
@@ -641,7 +717,8 @@ def process_csv_to_json():
         "locations": locations,
         "candidates": candidates,
         "promises": promises,
-        "news": news
+        "news": news,
+        "stateProfiles": STATE_PROFILES
     }
     with open(JSON_OUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(full_db, f, indent=2, ensure_ascii=False)

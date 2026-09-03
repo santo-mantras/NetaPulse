@@ -1,4 +1,4 @@
-name: Sync Development Funds Audit Data
+name: Sync Governance & Development Funds Audit Data
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync-funds:
+  sync-governance-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,6 +26,10 @@ jobs:
       - name: Run Development Funds Sync Pipeline
         run: |
           python scripts/pipeline/sync_development_funds.py
+
+      - name: Audit & Sync State Governance Profiles
+        run: |
+          python scripts/pipeline/sync_state_profiles.py
 
       - name: Recompile Governance Dataset
         run: |

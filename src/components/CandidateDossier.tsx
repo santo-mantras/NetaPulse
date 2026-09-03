@@ -5,6 +5,7 @@ import type {
     NewsReport,
     LocationHierarchy
 } from '../types/governance';
+import { mockStateProfiles } from '../data/dataAdapter';
 import {
     User,
     AlertTriangle,
@@ -34,7 +35,12 @@ import {
     Coins,
     Flag,
     Landmark,
-    ChevronRight
+    ChevronRight,
+    TrendingUp,
+    Banknote,
+    HeartHandshake,
+    Crown,
+    Compass
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -128,9 +134,21 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             </span>
                             <span className="bg-slate-700/60 text-slate-200 text-xs font-medium px-2.5 py-0.5 rounded-full flex items-center gap-1.5">
                                 {candidate.partyLogoUrl && (
-                                    <img src={candidate.partyLogoUrl} alt={candidate.party} className="w-4 h-4 object-contain drop-shadow-md" />
+                                    <img 
+                                        src={candidate.partyLogoUrl} 
+                                        alt={candidate.party} 
+                                        onError={(e) => {
+                                            const target = e.target as HTMLImageElement;
+                                            if (!target.src.includes('Independent.svg')) {
+                                                target.src = '/assets/parties/Independent.svg';
+                                            } else {
+                                                target.style.display = 'none';
+                                            }
+                                        }}
+                                        className="w-4 h-4 object-contain drop-shadow-md shrink-0" 
+                                    />
                                 )}
-                                {candidate.party}
+                                <span>{candidate.party}</span>
                             </span>
                             <span className="bg-emerald-500/30 text-emerald-200 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-emerald-400/30">
                                 Term {candidate.termsServed}
@@ -276,7 +294,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                 <div className="flex overflow-x-auto custom-scrollbar scroll-smooth pr-14 md:pr-0">
                     {[
                         { id: 'overview', icon: User, label: 'Performance Overview' },
-                        { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Seats Analysis` },
+                        { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Analysis` },
                         { id: 'promises', icon: CheckCircle2, label: `Guarantees & Promises (${promises.length})` },
                         { id: 'funds', icon: Coins, label: 'Development Funds' },
                         { id: 'legal', icon: Scale, label: 'Legal & Assets' },
@@ -1101,13 +1119,39 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             </div>
                         )}
 
-                        {/* Tab 5: State Seats Analysis */}
+                        {/* Tab 5: State Analysis */}
                         {activeTab === 'seats' && (() => {
-                            const stateStats: Record<string, { totalAssembly: number; totalLokSabha: number; totalDistricts: number; majorityMark: number; currentRuler: string; partyColors: Record<string, string>; seatTally: Array<{ party: string; seats: number; pct: number }> }> = {
+                            interface StateProfileData {
+                                chiefMinister: { name: string; party: string; logoUrl?: string };
+                                deputyChiefMinisters: Array<{ name: string; party: string }>;
+                                gsdpINR: string;
+                                perCapitaIncomeINR: string;
+                                fiscalHealth: string;
+                                socialProgressIndex: string;
+                                historicalFact: string;
+                                totalAssembly: number;
+                                totalLokSabha: number;
+                                totalDistricts: number;
+                                majorityMark: number;
+                                currentRuler: string;
+                                partyColors: Record<string, string>;
+                                seatTally: Array<{ party: string; seats: number; pct: number }>;
+                            }
+
+                            const stateStats: Record<string, StateProfileData> = {
                                 "Maharashtra": {
+                                    chiefMinister: { name: "Devendra Fadnavis", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Eknath Shinde", party: "Shiv Sena" }
+                                    ],
+                                    gsdpINR: "₹42.67 Lakh Cr",
+                                    perCapitaIncomeINR: "₹2,52,389",
+                                    fiscalHealth: "2.8% GSDP (FRBM Compliant)",
+                                    socialProgressIndex: "56.40 (Tier 3 - Upper Middle)",
+                                    historicalFact: "Birthplace of the Maratha Empire under Chhatrapati Shivaji Maharaj and the pioneer of India's cooperative banking and financial corridors.",
                                     totalAssembly: 288,
                                     totalLokSabha: 48,
-                                    totalDistricts: 36,
+                                    totalDistricts: 35,
                                     majorityMark: 145,
                                     currentRuler: "Mahayuti Alliance",
                                     partyColors: {
@@ -1127,6 +1171,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Uttar Pradesh": {
+                                    chiefMinister: { name: "Yogi Adityanath", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Keshav Prasad Maurya", party: "BJP" },
+                                        { name: "Brajesh Pathak", party: "BJP" }
+                                    ],
+                                    gsdpINR: "₹27.50 Lakh Cr",
+                                    perCapitaIncomeINR: "₹95,200",
+                                    fiscalHealth: "3.2% GSDP (Consolidating)",
+                                    socialProgressIndex: "48.63 (Tier 5 - Low Middle)",
+                                    historicalFact: "Cradle of Indo-Gangetic civilizational wisdom, birthplace of Rama and Krishna, and home to world heritage spiritual centers Ayodhya, Varanasi, and Mathura.",
                                     totalAssembly: 403,
                                     totalLokSabha: 80,
                                     totalDistricts: 75,
@@ -1149,6 +1203,15 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Karnataka": {
+                                    chiefMinister: { name: "Siddaramaiah", party: "INC", logoUrl: "/assets/parties/INC.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "D. K. Shivakumar", party: "INC" }
+                                    ],
+                                    gsdpINR: "₹25.62 Lakh Cr",
+                                    perCapitaIncomeINR: "₹3,32,926",
+                                    fiscalHealth: "2.8% GSDP (FRBM Prudent)",
+                                    socialProgressIndex: "56.77 (Tier 3 - Upper Middle)",
+                                    historicalFact: "Seat of the Vijayanagara and Kadamba dynasties, modern India's Silicon Valley capital, and pioneer in aerospace, biotech, and scientific research.",
                                     totalAssembly: 224,
                                     totalLokSabha: 28,
                                     totalDistricts: 31,
@@ -1168,9 +1231,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Punjab": {
+                                    chiefMinister: { name: "Bhagwant Mann", party: "AAP", logoUrl: "/assets/parties/AAP.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹7.41 Lakh Cr",
+                                    perCapitaIncomeINR: "₹1,95,419",
+                                    fiscalHealth: "4.7% GSDP (High Debt Ratio)",
+                                    socialProgressIndex: "57.73 (Tier 3 - Upper Middle)",
+                                    historicalFact: "Land of Five Rivers, sacred soil of the Sikh Gurus, and the green revolution bedrock that spearheaded India's national grain self-reliance.",
                                     totalAssembly: 117,
                                     totalLokSabha: 13,
-                                    totalDistricts: 23,
+                                    totalDistricts: 22,
                                     majorityMark: 59,
                                     currentRuler: "Aam Aadmi Party",
                                     partyColors: {
@@ -1189,6 +1259,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Goa": {
+                                    chiefMinister: { name: "Pramod Sawant", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹1.06 Lakh Cr",
+                                    perCapitaIncomeINR: "₹5,44,042",
+                                    fiscalHealth: "2.6% GSDP (Prudent Surplus)",
+                                    socialProgressIndex: "65.53 (Tier 1 - Very High)",
+                                    historicalFact: "Maritime confluence of Latin and Konkani traditions along the Arabian Sea, boasting India's highest per-capita GDP and premier eco-tourism biosphere.",
                                     totalAssembly: 40,
                                     totalLokSabha: 2,
                                     totalDistricts: 2,
@@ -1210,9 +1287,19 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Chhattisgarh": {
+                                    chiefMinister: { name: "Vishnu Deo Sai", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Arun Sao", party: "BJP" },
+                                        { name: "Vijay Sharma", party: "BJP" }
+                                    ],
+                                    gsdpINR: "₹5.07 Lakh Cr",
+                                    perCapitaIncomeINR: "₹1,47,361",
+                                    fiscalHealth: "2.9% GSDP (Within FRBM Cap)",
+                                    socialProgressIndex: "51.36 (Tier 4 - Lower Middle)",
+                                    historicalFact: "Central tribal heartland of ancient Dandakaranya, leading India in mineral wealth, clean energy production, and protected sal forest sanctuaries.",
                                     totalAssembly: 90,
                                     totalLokSabha: 11,
-                                    totalDistricts: 33,
+                                    totalDistricts: 28,
                                     majorityMark: 46,
                                     currentRuler: "Bharatiya Janata Party",
                                     partyColors: {
@@ -1228,6 +1315,15 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Tamil Nadu": {
+                                    chiefMinister: { name: "M. K. Stalin", party: "DMK", logoUrl: "/assets/parties/DMK.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Udhayanidhi Stalin", party: "DMK" }
+                                    ],
+                                    gsdpINR: "₹31.55 Lakh Cr",
+                                    perCapitaIncomeINR: "₹3,15,220",
+                                    fiscalHealth: "3.4% GSDP (Stable Public Debt)",
+                                    socialProgressIndex: "63.33 (Tier 2 - High)",
+                                    historicalFact: "Ancient cradle of classical Tamil language, Sangam literature, Dravidian monumental temple architecture, and India's top automotive manufacturing exporter.",
                                     totalAssembly: 234,
                                     totalLokSabha: 39,
                                     totalDistricts: 38,
@@ -1251,6 +1347,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Gujarat": {
+                                    chiefMinister: { name: "Bhupendra Patel", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹25.62 Lakh Cr",
+                                    perCapitaIncomeINR: "₹3,10,637",
+                                    fiscalHealth: "1.9% GSDP (Exemplary Fiscal Health)",
+                                    socialProgressIndex: "58.12 (Tier 3 - Upper Middle)",
+                                    historicalFact: "Birthplace of Mahatma Gandhi and Sardar Patel, boasting India's longest coastline and pioneering petrochemical, pharmaceutical, and maritime trade ports.",
                                     totalAssembly: 182,
                                     totalLokSabha: 26,
                                     totalDistricts: 33,
@@ -1272,6 +1375,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Rajasthan": {
+                                    chiefMinister: { name: "Bhajan Lal Sharma", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Diya Kumari", party: "BJP" },
+                                        { name: "Prem Chand Bairwa", party: "BJP" }
+                                    ],
+                                    gsdpINR: "₹15.28 Lakh Cr",
+                                    perCapitaIncomeINR: "₹1,61,289",
+                                    fiscalHealth: "3.9% GSDP (Expanding Capital Outlay)",
+                                    socialProgressIndex: "50.69 (Tier 4 - Lower Middle)",
+                                    historicalFact: "Historic land of Rajput valour, UNESCO hill forts, Thar desert heritage, and India's premier solar park green energy corridor.",
                                     totalAssembly: 200,
                                     totalLokSabha: 25,
                                     totalDistricts: 34,
@@ -1297,6 +1410,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "West Bengal": {
+                                    chiefMinister: { name: "Mamata Banerjee", party: "AITC", logoUrl: "/assets/parties/AITC.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹18.84 Lakh Cr",
+                                    perCapitaIncomeINR: "₹1,41,373",
+                                    fiscalHealth: "3.5% GSDP (Within Borrowing Cap)",
+                                    socialProgressIndex: "53.81 (Tier 4 - Lower Middle)",
+                                    historicalFact: "Focal point of the Bengal Renaissance, birth soil of Rabindranath Tagore, Swami Vivekananda, and Netaji Subhas Chandra Bose.",
                                     totalAssembly: 294,
                                     totalLokSabha: 42,
                                     totalDistricts: 23,
@@ -1317,6 +1437,16 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Bihar": {
+                                    chiefMinister: { name: "Nitish Kumar", party: "JD(U)", logoUrl: "/assets/parties/JDU.svg" },
+                                    deputyChiefMinisters: [
+                                        { name: "Samrat Choudhary", party: "BJP" },
+                                        { name: "Vijay Kumar Sinha", party: "BJP" }
+                                    ],
+                                    gsdpINR: "₹8.58 Lakh Cr",
+                                    perCapitaIncomeINR: "₹59,637",
+                                    fiscalHealth: "2.9% GSDP (Under Control)",
+                                    socialProgressIndex: "44.47 (Tier 6 - Lowest Tier)",
+                                    historicalFact: "Birthplace of Buddhism and Jainism, seat of imperial Pataliputra, and home to ancient Nalanda, the world's premier residential university.",
                                     totalAssembly: 243,
                                     totalLokSabha: 40,
                                     totalDistricts: 38,
@@ -1346,6 +1476,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Assam": {
+                                    chiefMinister: { name: "Himanta Biswa Sarma", party: "BJP", logoUrl: "/assets/parties/BJP.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹5.70 Lakh Cr",
+                                    perCapitaIncomeINR: "₹1,21,460",
+                                    fiscalHealth: "3.7% GSDP (Infrastructure Driven)",
+                                    socialProgressIndex: "51.52 (Tier 4 - Lower Middle)",
+                                    historicalFact: "Ancient kingdom of Kamarupa and the undefeated six-century Ahom Dynasty, world-renowned for Assam tea, muga silk, and Kaziranga one-horned rhinos.",
                                     totalAssembly: 126,
                                     totalLokSabha: 14,
                                     totalDistricts: 34,
@@ -1374,6 +1511,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     ]
                                 },
                                 "Kerala": {
+                                    chiefMinister: { name: "Pinarayi Vijayan", party: "CPI(M)", logoUrl: "/assets/parties/CPIM.svg" },
+                                    deputyChiefMinisters: [],
+                                    gsdpINR: "₹11.30 Lakh Cr",
+                                    perCapitaIncomeINR: "₹2,76,825",
+                                    fiscalHealth: "3.4% GSDP (Social Investment Model)",
+                                    socialProgressIndex: "65.89 (Tier 1 - Highest in India)",
+                                    historicalFact: "Historic spice trade cradle of the ancient Chera dynasty, leading independent India with 100% primary literacy, lowest infant mortality, and top human development.",
                                     totalAssembly: 140,
                                     totalLokSabha: 20,
                                     totalDistricts: 14,
@@ -1398,11 +1542,143 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                 }
                             };
 
-                            const currStateInfo = stateStats[candidate.state] || stateStats["Maharashtra"];
+                            const currStateInfo: StateProfileData = mockStateProfiles[candidate.state] || stateStats[candidate.state] || stateStats["Maharashtra"];
 
                             return (
                                 <div className="space-y-6">
-                                    {/* Overview Header Cards */}
+                                    {/* 1. State Historical Legacy Banner */}
+                                    <div className="p-4 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-900 rounded-2xl border border-blue-500/20 text-white shadow-md relative overflow-hidden">
+                                        <div className="flex items-start gap-3 relative z-10">
+                                            <div className="p-2.5 rounded-xl bg-blue-500/20 text-blue-300 shrink-0 border border-blue-400/30">
+                                                <Compass className="w-5 h-5 animate-pulse" />
+                                            </div>
+                                            <div>
+                                                <div className="flex items-center gap-2">
+                                                    <span className="text-[10px] uppercase tracking-wider font-bold text-blue-300">Civilizational & Cultural Legacy</span>
+                                                    <span className="text-slate-400 text-xs">•</span>
+                                                    <span className="text-xs font-semibold text-slate-300">{candidate.state}</span>
+                                                </div>
+                                                <p className="text-sm font-medium text-slate-100 mt-1 leading-relaxed">
+                                                    {currStateInfo.historicalFact}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    {/* 2. State Executive Leadership (CM & Deputy CM) */}
+                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                                        {/* Chief Minister Card */}
+                                        <div className="p-4 bg-white dark:bg-slate-800/80 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex items-center justify-between">
+                                            <div className="flex items-center gap-3.5">
+                                                <div className="w-12 h-12 rounded-full bg-gradient-to-tr from-amber-500 to-orange-500 text-white flex items-center justify-center shrink-0 shadow-md">
+                                                    <Crown className="w-6 h-6" />
+                                                </div>
+                                                <div>
+                                                    <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Chief Minister</span>
+                                                    <h4 className="text-base font-extrabold text-slate-900 dark:text-white leading-tight">
+                                                        {currStateInfo.chiefMinister.name}
+                                                    </h4>
+                                                    <p className="text-xs font-medium text-slate-500 dark:text-slate-400 mt-0.5">
+                                                        Head of Government
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-700 border border-slate-200 dark:border-slate-600 shrink-0">
+                                                {currStateInfo.chiefMinister.logoUrl && (
+                                                    <img 
+                                                        src={currStateInfo.chiefMinister.logoUrl} 
+                                                        alt={currStateInfo.chiefMinister.party} 
+                                                        className="w-4 h-4 object-contain" 
+                                                        onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+                                                    />
+                                                )}
+                                                <span className="text-xs font-bold text-slate-800 dark:text-slate-200">
+                                                    {currStateInfo.chiefMinister.party}
+                                                </span>
+                                            </div>
+                                        </div>
+
+                                        {/* Deputy Chief Minister(s) Card */}
+                                        <div className="p-4 bg-white dark:bg-slate-800/80 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex items-center justify-between">
+                                            <div className="flex items-center gap-3.5">
+                                                <div className="w-12 h-12 rounded-full bg-gradient-to-tr from-blue-500 to-indigo-600 text-white flex items-center justify-center shrink-0 shadow-md">
+                                                    <HeartHandshake className="w-6 h-6" />
+                                                </div>
+                                                <div>
+                                                    <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Deputy Chief Minister(s)</span>
+                                                    {currStateInfo.deputyChiefMinisters.length > 0 ? (
+                                                        <div className="space-y-0.5 mt-0.5">
+                                                            {currStateInfo.deputyChiefMinisters.map((dcm, idx) => (
+                                                                <p key={idx} className="text-sm font-extrabold text-slate-900 dark:text-white leading-tight">
+                                                                    {dcm.name} <span className="text-xs font-semibold text-slate-500">({dcm.party})</span>
+                                                                </p>
+                                                            ))}
+                                                        </div>
+                                                    ) : (
+                                                        <p className="text-sm font-semibold text-slate-400 dark:text-slate-500 mt-0.5">
+                                                            None / Single Executive Leadership
+                                                        </p>
+                                                    )}
+                                                </div>
+                                            </div>
+                                            <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-700 px-2.5 py-1 rounded-full shrink-0">
+                                                Cabinet
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                    {/* 3. Macroeconomic & Social Progress Indicators */}
+                                    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3.5">
+                                        {/* GSDP */}
+                                        <div className="p-4 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-slate-800 dark:to-slate-800/90 rounded-2xl border border-emerald-200/80 dark:border-slate-700 shadow-sm">
+                                            <div className="flex items-center justify-between mb-1.5">
+                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Gross State Product</span>
+                                                <TrendingUp className="w-4 h-4 text-emerald-600" />
+                                            </div>
+                                            <p className="text-xl sm:text-2xl font-black text-emerald-700 dark:text-emerald-400 tracking-tight">
+                                                {currStateInfo.gsdpINR}
+                                            </p>
+                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">GSDP (Current Prices)</p>
+                                        </div>
+
+                                        {/* Per Capita Income */}
+                                        <div className="p-4 bg-gradient-to-br from-blue-50 to-cyan-50 dark:from-slate-800 dark:to-slate-800/90 rounded-2xl border border-blue-200/80 dark:border-slate-700 shadow-sm">
+                                            <div className="flex items-center justify-between mb-1.5">
+                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Per Capita Income</span>
+                                                <Banknote className="w-4 h-4 text-blue-600" />
+                                            </div>
+                                            <p className="text-xl sm:text-2xl font-black text-blue-700 dark:text-blue-400 tracking-tight">
+                                                {currStateInfo.perCapitaIncomeINR}
+                                            </p>
+                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">Net Annual Per Citizen</p>
+                                        </div>
+
+                                        {/* Fiscal Health */}
+                                        <div className="p-4 bg-gradient-to-br from-purple-50 to-indigo-50 dark:from-slate-800 dark:to-slate-800/90 rounded-2xl border border-purple-200/80 dark:border-slate-700 shadow-sm">
+                                            <div className="flex items-center justify-between mb-1.5">
+                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Fiscal Health</span>
+                                                <Landmark className="w-4 h-4 text-purple-600" />
+                                            </div>
+                                            <p className="text-base sm:text-lg font-black text-purple-700 dark:text-purple-300 tracking-tight mt-0.5">
+                                                {currStateInfo.fiscalHealth}
+                                            </p>
+                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">Deficit vs FRBM Norm</p>
+                                        </div>
+
+                                        {/* Social Progress Index */}
+                                        <div className="p-4 bg-gradient-to-br from-amber-50 to-orange-50 dark:from-slate-800 dark:to-slate-800/90 rounded-2xl border border-amber-200/80 dark:border-slate-700 shadow-sm">
+                                            <div className="flex items-center justify-between mb-1.5">
+                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Social Progress (SPI)</span>
+                                                <Award className="w-4 h-4 text-amber-600" />
+                                            </div>
+                                            <p className="text-base sm:text-lg font-black text-amber-700 dark:text-amber-400 tracking-tight mt-0.5">
+                                                {currStateInfo.socialProgressIndex}
+                                            </p>
+                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">EAC-PM National Benchmark</p>
+                                        </div>
+                                    </div>
+
+                                    {/* 4. Overview Header Cards (Constitutional Seats) */}
                                     <div className="grid grid-cols-2 sm:grid-cols-4 gap-3.5">
                                         <div className="p-4 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-slate-800 dark:to-slate-800/80 rounded-2xl border border-blue-200/70 dark:border-slate-700 shadow-sm text-center">
                                             <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Total Assembly Seats</p>
@@ -1426,7 +1702,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         </div>
                                     </div>
 
-                                    {/* Assembly Party Seat Share Breakdown */}
+                                    {/* 5. Assembly Party Seat Share Breakdown */}
                                     <div className="p-5 bg-white dark:bg-slate-800/60 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">
                                         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 dark:border-slate-700 pb-3 mb-4">
                                             <div className="flex items-center gap-2">

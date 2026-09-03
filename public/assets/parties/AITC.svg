@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#16A34A"/>
+  <circle cx="50" cy="50" r="42" fill="#FFFFFF"/>
+  <!-- Grass Flowers Symbol -->
+  <path d="M50 78 Q48 55 42 42 Q36 32 30 38 Q34 46 44 56 Q47 70 50 78 Z" fill="#15803D"/>
+  <path d="M50 78 Q52 55 58 40 Q64 30 70 36 Q66 45 56 56 Q53 70 50 78 Z" fill="#15803D"/>
+  <circle cx="30" cy="36" r="6" fill="#22C55E"/>
+  <circle cx="70" cy="34" r="6" fill="#22C55E"/>
+  <circle cx="50" cy="26" r="7" fill="#16A34A"/>
+  <path d="M50 78 L50 33" stroke="#15803D" stroke-width="4"/>
+</svg>

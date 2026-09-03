@@ -32,3 +32,4 @@ allNews.forEach(n => {
     }
 });
 
+export const mockStateProfiles: Record<string, any> = (realData as any).stateProfiles || {};

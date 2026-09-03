@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#15803D"/>
+  <!-- Lantern Symbol -->
+  <rect x="42" y="24" width="16" height="6" rx="2" fill="#FDE047"/>
+  <rect x="36" y="30" width="28" height="34" rx="4" fill="#FEF08A" stroke="#CA8A04" stroke-width="3"/>
+  <circle cx="50" cy="46" r="8" fill="#F97316"/>
+  <rect x="40" y="64" width="20" height="8" rx="2" fill="#CA8A04"/>
+  <!-- Lantern Handle -->
+  <path d="M40 24 C40 14 60 14 60 24" stroke="#FDE047" stroke-width="3" fill="none"/>
+</svg>

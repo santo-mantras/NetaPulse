@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#DC2626"/>
+  <!-- Ears of Corn and Sickle -->
+  <path d="M60 40 C60 26 42 26 36 34 C30 44 42 56 52 56" stroke="#FFFFFF" stroke-width="4.5" fill="none"/>
+  <path d="M36 58 L42 52" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Grain stalks -->
+  <path d="M48 64 Q56 46 64 28" stroke="#FDE047" stroke-width="3" fill="none"/>
+  <circle cx="60" cy="34" r="3" fill="#FDE047"/>
+  <circle cx="56" cy="42" r="3" fill="#FDE047"/>
+  <circle cx="52" cy="50" r="3" fill="#FDE047"/>
+</svg>

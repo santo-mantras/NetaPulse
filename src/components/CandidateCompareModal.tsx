@@ -244,7 +244,19 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
 
                                     <div className="flex items-center justify-center gap-1.5 mt-2 bg-slate-100 dark:bg-slate-800 px-2.5 py-1 rounded-full w-fit mx-auto">
                                         {candidateA.partyLogoUrl && (
-                                            <img src={candidateA.partyLogoUrl} alt={candidateA.party} className="w-4 h-4 object-contain" />
+                                            <img 
+                                                src={candidateA.partyLogoUrl} 
+                                                alt={candidateA.party} 
+                                                onError={(e) => {
+                                                    const target = e.target as HTMLImageElement;
+                                                    if (!target.src.includes('Independent.svg')) {
+                                                        target.src = '/assets/parties/Independent.svg';
+                                                    } else {
+                                                        target.style.display = 'none';
+                                                    }
+                                                }}
+                                                className="w-4 h-4 object-contain shrink-0" 
+                                            />
                                         )}
                                         <p className="text-xs font-semibold text-slate-600 dark:text-slate-300">{candidateA.party}</p>
                                     </div>
@@ -291,7 +303,19 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
 
                                     <div className="flex items-center justify-center gap-1.5 mt-2 bg-slate-100 dark:bg-slate-800 px-2.5 py-1 rounded-full w-fit mx-auto">
                                         {candidateB.partyLogoUrl && (
-                                            <img src={candidateB.partyLogoUrl} alt={candidateB.party} className="w-4 h-4 object-contain" />
+                                            <img 
+                                                src={candidateB.partyLogoUrl} 
+                                                alt={candidateB.party} 
+                                                onError={(e) => {
+                                                    const target = e.target as HTMLImageElement;
+                                                    if (!target.src.includes('Independent.svg')) {
+                                                        target.src = '/assets/parties/Independent.svg';
+                                                    } else {
+                                                        target.style.display = 'none';
+                                                    }
+                                                }}
+                                                className="w-4 h-4 object-contain shrink-0" 
+                                            />
                                         )}
                                         <p className="text-xs font-semibold text-slate-600 dark:text-slate-300">{candidateB.party}</p>
                                     </div>
