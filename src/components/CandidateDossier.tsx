@@ -304,7 +304,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                 <div className="flex overflow-x-auto custom-scrollbar scroll-smooth pr-14 md:pr-0">
                     {[
                         { id: 'overview', icon: User, label: 'Performance Overview' },
-                        { id: 'seats', icon: PieChart, label: `${candidate.state || 'State'} Analysis` },
+                        { id: 'seats', icon: PieChart, label: `${candidate.state === 'Delhi' ? 'Delhi (UT)' : (candidate.state || 'State')} Analysis` },
                         { id: 'promises', icon: CheckCircle2, label: `Guarantees & Promises (${promises.length})` },
                         { id: 'funds', icon: Coins, label: 'Development Funds' },
                         { id: 'legal', icon: Scale, label: 'Legal & Assets' },
@@ -1548,6 +1548,30 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
             { "party": "Maharashtrawadi Gomantak Party", "seats": 2, "pct": 5.0 },
             { "party": "Others / Independents", "seats": 5, "pct": 12.5 }
         ]
+    },
+    "Delhi": {
+        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹11.07 Lakh Cr",
+        "perCapitaIncomeINR": "₹4,61,910",
+        "fiscalHealth": "0.3% GSDP (Revenue Surplus)",
+        "socialProgressIndex": "63.02 (Tier 1 - Very High)",
+        "historicalFact": "The historic heart of Bharat along the sacred Yamuna, having served as the epicenter of legendary dynasties, Delhi Sultanate, Mughals, and the modern Republic of India.",
+        "totalAssembly": 70,
+        "totalLokSabha": 7,
+        "totalDistricts": 11,
+        "majorityMark": 36,
+        "currentRuler": "Bharatiya Janata Party",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Aam Aadmi Party": "#3b82f6",
+            "Indian National Congress": "#06b6d4",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 68.6 },
+            { "party": "Aam Aadmi Party", "seats": 22, "pct": 31.4 }
+        ]
     }
 };
 
@@ -1565,7 +1589,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                 <div className="flex items-center gap-2">
                                                     <span className="text-[10px] uppercase tracking-wider font-bold text-blue-300">Civilizational & Cultural Legacy</span>
                                                     <span className="text-slate-400 text-xs">•</span>
-                                                    <span className="text-xs font-semibold text-slate-300">{candidate.state}</span>
+                                                    <span className="text-xs font-semibold text-slate-300">{candidate.state === 'Delhi' ? 'Delhi (UT)' : candidate.state}</span>
                                                 </div>
                                                 <p className="text-sm font-medium text-slate-100 mt-1 leading-relaxed">
                                                     {currStateInfo.historicalFact}
@@ -1641,13 +1665,13 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* GSDP */}
                                         <div className="p-4 bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-slate-800 dark:to-slate-800/90 rounded-2xl border border-emerald-200/80 dark:border-slate-700 shadow-sm">
                                             <div className="flex items-center justify-between mb-1.5">
-                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Gross State Product</span>
+                                                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">{candidate.state === 'Delhi' ? 'Gross UT Product' : 'Gross State Product'}</span>
                                                 <TrendingUp className="w-4 h-4 text-emerald-600" />
                                             </div>
                                             <p className="text-xl sm:text-2xl font-black text-emerald-700 dark:text-emerald-400 tracking-tight">
                                                 {currStateInfo.gsdpINR}
                                             </p>
-                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">GSDP (Current Prices)</p>
+                                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 font-medium">{candidate.state === 'Delhi' ? 'GSDP (Current Prices - UT)' : 'GSDP (Current Prices)'}</p>
                                         </div>
 
                                         {/* Per Capita Income */}
@@ -1767,7 +1791,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                             <span>NetaPulse Representative Registry Coverage:</span>
                                         </div>
                                         <p>
-                                            NetaPulse currently aggregates <strong>{currStateInfo.totalAssembly}</strong> constitutional assembly jurisdictions across <strong>{currStateInfo.totalDistricts}</strong> districts in {candidate.state}. High-impact district focus zones are updated with weekly affidavit audits and legislative activity logs.
+                                            NetaPulse currently aggregates <strong>{currStateInfo.totalAssembly}</strong> constitutional assembly jurisdictions across <strong>{currStateInfo.totalDistricts}</strong> districts in {candidate.state === 'Delhi' ? 'Delhi (UT)' : candidate.state}. High-impact district focus zones are updated with weekly affidavit audits and legislative activity logs.
                                         </p>
                                     </div>
                                 </div>

@@ -180,7 +180,7 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
                                 <span>Filter Opponent:</span>
                             </div>
 
-                            {/* State Dropdown */}
+                            {/* State / UT Dropdown */}
                             <select
                                 value={selectedState}
                                 onChange={(e) => {
@@ -189,7 +189,11 @@ export const CandidateCompareModal: React.FC<CandidateCompareModalProps> = ({
                                 }}
                                 className="bg-white dark:bg-slate-800 border border-slate-300 dark:border-slate-700 text-xs rounded-lg px-2.5 py-1.5 font-medium text-slate-800 dark:text-slate-200 outline-none focus:ring-1 focus:ring-blue-500"
                             >
-                                {states.map(s => <option key={s} value={s}>{s === 'All' ? 'All States' : s}</option>)}
+                                {states.map(s => (
+                                    <option key={s} value={s}>
+                                        {s === 'All' ? 'All States / UTs' : s === 'Delhi' ? 'Delhi (UT)' : s}
+                                    </option>
+                                ))}
                             </select>
 
                             {/* District Dropdown */}

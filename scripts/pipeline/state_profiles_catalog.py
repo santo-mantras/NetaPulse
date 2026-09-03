@@ -405,5 +405,29 @@ STATE_PROFILES = {
             { "party": "Maharashtrawadi Gomantak Party", "seats": 2, "pct": 5.0 },
             { "party": "Others / Independents", "seats": 5, "pct": 12.5 }
         ]
+    },
+    "Delhi": {
+        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹11.07 Lakh Cr",
+        "perCapitaIncomeINR": "₹4,61,910",
+        "fiscalHealth": "0.3% GSDP (Revenue Surplus)",
+        "socialProgressIndex": "63.02 (Tier 1 - Very High)",
+        "historicalFact": "The historic heart of Bharat along the sacred Yamuna, having served as the epicenter of legendary dynasties, Delhi Sultanate, Mughals, and the modern Republic of India.",
+        "totalAssembly": 70,
+        "totalLokSabha": 7,
+        "totalDistricts": 11,
+        "majorityMark": 36,
+        "currentRuler": "Bharatiya Janata Party",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Aam Aadmi Party": "#3b82f6",
+            "Indian National Congress": "#06b6d4",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 68.6 },
+            { "party": "Aam Aadmi Party", "seats": 22, "pct": 31.4 }
+        ]
     }
 }

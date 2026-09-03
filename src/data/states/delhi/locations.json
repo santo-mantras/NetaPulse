@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "loc_de_2544",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-1",
+    "assemblyConstituencyName": "Narela",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Narela Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Narela."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2545",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-2",
+    "assemblyConstituencyName": "Burari",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Burari Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Burari."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2546",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-3",
+    "assemblyConstituencyName": "Timarpur",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Timarpur Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Timarpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2547",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-4",
+    "assemblyConstituencyName": "Adarsh Nagar",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Adarsh Nagar Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Adarsh Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2548",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-5",
+    "assemblyConstituencyName": "Badli",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Badli Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Badli."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2549",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-6",
+    "assemblyConstituencyName": "Rithala",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Rithala Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Rithala."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2550",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-7",
+    "assemblyConstituencyName": "Bawana(SC)",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Bawana(SC) Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Bawana(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2551",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-8",
+    "assemblyConstituencyName": "Mundka",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Mundka Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Mundka."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2552",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-9",
+    "assemblyConstituencyName": "Kirari",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Kirari Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Kirari."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2553",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-10",
+    "assemblyConstituencyName": "Sultanpur Majra(SC)",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Sultanpur Majra(SC) Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Sultanpur Majra(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2554",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-11",
+    "assemblyConstituencyName": "Nangloi Jat",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Nangloi Jat Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Nangloi Jat."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2555",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-12",
+    "assemblyConstituencyName": "Mangol Puri(SC)",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Mangol Puri(SC) Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Mangol Puri(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2556",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-13",
+    "assemblyConstituencyName": "Rohini",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Rohini Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Rohini."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2557",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-14",
+    "assemblyConstituencyName": "Shalimar Bagh",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Shalimar Bagh Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Shalimar Bagh."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2558",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-15",
+    "assemblyConstituencyName": "Shakur Basti",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Shakur Basti Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Shakur Basti."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2559",
+    "stateName": "Delhi",
+    "districtName": "North West Delhi",
+    "assemblyConstituencyCode": "AC-DL-16",
+    "assemblyConstituencyName": "Tri Nagar",
+    "crimeRate": "223.1 per 100k",
+    "crimeRatePerLakh": 223.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 237,
+    "regionalInsight": {
+      "title": "Tri Nagar Civic Context",
+      "historicalFact": "North West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Tri Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2560",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-17",
+    "assemblyConstituencyName": "Wazirpur",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Wazirpur Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Wazirpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2561",
+    "stateName": "Delhi",
+    "districtName": "North Delhi",
+    "assemblyConstituencyCode": "AC-DL-18",
+    "assemblyConstituencyName": "Model Town",
+    "crimeRate": "167.5 per 100k",
+    "crimeRatePerLakh": 167.5,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 305,
+    "regionalInsight": {
+      "title": "Model Town Civic Context",
+      "historicalFact": "North Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Model Town."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2562",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-19",
+    "assemblyConstituencyName": "Sadar Bazar",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Sadar Bazar Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Sadar Bazar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2563",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-20",
+    "assemblyConstituencyName": "Chandni Chowk",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Chandni Chowk Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Chandni Chowk."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2564",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-21",
+    "assemblyConstituencyName": "Matia Mahal",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Matia Mahal Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Matia Mahal."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2565",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-22",
+    "assemblyConstituencyName": "Ballimaran",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Ballimaran Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Ballimaran."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2566",
+    "stateName": "Delhi",
+    "districtName": "Central Delhi",
+    "assemblyConstituencyCode": "AC-DL-23",
+    "assemblyConstituencyName": "Karol Bagh(SC)",
+    "crimeRate": "235.8 per 100k",
+    "crimeRatePerLakh": 235.8,
+    "literacyRate": 85.0,
+    "literacyRatePercentage": 85.0,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Karol Bagh(SC) Civic Context",
+      "historicalFact": "Central Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Karol Bagh(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2567",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-24",
+    "assemblyConstituencyName": "Patel Nagar(SC)",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Patel Nagar(SC) Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Patel Nagar(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2568",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-25",
+    "assemblyConstituencyName": "Moti Nagar",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Moti Nagar Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Moti Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2569",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-26",
+    "assemblyConstituencyName": "Madipur(SC)",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Madipur(SC) Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Madipur(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2570",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-27",
+    "assemblyConstituencyName": "Rajouri Garden",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Rajouri Garden Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Rajouri Garden."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2571",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-28",
+    "assemblyConstituencyName": "Hari Nagar",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Hari Nagar Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Hari Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2572",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-29",
+    "assemblyConstituencyName": "Tilak Nagar",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Tilak Nagar Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Tilak Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2573",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "AC-DL-30",
+    "assemblyConstituencyName": "Janakpuri",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Janakpuri Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Janakpuri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2574",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-31",
+    "assemblyConstituencyName": "Vikaspuri",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Vikaspuri Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Vikaspuri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2575",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-32",
+    "assemblyConstituencyName": "Uttam Nagar",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Uttam Nagar Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Uttam Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2576",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-33",
+    "assemblyConstituencyName": "Dwarka",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Dwarka Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Dwarka."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2577",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-34",
+    "assemblyConstituencyName": "Matiala",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Matiala Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Matiala."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2578",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-35",
+    "assemblyConstituencyName": "Najafgarh",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Najafgarh Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Najafgarh."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2579",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-36",
+    "assemblyConstituencyName": "Bijwasan",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Bijwasan Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Bijwasan."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2580",
+    "stateName": "Delhi",
+    "districtName": "South West Delhi",
+    "assemblyConstituencyCode": "AC-DL-37",
+    "assemblyConstituencyName": "Palam",
+    "crimeRate": "233.3 per 100k",
+    "crimeRatePerLakh": 233.3,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 292,
+    "regionalInsight": {
+      "title": "Palam Civic Context",
+      "historicalFact": "South West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Palam."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2581",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-38",
+    "assemblyConstituencyName": "Delhi Cantonment",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Delhi Cantonment Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Delhi Cantonment."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2582",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-39",
+    "assemblyConstituencyName": "Rajinder Nagar",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Rajinder Nagar Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Rajinder Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2583",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-40",
+    "assemblyConstituencyName": "New Delhi",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "New Delhi Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in New Delhi."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2584",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-41",
+    "assemblyConstituencyName": "Jangpura",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Jangpura Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Jangpura."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2585",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-42",
+    "assemblyConstituencyName": "Kasturba Nagar",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Kasturba Nagar Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Kasturba Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2586",
+    "stateName": "Delhi",
+    "districtName": "South Delhi",
+    "assemblyConstituencyCode": "AC-DL-43",
+    "assemblyConstituencyName": "Malviya Nagar",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Malviya Nagar Civic Context",
+      "historicalFact": "South Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Malviya Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2587",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-44",
+    "assemblyConstituencyName": "R K Puram",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "R K Puram Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in R K Puram."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2588",
+    "stateName": "Delhi",
+    "districtName": "South Delhi",
+    "assemblyConstituencyCode": "AC-DL-45",
+    "assemblyConstituencyName": "Mehrauli",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Mehrauli Civic Context",
+      "historicalFact": "South Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Mehrauli."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2589",
+    "stateName": "Delhi",
+    "districtName": "South Delhi",
+    "assemblyConstituencyCode": "AC-DL-46",
+    "assemblyConstituencyName": "Chhatarpur",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Chhatarpur Civic Context",
+      "historicalFact": "South Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Chhatarpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2590",
+    "stateName": "Delhi",
+    "districtName": "South Delhi",
+    "assemblyConstituencyCode": "AC-DL-47",
+    "assemblyConstituencyName": "Deoli(SC)",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Deoli(SC) Civic Context",
+      "historicalFact": "South Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Deoli(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2591",
+    "stateName": "Delhi",
+    "districtName": "South Delhi",
+    "assemblyConstituencyCode": "AC-DL-48",
+    "assemblyConstituencyName": "Ambedkar Nagar(SC)",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 77.5,
+    "literacyRatePercentage": 77.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Ambedkar Nagar(SC) Civic Context",
+      "historicalFact": "South Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Ambedkar Nagar(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2592",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-49",
+    "assemblyConstituencyName": "Sangam Vihar",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Sangam Vihar Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Sangam Vihar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2593",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "AC-DL-50",
+    "assemblyConstituencyName": "Greater Kailash",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Greater Kailash Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Greater Kailash."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2594",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-51",
+    "assemblyConstituencyName": "Kalkaji",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Kalkaji Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Kalkaji."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2595",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-52",
+    "assemblyConstituencyName": "Tughlakabad",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Tughlakabad Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Tughlakabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2596",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-53",
+    "assemblyConstituencyName": "Badarpur",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Badarpur Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Badarpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2597",
+    "stateName": "Delhi",
+    "districtName": "South East Delhi",
+    "assemblyConstituencyCode": "AC-DL-54",
+    "assemblyConstituencyName": "Okhla",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 73.4,
+    "literacyRatePercentage": 73.4,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 179,
+    "regionalInsight": {
+      "title": "Okhla Civic Context",
+      "historicalFact": "South East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Okhla."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2598",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-55",
+    "assemblyConstituencyName": "Trilokpuri(SC)",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Trilokpuri(SC) Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Trilokpuri(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2599",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-56",
+    "assemblyConstituencyName": "Kondli(SC)",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Kondli(SC) Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Kondli(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2600",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-57",
+    "assemblyConstituencyName": "Patparganj",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Patparganj Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Patparganj."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2601",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-58",
+    "assemblyConstituencyName": "Laxmi Nagar",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Laxmi Nagar Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Laxmi Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2602",
+    "stateName": "Delhi",
+    "districtName": "Shahdara",
+    "assemblyConstituencyCode": "AC-DL-59",
+    "assemblyConstituencyName": "Vishwas Nagar",
+    "crimeRate": "270.8 per 100k",
+    "crimeRatePerLakh": 270.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Vishwas Nagar Civic Context",
+      "historicalFact": "Shahdara forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Vishwas Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2603",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-60",
+    "assemblyConstituencyName": "Krishna Nagar",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Krishna Nagar Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Krishna Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2604",
+    "stateName": "Delhi",
+    "districtName": "East Delhi",
+    "assemblyConstituencyCode": "AC-DL-61",
+    "assemblyConstituencyName": "Gandhi Nagar",
+    "crimeRate": "233.1 per 100k",
+    "crimeRatePerLakh": 233.1,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Gandhi Nagar Civic Context",
+      "historicalFact": "East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Gandhi Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2605",
+    "stateName": "Delhi",
+    "districtName": "Shahdara",
+    "assemblyConstituencyCode": "AC-DL-62",
+    "assemblyConstituencyName": "Shahdara",
+    "crimeRate": "270.8 per 100k",
+    "crimeRatePerLakh": 270.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Shahdara Civic Context",
+      "historicalFact": "Shahdara forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Shahdara."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2606",
+    "stateName": "Delhi",
+    "districtName": "Shahdara",
+    "assemblyConstituencyCode": "AC-DL-63",
+    "assemblyConstituencyName": "Seemapuri(SC)",
+    "crimeRate": "270.8 per 100k",
+    "crimeRatePerLakh": 270.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Seemapuri(SC) Civic Context",
+      "historicalFact": "Shahdara forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Seemapuri(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2607",
+    "stateName": "Delhi",
+    "districtName": "Shahdara",
+    "assemblyConstituencyCode": "AC-DL-64",
+    "assemblyConstituencyName": "Rohtas Nagar",
+    "crimeRate": "270.8 per 100k",
+    "crimeRatePerLakh": 270.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Rohtas Nagar Civic Context",
+      "historicalFact": "Shahdara forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Rohtas Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2608",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "AC-DL-65",
+    "assemblyConstituencyName": "Seelampur",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Seelampur Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Seelampur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2609",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "AC-DL-66",
+    "assemblyConstituencyName": "Ghonda",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Ghonda Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Ghonda."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2610",
+    "stateName": "Delhi",
+    "districtName": "Shahdara",
+    "assemblyConstituencyCode": "AC-DL-67",
+    "assemblyConstituencyName": "Babarpur",
+    "crimeRate": "270.8 per 100k",
+    "crimeRatePerLakh": 270.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 259,
+    "regionalInsight": {
+      "title": "Babarpur Civic Context",
+      "historicalFact": "Shahdara forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Babarpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2611",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "AC-DL-68",
+    "assemblyConstituencyName": "Gokalpur(SC)",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Gokalpur(SC) Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Gokalpur(SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2612",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "AC-DL-69",
+    "assemblyConstituencyName": "Mustafabad",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Mustafabad Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Mustafabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2613",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "AC-DL-70",
+    "assemblyConstituencyName": "Karawal Nagar",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Karawal Nagar Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Karawal Nagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2614",
+    "stateName": "Delhi",
+    "districtName": "North East Delhi",
+    "assemblyConstituencyCode": "PC-DL-2",
+    "assemblyConstituencyName": "North East Delhi (Lok Sabha)",
+    "crimeRate": "225.0 per 100k",
+    "crimeRatePerLakh": 225.0,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "North East Delhi (Lok Sabha) Civic Context",
+      "historicalFact": "North East Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in North East Delhi (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2615",
+    "stateName": "Delhi",
+    "districtName": "New Delhi",
+    "assemblyConstituencyCode": "PC-DL-4",
+    "assemblyConstituencyName": "New Delhi (Lok Sabha)",
+    "crimeRate": "207.0 per 100k",
+    "crimeRatePerLakh": 207.0,
+    "literacyRate": 78.0,
+    "literacyRatePercentage": 78.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "New Delhi (Lok Sabha) Civic Context",
+      "historicalFact": "New Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in New Delhi (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2616",
+    "stateName": "Delhi",
+    "districtName": "West Delhi",
+    "assemblyConstituencyCode": "PC-DL-6",
+    "assemblyConstituencyName": "West Delhi (Lok Sabha)",
+    "crimeRate": "219.2 per 100k",
+    "crimeRatePerLakh": 219.2,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "West Delhi (Lok Sabha) Civic Context",
+      "historicalFact": "West Delhi forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in West Delhi (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_de_2617",
+    "stateName": "Delhi",
+    "districtName": "Chandni Chowk",
+    "assemblyConstituencyCode": "PC-DL-1",
+    "assemblyConstituencyName": "Chandni Chowk (Lok Sabha)",
+    "crimeRate": "154.1 per 100k",
+    "crimeRatePerLakh": 154.1,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 226,
+    "regionalInsight": {
+      "title": "Chandni Chowk (Lok Sabha) Civic Context",
+      "historicalFact": "Chandni Chowk forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+      "currentChallenge": "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in Chandni Chowk (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

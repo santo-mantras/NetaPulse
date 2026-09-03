@@ -1,0 +1,562 @@
+[
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-1",
+    "constituency_name": "Narela",
+    "winner": "Sharad Chauhan",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-2",
+    "constituency_name": "Burari",
+    "winner": "Sanjeev Jha",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-3",
+    "constituency_name": "Timarpur",
+    "winner": "Dilip Pandey",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-4",
+    "constituency_name": "Adarsh Nagar",
+    "winner": "Pawan Kumar Sharma",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-5",
+    "constituency_name": "Badli",
+    "winner": "Ajesh Yadav",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-6",
+    "constituency_name": "Rithala",
+    "winner": "Mohinder Goyal",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-7",
+    "constituency_name": "Bawana(SC)",
+    "winner": "Jai Bhagwan",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-8",
+    "constituency_name": "Mundka",
+    "winner": "Dharampal Lakra",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-9",
+    "constituency_name": "Kirari",
+    "winner": "Rituraj Govind",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-10",
+    "constituency_name": "Sultanpur Majra(SC)",
+    "winner": "Mukesh Kumar Ahlawat",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-11",
+    "constituency_name": "Nangloi Jat",
+    "winner": "Raghuvinder Shokeen",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-12",
+    "constituency_name": "Mangol Puri(SC)",
+    "winner": "Rakhi Birla",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-13",
+    "constituency_name": "Rohini",
+    "winner": "Vijender Gupta",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-14",
+    "constituency_name": "Shalimar Bagh",
+    "winner": "Bandana Kumari",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-15",
+    "constituency_name": "Shakur Basti",
+    "winner": "Satyendra Kumar Jain",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North West Delhi",
+    "constituency_code": "AC-DL-16",
+    "constituency_name": "Tri Nagar",
+    "winner": "Preeti Tomar",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-17",
+    "constituency_name": "Wazirpur",
+    "winner": "Rajesh Gupta",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North Delhi",
+    "constituency_code": "AC-DL-18",
+    "constituency_name": "Model Town",
+    "winner": "Akhilesh Pati Tripathi",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-19",
+    "constituency_name": "Sadar Bazar",
+    "winner": "Som Dutt",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-20",
+    "constituency_name": "Chandni Chowk",
+    "winner": "Parlad Singh Sawhney",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-21",
+    "constituency_name": "Matia Mahal",
+    "winner": "Shoaib Iqbal",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-22",
+    "constituency_name": "Ballimaran",
+    "winner": "Imran Hussain",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Central Delhi",
+    "constituency_code": "AC-DL-23",
+    "constituency_name": "Karol Bagh(SC)",
+    "winner": "Vishesh Ravi",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-24",
+    "constituency_name": "Patel Nagar(SC)",
+    "winner": "Raaj Kumar Anand",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-25",
+    "constituency_name": "Moti Nagar",
+    "winner": "Shiv Charan Goel",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-26",
+    "constituency_name": "Madipur(SC)",
+    "winner": "Girish Soni",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-27",
+    "constituency_name": "Rajouri Garden",
+    "winner": "Dhanwati Chandela",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-28",
+    "constituency_name": "Hari Nagar",
+    "winner": "Raj Kumari Dhillon",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-29",
+    "constituency_name": "Tilak Nagar",
+    "winner": "Jarnail Singh",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "West Delhi",
+    "constituency_code": "AC-DL-30",
+    "constituency_name": "Janakpuri",
+    "winner": "Rajesh Rishi",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-31",
+    "constituency_name": "Vikaspuri",
+    "winner": "Mahinder Yadav",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-32",
+    "constituency_name": "Uttam Nagar",
+    "winner": "Naresh Balyan",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-33",
+    "constituency_name": "Dwarka",
+    "winner": "Vinay Mishra",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-34",
+    "constituency_name": "Matiala",
+    "winner": "Gulab Singh",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-35",
+    "constituency_name": "Najafgarh",
+    "winner": "Kailash Gahlot",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-36",
+    "constituency_name": "Bijwasan",
+    "winner": "Bhupinder Singh Joon",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South West Delhi",
+    "constituency_code": "AC-DL-37",
+    "constituency_name": "Palam",
+    "winner": "Bhavna Gaur",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-38",
+    "constituency_name": "Delhi Cantonment",
+    "winner": "Virender Singh Kadian",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-39",
+    "constituency_name": "Rajinder Nagar",
+    "winner": "Raghav Chadha",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-40",
+    "constituency_name": "New Delhi",
+    "winner": "Arvind Kejriwal",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-41",
+    "constituency_name": "Jangpura",
+    "winner": "Praveen Kumar",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-42",
+    "constituency_name": "Kasturba Nagar",
+    "winner": "Madan Lal",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South Delhi",
+    "constituency_code": "AC-DL-43",
+    "constituency_name": "Malviya Nagar",
+    "winner": "Somnath Bharti",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-44",
+    "constituency_name": "R K Puram",
+    "winner": "Pramila Tokas",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South Delhi",
+    "constituency_code": "AC-DL-45",
+    "constituency_name": "Mehrauli",
+    "winner": "Naresh Yadav",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South Delhi",
+    "constituency_code": "AC-DL-46",
+    "constituency_name": "Chhatarpur",
+    "winner": "Kartar Singh Tanwar",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South Delhi",
+    "constituency_code": "AC-DL-47",
+    "constituency_name": "Deoli(SC)",
+    "winner": "Prakash Jarwal",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South Delhi",
+    "constituency_code": "AC-DL-48",
+    "constituency_name": "Ambedkar Nagar(SC)",
+    "winner": "Ajay Dutt",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-49",
+    "constituency_name": "Sangam Vihar",
+    "winner": "Dinesh Mohaniya",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "New Delhi",
+    "constituency_code": "AC-DL-50",
+    "constituency_name": "Greater Kailash",
+    "winner": "Saurabh Bhardwaj",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-51",
+    "constituency_name": "Kalkaji",
+    "winner": "Atishi Marlena",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-52",
+    "constituency_name": "Tughlakabad",
+    "winner": "Sahiram",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-53",
+    "constituency_name": "Badarpur",
+    "winner": "Ramvir Singh Bidhuri",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "South East Delhi",
+    "constituency_code": "AC-DL-54",
+    "constituency_name": "Okhla",
+    "winner": "Amanatullah Khan",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-55",
+    "constituency_name": "Trilokpuri(SC)",
+    "winner": "Rohit Kumar Mehraulia",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-56",
+    "constituency_name": "Kondli(SC)",
+    "winner": "Kuldeep Kumar",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-57",
+    "constituency_name": "Patparganj",
+    "winner": "Manish Sisodia",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-58",
+    "constituency_name": "Laxmi Nagar",
+    "winner": "Abhay Verma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "constituency_code": "AC-DL-59",
+    "constituency_name": "Vishwas Nagar",
+    "winner": "Om Prakash Sharma",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-60",
+    "constituency_name": "Krishna Nagar",
+    "winner": "S.K. Bagga",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "East Delhi",
+    "constituency_code": "AC-DL-61",
+    "constituency_name": "Gandhi Nagar",
+    "winner": "Anil Kumar Bajpai",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "constituency_code": "AC-DL-62",
+    "constituency_name": "Shahdara",
+    "winner": "Ram Niwas Goel",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "constituency_code": "AC-DL-63",
+    "constituency_name": "Seemapuri(SC)",
+    "winner": "Rajendra Pal Gautam",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "constituency_code": "AC-DL-64",
+    "constituency_name": "Rohtas Nagar",
+    "winner": "Jitender Mahajan",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "constituency_code": "AC-DL-65",
+    "constituency_name": "Seelampur",
+    "winner": "Abdul Rehman",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "constituency_code": "AC-DL-66",
+    "constituency_name": "Ghonda",
+    "winner": "Ajay Mahawar",
+    "party": "Bharatiya Janata Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "Shahdara",
+    "constituency_code": "AC-DL-67",
+    "constituency_name": "Babarpur",
+    "winner": "Gopal Rai",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "constituency_code": "AC-DL-68",
+    "constituency_name": "Gokalpur(SC)",
+    "winner": "Surendra Kumar",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "constituency_code": "AC-DL-69",
+    "constituency_name": "Mustafabad",
+    "winner": "Haji Yunus",
+    "party": "Aam Aadmi Party"
+  },
+  {
+    "state": "Delhi",
+    "district": "North East Delhi",
+    "constituency_code": "AC-DL-70",
+    "constituency_name": "Karawal Nagar",
+    "winner": "Mohan Singh Bisht",
+    "party": "Bharatiya Janata Party"
+  }
+]

@@ -182,7 +182,11 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                         onChange={(e) => handleStateChange(e.target.value)}
                         className="bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 text-slate-900 dark:text-slate-100 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 transition-colors outline-none"
                     >
-                        {states.map(s => <option key={s} value={s}>{s}</option>)}
+                        {states.map(s => (
+                            <option key={s} value={s}>
+                                {s === 'Delhi' ? 'Delhi (UT)' : s}
+                            </option>
+                        ))}
                     </select>
                 </div>
 

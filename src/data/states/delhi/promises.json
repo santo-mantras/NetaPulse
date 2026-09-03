@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "de_2544_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2544_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2544_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2544_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Narela",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2544_prom_5",
+    "title": "Smart Govt School Digital Labs in Narela",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Narela",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2545_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2545_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2545_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2545_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Burari",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2545_prom_5",
+    "title": "Smart Govt School Digital Labs in Burari",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Burari",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2546_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2546_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2546_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2546_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Timarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2546_prom_5",
+    "title": "Smart Govt School Digital Labs in Timarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Timarpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2547_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2547_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2547_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2547_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Adarsh Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2547_prom_5",
+    "title": "Smart Govt School Digital Labs in Adarsh Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Adarsh Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2548_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2548_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2548_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2548_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Badli",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2548_prom_5",
+    "title": "Smart Govt School Digital Labs in Badli",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Badli",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2549_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2549_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2549_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2549_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rithala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2549_prom_5",
+    "title": "Smart Govt School Digital Labs in Rithala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rithala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2550_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2550_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2550_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2550_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Bawana(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2550_prom_5",
+    "title": "Smart Govt School Digital Labs in Bawana(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Bawana(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2551_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2551_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2551_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2551_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Mundka",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2551_prom_5",
+    "title": "Smart Govt School Digital Labs in Mundka",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Mundka",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2552_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2552_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2552_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2552_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kirari",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2552_prom_5",
+    "title": "Smart Govt School Digital Labs in Kirari",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kirari",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2553_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2553_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2553_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2553_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sultanpur Majra(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2553_prom_5",
+    "title": "Smart Govt School Digital Labs in Sultanpur Majra(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sultanpur Majra(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2554_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2554_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2554_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2554_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Nangloi Jat",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2554_prom_5",
+    "title": "Smart Govt School Digital Labs in Nangloi Jat",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Nangloi Jat",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2555_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2555_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2555_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2555_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Mangol Puri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2555_prom_5",
+    "title": "Smart Govt School Digital Labs in Mangol Puri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Mangol Puri(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2556_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2556_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2556_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2556_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rohini",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2556_prom_5",
+    "title": "Smart Govt School Digital Labs in Rohini",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rohini",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2557_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2557_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2557_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2557_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Shalimar Bagh",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2557_prom_5",
+    "title": "Smart Govt School Digital Labs in Shalimar Bagh",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Shalimar Bagh",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2558_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2558_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2558_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2558_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Shakur Basti",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2558_prom_5",
+    "title": "Smart Govt School Digital Labs in Shakur Basti",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Shakur Basti",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2559_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2559_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2559_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2559_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Tri Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2559_prom_5",
+    "title": "Smart Govt School Digital Labs in Tri Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Tri Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2560_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2560_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2560_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2560_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Wazirpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2560_prom_5",
+    "title": "Smart Govt School Digital Labs in Wazirpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Wazirpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2561_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2561_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2561_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2561_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Model Town",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2561_prom_5",
+    "title": "Smart Govt School Digital Labs in Model Town",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Model Town",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2562_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2562_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2562_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2562_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sadar Bazar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2562_prom_5",
+    "title": "Smart Govt School Digital Labs in Sadar Bazar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sadar Bazar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2563_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2563_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2563_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2563_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Chandni Chowk",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2563_prom_5",
+    "title": "Smart Govt School Digital Labs in Chandni Chowk",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Chandni Chowk",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2564_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2564_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2564_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2564_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Matia Mahal",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2564_prom_5",
+    "title": "Smart Govt School Digital Labs in Matia Mahal",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Matia Mahal",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2565_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2565_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2565_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2565_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ballimaran",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2565_prom_5",
+    "title": "Smart Govt School Digital Labs in Ballimaran",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ballimaran",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2566_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2566_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2566_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2566_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Karol Bagh(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Central Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2566_prom_5",
+    "title": "Smart Govt School Digital Labs in Karol Bagh(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Karol Bagh(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Central Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2567_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2567_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2567_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2567_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Patel Nagar(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2567_prom_5",
+    "title": "Smart Govt School Digital Labs in Patel Nagar(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Patel Nagar(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2568_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2568_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2568_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2568_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Moti Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2568_prom_5",
+    "title": "Smart Govt School Digital Labs in Moti Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Moti Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2569_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2569_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2569_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2569_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Madipur(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2569_prom_5",
+    "title": "Smart Govt School Digital Labs in Madipur(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Madipur(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2570_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2570_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2570_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2570_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rajouri Garden",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2570_prom_5",
+    "title": "Smart Govt School Digital Labs in Rajouri Garden",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rajouri Garden",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2571_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2571_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2571_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2571_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Hari Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2571_prom_5",
+    "title": "Smart Govt School Digital Labs in Hari Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Hari Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2572_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2572_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2572_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2572_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Tilak Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2572_prom_5",
+    "title": "Smart Govt School Digital Labs in Tilak Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Tilak Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2573_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2573_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2573_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2573_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Janakpuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2573_prom_5",
+    "title": "Smart Govt School Digital Labs in Janakpuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Janakpuri",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2574_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2574_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2574_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2574_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Vikaspuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2574_prom_5",
+    "title": "Smart Govt School Digital Labs in Vikaspuri",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Vikaspuri",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2575_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2575_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2575_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2575_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Uttam Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2575_prom_5",
+    "title": "Smart Govt School Digital Labs in Uttam Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Uttam Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2576_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2576_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2576_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2576_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Dwarka",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2576_prom_5",
+    "title": "Smart Govt School Digital Labs in Dwarka",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Dwarka",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2577_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2577_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2577_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2577_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Matiala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2577_prom_5",
+    "title": "Smart Govt School Digital Labs in Matiala",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Matiala",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2578_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2578_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2578_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2578_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Najafgarh",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2578_prom_5",
+    "title": "Smart Govt School Digital Labs in Najafgarh",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Najafgarh",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2579_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2579_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2579_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2579_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Bijwasan",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2579_prom_5",
+    "title": "Smart Govt School Digital Labs in Bijwasan",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Bijwasan",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2580_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2580_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2580_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2580_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Palam",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2580_prom_5",
+    "title": "Smart Govt School Digital Labs in Palam",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Palam",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2581_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2581_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2581_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2581_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Delhi Cantonment",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2581_prom_5",
+    "title": "Smart Govt School Digital Labs in Delhi Cantonment",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Delhi Cantonment",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2582_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2582_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2582_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2582_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rajinder Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2582_prom_5",
+    "title": "Smart Govt School Digital Labs in Rajinder Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rajinder Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2583_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2583_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2583_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2583_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in New Delhi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2583_prom_5",
+    "title": "Smart Govt School Digital Labs in New Delhi",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2584_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2584_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2584_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2584_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Jangpura",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2584_prom_5",
+    "title": "Smart Govt School Digital Labs in Jangpura",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Jangpura",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2585_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2585_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2585_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2585_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kasturba Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2585_prom_5",
+    "title": "Smart Govt School Digital Labs in Kasturba Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kasturba Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2586_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2586_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2586_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2586_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Malviya Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2586_prom_5",
+    "title": "Smart Govt School Digital Labs in Malviya Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Malviya Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2587_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2587_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2587_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2587_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in R K Puram",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2587_prom_5",
+    "title": "Smart Govt School Digital Labs in R K Puram",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across R K Puram",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2588_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2588_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2588_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2588_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Mehrauli",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2588_prom_5",
+    "title": "Smart Govt School Digital Labs in Mehrauli",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Mehrauli",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2589_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2589_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2589_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2589_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Chhatarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2589_prom_5",
+    "title": "Smart Govt School Digital Labs in Chhatarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Chhatarpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2590_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2590_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2590_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2590_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Deoli(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2590_prom_5",
+    "title": "Smart Govt School Digital Labs in Deoli(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Deoli(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2591_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2591_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2591_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2591_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ambedkar Nagar(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2591_prom_5",
+    "title": "Smart Govt School Digital Labs in Ambedkar Nagar(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ambedkar Nagar(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2592_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2592_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2592_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2592_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Sangam Vihar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2592_prom_5",
+    "title": "Smart Govt School Digital Labs in Sangam Vihar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Sangam Vihar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2593_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2593_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2593_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2593_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Greater Kailash",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2593_prom_5",
+    "title": "Smart Govt School Digital Labs in Greater Kailash",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Greater Kailash",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2594_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2594_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2594_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2594_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kalkaji",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2594_prom_5",
+    "title": "Smart Govt School Digital Labs in Kalkaji",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kalkaji",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2595_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2595_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2595_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2595_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Tughlakabad",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2595_prom_5",
+    "title": "Smart Govt School Digital Labs in Tughlakabad",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Tughlakabad",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2596_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2596_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2596_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2596_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Badarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2596_prom_5",
+    "title": "Smart Govt School Digital Labs in Badarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Badarpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2597_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2597_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2597_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2597_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Okhla",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in South East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2597_prom_5",
+    "title": "Smart Govt School Digital Labs in Okhla",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Okhla",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in South East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2598_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2598_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2598_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2598_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Trilokpuri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2598_prom_5",
+    "title": "Smart Govt School Digital Labs in Trilokpuri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Trilokpuri(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2599_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2599_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2599_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2599_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Kondli(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2599_prom_5",
+    "title": "Smart Govt School Digital Labs in Kondli(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Kondli(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2600_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2600_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2600_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2600_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Patparganj",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2600_prom_5",
+    "title": "Smart Govt School Digital Labs in Patparganj",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Patparganj",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2601_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2601_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2601_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2601_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Laxmi Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2601_prom_5",
+    "title": "Smart Govt School Digital Labs in Laxmi Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Laxmi Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2602_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2602_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2602_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2602_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Vishwas Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2602_prom_5",
+    "title": "Smart Govt School Digital Labs in Vishwas Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Vishwas Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2603_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2603_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2603_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2603_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Krishna Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2603_prom_5",
+    "title": "Smart Govt School Digital Labs in Krishna Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Krishna Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2604_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2604_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2604_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2604_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Gandhi Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2604_prom_5",
+    "title": "Smart Govt School Digital Labs in Gandhi Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Gandhi Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2605_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2605_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2605_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2605_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Shahdara",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2605_prom_5",
+    "title": "Smart Govt School Digital Labs in Shahdara",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2606_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2606_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2606_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2606_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Seemapuri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2606_prom_5",
+    "title": "Smart Govt School Digital Labs in Seemapuri(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Seemapuri(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2607_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2607_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2607_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2607_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Rohtas Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2607_prom_5",
+    "title": "Smart Govt School Digital Labs in Rohtas Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Rohtas Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2608_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2608_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2608_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2608_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Seelampur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2608_prom_5",
+    "title": "Smart Govt School Digital Labs in Seelampur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Seelampur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2609_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2609_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2609_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2609_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Ghonda",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2609_prom_5",
+    "title": "Smart Govt School Digital Labs in Ghonda",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Ghonda",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2610_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2610_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2610_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2610_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Babarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Shahdara",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2610_prom_5",
+    "title": "Smart Govt School Digital Labs in Babarpur",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Babarpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Shahdara.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2611_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2611_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2611_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2611_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Gokalpur(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2611_prom_5",
+    "title": "Smart Govt School Digital Labs in Gokalpur(SC)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Gokalpur(SC)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2612_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2612_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2612_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2612_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Mustafabad",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2612_prom_5",
+    "title": "Smart Govt School Digital Labs in Mustafabad",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Mustafabad",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2613_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2613_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2613_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2613_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Karawal Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2613_prom_5",
+    "title": "Smart Govt School Digital Labs in Karawal Nagar",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Karawal Nagar",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2614_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2614_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2614_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2614_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in North East Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in North East Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2614_prom_5",
+    "title": "Smart Govt School Digital Labs in North East Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across North East Delhi (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in North East Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2615_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2615_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2615_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2615_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in New Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in New Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2615_prom_5",
+    "title": "Smart Govt School Digital Labs in New Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across New Delhi (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in New Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2616_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2616_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2616_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2616_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in West Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in West Delhi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2616_prom_5",
+    "title": "Smart Govt School Digital Labs in West Delhi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across West Delhi (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in West Delhi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2617_prom_1",
+    "title": "24/7 Clean Tap Water Pipeline Network",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Ensure direct piped potable water supply across unauthorized and planned colonies",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Chandni Chowk.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2617_prom_2",
+    "title": "Clean Yamuna Mission & Sewer Interceptor Grid",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Upgrade sewage treatment plants to achieve zero untreated discharge into Yamuna",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Chandni Chowk.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2617_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Chandni Chowk.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2617_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Chandni Chowk (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Chandni Chowk",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Chandni Chowk.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  },
+  {
+    "id": "de_2617_prom_5",
+    "title": "Smart Govt School Digital Labs in Chandni Chowk (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Chandni Chowk (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Chandni Chowk.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Delhi)"
+  }
+]

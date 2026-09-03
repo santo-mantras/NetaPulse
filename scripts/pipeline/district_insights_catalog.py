@@ -308,6 +308,10 @@ STATE_REGIONAL_ARCHETYPES = {
     "Goa": (
         "{district} is a picturesque coastal region of Goa, world-famous for its colonial architectural legacy, warm hospitality, and scenic coconut palm riverfronts.",
         "Key civic priorities include coastal ecology conservation, municipal waste treatment, and protecting heritage village structures in {c_name}."
+    ),
+    "Delhi": (
+        "{district} forms an integral sector of the National Capital Territory of Delhi, home to iconic heritage monuments, premier national universities, and bustling commercial markets.",
+        "Critical public issues include Yamuna river flood plain revival, winter air quality mitigation, and 24/7 piped drinking water distribution in {c_name}."
     )
 }
 
