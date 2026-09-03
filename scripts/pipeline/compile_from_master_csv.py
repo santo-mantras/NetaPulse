@@ -208,6 +208,8 @@ def get_party_logo_and_code(party_name):
         "BAP": ("BAP", f"{BASE_ASSET_PATH}/parties/BAP.svg"),
         "Maharashtra Navnirman Sena": ("MNS", f"{BASE_ASSET_PATH}/parties/MNS.svg"),
         "MNS": ("MNS", f"{BASE_ASSET_PATH}/parties/MNS.svg"),
+        "Tamilaga Vettri Kazhagam": ("TVK", f"{BASE_ASSET_PATH}/parties/TVK.svg"),
+        "TVK": ("TVK", f"{BASE_ASSET_PATH}/parties/TVK.svg"),
         "Independent": ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg"),
         "Ind": ("IND", f"{BASE_ASSET_PATH}/parties/Independent.svg")
     }

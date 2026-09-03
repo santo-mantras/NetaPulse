@@ -2,942 +2,6 @@
   {
     "id": "loc_ut_275",
     "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-2",
-    "assemblyConstituencyName": "Lucknow Cantt",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Lucknow Cantt Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_276",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-3",
-    "assemblyConstituencyName": "Lucknow East",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Lucknow East Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_277",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-4",
-    "assemblyConstituencyName": "Lucknow Central",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Lucknow Central Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_278",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-5",
-    "assemblyConstituencyName": "Lucknow West",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Lucknow West Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_279",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-6",
-    "assemblyConstituencyName": "Lucknow North",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Lucknow North Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_280",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-7",
-    "assemblyConstituencyName": "Sarojini Nagar",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Sarojini Nagar Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_281",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-8",
-    "assemblyConstituencyName": "Bakshi Kaa Talab",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Bakshi Kaa Talab Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_282",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-9",
-    "assemblyConstituencyName": "Malihabad (SC)",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Malihabad (SC) Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_283",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Lucknow",
-    "assemblyConstituencyCode": "AC-UP-10",
-    "assemblyConstituencyName": "Mohanlalganj (SC)",
-    "crimeRate": "149.5 per 100k",
-    "crimeRatePerLakh": 149.5,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 39,
-    "govtSchoolsCount": 318,
-    "regionalInsight": {
-      "title": "Mohanlalganj (SC) Civic Context",
-      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
-      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_284",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-11",
-    "assemblyConstituencyName": "Gorakhpur Urban",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Gorakhpur Urban Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_285",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-12",
-    "assemblyConstituencyName": "Gorakhpur Rural",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Gorakhpur Rural Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_286",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-13",
-    "assemblyConstituencyName": "Pipraich",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Pipraich Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_287",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-14",
-    "assemblyConstituencyName": "Sahjanwa",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Sahjanwa Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_288",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-15",
-    "assemblyConstituencyName": "Campierganj",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Campierganj Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_289",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-16",
-    "assemblyConstituencyName": "Chauri-Chaura",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Chauri-Chaura Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_290",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-17",
-    "assemblyConstituencyName": "Bansgaon (SC)",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Bansgaon (SC) Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_291",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-18",
-    "assemblyConstituencyName": "Chillupar",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Chillupar Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_292",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gorakhpur",
-    "assemblyConstituencyCode": "AC-UP-19",
-    "assemblyConstituencyName": "Khajani (SC)",
-    "crimeRate": "173.3 per 100k",
-    "crimeRatePerLakh": 173.3,
-    "literacyRate": 77.9,
-    "literacyRatePercentage": 77.9,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 299,
-    "regionalInsight": {
-      "title": "Khajani (SC) Civic Context",
-      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
-      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_293",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-20",
-    "assemblyConstituencyName": "Varanasi Cantt",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Varanasi Cantt Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_294",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-21",
-    "assemblyConstituencyName": "Varanasi North",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Varanasi North Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_295",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-22",
-    "assemblyConstituencyName": "Varanasi South",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Varanasi South Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_296",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-23",
-    "assemblyConstituencyName": "Rohaniya",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Rohaniya Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_297",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-24",
-    "assemblyConstituencyName": "Sewapuri",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Sewapuri Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_298",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-25",
-    "assemblyConstituencyName": "Pindra",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Pindra Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_299",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-26",
-    "assemblyConstituencyName": "Ajagara (SC)",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Ajagara (SC) Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_300",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Varanasi",
-    "assemblyConstituencyCode": "AC-UP-27",
-    "assemblyConstituencyName": "Shivpur",
-    "crimeRate": "260.9 per 100k",
-    "crimeRatePerLakh": 260.9,
-    "literacyRate": 82.6,
-    "literacyRatePercentage": 82.6,
-    "hospitalsCount": 40,
-    "govtSchoolsCount": 240,
-    "regionalInsight": {
-      "title": "Shivpur Civic Context",
-      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
-      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_301",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gautam Buddha Nagar",
-    "assemblyConstituencyCode": "AC-UP-28",
-    "assemblyConstituencyName": "Noida",
-    "crimeRate": "140.2 per 100k",
-    "crimeRatePerLakh": 140.2,
-    "literacyRate": 87.5,
-    "literacyRatePercentage": 87.5,
-    "hospitalsCount": 34,
-    "govtSchoolsCount": 255,
-    "regionalInsight": {
-      "title": "Noida Civic Context",
-      "historicalFact": "Gautam Buddha Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Noida."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_302",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gautam Buddha Nagar",
-    "assemblyConstituencyCode": "AC-UP-29",
-    "assemblyConstituencyName": "Dadri",
-    "crimeRate": "140.2 per 100k",
-    "crimeRatePerLakh": 140.2,
-    "literacyRate": 87.5,
-    "literacyRatePercentage": 87.5,
-    "hospitalsCount": 34,
-    "govtSchoolsCount": 255,
-    "regionalInsight": {
-      "title": "Dadri Civic Context",
-      "historicalFact": "Gautam Buddha Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Dadri."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_303",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Gautam Buddha Nagar",
-    "assemblyConstituencyCode": "AC-UP-30",
-    "assemblyConstituencyName": "Jewar",
-    "crimeRate": "140.2 per 100k",
-    "crimeRatePerLakh": 140.2,
-    "literacyRate": 87.5,
-    "literacyRatePercentage": 87.5,
-    "hospitalsCount": 34,
-    "govtSchoolsCount": 255,
-    "regionalInsight": {
-      "title": "Jewar Civic Context",
-      "historicalFact": "Gautam Buddha Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Jewar."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_304",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Mainpuri",
-    "assemblyConstituencyCode": "AC-UP-31",
-    "assemblyConstituencyName": "Karhal",
-    "crimeRate": "143.0 per 100k",
-    "crimeRatePerLakh": 143.0,
-    "literacyRate": 73.9,
-    "literacyRatePercentage": 73.9,
-    "hospitalsCount": 24,
-    "govtSchoolsCount": 271,
-    "regionalInsight": {
-      "title": "Karhal Civic Context",
-      "historicalFact": "Mainpuri is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Karhal."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_305",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Mainpuri",
-    "assemblyConstituencyCode": "AC-UP-32",
-    "assemblyConstituencyName": "Mainpuri",
-    "crimeRate": "143.0 per 100k",
-    "crimeRatePerLakh": 143.0,
-    "literacyRate": 73.9,
-    "literacyRatePercentage": 73.9,
-    "hospitalsCount": 24,
-    "govtSchoolsCount": 271,
-    "regionalInsight": {
-      "title": "Mainpuri Civic Context",
-      "historicalFact": "Mainpuri is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Mainpuri."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_306",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Mainpuri",
-    "assemblyConstituencyCode": "AC-UP-33",
-    "assemblyConstituencyName": "Bhongaon",
-    "crimeRate": "143.0 per 100k",
-    "crimeRatePerLakh": 143.0,
-    "literacyRate": 73.9,
-    "literacyRatePercentage": 73.9,
-    "hospitalsCount": 24,
-    "govtSchoolsCount": 271,
-    "regionalInsight": {
-      "title": "Bhongaon Civic Context",
-      "historicalFact": "Mainpuri is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Bhongaon."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_307",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Mainpuri",
-    "assemblyConstituencyCode": "AC-UP-34",
-    "assemblyConstituencyName": "Kishni (SC)",
-    "crimeRate": "143.0 per 100k",
-    "crimeRatePerLakh": 143.0,
-    "literacyRate": 73.9,
-    "literacyRatePercentage": 73.9,
-    "hospitalsCount": 24,
-    "govtSchoolsCount": 271,
-    "regionalInsight": {
-      "title": "Kishni (SC) Civic Context",
-      "historicalFact": "Mainpuri is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Kishni (SC)."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_308",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-35",
-    "assemblyConstituencyName": "Govind Nagar",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Govind Nagar Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Govind Nagar."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_309",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-36",
-    "assemblyConstituencyName": "Sisamau",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Sisamau Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Sisamau."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_310",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-37",
-    "assemblyConstituencyName": "Aryanagar",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Aryanagar Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Aryanagar."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_311",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-38",
-    "assemblyConstituencyName": "Kidwai Nagar",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Kidwai Nagar Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Kidwai Nagar."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_312",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-39",
-    "assemblyConstituencyName": "Kanpur Cantt",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Kanpur Cantt Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Kanpur Cantt."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_313",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Kanpur Nagar",
-    "assemblyConstituencyCode": "AC-UP-40",
-    "assemblyConstituencyName": "Kalyanpur",
-    "crimeRate": "209.8 per 100k",
-    "crimeRatePerLakh": 209.8,
-    "literacyRate": 72.4,
-    "literacyRatePercentage": 72.4,
-    "hospitalsCount": 27,
-    "govtSchoolsCount": 262,
-    "regionalInsight": {
-      "title": "Kalyanpur Civic Context",
-      "historicalFact": "Kanpur Nagar is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Kalyanpur."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_314",
-    "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-41",
     "assemblyConstituencyName": "Maharajpur",
@@ -960,7 +24,7 @@
     }
   },
   {
-    "id": "loc_ut_315",
+    "id": "loc_ut_276",
     "stateName": "Uttar Pradesh",
     "districtName": "Ayodhya",
     "assemblyConstituencyCode": "AC-UP-42",
@@ -984,7 +48,7 @@
     }
   },
   {
-    "id": "loc_ut_316",
+    "id": "loc_ut_277",
     "stateName": "Uttar Pradesh",
     "districtName": "Ayodhya",
     "assemblyConstituencyCode": "AC-UP-43",
@@ -1008,7 +72,7 @@
     }
   },
   {
-    "id": "loc_ut_317",
+    "id": "loc_ut_278",
     "stateName": "Uttar Pradesh",
     "districtName": "Ayodhya",
     "assemblyConstituencyCode": "AC-UP-44",
@@ -1032,7 +96,7 @@
     }
   },
   {
-    "id": "loc_ut_318",
+    "id": "loc_ut_279",
     "stateName": "Uttar Pradesh",
     "districtName": "Ayodhya",
     "assemblyConstituencyCode": "AC-UP-45",
@@ -1056,7 +120,7 @@
     }
   },
   {
-    "id": "loc_ut_319",
+    "id": "loc_ut_280",
     "stateName": "Uttar Pradesh",
     "districtName": "Ayodhya",
     "assemblyConstituencyCode": "AC-UP-46",
@@ -1080,7 +144,7 @@
     }
   },
   {
-    "id": "loc_ut_320",
+    "id": "loc_ut_281",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-47",
@@ -1104,7 +168,7 @@
     }
   },
   {
-    "id": "loc_ut_321",
+    "id": "loc_ut_282",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-48",
@@ -1128,7 +192,7 @@
     }
   },
   {
-    "id": "loc_ut_322",
+    "id": "loc_ut_283",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-49",
@@ -1152,7 +216,7 @@
     }
   },
   {
-    "id": "loc_ut_323",
+    "id": "loc_ut_284",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-50",
@@ -1176,7 +240,7 @@
     }
   },
   {
-    "id": "loc_ut_324",
+    "id": "loc_ut_285",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-51",
@@ -1200,7 +264,7 @@
     }
   },
   {
-    "id": "loc_ut_325",
+    "id": "loc_ut_286",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-52",
@@ -1224,7 +288,7 @@
     }
   },
   {
-    "id": "loc_ut_326",
+    "id": "loc_ut_287",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-53",
@@ -1248,7 +312,7 @@
     }
   },
   {
-    "id": "loc_ut_327",
+    "id": "loc_ut_288",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-54",
@@ -1272,7 +336,7 @@
     }
   },
   {
-    "id": "loc_ut_328",
+    "id": "loc_ut_289",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-55",
@@ -1296,7 +360,7 @@
     }
   },
   {
-    "id": "loc_ut_329",
+    "id": "loc_ut_290",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-56",
@@ -1320,7 +384,7 @@
     }
   },
   {
-    "id": "loc_ut_330",
+    "id": "loc_ut_291",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-57",
@@ -1344,7 +408,7 @@
     }
   },
   {
-    "id": "loc_ut_331",
+    "id": "loc_ut_292",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-58",
@@ -1368,31 +432,7 @@
     }
   },
   {
-    "id": "loc_ut_332",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Mathura",
-    "assemblyConstituencyCode": "AC-UP-59",
-    "assemblyConstituencyName": "Baldeo (SC)",
-    "crimeRate": "239.7 per 100k",
-    "crimeRatePerLakh": 239.7,
-    "literacyRate": 81.5,
-    "literacyRatePercentage": 81.5,
-    "hospitalsCount": 42,
-    "govtSchoolsCount": 205,
-    "regionalInsight": {
-      "title": "Baldeo (SC) Civic Context",
-      "historicalFact": "Mathura is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Baldeo (SC)."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_333",
+    "id": "loc_ut_293",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-60",
@@ -1416,31 +456,7 @@
     }
   },
   {
-    "id": "loc_ut_334",
-    "stateName": "Uttar Pradesh",
-    "districtName": "Meerut",
-    "assemblyConstituencyCode": "AC-UP-61",
-    "assemblyConstituencyName": "Meerut City",
-    "crimeRate": "271.7 per 100k",
-    "crimeRatePerLakh": 271.7,
-    "literacyRate": 72.0,
-    "literacyRatePercentage": 72.0,
-    "hospitalsCount": 45,
-    "govtSchoolsCount": 265,
-    "regionalInsight": {
-      "title": "Meerut City Civic Context",
-      "historicalFact": "Meerut is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
-      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Meerut City."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ut_335",
+    "id": "loc_ut_294",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-62",
@@ -1464,7 +480,7 @@
     }
   },
   {
-    "id": "loc_ut_336",
+    "id": "loc_ut_295",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-63",
@@ -1488,7 +504,7 @@
     }
   },
   {
-    "id": "loc_ut_337",
+    "id": "loc_ut_296",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-64",
@@ -1512,7 +528,7 @@
     }
   },
   {
-    "id": "loc_ut_338",
+    "id": "loc_ut_297",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-65",
@@ -1536,7 +552,7 @@
     }
   },
   {
-    "id": "loc_ut_339",
+    "id": "loc_ut_298",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-66",
@@ -1560,7 +576,7 @@
     }
   },
   {
-    "id": "loc_ut_340",
+    "id": "loc_ut_299",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-67",
@@ -1584,7 +600,7 @@
     }
   },
   {
-    "id": "loc_ut_341",
+    "id": "loc_ut_300",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-68",
@@ -1608,7 +624,7 @@
     }
   },
   {
-    "id": "loc_ut_342",
+    "id": "loc_ut_301",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-69",
@@ -1632,7 +648,7 @@
     }
   },
   {
-    "id": "loc_ut_343",
+    "id": "loc_ut_302",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-70",
@@ -1656,7 +672,7 @@
     }
   },
   {
-    "id": "loc_ut_344",
+    "id": "loc_ut_303",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-71",
@@ -1680,7 +696,7 @@
     }
   },
   {
-    "id": "loc_ut_345",
+    "id": "loc_ut_304",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-72",
@@ -1704,7 +720,7 @@
     }
   },
   {
-    "id": "loc_ut_476",
+    "id": "loc_ut_427",
     "stateName": "Uttar Pradesh",
     "districtName": "Gorakhpur",
     "assemblyConstituencyCode": "PC-UP-64",
@@ -1728,7 +744,7 @@
     }
   },
   {
-    "id": "loc_ut_699",
+    "id": "loc_ut_647",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-1",
@@ -1752,7 +768,7 @@
     }
   },
   {
-    "id": "loc_ut_700",
+    "id": "loc_ut_648",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-2",
@@ -1776,7 +792,7 @@
     }
   },
   {
-    "id": "loc_ut_701",
+    "id": "loc_ut_649",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-3",
@@ -1800,7 +816,7 @@
     }
   },
   {
-    "id": "loc_ut_702",
+    "id": "loc_ut_650",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-4",
@@ -1824,7 +840,7 @@
     }
   },
   {
-    "id": "loc_ut_703",
+    "id": "loc_ut_651",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-5",
@@ -1848,7 +864,7 @@
     }
   },
   {
-    "id": "loc_ut_704",
+    "id": "loc_ut_652",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-6",
@@ -1872,7 +888,7 @@
     }
   },
   {
-    "id": "loc_ut_705",
+    "id": "loc_ut_653",
     "stateName": "Uttar Pradesh",
     "districtName": "Saharanpur",
     "assemblyConstituencyCode": "AC-UP-7",
@@ -1896,7 +912,7 @@
     }
   },
   {
-    "id": "loc_ut_706",
+    "id": "loc_ut_654",
     "stateName": "Uttar Pradesh",
     "districtName": "Shamli",
     "assemblyConstituencyCode": "AC-UP-8",
@@ -1920,7 +936,7 @@
     }
   },
   {
-    "id": "loc_ut_707",
+    "id": "loc_ut_655",
     "stateName": "Uttar Pradesh",
     "districtName": "Shamli",
     "assemblyConstituencyCode": "AC-UP-9",
@@ -1944,7 +960,7 @@
     }
   },
   {
-    "id": "loc_ut_708",
+    "id": "loc_ut_656",
     "stateName": "Uttar Pradesh",
     "districtName": "Shamli",
     "assemblyConstituencyCode": "AC-UP-10",
@@ -1968,7 +984,7 @@
     }
   },
   {
-    "id": "loc_ut_709",
+    "id": "loc_ut_657",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-11",
@@ -1992,7 +1008,7 @@
     }
   },
   {
-    "id": "loc_ut_710",
+    "id": "loc_ut_658",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-12",
@@ -2016,7 +1032,7 @@
     }
   },
   {
-    "id": "loc_ut_711",
+    "id": "loc_ut_659",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-13",
@@ -2040,7 +1056,7 @@
     }
   },
   {
-    "id": "loc_ut_712",
+    "id": "loc_ut_660",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-14",
@@ -2064,7 +1080,7 @@
     }
   },
   {
-    "id": "loc_ut_713",
+    "id": "loc_ut_661",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-15",
@@ -2088,7 +1104,7 @@
     }
   },
   {
-    "id": "loc_ut_714",
+    "id": "loc_ut_662",
     "stateName": "Uttar Pradesh",
     "districtName": "Muzaffarnagar",
     "assemblyConstituencyCode": "AC-UP-16",
@@ -2112,7 +1128,7 @@
     }
   },
   {
-    "id": "loc_ut_715",
+    "id": "loc_ut_663",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-17",
@@ -2136,7 +1152,7 @@
     }
   },
   {
-    "id": "loc_ut_716",
+    "id": "loc_ut_664",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-18",
@@ -2160,7 +1176,7 @@
     }
   },
   {
-    "id": "loc_ut_717",
+    "id": "loc_ut_665",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-19",
@@ -2184,7 +1200,7 @@
     }
   },
   {
-    "id": "loc_ut_718",
+    "id": "loc_ut_666",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-20",
@@ -2208,7 +1224,7 @@
     }
   },
   {
-    "id": "loc_ut_719",
+    "id": "loc_ut_667",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-21",
@@ -2232,7 +1248,7 @@
     }
   },
   {
-    "id": "loc_ut_720",
+    "id": "loc_ut_668",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-22",
@@ -2256,7 +1272,7 @@
     }
   },
   {
-    "id": "loc_ut_721",
+    "id": "loc_ut_669",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-23",
@@ -2280,7 +1296,7 @@
     }
   },
   {
-    "id": "loc_ut_722",
+    "id": "loc_ut_670",
     "stateName": "Uttar Pradesh",
     "districtName": "Bijnor",
     "assemblyConstituencyCode": "AC-UP-24",
@@ -2304,7 +1320,7 @@
     }
   },
   {
-    "id": "loc_ut_723",
+    "id": "loc_ut_671",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-25",
@@ -2328,7 +1344,7 @@
     }
   },
   {
-    "id": "loc_ut_724",
+    "id": "loc_ut_672",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-26",
@@ -2352,7 +1368,7 @@
     }
   },
   {
-    "id": "loc_ut_725",
+    "id": "loc_ut_673",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-27",
@@ -2376,7 +1392,7 @@
     }
   },
   {
-    "id": "loc_ut_726",
+    "id": "loc_ut_674",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-28",
@@ -2400,7 +1416,7 @@
     }
   },
   {
-    "id": "loc_ut_727",
+    "id": "loc_ut_675",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-29",
@@ -2424,7 +1440,7 @@
     }
   },
   {
-    "id": "loc_ut_728",
+    "id": "loc_ut_676",
     "stateName": "Uttar Pradesh",
     "districtName": "Moradabad",
     "assemblyConstituencyCode": "AC-UP-30",
@@ -2448,7 +1464,7 @@
     }
   },
   {
-    "id": "loc_ut_729",
+    "id": "loc_ut_677",
     "stateName": "Uttar Pradesh",
     "districtName": "Sambhal",
     "assemblyConstituencyCode": "AC-UP-31",
@@ -2472,7 +1488,7 @@
     }
   },
   {
-    "id": "loc_ut_730",
+    "id": "loc_ut_678",
     "stateName": "Uttar Pradesh",
     "districtName": "Sambhal",
     "assemblyConstituencyCode": "AC-UP-32",
@@ -2496,7 +1512,7 @@
     }
   },
   {
-    "id": "loc_ut_731",
+    "id": "loc_ut_679",
     "stateName": "Uttar Pradesh",
     "districtName": "Sambhal",
     "assemblyConstituencyCode": "AC-UP-33",
@@ -2520,7 +1536,7 @@
     }
   },
   {
-    "id": "loc_ut_732",
+    "id": "loc_ut_680",
     "stateName": "Uttar Pradesh",
     "districtName": "Rampur",
     "assemblyConstituencyCode": "AC-UP-34",
@@ -2544,7 +1560,7 @@
     }
   },
   {
-    "id": "loc_ut_733",
+    "id": "loc_ut_681",
     "stateName": "Uttar Pradesh",
     "districtName": "Rampur",
     "assemblyConstituencyCode": "AC-UP-35",
@@ -2568,7 +1584,7 @@
     }
   },
   {
-    "id": "loc_ut_734",
+    "id": "loc_ut_682",
     "stateName": "Uttar Pradesh",
     "districtName": "Rampur",
     "assemblyConstituencyCode": "AC-UP-36",
@@ -2592,7 +1608,7 @@
     }
   },
   {
-    "id": "loc_ut_735",
+    "id": "loc_ut_683",
     "stateName": "Uttar Pradesh",
     "districtName": "Rampur",
     "assemblyConstituencyCode": "AC-UP-37",
@@ -2616,7 +1632,7 @@
     }
   },
   {
-    "id": "loc_ut_736",
+    "id": "loc_ut_684",
     "stateName": "Uttar Pradesh",
     "districtName": "Rampur",
     "assemblyConstituencyCode": "AC-UP-38",
@@ -2640,7 +1656,7 @@
     }
   },
   {
-    "id": "loc_ut_737",
+    "id": "loc_ut_685",
     "stateName": "Uttar Pradesh",
     "districtName": "Amroha",
     "assemblyConstituencyCode": "AC-UP-39",
@@ -2664,7 +1680,7 @@
     }
   },
   {
-    "id": "loc_ut_738",
+    "id": "loc_ut_686",
     "stateName": "Uttar Pradesh",
     "districtName": "Amroha",
     "assemblyConstituencyCode": "AC-UP-40",
@@ -2688,7 +1704,7 @@
     }
   },
   {
-    "id": "loc_ut_739",
+    "id": "loc_ut_687",
     "stateName": "Uttar Pradesh",
     "districtName": "Amroha",
     "assemblyConstituencyCode": "AC-UP-41",
@@ -2712,7 +1728,7 @@
     }
   },
   {
-    "id": "loc_ut_740",
+    "id": "loc_ut_688",
     "stateName": "Uttar Pradesh",
     "districtName": "Amroha",
     "assemblyConstituencyCode": "AC-UP-42",
@@ -2736,7 +1752,7 @@
     }
   },
   {
-    "id": "loc_ut_741",
+    "id": "loc_ut_689",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-43",
@@ -2760,7 +1776,7 @@
     }
   },
   {
-    "id": "loc_ut_742",
+    "id": "loc_ut_690",
     "stateName": "Uttar Pradesh",
     "districtName": "Meerut",
     "assemblyConstituencyCode": "AC-UP-48",
@@ -2784,7 +1800,7 @@
     }
   },
   {
-    "id": "loc_ut_743",
+    "id": "loc_ut_691",
     "stateName": "Uttar Pradesh",
     "districtName": "Baghpat",
     "assemblyConstituencyCode": "AC-UP-50",
@@ -2808,7 +1824,7 @@
     }
   },
   {
-    "id": "loc_ut_744",
+    "id": "loc_ut_692",
     "stateName": "Uttar Pradesh",
     "districtName": "Baghpat",
     "assemblyConstituencyCode": "AC-UP-51",
@@ -2832,7 +1848,7 @@
     }
   },
   {
-    "id": "loc_ut_745",
+    "id": "loc_ut_693",
     "stateName": "Uttar Pradesh",
     "districtName": "Baghpat",
     "assemblyConstituencyCode": "AC-UP-52",
@@ -2856,7 +1872,7 @@
     }
   },
   {
-    "id": "loc_ut_746",
+    "id": "loc_ut_694",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghaziabad",
     "assemblyConstituencyCode": "AC-UP-53",
@@ -2880,7 +1896,7 @@
     }
   },
   {
-    "id": "loc_ut_747",
+    "id": "loc_ut_695",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghaziabad",
     "assemblyConstituencyCode": "AC-UP-54",
@@ -2904,7 +1920,7 @@
     }
   },
   {
-    "id": "loc_ut_748",
+    "id": "loc_ut_696",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghaziabad",
     "assemblyConstituencyCode": "AC-UP-55",
@@ -2928,7 +1944,7 @@
     }
   },
   {
-    "id": "loc_ut_749",
+    "id": "loc_ut_697",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghaziabad",
     "assemblyConstituencyCode": "AC-UP-56",
@@ -2952,7 +1968,7 @@
     }
   },
   {
-    "id": "loc_ut_750",
+    "id": "loc_ut_698",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghaziabad",
     "assemblyConstituencyCode": "AC-UP-57",
@@ -2976,7 +1992,7 @@
     }
   },
   {
-    "id": "loc_ut_751",
+    "id": "loc_ut_699",
     "stateName": "Uttar Pradesh",
     "districtName": "Hapur",
     "assemblyConstituencyCode": "AC-UP-58",
@@ -3000,7 +2016,7 @@
     }
   },
   {
-    "id": "loc_ut_752",
+    "id": "loc_ut_700",
     "stateName": "Uttar Pradesh",
     "districtName": "Hapur",
     "assemblyConstituencyCode": "AC-UP-59",
@@ -3024,7 +2040,7 @@
     }
   },
   {
-    "id": "loc_ut_753",
+    "id": "loc_ut_701",
     "stateName": "Uttar Pradesh",
     "districtName": "Hapur",
     "assemblyConstituencyCode": "AC-UP-60",
@@ -3048,7 +2064,7 @@
     }
   },
   {
-    "id": "loc_ut_754",
+    "id": "loc_ut_702",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-64",
@@ -3072,7 +2088,7 @@
     }
   },
   {
-    "id": "loc_ut_755",
+    "id": "loc_ut_703",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-65",
@@ -3096,7 +2112,7 @@
     }
   },
   {
-    "id": "loc_ut_756",
+    "id": "loc_ut_704",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-66",
@@ -3120,7 +2136,7 @@
     }
   },
   {
-    "id": "loc_ut_757",
+    "id": "loc_ut_705",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-67",
@@ -3144,7 +2160,7 @@
     }
   },
   {
-    "id": "loc_ut_758",
+    "id": "loc_ut_706",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-68",
@@ -3168,7 +2184,7 @@
     }
   },
   {
-    "id": "loc_ut_759",
+    "id": "loc_ut_707",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-69",
@@ -3192,7 +2208,7 @@
     }
   },
   {
-    "id": "loc_ut_760",
+    "id": "loc_ut_708",
     "stateName": "Uttar Pradesh",
     "districtName": "Bulandshahr",
     "assemblyConstituencyCode": "AC-UP-70",
@@ -3216,7 +2232,7 @@
     }
   },
   {
-    "id": "loc_ut_761",
+    "id": "loc_ut_709",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-71",
@@ -3240,7 +2256,7 @@
     }
   },
   {
-    "id": "loc_ut_762",
+    "id": "loc_ut_710",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-72",
@@ -3264,7 +2280,7 @@
     }
   },
   {
-    "id": "loc_ut_763",
+    "id": "loc_ut_711",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-73",
@@ -3288,7 +2304,7 @@
     }
   },
   {
-    "id": "loc_ut_764",
+    "id": "loc_ut_712",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-74",
@@ -3312,7 +2328,7 @@
     }
   },
   {
-    "id": "loc_ut_765",
+    "id": "loc_ut_713",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-75",
@@ -3336,7 +2352,7 @@
     }
   },
   {
-    "id": "loc_ut_766",
+    "id": "loc_ut_714",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-76",
@@ -3360,7 +2376,7 @@
     }
   },
   {
-    "id": "loc_ut_767",
+    "id": "loc_ut_715",
     "stateName": "Uttar Pradesh",
     "districtName": "Aligarh",
     "assemblyConstituencyCode": "AC-UP-77",
@@ -3384,7 +2400,7 @@
     }
   },
   {
-    "id": "loc_ut_768",
+    "id": "loc_ut_716",
     "stateName": "Uttar Pradesh",
     "districtName": "Hathras",
     "assemblyConstituencyCode": "AC-UP-78",
@@ -3408,7 +2424,7 @@
     }
   },
   {
-    "id": "loc_ut_769",
+    "id": "loc_ut_717",
     "stateName": "Uttar Pradesh",
     "districtName": "Hathras",
     "assemblyConstituencyCode": "AC-UP-79",
@@ -3432,7 +2448,7 @@
     }
   },
   {
-    "id": "loc_ut_770",
+    "id": "loc_ut_718",
     "stateName": "Uttar Pradesh",
     "districtName": "Hathras",
     "assemblyConstituencyCode": "AC-UP-80",
@@ -3456,7 +2472,7 @@
     }
   },
   {
-    "id": "loc_ut_771",
+    "id": "loc_ut_719",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-83",
@@ -3480,7 +2496,7 @@
     }
   },
   {
-    "id": "loc_ut_772",
+    "id": "loc_ut_720",
     "stateName": "Uttar Pradesh",
     "districtName": "Mathura",
     "assemblyConstituencyCode": "AC-UP-85",
@@ -3504,7 +2520,7 @@
     }
   },
   {
-    "id": "loc_ut_773",
+    "id": "loc_ut_721",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-86",
@@ -3528,7 +2544,7 @@
     }
   },
   {
-    "id": "loc_ut_774",
+    "id": "loc_ut_722",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-87",
@@ -3552,7 +2568,7 @@
     }
   },
   {
-    "id": "loc_ut_775",
+    "id": "loc_ut_723",
     "stateName": "Uttar Pradesh",
     "districtName": "Agra",
     "assemblyConstituencyCode": "AC-UP-92",
@@ -3576,7 +2592,7 @@
     }
   },
   {
-    "id": "loc_ut_776",
+    "id": "loc_ut_724",
     "stateName": "Uttar Pradesh",
     "districtName": "Firozabad",
     "assemblyConstituencyCode": "AC-UP-95",
@@ -3600,7 +2616,7 @@
     }
   },
   {
-    "id": "loc_ut_777",
+    "id": "loc_ut_725",
     "stateName": "Uttar Pradesh",
     "districtName": "Firozabad",
     "assemblyConstituencyCode": "AC-UP-96",
@@ -3624,7 +2640,7 @@
     }
   },
   {
-    "id": "loc_ut_778",
+    "id": "loc_ut_726",
     "stateName": "Uttar Pradesh",
     "districtName": "Firozabad",
     "assemblyConstituencyCode": "AC-UP-97",
@@ -3648,7 +2664,7 @@
     }
   },
   {
-    "id": "loc_ut_779",
+    "id": "loc_ut_727",
     "stateName": "Uttar Pradesh",
     "districtName": "Firozabad",
     "assemblyConstituencyCode": "AC-UP-98",
@@ -3672,7 +2688,7 @@
     }
   },
   {
-    "id": "loc_ut_780",
+    "id": "loc_ut_728",
     "stateName": "Uttar Pradesh",
     "districtName": "Firozabad",
     "assemblyConstituencyCode": "AC-UP-99",
@@ -3696,7 +2712,7 @@
     }
   },
   {
-    "id": "loc_ut_781",
+    "id": "loc_ut_729",
     "stateName": "Uttar Pradesh",
     "districtName": "Kasganj",
     "assemblyConstituencyCode": "AC-UP-100",
@@ -3720,7 +2736,7 @@
     }
   },
   {
-    "id": "loc_ut_782",
+    "id": "loc_ut_730",
     "stateName": "Uttar Pradesh",
     "districtName": "Kasganj",
     "assemblyConstituencyCode": "AC-UP-101",
@@ -3744,7 +2760,7 @@
     }
   },
   {
-    "id": "loc_ut_783",
+    "id": "loc_ut_731",
     "stateName": "Uttar Pradesh",
     "districtName": "Kasganj",
     "assemblyConstituencyCode": "AC-UP-102",
@@ -3768,7 +2784,7 @@
     }
   },
   {
-    "id": "loc_ut_784",
+    "id": "loc_ut_732",
     "stateName": "Uttar Pradesh",
     "districtName": "Etah",
     "assemblyConstituencyCode": "AC-UP-103",
@@ -3792,7 +2808,7 @@
     }
   },
   {
-    "id": "loc_ut_785",
+    "id": "loc_ut_733",
     "stateName": "Uttar Pradesh",
     "districtName": "Etah",
     "assemblyConstituencyCode": "AC-UP-104",
@@ -3816,7 +2832,7 @@
     }
   },
   {
-    "id": "loc_ut_786",
+    "id": "loc_ut_734",
     "stateName": "Uttar Pradesh",
     "districtName": "Etah",
     "assemblyConstituencyCode": "AC-UP-105",
@@ -3840,7 +2856,7 @@
     }
   },
   {
-    "id": "loc_ut_787",
+    "id": "loc_ut_735",
     "stateName": "Uttar Pradesh",
     "districtName": "Etah",
     "assemblyConstituencyCode": "AC-UP-106",
@@ -3864,7 +2880,7 @@
     }
   },
   {
-    "id": "loc_ut_788",
+    "id": "loc_ut_736",
     "stateName": "Uttar Pradesh",
     "districtName": "Sambhal",
     "assemblyConstituencyCode": "AC-UP-111",
@@ -3888,7 +2904,7 @@
     }
   },
   {
-    "id": "loc_ut_789",
+    "id": "loc_ut_737",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-112",
@@ -3912,7 +2928,7 @@
     }
   },
   {
-    "id": "loc_ut_790",
+    "id": "loc_ut_738",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-113",
@@ -3936,7 +2952,7 @@
     }
   },
   {
-    "id": "loc_ut_791",
+    "id": "loc_ut_739",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-114",
@@ -3960,7 +2976,7 @@
     }
   },
   {
-    "id": "loc_ut_792",
+    "id": "loc_ut_740",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-115",
@@ -3984,7 +3000,7 @@
     }
   },
   {
-    "id": "loc_ut_793",
+    "id": "loc_ut_741",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-116",
@@ -4008,7 +3024,7 @@
     }
   },
   {
-    "id": "loc_ut_794",
+    "id": "loc_ut_742",
     "stateName": "Uttar Pradesh",
     "districtName": "Budaun",
     "assemblyConstituencyCode": "AC-UP-117",
@@ -4032,7 +3048,7 @@
     }
   },
   {
-    "id": "loc_ut_795",
+    "id": "loc_ut_743",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-118",
@@ -4056,7 +3072,7 @@
     }
   },
   {
-    "id": "loc_ut_796",
+    "id": "loc_ut_744",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-119",
@@ -4080,7 +3096,7 @@
     }
   },
   {
-    "id": "loc_ut_797",
+    "id": "loc_ut_745",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-120",
@@ -4104,7 +3120,7 @@
     }
   },
   {
-    "id": "loc_ut_798",
+    "id": "loc_ut_746",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-121",
@@ -4128,7 +3144,7 @@
     }
   },
   {
-    "id": "loc_ut_799",
+    "id": "loc_ut_747",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-122",
@@ -4152,7 +3168,7 @@
     }
   },
   {
-    "id": "loc_ut_800",
+    "id": "loc_ut_748",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-123",
@@ -4176,7 +3192,7 @@
     }
   },
   {
-    "id": "loc_ut_801",
+    "id": "loc_ut_749",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-124",
@@ -4200,7 +3216,7 @@
     }
   },
   {
-    "id": "loc_ut_802",
+    "id": "loc_ut_750",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-125",
@@ -4224,7 +3240,7 @@
     }
   },
   {
-    "id": "loc_ut_803",
+    "id": "loc_ut_751",
     "stateName": "Uttar Pradesh",
     "districtName": "Bareilly",
     "assemblyConstituencyCode": "AC-UP-126",
@@ -4248,7 +3264,7 @@
     }
   },
   {
-    "id": "loc_ut_804",
+    "id": "loc_ut_752",
     "stateName": "Uttar Pradesh",
     "districtName": "Pilibhit",
     "assemblyConstituencyCode": "AC-UP-127",
@@ -4272,7 +3288,7 @@
     }
   },
   {
-    "id": "loc_ut_805",
+    "id": "loc_ut_753",
     "stateName": "Uttar Pradesh",
     "districtName": "Pilibhit",
     "assemblyConstituencyCode": "AC-UP-128",
@@ -4296,7 +3312,7 @@
     }
   },
   {
-    "id": "loc_ut_806",
+    "id": "loc_ut_754",
     "stateName": "Uttar Pradesh",
     "districtName": "Pilibhit",
     "assemblyConstituencyCode": "AC-UP-129",
@@ -4320,7 +3336,7 @@
     }
   },
   {
-    "id": "loc_ut_807",
+    "id": "loc_ut_755",
     "stateName": "Uttar Pradesh",
     "districtName": "Pilibhit",
     "assemblyConstituencyCode": "AC-UP-130",
@@ -4344,7 +3360,7 @@
     }
   },
   {
-    "id": "loc_ut_808",
+    "id": "loc_ut_756",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-131",
@@ -4368,7 +3384,7 @@
     }
   },
   {
-    "id": "loc_ut_809",
+    "id": "loc_ut_757",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-132",
@@ -4392,7 +3408,7 @@
     }
   },
   {
-    "id": "loc_ut_810",
+    "id": "loc_ut_758",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-133",
@@ -4416,7 +3432,7 @@
     }
   },
   {
-    "id": "loc_ut_811",
+    "id": "loc_ut_759",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-134",
@@ -4440,7 +3456,7 @@
     }
   },
   {
-    "id": "loc_ut_812",
+    "id": "loc_ut_760",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-135",
@@ -4464,7 +3480,7 @@
     }
   },
   {
-    "id": "loc_ut_813",
+    "id": "loc_ut_761",
     "stateName": "Uttar Pradesh",
     "districtName": "Shahjahanpur",
     "assemblyConstituencyCode": "AC-UP-136",
@@ -4488,7 +3504,7 @@
     }
   },
   {
-    "id": "loc_ut_814",
+    "id": "loc_ut_762",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-137",
@@ -4512,7 +3528,7 @@
     }
   },
   {
-    "id": "loc_ut_815",
+    "id": "loc_ut_763",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-138",
@@ -4536,7 +3552,7 @@
     }
   },
   {
-    "id": "loc_ut_816",
+    "id": "loc_ut_764",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-139",
@@ -4560,7 +3576,7 @@
     }
   },
   {
-    "id": "loc_ut_817",
+    "id": "loc_ut_765",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-140",
@@ -4584,7 +3600,7 @@
     }
   },
   {
-    "id": "loc_ut_818",
+    "id": "loc_ut_766",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-141",
@@ -4608,7 +3624,7 @@
     }
   },
   {
-    "id": "loc_ut_819",
+    "id": "loc_ut_767",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-142",
@@ -4632,7 +3648,7 @@
     }
   },
   {
-    "id": "loc_ut_820",
+    "id": "loc_ut_768",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-143",
@@ -4656,7 +3672,7 @@
     }
   },
   {
-    "id": "loc_ut_821",
+    "id": "loc_ut_769",
     "stateName": "Uttar Pradesh",
     "districtName": "Lakhimpur Kheri",
     "assemblyConstituencyCode": "AC-UP-144",
@@ -4680,7 +3696,7 @@
     }
   },
   {
-    "id": "loc_ut_822",
+    "id": "loc_ut_770",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-145",
@@ -4704,7 +3720,7 @@
     }
   },
   {
-    "id": "loc_ut_823",
+    "id": "loc_ut_771",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-146",
@@ -4728,7 +3744,7 @@
     }
   },
   {
-    "id": "loc_ut_824",
+    "id": "loc_ut_772",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-147",
@@ -4752,7 +3768,7 @@
     }
   },
   {
-    "id": "loc_ut_825",
+    "id": "loc_ut_773",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-148",
@@ -4776,7 +3792,7 @@
     }
   },
   {
-    "id": "loc_ut_826",
+    "id": "loc_ut_774",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-149",
@@ -4800,7 +3816,7 @@
     }
   },
   {
-    "id": "loc_ut_827",
+    "id": "loc_ut_775",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-150",
@@ -4824,7 +3840,7 @@
     }
   },
   {
-    "id": "loc_ut_828",
+    "id": "loc_ut_776",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-151",
@@ -4848,7 +3864,7 @@
     }
   },
   {
-    "id": "loc_ut_829",
+    "id": "loc_ut_777",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-152",
@@ -4872,7 +3888,7 @@
     }
   },
   {
-    "id": "loc_ut_830",
+    "id": "loc_ut_778",
     "stateName": "Uttar Pradesh",
     "districtName": "Sitapur",
     "assemblyConstituencyCode": "AC-UP-153",
@@ -4896,7 +3912,7 @@
     }
   },
   {
-    "id": "loc_ut_831",
+    "id": "loc_ut_779",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-154",
@@ -4920,7 +3936,7 @@
     }
   },
   {
-    "id": "loc_ut_832",
+    "id": "loc_ut_780",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-155",
@@ -4944,7 +3960,7 @@
     }
   },
   {
-    "id": "loc_ut_833",
+    "id": "loc_ut_781",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-156",
@@ -4968,7 +3984,7 @@
     }
   },
   {
-    "id": "loc_ut_834",
+    "id": "loc_ut_782",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-157",
@@ -4992,7 +4008,7 @@
     }
   },
   {
-    "id": "loc_ut_835",
+    "id": "loc_ut_783",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-158",
@@ -5016,7 +4032,7 @@
     }
   },
   {
-    "id": "loc_ut_836",
+    "id": "loc_ut_784",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-159",
@@ -5040,7 +4056,7 @@
     }
   },
   {
-    "id": "loc_ut_837",
+    "id": "loc_ut_785",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-160",
@@ -5064,7 +4080,7 @@
     }
   },
   {
-    "id": "loc_ut_838",
+    "id": "loc_ut_786",
     "stateName": "Uttar Pradesh",
     "districtName": "Hardoi",
     "assemblyConstituencyCode": "AC-UP-161",
@@ -5088,7 +4104,7 @@
     }
   },
   {
-    "id": "loc_ut_839",
+    "id": "loc_ut_787",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-162",
@@ -5112,7 +4128,7 @@
     }
   },
   {
-    "id": "loc_ut_840",
+    "id": "loc_ut_788",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-163",
@@ -5136,7 +4152,7 @@
     }
   },
   {
-    "id": "loc_ut_841",
+    "id": "loc_ut_789",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-164",
@@ -5160,7 +4176,7 @@
     }
   },
   {
-    "id": "loc_ut_842",
+    "id": "loc_ut_790",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-165",
@@ -5184,7 +4200,7 @@
     }
   },
   {
-    "id": "loc_ut_843",
+    "id": "loc_ut_791",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-166",
@@ -5208,7 +4224,7 @@
     }
   },
   {
-    "id": "loc_ut_844",
+    "id": "loc_ut_792",
     "stateName": "Uttar Pradesh",
     "districtName": "Unnao",
     "assemblyConstituencyCode": "AC-UP-167",
@@ -5232,7 +4248,7 @@
     }
   },
   {
-    "id": "loc_ut_845",
+    "id": "loc_ut_793",
     "stateName": "Uttar Pradesh",
     "districtName": "Lucknow",
     "assemblyConstituencyCode": "AC-UP-175",
@@ -5256,7 +4272,7 @@
     }
   },
   {
-    "id": "loc_ut_846",
+    "id": "loc_ut_794",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-177",
@@ -5280,7 +4296,7 @@
     }
   },
   {
-    "id": "loc_ut_847",
+    "id": "loc_ut_795",
     "stateName": "Uttar Pradesh",
     "districtName": "Amethi",
     "assemblyConstituencyCode": "AC-UP-178",
@@ -5304,7 +4320,7 @@
     }
   },
   {
-    "id": "loc_ut_848",
+    "id": "loc_ut_796",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-179",
@@ -5328,7 +4344,7 @@
     }
   },
   {
-    "id": "loc_ut_849",
+    "id": "loc_ut_797",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-180",
@@ -5352,7 +4368,7 @@
     }
   },
   {
-    "id": "loc_ut_850",
+    "id": "loc_ut_798",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-181",
@@ -5376,7 +4392,7 @@
     }
   },
   {
-    "id": "loc_ut_851",
+    "id": "loc_ut_799",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-182",
@@ -5400,7 +4416,7 @@
     }
   },
   {
-    "id": "loc_ut_852",
+    "id": "loc_ut_800",
     "stateName": "Uttar Pradesh",
     "districtName": "Raebareli",
     "assemblyConstituencyCode": "AC-UP-183",
@@ -5424,7 +4440,7 @@
     }
   },
   {
-    "id": "loc_ut_853",
+    "id": "loc_ut_801",
     "stateName": "Uttar Pradesh",
     "districtName": "Amethi",
     "assemblyConstituencyCode": "AC-UP-184",
@@ -5448,7 +4464,7 @@
     }
   },
   {
-    "id": "loc_ut_854",
+    "id": "loc_ut_802",
     "stateName": "Uttar Pradesh",
     "districtName": "Amethi",
     "assemblyConstituencyCode": "AC-UP-185",
@@ -5472,7 +4488,7 @@
     }
   },
   {
-    "id": "loc_ut_855",
+    "id": "loc_ut_803",
     "stateName": "Uttar Pradesh",
     "districtName": "Amethi",
     "assemblyConstituencyCode": "AC-UP-186",
@@ -5496,7 +4512,7 @@
     }
   },
   {
-    "id": "loc_ut_856",
+    "id": "loc_ut_804",
     "stateName": "Uttar Pradesh",
     "districtName": "Sultanpur",
     "assemblyConstituencyCode": "AC-UP-187",
@@ -5520,7 +4536,7 @@
     }
   },
   {
-    "id": "loc_ut_857",
+    "id": "loc_ut_805",
     "stateName": "Uttar Pradesh",
     "districtName": "Sultanpur",
     "assemblyConstituencyCode": "AC-UP-188",
@@ -5544,7 +4560,7 @@
     }
   },
   {
-    "id": "loc_ut_858",
+    "id": "loc_ut_806",
     "stateName": "Uttar Pradesh",
     "districtName": "Sultanpur",
     "assemblyConstituencyCode": "AC-UP-189",
@@ -5568,7 +4584,7 @@
     }
   },
   {
-    "id": "loc_ut_859",
+    "id": "loc_ut_807",
     "stateName": "Uttar Pradesh",
     "districtName": "Sultanpur",
     "assemblyConstituencyCode": "AC-UP-190",
@@ -5592,7 +4608,7 @@
     }
   },
   {
-    "id": "loc_ut_860",
+    "id": "loc_ut_808",
     "stateName": "Uttar Pradesh",
     "districtName": "Sultanpur",
     "assemblyConstituencyCode": "AC-UP-191",
@@ -5616,7 +4632,7 @@
     }
   },
   {
-    "id": "loc_ut_861",
+    "id": "loc_ut_809",
     "stateName": "Uttar Pradesh",
     "districtName": "Farrukhabad",
     "assemblyConstituencyCode": "AC-UP-192",
@@ -5640,7 +4656,7 @@
     }
   },
   {
-    "id": "loc_ut_862",
+    "id": "loc_ut_810",
     "stateName": "Uttar Pradesh",
     "districtName": "Farrukhabad",
     "assemblyConstituencyCode": "AC-UP-193",
@@ -5664,7 +4680,7 @@
     }
   },
   {
-    "id": "loc_ut_863",
+    "id": "loc_ut_811",
     "stateName": "Uttar Pradesh",
     "districtName": "Farrukhabad",
     "assemblyConstituencyCode": "AC-UP-194",
@@ -5688,7 +4704,7 @@
     }
   },
   {
-    "id": "loc_ut_864",
+    "id": "loc_ut_812",
     "stateName": "Uttar Pradesh",
     "districtName": "Farrukhabad",
     "assemblyConstituencyCode": "AC-UP-195",
@@ -5712,7 +4728,7 @@
     }
   },
   {
-    "id": "loc_ut_865",
+    "id": "loc_ut_813",
     "stateName": "Uttar Pradesh",
     "districtName": "Kannauj",
     "assemblyConstituencyCode": "AC-UP-196",
@@ -5736,7 +4752,7 @@
     }
   },
   {
-    "id": "loc_ut_866",
+    "id": "loc_ut_814",
     "stateName": "Uttar Pradesh",
     "districtName": "Kannauj",
     "assemblyConstituencyCode": "AC-UP-197",
@@ -5760,7 +4776,7 @@
     }
   },
   {
-    "id": "loc_ut_867",
+    "id": "loc_ut_815",
     "stateName": "Uttar Pradesh",
     "districtName": "Kannauj",
     "assemblyConstituencyCode": "AC-UP-198",
@@ -5784,7 +4800,7 @@
     }
   },
   {
-    "id": "loc_ut_868",
+    "id": "loc_ut_816",
     "stateName": "Uttar Pradesh",
     "districtName": "Etawah",
     "assemblyConstituencyCode": "AC-UP-199",
@@ -5808,7 +4824,7 @@
     }
   },
   {
-    "id": "loc_ut_869",
+    "id": "loc_ut_817",
     "stateName": "Uttar Pradesh",
     "districtName": "Etawah",
     "assemblyConstituencyCode": "AC-UP-200",
@@ -5832,7 +4848,7 @@
     }
   },
   {
-    "id": "loc_ut_870",
+    "id": "loc_ut_818",
     "stateName": "Uttar Pradesh",
     "districtName": "Etawah",
     "assemblyConstituencyCode": "AC-UP-201",
@@ -5856,7 +4872,7 @@
     }
   },
   {
-    "id": "loc_ut_871",
+    "id": "loc_ut_819",
     "stateName": "Uttar Pradesh",
     "districtName": "Auraiya",
     "assemblyConstituencyCode": "AC-UP-202",
@@ -5880,7 +4896,7 @@
     }
   },
   {
-    "id": "loc_ut_872",
+    "id": "loc_ut_820",
     "stateName": "Uttar Pradesh",
     "districtName": "Auraiya",
     "assemblyConstituencyCode": "AC-UP-203",
@@ -5904,7 +4920,7 @@
     }
   },
   {
-    "id": "loc_ut_873",
+    "id": "loc_ut_821",
     "stateName": "Uttar Pradesh",
     "districtName": "Auraiya",
     "assemblyConstituencyCode": "AC-UP-204",
@@ -5928,7 +4944,7 @@
     }
   },
   {
-    "id": "loc_ut_874",
+    "id": "loc_ut_822",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Dehat",
     "assemblyConstituencyCode": "AC-UP-205",
@@ -5952,7 +4968,7 @@
     }
   },
   {
-    "id": "loc_ut_875",
+    "id": "loc_ut_823",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Dehat",
     "assemblyConstituencyCode": "AC-UP-206",
@@ -5976,7 +4992,7 @@
     }
   },
   {
-    "id": "loc_ut_876",
+    "id": "loc_ut_824",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Dehat",
     "assemblyConstituencyCode": "AC-UP-207",
@@ -6000,7 +5016,7 @@
     }
   },
   {
-    "id": "loc_ut_877",
+    "id": "loc_ut_825",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Dehat",
     "assemblyConstituencyCode": "AC-UP-208",
@@ -6024,7 +5040,7 @@
     }
   },
   {
-    "id": "loc_ut_878",
+    "id": "loc_ut_826",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-209",
@@ -6048,7 +5064,7 @@
     }
   },
   {
-    "id": "loc_ut_879",
+    "id": "loc_ut_827",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-210",
@@ -6072,7 +5088,7 @@
     }
   },
   {
-    "id": "loc_ut_880",
+    "id": "loc_ut_828",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-212",
@@ -6096,7 +5112,7 @@
     }
   },
   {
-    "id": "loc_ut_881",
+    "id": "loc_ut_829",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-213",
@@ -6120,7 +5136,7 @@
     }
   },
   {
-    "id": "loc_ut_882",
+    "id": "loc_ut_830",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-214",
@@ -6144,7 +5160,7 @@
     }
   },
   {
-    "id": "loc_ut_883",
+    "id": "loc_ut_831",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-216",
@@ -6168,7 +5184,7 @@
     }
   },
   {
-    "id": "loc_ut_884",
+    "id": "loc_ut_832",
     "stateName": "Uttar Pradesh",
     "districtName": "Kanpur Nagar",
     "assemblyConstituencyCode": "AC-UP-218",
@@ -6192,7 +5208,7 @@
     }
   },
   {
-    "id": "loc_ut_885",
+    "id": "loc_ut_833",
     "stateName": "Uttar Pradesh",
     "districtName": "Jalaun",
     "assemblyConstituencyCode": "AC-UP-219",
@@ -6216,7 +5232,7 @@
     }
   },
   {
-    "id": "loc_ut_886",
+    "id": "loc_ut_834",
     "stateName": "Uttar Pradesh",
     "districtName": "Jalaun",
     "assemblyConstituencyCode": "AC-UP-220",
@@ -6240,7 +5256,7 @@
     }
   },
   {
-    "id": "loc_ut_887",
+    "id": "loc_ut_835",
     "stateName": "Uttar Pradesh",
     "districtName": "Jalaun",
     "assemblyConstituencyCode": "AC-UP-221",
@@ -6264,7 +5280,7 @@
     }
   },
   {
-    "id": "loc_ut_888",
+    "id": "loc_ut_836",
     "stateName": "Uttar Pradesh",
     "districtName": "Jhansi",
     "assemblyConstituencyCode": "AC-UP-222",
@@ -6288,7 +5304,7 @@
     }
   },
   {
-    "id": "loc_ut_889",
+    "id": "loc_ut_837",
     "stateName": "Uttar Pradesh",
     "districtName": "Jhansi",
     "assemblyConstituencyCode": "AC-UP-223",
@@ -6312,7 +5328,7 @@
     }
   },
   {
-    "id": "loc_ut_890",
+    "id": "loc_ut_838",
     "stateName": "Uttar Pradesh",
     "districtName": "Jhansi",
     "assemblyConstituencyCode": "AC-UP-224",
@@ -6336,7 +5352,7 @@
     }
   },
   {
-    "id": "loc_ut_891",
+    "id": "loc_ut_839",
     "stateName": "Uttar Pradesh",
     "districtName": "Jhansi",
     "assemblyConstituencyCode": "AC-UP-225",
@@ -6360,7 +5376,7 @@
     }
   },
   {
-    "id": "loc_ut_892",
+    "id": "loc_ut_840",
     "stateName": "Uttar Pradesh",
     "districtName": "Lalitpur",
     "assemblyConstituencyCode": "AC-UP-226",
@@ -6384,7 +5400,7 @@
     }
   },
   {
-    "id": "loc_ut_893",
+    "id": "loc_ut_841",
     "stateName": "Uttar Pradesh",
     "districtName": "Lalitpur",
     "assemblyConstituencyCode": "AC-UP-227",
@@ -6408,7 +5424,7 @@
     }
   },
   {
-    "id": "loc_ut_894",
+    "id": "loc_ut_842",
     "stateName": "Uttar Pradesh",
     "districtName": "Hamirpur",
     "assemblyConstituencyCode": "AC-UP-228",
@@ -6432,7 +5448,7 @@
     }
   },
   {
-    "id": "loc_ut_895",
+    "id": "loc_ut_843",
     "stateName": "Uttar Pradesh",
     "districtName": "Hamirpur",
     "assemblyConstituencyCode": "AC-UP-229",
@@ -6456,7 +5472,7 @@
     }
   },
   {
-    "id": "loc_ut_896",
+    "id": "loc_ut_844",
     "stateName": "Uttar Pradesh",
     "districtName": "Mahoba",
     "assemblyConstituencyCode": "AC-UP-230",
@@ -6480,7 +5496,7 @@
     }
   },
   {
-    "id": "loc_ut_897",
+    "id": "loc_ut_845",
     "stateName": "Uttar Pradesh",
     "districtName": "Mahoba",
     "assemblyConstituencyCode": "AC-UP-231",
@@ -6504,7 +5520,7 @@
     }
   },
   {
-    "id": "loc_ut_898",
+    "id": "loc_ut_846",
     "stateName": "Uttar Pradesh",
     "districtName": "Banda",
     "assemblyConstituencyCode": "AC-UP-232",
@@ -6528,7 +5544,7 @@
     }
   },
   {
-    "id": "loc_ut_899",
+    "id": "loc_ut_847",
     "stateName": "Uttar Pradesh",
     "districtName": "Banda",
     "assemblyConstituencyCode": "AC-UP-233",
@@ -6552,7 +5568,7 @@
     }
   },
   {
-    "id": "loc_ut_900",
+    "id": "loc_ut_848",
     "stateName": "Uttar Pradesh",
     "districtName": "Banda",
     "assemblyConstituencyCode": "AC-UP-234",
@@ -6576,7 +5592,7 @@
     }
   },
   {
-    "id": "loc_ut_901",
+    "id": "loc_ut_849",
     "stateName": "Uttar Pradesh",
     "districtName": "Banda",
     "assemblyConstituencyCode": "AC-UP-235",
@@ -6600,7 +5616,7 @@
     }
   },
   {
-    "id": "loc_ut_902",
+    "id": "loc_ut_850",
     "stateName": "Uttar Pradesh",
     "districtName": "Chitrakoot",
     "assemblyConstituencyCode": "AC-UP-236",
@@ -6624,7 +5640,7 @@
     }
   },
   {
-    "id": "loc_ut_903",
+    "id": "loc_ut_851",
     "stateName": "Uttar Pradesh",
     "districtName": "Chitrakoot",
     "assemblyConstituencyCode": "AC-UP-237",
@@ -6648,7 +5664,7 @@
     }
   },
   {
-    "id": "loc_ut_904",
+    "id": "loc_ut_852",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-238",
@@ -6672,7 +5688,7 @@
     }
   },
   {
-    "id": "loc_ut_905",
+    "id": "loc_ut_853",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-239",
@@ -6696,7 +5712,7 @@
     }
   },
   {
-    "id": "loc_ut_906",
+    "id": "loc_ut_854",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-240",
@@ -6720,7 +5736,7 @@
     }
   },
   {
-    "id": "loc_ut_907",
+    "id": "loc_ut_855",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-241",
@@ -6744,7 +5760,7 @@
     }
   },
   {
-    "id": "loc_ut_908",
+    "id": "loc_ut_856",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-242",
@@ -6768,7 +5784,7 @@
     }
   },
   {
-    "id": "loc_ut_909",
+    "id": "loc_ut_857",
     "stateName": "Uttar Pradesh",
     "districtName": "Fatehpur",
     "assemblyConstituencyCode": "AC-UP-243",
@@ -6792,7 +5808,7 @@
     }
   },
   {
-    "id": "loc_ut_910",
+    "id": "loc_ut_858",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-244",
@@ -6816,7 +5832,7 @@
     }
   },
   {
-    "id": "loc_ut_911",
+    "id": "loc_ut_859",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-245",
@@ -6840,7 +5856,7 @@
     }
   },
   {
-    "id": "loc_ut_912",
+    "id": "loc_ut_860",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-246",
@@ -6864,7 +5880,7 @@
     }
   },
   {
-    "id": "loc_ut_913",
+    "id": "loc_ut_861",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-247",
@@ -6888,7 +5904,7 @@
     }
   },
   {
-    "id": "loc_ut_914",
+    "id": "loc_ut_862",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-248",
@@ -6912,7 +5928,7 @@
     }
   },
   {
-    "id": "loc_ut_915",
+    "id": "loc_ut_863",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-249",
@@ -6936,7 +5952,7 @@
     }
   },
   {
-    "id": "loc_ut_916",
+    "id": "loc_ut_864",
     "stateName": "Uttar Pradesh",
     "districtName": "Pratapgarh",
     "assemblyConstituencyCode": "AC-UP-250",
@@ -6960,7 +5976,7 @@
     }
   },
   {
-    "id": "loc_ut_917",
+    "id": "loc_ut_865",
     "stateName": "Uttar Pradesh",
     "districtName": "Kaushambi",
     "assemblyConstituencyCode": "AC-UP-251",
@@ -6984,7 +6000,7 @@
     }
   },
   {
-    "id": "loc_ut_918",
+    "id": "loc_ut_866",
     "stateName": "Uttar Pradesh",
     "districtName": "Kaushambi",
     "assemblyConstituencyCode": "AC-UP-252",
@@ -7008,7 +6024,7 @@
     }
   },
   {
-    "id": "loc_ut_919",
+    "id": "loc_ut_867",
     "stateName": "Uttar Pradesh",
     "districtName": "Kaushambi",
     "assemblyConstituencyCode": "AC-UP-253",
@@ -7032,7 +6048,7 @@
     }
   },
   {
-    "id": "loc_ut_920",
+    "id": "loc_ut_868",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-254",
@@ -7056,7 +6072,7 @@
     }
   },
   {
-    "id": "loc_ut_921",
+    "id": "loc_ut_869",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-255",
@@ -7080,7 +6096,7 @@
     }
   },
   {
-    "id": "loc_ut_922",
+    "id": "loc_ut_870",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-258",
@@ -7104,7 +6120,7 @@
     }
   },
   {
-    "id": "loc_ut_923",
+    "id": "loc_ut_871",
     "stateName": "Uttar Pradesh",
     "districtName": "Prayagraj",
     "assemblyConstituencyCode": "AC-UP-260",
@@ -7128,7 +6144,7 @@
     }
   },
   {
-    "id": "loc_ut_924",
+    "id": "loc_ut_872",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-266",
@@ -7152,7 +6168,7 @@
     }
   },
   {
-    "id": "loc_ut_925",
+    "id": "loc_ut_873",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-267",
@@ -7176,7 +6192,7 @@
     }
   },
   {
-    "id": "loc_ut_926",
+    "id": "loc_ut_874",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-268",
@@ -7200,7 +6216,7 @@
     }
   },
   {
-    "id": "loc_ut_927",
+    "id": "loc_ut_875",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-269",
@@ -7224,7 +6240,7 @@
     }
   },
   {
-    "id": "loc_ut_928",
+    "id": "loc_ut_876",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-270",
@@ -7248,7 +6264,7 @@
     }
   },
   {
-    "id": "loc_ut_929",
+    "id": "loc_ut_877",
     "stateName": "Uttar Pradesh",
     "districtName": "Barabanki",
     "assemblyConstituencyCode": "AC-UP-272",
@@ -7272,7 +6288,7 @@
     }
   },
   {
-    "id": "loc_ut_930",
+    "id": "loc_ut_878",
     "stateName": "Uttar Pradesh",
     "districtName": "Ambedkar Nagar",
     "assemblyConstituencyCode": "AC-UP-277",
@@ -7296,7 +6312,7 @@
     }
   },
   {
-    "id": "loc_ut_931",
+    "id": "loc_ut_879",
     "stateName": "Uttar Pradesh",
     "districtName": "Ambedkar Nagar",
     "assemblyConstituencyCode": "AC-UP-278",
@@ -7320,7 +6336,7 @@
     }
   },
   {
-    "id": "loc_ut_932",
+    "id": "loc_ut_880",
     "stateName": "Uttar Pradesh",
     "districtName": "Ambedkar Nagar",
     "assemblyConstituencyCode": "AC-UP-279",
@@ -7344,7 +6360,7 @@
     }
   },
   {
-    "id": "loc_ut_933",
+    "id": "loc_ut_881",
     "stateName": "Uttar Pradesh",
     "districtName": "Ambedkar Nagar",
     "assemblyConstituencyCode": "AC-UP-280",
@@ -7368,7 +6384,7 @@
     }
   },
   {
-    "id": "loc_ut_934",
+    "id": "loc_ut_882",
     "stateName": "Uttar Pradesh",
     "districtName": "Ambedkar Nagar",
     "assemblyConstituencyCode": "AC-UP-281",
@@ -7392,7 +6408,7 @@
     }
   },
   {
-    "id": "loc_ut_935",
+    "id": "loc_ut_883",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-282",
@@ -7416,7 +6432,7 @@
     }
   },
   {
-    "id": "loc_ut_936",
+    "id": "loc_ut_884",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-283",
@@ -7440,7 +6456,7 @@
     }
   },
   {
-    "id": "loc_ut_937",
+    "id": "loc_ut_885",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-284",
@@ -7464,7 +6480,7 @@
     }
   },
   {
-    "id": "loc_ut_938",
+    "id": "loc_ut_886",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-285",
@@ -7488,7 +6504,7 @@
     }
   },
   {
-    "id": "loc_ut_939",
+    "id": "loc_ut_887",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-286",
@@ -7512,7 +6528,7 @@
     }
   },
   {
-    "id": "loc_ut_940",
+    "id": "loc_ut_888",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-287",
@@ -7536,7 +6552,7 @@
     }
   },
   {
-    "id": "loc_ut_941",
+    "id": "loc_ut_889",
     "stateName": "Uttar Pradesh",
     "districtName": "Bahraich",
     "assemblyConstituencyCode": "AC-UP-288",
@@ -7560,7 +6576,7 @@
     }
   },
   {
-    "id": "loc_ut_942",
+    "id": "loc_ut_890",
     "stateName": "Uttar Pradesh",
     "districtName": "Shrawasti",
     "assemblyConstituencyCode": "AC-UP-289",
@@ -7584,7 +6600,7 @@
     }
   },
   {
-    "id": "loc_ut_943",
+    "id": "loc_ut_891",
     "stateName": "Uttar Pradesh",
     "districtName": "Shrawasti",
     "assemblyConstituencyCode": "AC-UP-290",
@@ -7608,7 +6624,7 @@
     }
   },
   {
-    "id": "loc_ut_944",
+    "id": "loc_ut_892",
     "stateName": "Uttar Pradesh",
     "districtName": "Balrampur",
     "assemblyConstituencyCode": "AC-UP-291",
@@ -7632,7 +6648,7 @@
     }
   },
   {
-    "id": "loc_ut_945",
+    "id": "loc_ut_893",
     "stateName": "Uttar Pradesh",
     "districtName": "Balrampur",
     "assemblyConstituencyCode": "AC-UP-292",
@@ -7656,7 +6672,7 @@
     }
   },
   {
-    "id": "loc_ut_946",
+    "id": "loc_ut_894",
     "stateName": "Uttar Pradesh",
     "districtName": "Balrampur",
     "assemblyConstituencyCode": "AC-UP-293",
@@ -7680,7 +6696,7 @@
     }
   },
   {
-    "id": "loc_ut_947",
+    "id": "loc_ut_895",
     "stateName": "Uttar Pradesh",
     "districtName": "Balrampur",
     "assemblyConstituencyCode": "AC-UP-294",
@@ -7704,7 +6720,7 @@
     }
   },
   {
-    "id": "loc_ut_948",
+    "id": "loc_ut_896",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-295",
@@ -7728,7 +6744,7 @@
     }
   },
   {
-    "id": "loc_ut_949",
+    "id": "loc_ut_897",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-296",
@@ -7752,7 +6768,7 @@
     }
   },
   {
-    "id": "loc_ut_950",
+    "id": "loc_ut_898",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-297",
@@ -7776,7 +6792,7 @@
     }
   },
   {
-    "id": "loc_ut_951",
+    "id": "loc_ut_899",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-298",
@@ -7800,7 +6816,7 @@
     }
   },
   {
-    "id": "loc_ut_952",
+    "id": "loc_ut_900",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-299",
@@ -7824,7 +6840,7 @@
     }
   },
   {
-    "id": "loc_ut_953",
+    "id": "loc_ut_901",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-300",
@@ -7848,7 +6864,7 @@
     }
   },
   {
-    "id": "loc_ut_954",
+    "id": "loc_ut_902",
     "stateName": "Uttar Pradesh",
     "districtName": "Gonda",
     "assemblyConstituencyCode": "AC-UP-301",
@@ -7872,7 +6888,7 @@
     }
   },
   {
-    "id": "loc_ut_955",
+    "id": "loc_ut_903",
     "stateName": "Uttar Pradesh",
     "districtName": "Siddharthnagar",
     "assemblyConstituencyCode": "AC-UP-302",
@@ -7896,7 +6912,7 @@
     }
   },
   {
-    "id": "loc_ut_956",
+    "id": "loc_ut_904",
     "stateName": "Uttar Pradesh",
     "districtName": "Siddharthnagar",
     "assemblyConstituencyCode": "AC-UP-303",
@@ -7920,7 +6936,7 @@
     }
   },
   {
-    "id": "loc_ut_957",
+    "id": "loc_ut_905",
     "stateName": "Uttar Pradesh",
     "districtName": "Siddharthnagar",
     "assemblyConstituencyCode": "AC-UP-304",
@@ -7944,7 +6960,7 @@
     }
   },
   {
-    "id": "loc_ut_958",
+    "id": "loc_ut_906",
     "stateName": "Uttar Pradesh",
     "districtName": "Siddharthnagar",
     "assemblyConstituencyCode": "AC-UP-305",
@@ -7968,7 +6984,7 @@
     }
   },
   {
-    "id": "loc_ut_959",
+    "id": "loc_ut_907",
     "stateName": "Uttar Pradesh",
     "districtName": "Siddharthnagar",
     "assemblyConstituencyCode": "AC-UP-306",
@@ -7992,7 +7008,7 @@
     }
   },
   {
-    "id": "loc_ut_960",
+    "id": "loc_ut_908",
     "stateName": "Uttar Pradesh",
     "districtName": "Basti",
     "assemblyConstituencyCode": "AC-UP-307",
@@ -8016,7 +7032,7 @@
     }
   },
   {
-    "id": "loc_ut_961",
+    "id": "loc_ut_909",
     "stateName": "Uttar Pradesh",
     "districtName": "Basti",
     "assemblyConstituencyCode": "AC-UP-308",
@@ -8040,7 +7056,7 @@
     }
   },
   {
-    "id": "loc_ut_962",
+    "id": "loc_ut_910",
     "stateName": "Uttar Pradesh",
     "districtName": "Basti",
     "assemblyConstituencyCode": "AC-UP-309",
@@ -8064,7 +7080,7 @@
     }
   },
   {
-    "id": "loc_ut_963",
+    "id": "loc_ut_911",
     "stateName": "Uttar Pradesh",
     "districtName": "Basti",
     "assemblyConstituencyCode": "AC-UP-310",
@@ -8088,7 +7104,7 @@
     }
   },
   {
-    "id": "loc_ut_964",
+    "id": "loc_ut_912",
     "stateName": "Uttar Pradesh",
     "districtName": "Basti",
     "assemblyConstituencyCode": "AC-UP-311",
@@ -8112,7 +7128,7 @@
     }
   },
   {
-    "id": "loc_ut_965",
+    "id": "loc_ut_913",
     "stateName": "Uttar Pradesh",
     "districtName": "Sant Kabir Nagar",
     "assemblyConstituencyCode": "AC-UP-312",
@@ -8136,7 +7152,7 @@
     }
   },
   {
-    "id": "loc_ut_966",
+    "id": "loc_ut_914",
     "stateName": "Uttar Pradesh",
     "districtName": "Sant Kabir Nagar",
     "assemblyConstituencyCode": "AC-UP-313",
@@ -8160,7 +7176,7 @@
     }
   },
   {
-    "id": "loc_ut_967",
+    "id": "loc_ut_915",
     "stateName": "Uttar Pradesh",
     "districtName": "Sant Kabir Nagar",
     "assemblyConstituencyCode": "AC-UP-314",
@@ -8184,7 +7200,7 @@
     }
   },
   {
-    "id": "loc_ut_968",
+    "id": "loc_ut_916",
     "stateName": "Uttar Pradesh",
     "districtName": "Maharajganj",
     "assemblyConstituencyCode": "AC-UP-315",
@@ -8208,7 +7224,7 @@
     }
   },
   {
-    "id": "loc_ut_969",
+    "id": "loc_ut_917",
     "stateName": "Uttar Pradesh",
     "districtName": "Maharajganj",
     "assemblyConstituencyCode": "AC-UP-316",
@@ -8232,7 +7248,7 @@
     }
   },
   {
-    "id": "loc_ut_970",
+    "id": "loc_ut_918",
     "stateName": "Uttar Pradesh",
     "districtName": "Maharajganj",
     "assemblyConstituencyCode": "AC-UP-317",
@@ -8256,7 +7272,7 @@
     }
   },
   {
-    "id": "loc_ut_971",
+    "id": "loc_ut_919",
     "stateName": "Uttar Pradesh",
     "districtName": "Maharajganj",
     "assemblyConstituencyCode": "AC-UP-318",
@@ -8280,7 +7296,7 @@
     }
   },
   {
-    "id": "loc_ut_972",
+    "id": "loc_ut_920",
     "stateName": "Uttar Pradesh",
     "districtName": "Maharajganj",
     "assemblyConstituencyCode": "AC-UP-319",
@@ -8304,7 +7320,7 @@
     }
   },
   {
-    "id": "loc_ut_973",
+    "id": "loc_ut_921",
     "stateName": "Uttar Pradesh",
     "districtName": "Gorakhpur",
     "assemblyConstituencyCode": "AC-UP-320",
@@ -8328,7 +7344,7 @@
     }
   },
   {
-    "id": "loc_ut_974",
+    "id": "loc_ut_922",
     "stateName": "Uttar Pradesh",
     "districtName": "Gorakhpur",
     "assemblyConstituencyCode": "AC-UP-324",
@@ -8352,7 +7368,7 @@
     }
   },
   {
-    "id": "loc_ut_975",
+    "id": "loc_ut_923",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-329",
@@ -8376,7 +7392,7 @@
     }
   },
   {
-    "id": "loc_ut_976",
+    "id": "loc_ut_924",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-330",
@@ -8400,7 +7416,7 @@
     }
   },
   {
-    "id": "loc_ut_977",
+    "id": "loc_ut_925",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-331",
@@ -8424,7 +7440,7 @@
     }
   },
   {
-    "id": "loc_ut_978",
+    "id": "loc_ut_926",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-332",
@@ -8448,7 +7464,7 @@
     }
   },
   {
-    "id": "loc_ut_979",
+    "id": "loc_ut_927",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-333",
@@ -8472,7 +7488,7 @@
     }
   },
   {
-    "id": "loc_ut_980",
+    "id": "loc_ut_928",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-334",
@@ -8496,7 +7512,7 @@
     }
   },
   {
-    "id": "loc_ut_981",
+    "id": "loc_ut_929",
     "stateName": "Uttar Pradesh",
     "districtName": "Kushinagar",
     "assemblyConstituencyCode": "AC-UP-335",
@@ -8520,7 +7536,7 @@
     }
   },
   {
-    "id": "loc_ut_982",
+    "id": "loc_ut_930",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-336",
@@ -8544,7 +7560,7 @@
     }
   },
   {
-    "id": "loc_ut_983",
+    "id": "loc_ut_931",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-337",
@@ -8568,7 +7584,7 @@
     }
   },
   {
-    "id": "loc_ut_984",
+    "id": "loc_ut_932",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-338",
@@ -8592,7 +7608,7 @@
     }
   },
   {
-    "id": "loc_ut_985",
+    "id": "loc_ut_933",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-339",
@@ -8616,7 +7632,7 @@
     }
   },
   {
-    "id": "loc_ut_986",
+    "id": "loc_ut_934",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-340",
@@ -8640,7 +7656,7 @@
     }
   },
   {
-    "id": "loc_ut_987",
+    "id": "loc_ut_935",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-341",
@@ -8664,7 +7680,7 @@
     }
   },
   {
-    "id": "loc_ut_988",
+    "id": "loc_ut_936",
     "stateName": "Uttar Pradesh",
     "districtName": "Deoria",
     "assemblyConstituencyCode": "AC-UP-342",
@@ -8688,7 +7704,7 @@
     }
   },
   {
-    "id": "loc_ut_989",
+    "id": "loc_ut_937",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-343",
@@ -8712,7 +7728,7 @@
     }
   },
   {
-    "id": "loc_ut_990",
+    "id": "loc_ut_938",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-344",
@@ -8736,7 +7752,7 @@
     }
   },
   {
-    "id": "loc_ut_991",
+    "id": "loc_ut_939",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-345",
@@ -8760,7 +7776,7 @@
     }
   },
   {
-    "id": "loc_ut_992",
+    "id": "loc_ut_940",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-346",
@@ -8784,7 +7800,7 @@
     }
   },
   {
-    "id": "loc_ut_993",
+    "id": "loc_ut_941",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-347",
@@ -8808,7 +7824,7 @@
     }
   },
   {
-    "id": "loc_ut_994",
+    "id": "loc_ut_942",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-348",
@@ -8832,7 +7848,7 @@
     }
   },
   {
-    "id": "loc_ut_995",
+    "id": "loc_ut_943",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-349",
@@ -8856,7 +7872,7 @@
     }
   },
   {
-    "id": "loc_ut_996",
+    "id": "loc_ut_944",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-350",
@@ -8880,7 +7896,7 @@
     }
   },
   {
-    "id": "loc_ut_997",
+    "id": "loc_ut_945",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-351",
@@ -8904,7 +7920,7 @@
     }
   },
   {
-    "id": "loc_ut_998",
+    "id": "loc_ut_946",
     "stateName": "Uttar Pradesh",
     "districtName": "Azamgarh",
     "assemblyConstituencyCode": "AC-UP-352",
@@ -8928,7 +7944,7 @@
     }
   },
   {
-    "id": "loc_ut_999",
+    "id": "loc_ut_947",
     "stateName": "Uttar Pradesh",
     "districtName": "Mau",
     "assemblyConstituencyCode": "AC-UP-353",
@@ -8952,7 +7968,7 @@
     }
   },
   {
-    "id": "loc_ut_1000",
+    "id": "loc_ut_948",
     "stateName": "Uttar Pradesh",
     "districtName": "Mau",
     "assemblyConstituencyCode": "AC-UP-354",
@@ -8976,7 +7992,7 @@
     }
   },
   {
-    "id": "loc_ut_1001",
+    "id": "loc_ut_949",
     "stateName": "Uttar Pradesh",
     "districtName": "Mau",
     "assemblyConstituencyCode": "AC-UP-355",
@@ -9000,7 +8016,7 @@
     }
   },
   {
-    "id": "loc_ut_1002",
+    "id": "loc_ut_950",
     "stateName": "Uttar Pradesh",
     "districtName": "Mau",
     "assemblyConstituencyCode": "AC-UP-356",
@@ -9024,7 +8040,7 @@
     }
   },
   {
-    "id": "loc_ut_1003",
+    "id": "loc_ut_951",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-357",
@@ -9048,7 +8064,7 @@
     }
   },
   {
-    "id": "loc_ut_1004",
+    "id": "loc_ut_952",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-358",
@@ -9072,7 +8088,7 @@
     }
   },
   {
-    "id": "loc_ut_1005",
+    "id": "loc_ut_953",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-359",
@@ -9096,7 +8112,7 @@
     }
   },
   {
-    "id": "loc_ut_1006",
+    "id": "loc_ut_954",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-360",
@@ -9120,7 +8136,7 @@
     }
   },
   {
-    "id": "loc_ut_1007",
+    "id": "loc_ut_955",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-361",
@@ -9144,7 +8160,7 @@
     }
   },
   {
-    "id": "loc_ut_1008",
+    "id": "loc_ut_956",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-362",
@@ -9168,7 +8184,7 @@
     }
   },
   {
-    "id": "loc_ut_1009",
+    "id": "loc_ut_957",
     "stateName": "Uttar Pradesh",
     "districtName": "Ballia",
     "assemblyConstituencyCode": "AC-UP-363",
@@ -9192,7 +8208,7 @@
     }
   },
   {
-    "id": "loc_ut_1010",
+    "id": "loc_ut_958",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-364",
@@ -9216,7 +8232,7 @@
     }
   },
   {
-    "id": "loc_ut_1011",
+    "id": "loc_ut_959",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-365",
@@ -9240,7 +8256,7 @@
     }
   },
   {
-    "id": "loc_ut_1012",
+    "id": "loc_ut_960",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-366",
@@ -9264,7 +8280,7 @@
     }
   },
   {
-    "id": "loc_ut_1013",
+    "id": "loc_ut_961",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-367",
@@ -9288,7 +8304,7 @@
     }
   },
   {
-    "id": "loc_ut_1014",
+    "id": "loc_ut_962",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-368",
@@ -9312,7 +8328,7 @@
     }
   },
   {
-    "id": "loc_ut_1015",
+    "id": "loc_ut_963",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-369",
@@ -9336,7 +8352,7 @@
     }
   },
   {
-    "id": "loc_ut_1016",
+    "id": "loc_ut_964",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-370",
@@ -9360,7 +8376,7 @@
     }
   },
   {
-    "id": "loc_ut_1017",
+    "id": "loc_ut_965",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-371",
@@ -9384,7 +8400,7 @@
     }
   },
   {
-    "id": "loc_ut_1018",
+    "id": "loc_ut_966",
     "stateName": "Uttar Pradesh",
     "districtName": "Jaunpur",
     "assemblyConstituencyCode": "AC-UP-372",
@@ -9408,7 +8424,7 @@
     }
   },
   {
-    "id": "loc_ut_1019",
+    "id": "loc_ut_967",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-373",
@@ -9432,7 +8448,7 @@
     }
   },
   {
-    "id": "loc_ut_1020",
+    "id": "loc_ut_968",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-374",
@@ -9456,7 +8472,7 @@
     }
   },
   {
-    "id": "loc_ut_1021",
+    "id": "loc_ut_969",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-375",
@@ -9480,7 +8496,7 @@
     }
   },
   {
-    "id": "loc_ut_1022",
+    "id": "loc_ut_970",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-376",
@@ -9504,7 +8520,7 @@
     }
   },
   {
-    "id": "loc_ut_1023",
+    "id": "loc_ut_971",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-377",
@@ -9528,7 +8544,7 @@
     }
   },
   {
-    "id": "loc_ut_1024",
+    "id": "loc_ut_972",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-378",
@@ -9552,7 +8568,7 @@
     }
   },
   {
-    "id": "loc_ut_1025",
+    "id": "loc_ut_973",
     "stateName": "Uttar Pradesh",
     "districtName": "Ghazipur",
     "assemblyConstituencyCode": "AC-UP-379",
@@ -9576,7 +8592,7 @@
     }
   },
   {
-    "id": "loc_ut_1026",
+    "id": "loc_ut_974",
     "stateName": "Uttar Pradesh",
     "districtName": "Chandauli",
     "assemblyConstituencyCode": "AC-UP-380",
@@ -9600,7 +8616,7 @@
     }
   },
   {
-    "id": "loc_ut_1027",
+    "id": "loc_ut_975",
     "stateName": "Uttar Pradesh",
     "districtName": "Chandauli",
     "assemblyConstituencyCode": "AC-UP-381",
@@ -9624,7 +8640,7 @@
     }
   },
   {
-    "id": "loc_ut_1028",
+    "id": "loc_ut_976",
     "stateName": "Uttar Pradesh",
     "districtName": "Chandauli",
     "assemblyConstituencyCode": "AC-UP-382",
@@ -9648,7 +8664,7 @@
     }
   },
   {
-    "id": "loc_ut_1029",
+    "id": "loc_ut_977",
     "stateName": "Uttar Pradesh",
     "districtName": "Chandauli",
     "assemblyConstituencyCode": "AC-UP-383",
@@ -9672,7 +8688,7 @@
     }
   },
   {
-    "id": "loc_ut_1030",
+    "id": "loc_ut_978",
     "stateName": "Uttar Pradesh",
     "districtName": "Varanasi",
     "assemblyConstituencyCode": "AC-UP-390",
@@ -9696,7 +8712,7 @@
     }
   },
   {
-    "id": "loc_ut_1031",
+    "id": "loc_ut_979",
     "stateName": "Uttar Pradesh",
     "districtName": "Varanasi",
     "assemblyConstituencyCode": "AC-UP-391",
@@ -9720,7 +8736,7 @@
     }
   },
   {
-    "id": "loc_ut_1032",
+    "id": "loc_ut_980",
     "stateName": "Uttar Pradesh",
     "districtName": "Bhadohi",
     "assemblyConstituencyCode": "AC-UP-392",
@@ -9744,7 +8760,7 @@
     }
   },
   {
-    "id": "loc_ut_1033",
+    "id": "loc_ut_981",
     "stateName": "Uttar Pradesh",
     "districtName": "Bhadohi",
     "assemblyConstituencyCode": "AC-UP-393",
@@ -9768,7 +8784,7 @@
     }
   },
   {
-    "id": "loc_ut_1034",
+    "id": "loc_ut_982",
     "stateName": "Uttar Pradesh",
     "districtName": "Bhadohi",
     "assemblyConstituencyCode": "AC-UP-394",
@@ -9792,7 +8808,7 @@
     }
   },
   {
-    "id": "loc_ut_1035",
+    "id": "loc_ut_983",
     "stateName": "Uttar Pradesh",
     "districtName": "Mirzapur",
     "assemblyConstituencyCode": "AC-UP-395",
@@ -9816,7 +8832,7 @@
     }
   },
   {
-    "id": "loc_ut_1036",
+    "id": "loc_ut_984",
     "stateName": "Uttar Pradesh",
     "districtName": "Mirzapur",
     "assemblyConstituencyCode": "AC-UP-396",
@@ -9840,7 +8856,7 @@
     }
   },
   {
-    "id": "loc_ut_1037",
+    "id": "loc_ut_985",
     "stateName": "Uttar Pradesh",
     "districtName": "Mirzapur",
     "assemblyConstituencyCode": "AC-UP-397",
@@ -9864,7 +8880,7 @@
     }
   },
   {
-    "id": "loc_ut_1038",
+    "id": "loc_ut_986",
     "stateName": "Uttar Pradesh",
     "districtName": "Mirzapur",
     "assemblyConstituencyCode": "AC-UP-398",
@@ -9888,7 +8904,7 @@
     }
   },
   {
-    "id": "loc_ut_1039",
+    "id": "loc_ut_987",
     "stateName": "Uttar Pradesh",
     "districtName": "Mirzapur",
     "assemblyConstituencyCode": "AC-UP-399",
@@ -9912,7 +8928,7 @@
     }
   },
   {
-    "id": "loc_ut_1040",
+    "id": "loc_ut_988",
     "stateName": "Uttar Pradesh",
     "districtName": "Sonbhadra",
     "assemblyConstituencyCode": "AC-UP-400",
@@ -9936,7 +8952,7 @@
     }
   },
   {
-    "id": "loc_ut_1041",
+    "id": "loc_ut_989",
     "stateName": "Uttar Pradesh",
     "districtName": "Sonbhadra",
     "assemblyConstituencyCode": "AC-UP-401",
@@ -9960,7 +8976,7 @@
     }
   },
   {
-    "id": "loc_ut_1042",
+    "id": "loc_ut_990",
     "stateName": "Uttar Pradesh",
     "districtName": "Sonbhadra",
     "assemblyConstituencyCode": "AC-UP-402",
@@ -9984,7 +9000,7 @@
     }
   },
   {
-    "id": "loc_ut_1043",
+    "id": "loc_ut_991",
     "stateName": "Uttar Pradesh",
     "districtName": "Sonbhadra",
     "assemblyConstituencyCode": "AC-UP-403",
@@ -9999,6 +9015,78 @@
       "title": "Duddhi (ST) Civic Context",
       "historicalFact": "Sonbhadra is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
       "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Duddhi (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_2541",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Raebareli",
+    "assemblyConstituencyCode": "PC-UP-36",
+    "assemblyConstituencyName": "Rae Bareli (Lok Sabha)",
+    "crimeRate": "203.4 per 100k",
+    "crimeRatePerLakh": 203.4,
+    "literacyRate": 85.2,
+    "literacyRatePercentage": 85.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 157,
+    "regionalInsight": {
+      "title": "Rae Bareli (Lok Sabha) Civic Context",
+      "historicalFact": "Raebareli is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
+      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Rae Bareli (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_2542",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Gorakhpur",
+    "assemblyConstituencyCode": "AC-UP-322",
+    "assemblyConstituencyName": "Gorakhpur Urban",
+    "crimeRate": "173.3 per 100k",
+    "crimeRatePerLakh": 173.3,
+    "literacyRate": 77.9,
+    "literacyRatePercentage": 77.9,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 299,
+    "regionalInsight": {
+      "title": "Gorakhpur Urban Civic Context",
+      "historicalFact": "A prominent cultural and religious hub home to the Gorakhnath Math, Gita Press, and the commercial focal point of Eastern Uttar Pradesh.",
+      "currentChallenge": "Critical civic tasks involve Ramgarh Taal eco-tourism zoning, flood embankment maintenance along the Rapti river, and tertiary hospital capacity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_2543",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Mainpuri",
+    "assemblyConstituencyCode": "AC-UP-110",
+    "assemblyConstituencyName": "Karhal",
+    "crimeRate": "143.0 per 100k",
+    "crimeRatePerLakh": 143.0,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 271,
+    "regionalInsight": {
+      "title": "Karhal Civic Context",
+      "historicalFact": "Mainpuri is a major socioeconomic and cultural anchor in Uttar Pradesh, enriched by Gangetic heritage, local ODOP artisanal clusters, and agrarian production.",
+      "currentChallenge": "Primary civic focus includes canal desilting, upgrading primary health centers, and rural road widening across Karhal."
     },
     "districtStatsSources": {
       "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",

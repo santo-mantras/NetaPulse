@@ -107,7 +107,18 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
         
         if (value.trim().length > 0) {
             const q = value.toLowerCase().trim();
-            const matches = candidates.filter(c => c.name.toLowerCase().includes(q) || c.constituencyName.toLowerCase().includes(q)).slice(0, 5);
+            const matches = candidates
+                .filter(c => c.name.toLowerCase().includes(q) || c.constituencyName.toLowerCase().includes(q) || (c.party && c.party.toLowerCase().includes(q)))
+                .sort((a, b) => {
+                    // Priority 1: Exact start of name match
+                    const aNameStart = a.name.toLowerCase().startsWith(q) ? -2 : 0;
+                    const bNameStart = b.name.toLowerCase().startsWith(q) ? -2 : 0;
+                    // Priority 2: Executive leadership (CM / LOP / MP)
+                    const aRoleWeight = (a.role && (a.role.toLowerCase().includes('chief minister') || a.role.toLowerCase().includes('leader of opposition') || a.role.toLowerCase().includes('lop'))) ? -1 : 0;
+                    const bRoleWeight = (b.role && (b.role.toLowerCase().includes('chief minister') || b.role.toLowerCase().includes('leader of opposition') || b.role.toLowerCase().includes('lop'))) ? -1 : 0;
+                    return (aNameStart + aRoleWeight) - (bNameStart + bRoleWeight);
+                })
+                .slice(0, 10);
             setSuggestions(matches);
             setShowSuggestions(true);
         } else {
@@ -250,8 +261,43 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                         </div>
                                     )}
                                     <div>
-                                        <p className="text-sm font-bold text-slate-900 dark:text-slate-100">{c.name}</p>
-                                        <p className="text-xs text-slate-500 dark:text-slate-400">{c.constituencyName} • {c.party}</p>
+                                        <div className="flex items-center gap-2">
+                                            <p className="text-sm font-bold text-slate-900 dark:text-slate-100">{c.name}</p>
+                                            {(() => {
+                                                if (!c.role) return null;
+                                                const r = c.role.toLowerCase();
+                                                if (r.includes('deputy chief minister') || r.includes('deputy cm')) {
+                                                    return (
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded border bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 border-indigo-300 dark:border-indigo-700/50">
+                                                            Deputy CM
+                                                        </span>
+                                                    );
+                                                }
+                                                if (r.includes('chief minister') && !r.includes('former')) {
+                                                    return (
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded border bg-amber-500/10 text-amber-600 dark:text-amber-400 border-amber-300 dark:border-amber-700/50">
+                                                            Chief Minister
+                                                        </span>
+                                                    );
+                                                }
+                                                if (r.includes('leader of opposition') || r.includes('lop')) {
+                                                    return (
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded border bg-rose-500/10 text-rose-600 dark:text-rose-400 border-rose-300 dark:border-rose-700/50">
+                                                            {r.includes('lok sabha') ? 'LOP (Lok Sabha)' : 'Leader of Opposition'}
+                                                        </span>
+                                                    );
+                                                }
+                                                if (r.includes('mp') || r.includes('lok sabha')) {
+                                                    return (
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded border bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-300 dark:border-emerald-700/50">
+                                                            MP
+                                                        </span>
+                                                    );
+                                                }
+                                                return null;
+                                            })()}
+                                        </div>
+                                        <p className="text-xs text-slate-500 dark:text-slate-400">{c.constituencyName} • {c.party} {c.state ? `(${c.state})` : ''}</p>
                                     </div>
                                 </li>
                             ))}

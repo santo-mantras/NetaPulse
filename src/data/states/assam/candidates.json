@@ -1,6 +1,6 @@
 [
   {
-    "id": "as_2327",
+    "id": "as_2275",
     "name": "Bijoy Malakar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10,14 +10,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 19,
     "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -46,7 +46,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -79,7 +79,7 @@
     }
   },
   {
-    "id": "as_2328",
+    "id": "as_2276",
     "name": "Krishnendu Paul",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -89,14 +89,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -125,7 +125,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -158,7 +158,7 @@
     }
   },
   {
-    "id": "as_2329",
+    "id": "as_2277",
     "name": "Kamalakhya Dey Purkayastha",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -168,14 +168,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -204,7 +204,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -237,7 +237,7 @@
     }
   },
   {
-    "id": "as_2330",
+    "id": "as_2278",
     "name": "Siddique Ahmed",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -247,14 +247,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -283,7 +283,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -316,7 +316,7 @@
     }
   },
   {
-    "id": "as_2331",
+    "id": "as_2279",
     "name": "Abdul Aziz",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -332,9 +332,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -362,7 +362,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -395,7 +395,7 @@
     }
   },
   {
-    "id": "as_2332",
+    "id": "as_2280",
     "name": "Zakir Hussain Laskar",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -405,14 +405,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -441,7 +441,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -474,7 +474,7 @@
     }
   },
   {
-    "id": "as_2333",
+    "id": "as_2281",
     "name": "Sujam Uddin Laskar",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -484,7 +484,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -520,7 +520,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -553,7 +553,7 @@
     }
   },
   {
-    "id": "as_2334",
+    "id": "as_2282",
     "name": "Nizamuddin Choudhury",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -569,9 +569,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -599,7 +599,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -632,7 +632,7 @@
     }
   },
   {
-    "id": "as_2335",
+    "id": "as_2283",
     "name": "Dipayan Chakraborty",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -642,14 +642,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -678,7 +678,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -711,7 +711,7 @@
     }
   },
   {
-    "id": "as_2336",
+    "id": "as_2284",
     "name": "Karim Uddin Barbhuiya",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -721,14 +721,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -757,7 +757,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -790,7 +790,7 @@
     }
   },
   {
-    "id": "as_2337",
+    "id": "as_2285",
     "name": "Parimal Suklabaidya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -800,14 +800,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -836,7 +836,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -869,7 +869,7 @@
     }
   },
   {
-    "id": "as_2338",
+    "id": "as_2286",
     "name": "Mihir Kanti Shome",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -885,9 +885,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -915,7 +915,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -948,7 +948,7 @@
     }
   },
   {
-    "id": "as_2339",
+    "id": "as_2287",
     "name": "Kaushik Rai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -958,15 +958,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -994,7 +994,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1027,7 +1027,7 @@
     }
   },
   {
-    "id": "as_2340",
+    "id": "as_2288",
     "name": "Misbahul Islam Laskar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1037,14 +1037,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1073,7 +1073,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1106,7 +1106,7 @@
     }
   },
   {
-    "id": "as_2341",
+    "id": "as_2289",
     "name": "Khalil Uddin Mazumder",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1116,15 +1116,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1152,7 +1152,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1185,7 +1185,7 @@
     }
   },
   {
-    "id": "as_2342",
+    "id": "as_2290",
     "name": "Nandita Garlosa",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1195,15 +1195,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1231,7 +1231,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1264,7 +1264,7 @@
     }
   },
   {
-    "id": "as_2343",
+    "id": "as_2291",
     "name": "Numal Momin",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1274,15 +1274,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1310,7 +1310,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1343,7 +1343,7 @@
     }
   },
   {
-    "id": "as_2344",
+    "id": "as_2292",
     "name": "Dorsing Ronghang",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1353,15 +1353,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1389,7 +1389,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1422,7 +1422,7 @@
     }
   },
   {
-    "id": "as_2345",
+    "id": "as_2293",
     "name": "Bidya Sing Engleng",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1432,7 +1432,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -1501,7 +1501,7 @@
     }
   },
   {
-    "id": "as_2346",
+    "id": "as_2294",
     "name": "Rupsing Teron",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1511,15 +1511,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1547,7 +1547,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1580,7 +1580,7 @@
     }
   },
   {
-    "id": "as_2347",
+    "id": "as_2295",
     "name": "Adv. Aminul Islam",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -1590,15 +1590,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1626,7 +1626,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1659,7 +1659,7 @@
     }
   },
   {
-    "id": "as_2348",
+    "id": "as_2296",
     "name": "Wazed Ali Choudhury",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1669,14 +1669,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1705,7 +1705,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1738,7 +1738,7 @@
     }
   },
   {
-    "id": "as_2349",
+    "id": "as_2297",
     "name": "Nazrul Hoque",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -1748,15 +1748,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1784,7 +1784,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1817,7 +1817,7 @@
     }
   },
   {
-    "id": "as_2350",
+    "id": "as_2298",
     "name": "Nijanur Rahman",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -1827,14 +1827,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1863,7 +1863,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "id": "as_2351",
+    "id": "as_2299",
     "name": "Abdus Sobahun Ali Sarkar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1912,8 +1912,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1942,7 +1942,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -1975,7 +1975,7 @@
     }
   },
   {
-    "id": "as_2352",
+    "id": "as_2300",
     "name": "Hafiz Bashir Ahmed",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -1991,9 +1991,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2021,7 +2021,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2054,7 +2054,7 @@
     }
   },
   {
-    "id": "as_2353",
+    "id": "as_2301",
     "name": "Samsul Huda",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -2070,8 +2070,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2100,7 +2100,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2133,7 +2133,7 @@
     }
   },
   {
-    "id": "as_2354",
+    "id": "as_2302",
     "name": "Majendra Narzary",
     "role": "MLA",
     "party": "Bodoland People's Front",
@@ -2149,8 +2149,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2179,7 +2179,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2212,7 +2212,7 @@
     }
   },
   {
-    "id": "as_2355",
+    "id": "as_2303",
     "name": "Rabiram Narzary",
     "role": "MLA",
     "party": "Bodoland People's Front",
@@ -2222,15 +2222,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2258,7 +2258,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2291,7 +2291,7 @@
     }
   },
   {
-    "id": "as_2356",
+    "id": "as_2304",
     "name": "Lawrence Islary",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -2301,14 +2301,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2337,7 +2337,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2370,7 +2370,7 @@
     }
   },
   {
-    "id": "as_2357",
+    "id": "as_2305",
     "name": "Joyanta Basumatary",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -2380,14 +2380,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2416,7 +2416,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2449,7 +2449,7 @@
     }
   },
   {
-    "id": "as_2358",
+    "id": "as_2306",
     "name": "Phani Bhusan Choudhury",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -2459,14 +2459,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2495,7 +2495,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2528,7 +2528,7 @@
     }
   },
   {
-    "id": "as_2359",
+    "id": "as_2307",
     "name": "Ajoy Kumar Ray",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2538,15 +2538,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2574,7 +2574,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2607,7 +2607,7 @@
     }
   },
   {
-    "id": "as_2360",
+    "id": "as_2308",
     "name": "Abdul Batin Khandkar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2617,15 +2617,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2653,7 +2653,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2686,7 +2686,7 @@
     }
   },
   {
-    "id": "as_2361",
+    "id": "as_2309",
     "name": "Pradip Sarkar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2696,15 +2696,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2732,7 +2732,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2765,7 +2765,7 @@
     }
   },
   {
-    "id": "as_2362",
+    "id": "as_2310",
     "name": "Jadab Sawargiary",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2775,14 +2775,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2811,7 +2811,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "id": "as_2363",
+    "id": "as_2311",
     "name": "Abdul Kalam Rasheed Alam",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2854,14 +2854,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2890,7 +2890,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -2923,7 +2923,7 @@
     }
   },
   {
-    "id": "as_2364",
+    "id": "as_2312",
     "name": "Md. Abdur Rashid Mandal",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2933,14 +2933,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2969,7 +2969,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3002,7 +3002,7 @@
     }
   },
   {
-    "id": "as_2365",
+    "id": "as_2313",
     "name": "Aftabuddin Mollah",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3012,15 +3012,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3048,7 +3048,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3081,7 +3081,7 @@
     }
   },
   {
-    "id": "as_2366",
+    "id": "as_2314",
     "name": "Manoranjan Talukdar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -3091,15 +3091,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3127,7 +3127,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3160,7 +3160,7 @@
     }
   },
   {
-    "id": "as_2367",
+    "id": "as_2315",
     "name": "Phanidhar Talukdar",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -3170,14 +3170,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3206,7 +3206,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3239,7 +3239,7 @@
     }
   },
   {
-    "id": "as_2368",
+    "id": "as_2316",
     "name": "Ranjeet Kumar Dass",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3255,9 +3255,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3285,7 +3285,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3318,7 +3318,7 @@
     }
   },
   {
-    "id": "as_2369",
+    "id": "as_2317",
     "name": "Abdur Rahim Ahmed",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3328,14 +3328,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3364,7 +3364,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3397,7 +3397,7 @@
     }
   },
   {
-    "id": "as_2370",
+    "id": "as_2318",
     "name": "Rafiqul Islam",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -3407,15 +3407,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3443,7 +3443,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3476,7 +3476,7 @@
     }
   },
   {
-    "id": "as_2371",
+    "id": "as_2319",
     "name": "Sherman Ali Ahmed",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3486,14 +3486,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3522,7 +3522,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3555,7 +3555,7 @@
     }
   },
   {
-    "id": "as_2372",
+    "id": "as_2320",
     "name": "Jakir Hussain Sikdar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3565,15 +3565,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3601,7 +3601,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3634,7 +3634,7 @@
     }
   },
   {
-    "id": "as_2373",
+    "id": "as_2321",
     "name": "Ashraful Hussain",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -3644,15 +3644,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3680,7 +3680,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3713,7 +3713,7 @@
     }
   },
   {
-    "id": "as_2374",
+    "id": "as_2322",
     "name": "Nandita Das",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3723,15 +3723,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3759,7 +3759,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "id": "as_2375",
+    "id": "as_2323",
     "name": "Rekibuddin Ahmed",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -3802,14 +3802,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3838,7 +3838,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3871,7 +3871,7 @@
     }
   },
   {
-    "id": "as_2376",
+    "id": "as_2324",
     "name": "Hemanga Thakuria",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3881,14 +3881,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3917,7 +3917,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -3950,7 +3950,7 @@
     }
   },
   {
-    "id": "as_2377",
+    "id": "as_2325",
     "name": "Himanta Biswa Sarma",
     "role": "Chief Minister of Assam",
     "party": "Bharatiya Janata Party",
@@ -3960,7 +3960,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam MLALAD Scheme (Transformation & Development Dept)",
     "fundUtilizationPercentage": 96.4,
     "ladFundAllocatedINR": 50000000,
@@ -3996,7 +3996,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 92000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4029,7 +4029,7 @@
     }
   },
   {
-    "id": "as_2378",
+    "id": "as_2326",
     "name": "Atul Bora",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4039,7 +4039,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam MLALAD Scheme (Transformation & Development Dept)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -4075,7 +4075,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4108,7 +4108,7 @@
     }
   },
   {
-    "id": "as_2379",
+    "id": "as_2327",
     "name": "Siddhartha Bhattacharya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4118,14 +4118,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4154,7 +4154,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4187,7 +4187,7 @@
     }
   },
   {
-    "id": "as_2380",
+    "id": "as_2328",
     "name": "Ramendra Narayan Kalita",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -4197,15 +4197,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4233,7 +4233,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4266,7 +4266,7 @@
     }
   },
   {
-    "id": "as_2381",
+    "id": "as_2329",
     "name": "Suman Haripriya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4276,14 +4276,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4312,7 +4312,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4345,7 +4345,7 @@
     }
   },
   {
-    "id": "as_2382",
+    "id": "as_2330",
     "name": "Diganta Kalita",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4355,15 +4355,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4391,7 +4391,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4424,7 +4424,7 @@
     }
   },
   {
-    "id": "as_2383",
+    "id": "as_2331",
     "name": "Bhabesh Kalita",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4434,14 +4434,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4470,7 +4470,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4503,7 +4503,7 @@
     }
   },
   {
-    "id": "as_2384",
+    "id": "as_2332",
     "name": "Leho Ram Boro",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -4513,15 +4513,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4549,7 +4549,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4582,7 +4582,7 @@
     }
   },
   {
-    "id": "as_2385",
+    "id": "as_2333",
     "name": "Jayanta Malla Baruah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4598,8 +4598,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4628,7 +4628,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4661,7 +4661,7 @@
     }
   },
   {
-    "id": "as_2386",
+    "id": "as_2334",
     "name": "Diganta Barman",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -4671,15 +4671,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4707,7 +4707,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4740,7 +4740,7 @@
     }
   },
   {
-    "id": "as_2387",
+    "id": "as_2335",
     "name": "Chandra Mohan Patowary",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4750,15 +4750,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4786,7 +4786,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4819,7 +4819,7 @@
     }
   },
   {
-    "id": "as_2388",
+    "id": "as_2336",
     "name": "Bhupen Boro",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -4829,14 +4829,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4865,7 +4865,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4898,7 +4898,7 @@
     }
   },
   {
-    "id": "as_2389",
+    "id": "as_2337",
     "name": "Urkhao Gwra Brahma",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -4914,9 +4914,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4944,7 +4944,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -4977,7 +4977,7 @@
     }
   },
   {
-    "id": "as_2390",
+    "id": "as_2338",
     "name": "Biswajit Daimary",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4987,14 +4987,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5023,7 +5023,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5056,7 +5056,7 @@
     }
   },
   {
-    "id": "as_2391",
+    "id": "as_2339",
     "name": "Durga Das Boro",
     "role": "MLA",
     "party": "Bodoland People's Front",
@@ -5066,14 +5066,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5102,7 +5102,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5135,7 +5135,7 @@
     }
   },
   {
-    "id": "as_2392",
+    "id": "as_2340",
     "name": "Parmananda Rajbongshi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5145,15 +5145,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5181,7 +5181,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5214,7 +5214,7 @@
     }
   },
   {
-    "id": "as_2393",
+    "id": "as_2341",
     "name": "Basanta Das",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -5224,14 +5224,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5260,7 +5260,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5293,7 +5293,7 @@
     }
   },
   {
-    "id": "as_2394",
+    "id": "as_2342",
     "name": "Mazibur Rahman",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -5303,14 +5303,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5339,7 +5339,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5372,7 +5372,7 @@
     }
   },
   {
-    "id": "as_2395",
+    "id": "as_2343",
     "name": "Gobinda Chandra Basumatary",
     "role": "MLA",
     "party": "United People's Party Liberal",
@@ -5382,15 +5382,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5418,7 +5418,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5451,7 +5451,7 @@
     }
   },
   {
-    "id": "as_2396",
+    "id": "as_2344",
     "name": "Charan Boro",
     "role": "MLA",
     "party": "Bodoland People's Front",
@@ -5461,14 +5461,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
     "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5497,7 +5497,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5530,7 +5530,7 @@
     }
   },
   {
-    "id": "as_2397",
+    "id": "as_2345",
     "name": "Ashok Singhal",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5546,9 +5546,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5576,7 +5576,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "as_2398",
+    "id": "as_2346",
     "name": "Ganesh Kumar Limbu",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5619,14 +5619,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5655,7 +5655,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5688,7 +5688,7 @@
     }
   },
   {
-    "id": "as_2399",
+    "id": "as_2347",
     "name": "Prithiraj Rava",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -5704,9 +5704,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5734,7 +5734,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5767,7 +5767,7 @@
     }
   },
   {
-    "id": "as_2400",
+    "id": "as_2348",
     "name": "Krishna Kamal Tanti",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5777,14 +5777,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5813,7 +5813,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5846,7 +5846,7 @@
     }
   },
   {
-    "id": "as_2401",
+    "id": "as_2349",
     "name": "Padma Hazarika",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5856,15 +5856,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5892,7 +5892,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5925,7 +5925,7 @@
     }
   },
   {
-    "id": "as_2402",
+    "id": "as_2350",
     "name": "Promod Borthakur",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5941,8 +5941,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5971,7 +5971,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6004,7 +6004,7 @@
     }
   },
   {
-    "id": "as_2403",
+    "id": "as_2351",
     "name": "Ranjit Dutta",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6020,8 +6020,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6050,7 +6050,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6083,7 +6083,7 @@
     }
   },
   {
-    "id": "as_2404",
+    "id": "as_2352",
     "name": "Utpal Borah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6093,14 +6093,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6129,7 +6129,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6162,7 +6162,7 @@
     }
   },
   {
-    "id": "as_2405",
+    "id": "as_2353",
     "name": "Pijush Hazarika",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6172,15 +6172,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6208,7 +6208,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6241,7 +6241,7 @@
     }
   },
   {
-    "id": "as_2406",
+    "id": "as_2354",
     "name": "Rama Kanta Dewri",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6257,8 +6257,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6287,7 +6287,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6320,7 +6320,7 @@
     }
   },
   {
-    "id": "as_2407",
+    "id": "as_2355",
     "name": "Dr. Asif Mohammad Nazar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6330,15 +6330,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6399,7 +6399,7 @@
     }
   },
   {
-    "id": "as_2408",
+    "id": "as_2356",
     "name": "Sashi Kanta Das",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6409,15 +6409,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6445,7 +6445,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6478,7 +6478,7 @@
     }
   },
   {
-    "id": "as_2409",
+    "id": "as_2357",
     "name": "Aminul Islam",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -6488,7 +6488,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -6524,7 +6524,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6557,7 +6557,7 @@
     }
   },
   {
-    "id": "as_2410",
+    "id": "as_2358",
     "name": "Sibamoni Bora",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6567,14 +6567,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6603,7 +6603,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6636,7 +6636,7 @@
     }
   },
   {
-    "id": "as_2411",
+    "id": "as_2359",
     "name": "Nurul Huda",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6646,15 +6646,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6682,7 +6682,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6715,7 +6715,7 @@
     }
   },
   {
-    "id": "as_2412",
+    "id": "as_2360",
     "name": "Rupak Sarmah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6725,15 +6725,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6761,7 +6761,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6794,7 +6794,7 @@
     }
   },
   {
-    "id": "as_2413",
+    "id": "as_2361",
     "name": "Jitu Goswami",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6804,14 +6804,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6840,7 +6840,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6873,7 +6873,7 @@
     }
   },
   {
-    "id": "as_2414",
+    "id": "as_2362",
     "name": "Rakibul Hussain",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6883,14 +6883,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6919,7 +6919,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -6952,7 +6952,7 @@
     }
   },
   {
-    "id": "as_2415",
+    "id": "as_2363",
     "name": "Keshab Mahanta",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -6962,15 +6962,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6998,7 +6998,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7031,7 +7031,7 @@
     }
   },
   {
-    "id": "as_2416",
+    "id": "as_2364",
     "name": "Sirajuddin Ajmal",
     "role": "MLA",
     "party": "All India United Democratic Front",
@@ -7047,8 +7047,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7077,7 +7077,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7110,7 +7110,7 @@
     }
   },
   {
-    "id": "as_2417",
+    "id": "as_2365",
     "name": "Ramkrishna Ghosh",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7120,15 +7120,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7156,7 +7156,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7189,7 +7189,7 @@
     }
   },
   {
-    "id": "as_2418",
+    "id": "as_2366",
     "name": "Sibu Misra",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7199,14 +7199,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7235,7 +7235,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7268,7 +7268,7 @@
     }
   },
   {
-    "id": "as_2419",
+    "id": "as_2367",
     "name": "Atul Bora",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -7278,14 +7278,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7347,7 +7347,7 @@
     }
   },
   {
-    "id": "as_2420",
+    "id": "as_2368",
     "name": "Biswajit Phukan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7357,15 +7357,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7393,7 +7393,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7426,7 +7426,7 @@
     }
   },
   {
-    "id": "as_2421",
+    "id": "as_2369",
     "name": "Ajanta Neog",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7436,15 +7436,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
+    "worksRecommendedCount": 21,
     "worksCompletedCount": 19,
-    "worksPendingCount": 1,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7472,7 +7472,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7505,7 +7505,7 @@
     }
   },
   {
-    "id": "as_2422",
+    "id": "as_2370",
     "name": "Mrinal Saikia",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7515,14 +7515,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7551,7 +7551,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7584,7 +7584,7 @@
     }
   },
   {
-    "id": "as_2423",
+    "id": "as_2371",
     "name": "Bhabendra Nath Bharali",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -7600,8 +7600,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7630,7 +7630,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7663,7 +7663,7 @@
     }
   },
   {
-    "id": "as_2424",
+    "id": "as_2372",
     "name": "Hitendra Nath Goswami",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7673,15 +7673,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7709,7 +7709,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7742,7 +7742,7 @@
     }
   },
   {
-    "id": "as_2425",
+    "id": "as_2373",
     "name": "Sarbananda Sonowal",
     "role": "Former Chief Minister",
     "party": "Bharatiya Janata Party",
@@ -7752,7 +7752,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam MLALAD Scheme (Transformation & Development Dept)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -7788,7 +7788,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7821,7 +7821,7 @@
     }
   },
   {
-    "id": "as_2426",
+    "id": "as_2374",
     "name": "Bhaskar Jyoti Baruah",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -7831,15 +7831,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7867,7 +7867,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7900,7 +7900,7 @@
     }
   },
   {
-    "id": "as_2427",
+    "id": "as_2375",
     "name": "Rupjyoti Kurmi",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -7910,14 +7910,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7946,7 +7946,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -7979,7 +7979,7 @@
     }
   },
   {
-    "id": "as_2428",
+    "id": "as_2376",
     "name": "Renupoma Rajkhowa",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -7989,14 +7989,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8025,7 +8025,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8058,7 +8058,7 @@
     }
   },
   {
-    "id": "as_2429",
+    "id": "as_2377",
     "name": "Prodip Hazarika",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -8068,7 +8068,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -8104,7 +8104,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8137,7 +8137,7 @@
     }
   },
   {
-    "id": "as_2430",
+    "id": "as_2378",
     "name": "Debabrata Saikia",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8147,14 +8147,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8183,7 +8183,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8216,7 +8216,7 @@
     }
   },
   {
-    "id": "as_2431",
+    "id": "as_2379",
     "name": "Jogen Mohan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8226,14 +8226,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8262,7 +8262,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8295,7 +8295,7 @@
     }
   },
   {
-    "id": "as_2432",
+    "id": "as_2380",
     "name": "Dharmeswar Konwar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8305,15 +8305,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8341,7 +8341,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8374,7 +8374,7 @@
     }
   },
   {
-    "id": "as_2433",
+    "id": "as_2381",
     "name": "Sushanta Borgohain",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8384,14 +8384,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8420,7 +8420,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8453,7 +8453,7 @@
     }
   },
   {
-    "id": "as_2434",
+    "id": "as_2382",
     "name": "Akhil Gogoi",
     "role": "MLA",
     "party": "Independent",
@@ -8463,7 +8463,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam MLALAD Scheme (Transformation & Development Dept)",
     "fundUtilizationPercentage": 92.2,
     "ladFundAllocatedINR": 50000000,
@@ -8499,7 +8499,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8532,7 +8532,7 @@
     }
   },
   {
-    "id": "as_2435",
+    "id": "as_2383",
     "name": "Amiya Kumar Bhuyan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8542,14 +8542,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8611,7 +8611,7 @@
     }
   },
   {
-    "id": "as_2436",
+    "id": "as_2384",
     "name": "Bharat Chandra Narah",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8621,14 +8621,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8657,7 +8657,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8690,7 +8690,7 @@
     }
   },
   {
-    "id": "as_2437",
+    "id": "as_2385",
     "name": "Manab Deka",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8700,15 +8700,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8736,7 +8736,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8769,7 +8769,7 @@
     }
   },
   {
-    "id": "as_2438",
+    "id": "as_2386",
     "name": "Naba Kumar Doley",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8779,15 +8779,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8815,7 +8815,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8848,7 +8848,7 @@
     }
   },
   {
-    "id": "as_2439",
+    "id": "as_2387",
     "name": "Ranoj Pegu",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8858,15 +8858,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8894,7 +8894,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -8927,7 +8927,7 @@
     }
   },
   {
-    "id": "as_2440",
+    "id": "as_2388",
     "name": "Bhubon Pegu",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8943,9 +8943,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8973,7 +8973,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9006,7 +9006,7 @@
     }
   },
   {
-    "id": "as_2441",
+    "id": "as_2389",
     "name": "Chakradhar Gogoi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9016,14 +9016,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9052,7 +9052,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9085,7 +9085,7 @@
     }
   },
   {
-    "id": "as_2442",
+    "id": "as_2390",
     "name": "Prasanta Phukan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9095,15 +9095,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9131,7 +9131,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9164,7 +9164,7 @@
     }
   },
   {
-    "id": "as_2443",
+    "id": "as_2391",
     "name": "Binod Hazarika",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9174,15 +9174,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9210,7 +9210,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9243,7 +9243,7 @@
     }
   },
   {
-    "id": "as_2444",
+    "id": "as_2392",
     "name": "Terash Gowalla",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9259,8 +9259,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
     "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9289,7 +9289,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9322,7 +9322,7 @@
     }
   },
   {
-    "id": "as_2445",
+    "id": "as_2393",
     "name": "Bimal Borah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9332,14 +9332,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9368,7 +9368,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9401,7 +9401,7 @@
     }
   },
   {
-    "id": "as_2446",
+    "id": "as_2394",
     "name": "Taranga Gogoi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9411,15 +9411,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9447,7 +9447,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9480,7 +9480,7 @@
     }
   },
   {
-    "id": "as_2447",
+    "id": "as_2395",
     "name": "Ponakan Baruah",
     "role": "MLA",
     "party": "Asom Gana Parishad",
@@ -9490,14 +9490,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9526,7 +9526,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9559,7 +9559,7 @@
     }
   },
   {
-    "id": "as_2448",
+    "id": "as_2396",
     "name": "Sanjoy Kishan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9569,15 +9569,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9605,7 +9605,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9638,7 +9638,7 @@
     }
   },
   {
-    "id": "as_2449",
+    "id": "as_2397",
     "name": "Suren Phukan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9648,15 +9648,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9684,7 +9684,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9717,7 +9717,7 @@
     }
   },
   {
-    "id": "as_2450",
+    "id": "as_2398",
     "name": "Bhaskar Sharma",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9733,9 +9733,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9763,7 +9763,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9796,7 +9796,7 @@
     }
   },
   {
-    "id": "as_2451",
+    "id": "as_2399",
     "name": "Rupesh Gowala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9806,15 +9806,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9842,7 +9842,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -9875,7 +9875,7 @@
     }
   },
   {
-    "id": "as_2452",
+    "id": "as_2400",
     "name": "Bolin Chetia",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9885,14 +9885,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Assam Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
     "worksPendingCount": 1,
     "fundSourceCitation": "Assam Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9921,7 +9921,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,

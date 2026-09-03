@@ -1,6 +1,6 @@
 [
   {
-    "id": "loc_gu_1408",
+    "id": "loc_gu_1356",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-1",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "loc_gu_1409",
+    "id": "loc_gu_1357",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-2",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": "loc_gu_1410",
+    "id": "loc_gu_1358",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-3",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": "loc_gu_1411",
+    "id": "loc_gu_1359",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-4",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "id": "loc_gu_1412",
+    "id": "loc_gu_1360",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-5",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "id": "loc_gu_1413",
+    "id": "loc_gu_1361",
     "stateName": "Gujarat",
     "districtName": "Kutch",
     "assemblyConstituencyCode": "AC-GJ-6",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": "loc_gu_1414",
+    "id": "loc_gu_1362",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-7",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "loc_gu_1415",
+    "id": "loc_gu_1363",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-8",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "id": "loc_gu_1416",
+    "id": "loc_gu_1364",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-9",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": "loc_gu_1417",
+    "id": "loc_gu_1365",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-10",
@@ -240,7 +240,7 @@
     }
   },
   {
-    "id": "loc_gu_1418",
+    "id": "loc_gu_1366",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-11",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "id": "loc_gu_1419",
+    "id": "loc_gu_1367",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-12",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "id": "loc_gu_1420",
+    "id": "loc_gu_1368",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-13",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "id": "loc_gu_1421",
+    "id": "loc_gu_1369",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-14",
@@ -336,7 +336,7 @@
     }
   },
   {
-    "id": "loc_gu_1422",
+    "id": "loc_gu_1370",
     "stateName": "Gujarat",
     "districtName": "Banaskantha",
     "assemblyConstituencyCode": "AC-GJ-15",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "id": "loc_gu_1423",
+    "id": "loc_gu_1371",
     "stateName": "Gujarat",
     "districtName": "Patan",
     "assemblyConstituencyCode": "AC-GJ-16",
@@ -384,7 +384,7 @@
     }
   },
   {
-    "id": "loc_gu_1424",
+    "id": "loc_gu_1372",
     "stateName": "Gujarat",
     "districtName": "Patan",
     "assemblyConstituencyCode": "AC-GJ-17",
@@ -408,7 +408,7 @@
     }
   },
   {
-    "id": "loc_gu_1425",
+    "id": "loc_gu_1373",
     "stateName": "Gujarat",
     "districtName": "Patan",
     "assemblyConstituencyCode": "AC-GJ-18",
@@ -432,7 +432,7 @@
     }
   },
   {
-    "id": "loc_gu_1426",
+    "id": "loc_gu_1374",
     "stateName": "Gujarat",
     "districtName": "Patan",
     "assemblyConstituencyCode": "AC-GJ-19",
@@ -456,7 +456,7 @@
     }
   },
   {
-    "id": "loc_gu_1427",
+    "id": "loc_gu_1375",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-20",
@@ -480,7 +480,7 @@
     }
   },
   {
-    "id": "loc_gu_1428",
+    "id": "loc_gu_1376",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-21",
@@ -504,7 +504,7 @@
     }
   },
   {
-    "id": "loc_gu_1429",
+    "id": "loc_gu_1377",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-22",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "id": "loc_gu_1430",
+    "id": "loc_gu_1378",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-23",
@@ -552,7 +552,7 @@
     }
   },
   {
-    "id": "loc_gu_1431",
+    "id": "loc_gu_1379",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-24",
@@ -576,7 +576,7 @@
     }
   },
   {
-    "id": "loc_gu_1432",
+    "id": "loc_gu_1380",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-25",
@@ -600,7 +600,7 @@
     }
   },
   {
-    "id": "loc_gu_1433",
+    "id": "loc_gu_1381",
     "stateName": "Gujarat",
     "districtName": "Mehsana",
     "assemblyConstituencyCode": "AC-GJ-26",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "id": "loc_gu_1434",
+    "id": "loc_gu_1382",
     "stateName": "Gujarat",
     "districtName": "Sabarkantha",
     "assemblyConstituencyCode": "AC-GJ-27",
@@ -648,7 +648,7 @@
     }
   },
   {
-    "id": "loc_gu_1435",
+    "id": "loc_gu_1383",
     "stateName": "Gujarat",
     "districtName": "Sabarkantha",
     "assemblyConstituencyCode": "AC-GJ-28",
@@ -672,7 +672,7 @@
     }
   },
   {
-    "id": "loc_gu_1436",
+    "id": "loc_gu_1384",
     "stateName": "Gujarat",
     "districtName": "Sabarkantha",
     "assemblyConstituencyCode": "AC-GJ-29",
@@ -696,7 +696,7 @@
     }
   },
   {
-    "id": "loc_gu_1437",
+    "id": "loc_gu_1385",
     "stateName": "Gujarat",
     "districtName": "Aravalli",
     "assemblyConstituencyCode": "AC-GJ-30",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "id": "loc_gu_1438",
+    "id": "loc_gu_1386",
     "stateName": "Gujarat",
     "districtName": "Aravalli",
     "assemblyConstituencyCode": "AC-GJ-31",
@@ -744,7 +744,7 @@
     }
   },
   {
-    "id": "loc_gu_1439",
+    "id": "loc_gu_1387",
     "stateName": "Gujarat",
     "districtName": "Aravalli",
     "assemblyConstituencyCode": "AC-GJ-32",
@@ -768,7 +768,7 @@
     }
   },
   {
-    "id": "loc_gu_1440",
+    "id": "loc_gu_1388",
     "stateName": "Gujarat",
     "districtName": "Sabarkantha",
     "assemblyConstituencyCode": "AC-GJ-33",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "id": "loc_gu_1441",
+    "id": "loc_gu_1389",
     "stateName": "Gujarat",
     "districtName": "Gandhinagar",
     "assemblyConstituencyCode": "AC-GJ-34",
@@ -816,7 +816,7 @@
     }
   },
   {
-    "id": "loc_gu_1442",
+    "id": "loc_gu_1390",
     "stateName": "Gujarat",
     "districtName": "Gandhinagar",
     "assemblyConstituencyCode": "AC-GJ-35",
@@ -840,7 +840,7 @@
     }
   },
   {
-    "id": "loc_gu_1443",
+    "id": "loc_gu_1391",
     "stateName": "Gujarat",
     "districtName": "Gandhinagar",
     "assemblyConstituencyCode": "AC-GJ-36",
@@ -864,7 +864,7 @@
     }
   },
   {
-    "id": "loc_gu_1444",
+    "id": "loc_gu_1392",
     "stateName": "Gujarat",
     "districtName": "Gandhinagar",
     "assemblyConstituencyCode": "AC-GJ-37",
@@ -888,7 +888,7 @@
     }
   },
   {
-    "id": "loc_gu_1445",
+    "id": "loc_gu_1393",
     "stateName": "Gujarat",
     "districtName": "Gandhinagar",
     "assemblyConstituencyCode": "AC-GJ-38",
@@ -912,7 +912,7 @@
     }
   },
   {
-    "id": "loc_gu_1446",
+    "id": "loc_gu_1394",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-39",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "id": "loc_gu_1447",
+    "id": "loc_gu_1395",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-40",
@@ -960,7 +960,7 @@
     }
   },
   {
-    "id": "loc_gu_1448",
+    "id": "loc_gu_1396",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-41",
@@ -984,7 +984,7 @@
     }
   },
   {
-    "id": "loc_gu_1449",
+    "id": "loc_gu_1397",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-42",
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "id": "loc_gu_1450",
+    "id": "loc_gu_1398",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-43",
@@ -1032,7 +1032,7 @@
     }
   },
   {
-    "id": "loc_gu_1451",
+    "id": "loc_gu_1399",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-44",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "id": "loc_gu_1452",
+    "id": "loc_gu_1400",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-45",
@@ -1080,7 +1080,7 @@
     }
   },
   {
-    "id": "loc_gu_1453",
+    "id": "loc_gu_1401",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-46",
@@ -1104,7 +1104,7 @@
     }
   },
   {
-    "id": "loc_gu_1454",
+    "id": "loc_gu_1402",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-47",
@@ -1128,7 +1128,7 @@
     }
   },
   {
-    "id": "loc_gu_1455",
+    "id": "loc_gu_1403",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-48",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "id": "loc_gu_1456",
+    "id": "loc_gu_1404",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-49",
@@ -1176,7 +1176,7 @@
     }
   },
   {
-    "id": "loc_gu_1457",
+    "id": "loc_gu_1405",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-50",
@@ -1200,7 +1200,7 @@
     }
   },
   {
-    "id": "loc_gu_1458",
+    "id": "loc_gu_1406",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-51",
@@ -1224,7 +1224,7 @@
     }
   },
   {
-    "id": "loc_gu_1459",
+    "id": "loc_gu_1407",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-52",
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "id": "loc_gu_1460",
+    "id": "loc_gu_1408",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-53",
@@ -1272,7 +1272,7 @@
     }
   },
   {
-    "id": "loc_gu_1461",
+    "id": "loc_gu_1409",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-54",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "id": "loc_gu_1462",
+    "id": "loc_gu_1410",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-55",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "id": "loc_gu_1463",
+    "id": "loc_gu_1411",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-56",
@@ -1344,7 +1344,7 @@
     }
   },
   {
-    "id": "loc_gu_1464",
+    "id": "loc_gu_1412",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-57",
@@ -1368,7 +1368,7 @@
     }
   },
   {
-    "id": "loc_gu_1465",
+    "id": "loc_gu_1413",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-58",
@@ -1392,7 +1392,7 @@
     }
   },
   {
-    "id": "loc_gu_1466",
+    "id": "loc_gu_1414",
     "stateName": "Gujarat",
     "districtName": "Ahmedabad",
     "assemblyConstituencyCode": "AC-GJ-59",
@@ -1416,7 +1416,7 @@
     }
   },
   {
-    "id": "loc_gu_1467",
+    "id": "loc_gu_1415",
     "stateName": "Gujarat",
     "districtName": "Surendranagar",
     "assemblyConstituencyCode": "AC-GJ-60",
@@ -1440,7 +1440,7 @@
     }
   },
   {
-    "id": "loc_gu_1468",
+    "id": "loc_gu_1416",
     "stateName": "Gujarat",
     "districtName": "Surendranagar",
     "assemblyConstituencyCode": "AC-GJ-61",
@@ -1464,7 +1464,7 @@
     }
   },
   {
-    "id": "loc_gu_1469",
+    "id": "loc_gu_1417",
     "stateName": "Gujarat",
     "districtName": "Surendranagar",
     "assemblyConstituencyCode": "AC-GJ-62",
@@ -1488,7 +1488,7 @@
     }
   },
   {
-    "id": "loc_gu_1470",
+    "id": "loc_gu_1418",
     "stateName": "Gujarat",
     "districtName": "Surendranagar",
     "assemblyConstituencyCode": "AC-GJ-63",
@@ -1512,7 +1512,7 @@
     }
   },
   {
-    "id": "loc_gu_1471",
+    "id": "loc_gu_1419",
     "stateName": "Gujarat",
     "districtName": "Surendranagar",
     "assemblyConstituencyCode": "AC-GJ-64",
@@ -1536,7 +1536,7 @@
     }
   },
   {
-    "id": "loc_gu_1472",
+    "id": "loc_gu_1420",
     "stateName": "Gujarat",
     "districtName": "Morbi",
     "assemblyConstituencyCode": "AC-GJ-65",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "id": "loc_gu_1473",
+    "id": "loc_gu_1421",
     "stateName": "Gujarat",
     "districtName": "Morbi",
     "assemblyConstituencyCode": "AC-GJ-66",
@@ -1584,7 +1584,7 @@
     }
   },
   {
-    "id": "loc_gu_1474",
+    "id": "loc_gu_1422",
     "stateName": "Gujarat",
     "districtName": "Morbi",
     "assemblyConstituencyCode": "AC-GJ-67",
@@ -1608,7 +1608,7 @@
     }
   },
   {
-    "id": "loc_gu_1475",
+    "id": "loc_gu_1423",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-68",
@@ -1632,7 +1632,7 @@
     }
   },
   {
-    "id": "loc_gu_1476",
+    "id": "loc_gu_1424",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-69",
@@ -1656,7 +1656,7 @@
     }
   },
   {
-    "id": "loc_gu_1477",
+    "id": "loc_gu_1425",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-70",
@@ -1680,7 +1680,7 @@
     }
   },
   {
-    "id": "loc_gu_1478",
+    "id": "loc_gu_1426",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-71",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "loc_gu_1479",
+    "id": "loc_gu_1427",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-72",
@@ -1728,7 +1728,7 @@
     }
   },
   {
-    "id": "loc_gu_1480",
+    "id": "loc_gu_1428",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-73",
@@ -1752,7 +1752,7 @@
     }
   },
   {
-    "id": "loc_gu_1481",
+    "id": "loc_gu_1429",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-74",
@@ -1776,7 +1776,7 @@
     }
   },
   {
-    "id": "loc_gu_1482",
+    "id": "loc_gu_1430",
     "stateName": "Gujarat",
     "districtName": "Rajkot",
     "assemblyConstituencyCode": "AC-GJ-75",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "id": "loc_gu_1483",
+    "id": "loc_gu_1431",
     "stateName": "Gujarat",
     "districtName": "Jamnagar",
     "assemblyConstituencyCode": "AC-GJ-76",
@@ -1824,7 +1824,7 @@
     }
   },
   {
-    "id": "loc_gu_1484",
+    "id": "loc_gu_1432",
     "stateName": "Gujarat",
     "districtName": "Jamnagar",
     "assemblyConstituencyCode": "AC-GJ-77",
@@ -1848,7 +1848,7 @@
     }
   },
   {
-    "id": "loc_gu_1485",
+    "id": "loc_gu_1433",
     "stateName": "Gujarat",
     "districtName": "Jamnagar",
     "assemblyConstituencyCode": "AC-GJ-78",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "id": "loc_gu_1486",
+    "id": "loc_gu_1434",
     "stateName": "Gujarat",
     "districtName": "Jamnagar",
     "assemblyConstituencyCode": "AC-GJ-79",
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "id": "loc_gu_1487",
+    "id": "loc_gu_1435",
     "stateName": "Gujarat",
     "districtName": "Jamnagar",
     "assemblyConstituencyCode": "AC-GJ-80",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "id": "loc_gu_1488",
+    "id": "loc_gu_1436",
     "stateName": "Gujarat",
     "districtName": "Devbhumi Dwarka",
     "assemblyConstituencyCode": "AC-GJ-81",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "id": "loc_gu_1489",
+    "id": "loc_gu_1437",
     "stateName": "Gujarat",
     "districtName": "Devbhumi Dwarka",
     "assemblyConstituencyCode": "AC-GJ-82",
@@ -1968,7 +1968,7 @@
     }
   },
   {
-    "id": "loc_gu_1490",
+    "id": "loc_gu_1438",
     "stateName": "Gujarat",
     "districtName": "Porbandar",
     "assemblyConstituencyCode": "AC-GJ-83",
@@ -1992,7 +1992,7 @@
     }
   },
   {
-    "id": "loc_gu_1491",
+    "id": "loc_gu_1439",
     "stateName": "Gujarat",
     "districtName": "Porbandar",
     "assemblyConstituencyCode": "AC-GJ-84",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "id": "loc_gu_1492",
+    "id": "loc_gu_1440",
     "stateName": "Gujarat",
     "districtName": "Junagadh",
     "assemblyConstituencyCode": "AC-GJ-85",
@@ -2040,7 +2040,7 @@
     }
   },
   {
-    "id": "loc_gu_1493",
+    "id": "loc_gu_1441",
     "stateName": "Gujarat",
     "districtName": "Junagadh",
     "assemblyConstituencyCode": "AC-GJ-86",
@@ -2064,7 +2064,7 @@
     }
   },
   {
-    "id": "loc_gu_1494",
+    "id": "loc_gu_1442",
     "stateName": "Gujarat",
     "districtName": "Junagadh",
     "assemblyConstituencyCode": "AC-GJ-87",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "id": "loc_gu_1495",
+    "id": "loc_gu_1443",
     "stateName": "Gujarat",
     "districtName": "Junagadh",
     "assemblyConstituencyCode": "AC-GJ-88",
@@ -2112,7 +2112,7 @@
     }
   },
   {
-    "id": "loc_gu_1496",
+    "id": "loc_gu_1444",
     "stateName": "Gujarat",
     "districtName": "Junagadh",
     "assemblyConstituencyCode": "AC-GJ-89",
@@ -2136,7 +2136,7 @@
     }
   },
   {
-    "id": "loc_gu_1497",
+    "id": "loc_gu_1445",
     "stateName": "Gujarat",
     "districtName": "Gir Somnath",
     "assemblyConstituencyCode": "AC-GJ-90",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "id": "loc_gu_1498",
+    "id": "loc_gu_1446",
     "stateName": "Gujarat",
     "districtName": "Gir Somnath",
     "assemblyConstituencyCode": "AC-GJ-91",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "id": "loc_gu_1499",
+    "id": "loc_gu_1447",
     "stateName": "Gujarat",
     "districtName": "Gir Somnath",
     "assemblyConstituencyCode": "AC-GJ-92",
@@ -2208,7 +2208,7 @@
     }
   },
   {
-    "id": "loc_gu_1500",
+    "id": "loc_gu_1448",
     "stateName": "Gujarat",
     "districtName": "Gir Somnath",
     "assemblyConstituencyCode": "AC-GJ-93",
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "id": "loc_gu_1501",
+    "id": "loc_gu_1449",
     "stateName": "Gujarat",
     "districtName": "Amreli",
     "assemblyConstituencyCode": "AC-GJ-94",
@@ -2256,7 +2256,7 @@
     }
   },
   {
-    "id": "loc_gu_1502",
+    "id": "loc_gu_1450",
     "stateName": "Gujarat",
     "districtName": "Amreli",
     "assemblyConstituencyCode": "AC-GJ-95",
@@ -2280,7 +2280,7 @@
     }
   },
   {
-    "id": "loc_gu_1503",
+    "id": "loc_gu_1451",
     "stateName": "Gujarat",
     "districtName": "Amreli",
     "assemblyConstituencyCode": "AC-GJ-96",
@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "id": "loc_gu_1504",
+    "id": "loc_gu_1452",
     "stateName": "Gujarat",
     "districtName": "Amreli",
     "assemblyConstituencyCode": "AC-GJ-97",
@@ -2328,7 +2328,7 @@
     }
   },
   {
-    "id": "loc_gu_1505",
+    "id": "loc_gu_1453",
     "stateName": "Gujarat",
     "districtName": "Amreli",
     "assemblyConstituencyCode": "AC-GJ-98",
@@ -2352,7 +2352,7 @@
     }
   },
   {
-    "id": "loc_gu_1506",
+    "id": "loc_gu_1454",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-99",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "id": "loc_gu_1507",
+    "id": "loc_gu_1455",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-100",
@@ -2400,7 +2400,7 @@
     }
   },
   {
-    "id": "loc_gu_1508",
+    "id": "loc_gu_1456",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-101",
@@ -2424,7 +2424,7 @@
     }
   },
   {
-    "id": "loc_gu_1509",
+    "id": "loc_gu_1457",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-102",
@@ -2448,7 +2448,7 @@
     }
   },
   {
-    "id": "loc_gu_1510",
+    "id": "loc_gu_1458",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-103",
@@ -2472,7 +2472,7 @@
     }
   },
   {
-    "id": "loc_gu_1511",
+    "id": "loc_gu_1459",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-104",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "id": "loc_gu_1512",
+    "id": "loc_gu_1460",
     "stateName": "Gujarat",
     "districtName": "Bhavnagar",
     "assemblyConstituencyCode": "AC-GJ-105",
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "id": "loc_gu_1513",
+    "id": "loc_gu_1461",
     "stateName": "Gujarat",
     "districtName": "Botad",
     "assemblyConstituencyCode": "AC-GJ-106",
@@ -2544,7 +2544,7 @@
     }
   },
   {
-    "id": "loc_gu_1514",
+    "id": "loc_gu_1462",
     "stateName": "Gujarat",
     "districtName": "Botad",
     "assemblyConstituencyCode": "AC-GJ-107",
@@ -2568,7 +2568,7 @@
     }
   },
   {
-    "id": "loc_gu_1515",
+    "id": "loc_gu_1463",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-108",
@@ -2592,7 +2592,7 @@
     }
   },
   {
-    "id": "loc_gu_1516",
+    "id": "loc_gu_1464",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-109",
@@ -2616,7 +2616,7 @@
     }
   },
   {
-    "id": "loc_gu_1517",
+    "id": "loc_gu_1465",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-110",
@@ -2640,7 +2640,7 @@
     }
   },
   {
-    "id": "loc_gu_1518",
+    "id": "loc_gu_1466",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-111",
@@ -2664,7 +2664,7 @@
     }
   },
   {
-    "id": "loc_gu_1519",
+    "id": "loc_gu_1467",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-112",
@@ -2688,7 +2688,7 @@
     }
   },
   {
-    "id": "loc_gu_1520",
+    "id": "loc_gu_1468",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-113",
@@ -2712,7 +2712,7 @@
     }
   },
   {
-    "id": "loc_gu_1521",
+    "id": "loc_gu_1469",
     "stateName": "Gujarat",
     "districtName": "Anand",
     "assemblyConstituencyCode": "AC-GJ-114",
@@ -2736,7 +2736,7 @@
     }
   },
   {
-    "id": "loc_gu_1522",
+    "id": "loc_gu_1470",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-115",
@@ -2760,7 +2760,7 @@
     }
   },
   {
-    "id": "loc_gu_1523",
+    "id": "loc_gu_1471",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-116",
@@ -2784,7 +2784,7 @@
     }
   },
   {
-    "id": "loc_gu_1524",
+    "id": "loc_gu_1472",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-117",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "id": "loc_gu_1525",
+    "id": "loc_gu_1473",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-118",
@@ -2832,7 +2832,7 @@
     }
   },
   {
-    "id": "loc_gu_1526",
+    "id": "loc_gu_1474",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-119",
@@ -2856,7 +2856,7 @@
     }
   },
   {
-    "id": "loc_gu_1527",
+    "id": "loc_gu_1475",
     "stateName": "Gujarat",
     "districtName": "Kheda",
     "assemblyConstituencyCode": "AC-GJ-120",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "id": "loc_gu_1528",
+    "id": "loc_gu_1476",
     "stateName": "Gujarat",
     "districtName": "Mahisagar",
     "assemblyConstituencyCode": "AC-GJ-121",
@@ -2904,7 +2904,7 @@
     }
   },
   {
-    "id": "loc_gu_1529",
+    "id": "loc_gu_1477",
     "stateName": "Gujarat",
     "districtName": "Mahisagar",
     "assemblyConstituencyCode": "AC-GJ-122",
@@ -2928,7 +2928,7 @@
     }
   },
   {
-    "id": "loc_gu_1530",
+    "id": "loc_gu_1478",
     "stateName": "Gujarat",
     "districtName": "Mahisagar",
     "assemblyConstituencyCode": "AC-GJ-123",
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "id": "loc_gu_1531",
+    "id": "loc_gu_1479",
     "stateName": "Gujarat",
     "districtName": "Panchmahal",
     "assemblyConstituencyCode": "AC-GJ-124",
@@ -2976,7 +2976,7 @@
     }
   },
   {
-    "id": "loc_gu_1532",
+    "id": "loc_gu_1480",
     "stateName": "Gujarat",
     "districtName": "Panchmahal",
     "assemblyConstituencyCode": "AC-GJ-125",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "id": "loc_gu_1533",
+    "id": "loc_gu_1481",
     "stateName": "Gujarat",
     "districtName": "Panchmahal",
     "assemblyConstituencyCode": "AC-GJ-126",
@@ -3024,7 +3024,7 @@
     }
   },
   {
-    "id": "loc_gu_1534",
+    "id": "loc_gu_1482",
     "stateName": "Gujarat",
     "districtName": "Panchmahal",
     "assemblyConstituencyCode": "AC-GJ-127",
@@ -3048,7 +3048,7 @@
     }
   },
   {
-    "id": "loc_gu_1535",
+    "id": "loc_gu_1483",
     "stateName": "Gujarat",
     "districtName": "Panchmahal",
     "assemblyConstituencyCode": "AC-GJ-128",
@@ -3072,7 +3072,7 @@
     }
   },
   {
-    "id": "loc_gu_1536",
+    "id": "loc_gu_1484",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-129",
@@ -3096,7 +3096,7 @@
     }
   },
   {
-    "id": "loc_gu_1537",
+    "id": "loc_gu_1485",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-130",
@@ -3120,7 +3120,7 @@
     }
   },
   {
-    "id": "loc_gu_1538",
+    "id": "loc_gu_1486",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-131",
@@ -3144,7 +3144,7 @@
     }
   },
   {
-    "id": "loc_gu_1539",
+    "id": "loc_gu_1487",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-132",
@@ -3168,7 +3168,7 @@
     }
   },
   {
-    "id": "loc_gu_1540",
+    "id": "loc_gu_1488",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-133",
@@ -3192,7 +3192,7 @@
     }
   },
   {
-    "id": "loc_gu_1541",
+    "id": "loc_gu_1489",
     "stateName": "Gujarat",
     "districtName": "Dahod",
     "assemblyConstituencyCode": "AC-GJ-134",
@@ -3216,7 +3216,7 @@
     }
   },
   {
-    "id": "loc_gu_1542",
+    "id": "loc_gu_1490",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-135",
@@ -3240,7 +3240,7 @@
     }
   },
   {
-    "id": "loc_gu_1543",
+    "id": "loc_gu_1491",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-136",
@@ -3264,7 +3264,7 @@
     }
   },
   {
-    "id": "loc_gu_1544",
+    "id": "loc_gu_1492",
     "stateName": "Gujarat",
     "districtName": "Chhota Udaipur",
     "assemblyConstituencyCode": "AC-GJ-137",
@@ -3288,7 +3288,7 @@
     }
   },
   {
-    "id": "loc_gu_1545",
+    "id": "loc_gu_1493",
     "stateName": "Gujarat",
     "districtName": "Chhota Udaipur",
     "assemblyConstituencyCode": "AC-GJ-138",
@@ -3312,7 +3312,7 @@
     }
   },
   {
-    "id": "loc_gu_1546",
+    "id": "loc_gu_1494",
     "stateName": "Gujarat",
     "districtName": "Chhota Udaipur",
     "assemblyConstituencyCode": "AC-GJ-139",
@@ -3336,7 +3336,7 @@
     }
   },
   {
-    "id": "loc_gu_1547",
+    "id": "loc_gu_1495",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-140",
@@ -3360,7 +3360,7 @@
     }
   },
   {
-    "id": "loc_gu_1548",
+    "id": "loc_gu_1496",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-141",
@@ -3384,7 +3384,7 @@
     }
   },
   {
-    "id": "loc_gu_1549",
+    "id": "loc_gu_1497",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-142",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "loc_gu_1550",
+    "id": "loc_gu_1498",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-143",
@@ -3432,7 +3432,7 @@
     }
   },
   {
-    "id": "loc_gu_1551",
+    "id": "loc_gu_1499",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-144",
@@ -3456,7 +3456,7 @@
     }
   },
   {
-    "id": "loc_gu_1552",
+    "id": "loc_gu_1500",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-145",
@@ -3480,7 +3480,7 @@
     }
   },
   {
-    "id": "loc_gu_1553",
+    "id": "loc_gu_1501",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-146",
@@ -3504,7 +3504,7 @@
     }
   },
   {
-    "id": "loc_gu_1554",
+    "id": "loc_gu_1502",
     "stateName": "Gujarat",
     "districtName": "Vadodara",
     "assemblyConstituencyCode": "AC-GJ-147",
@@ -3528,7 +3528,7 @@
     }
   },
   {
-    "id": "loc_gu_1555",
+    "id": "loc_gu_1503",
     "stateName": "Gujarat",
     "districtName": "Narmada",
     "assemblyConstituencyCode": "AC-GJ-148",
@@ -3552,7 +3552,7 @@
     }
   },
   {
-    "id": "loc_gu_1556",
+    "id": "loc_gu_1504",
     "stateName": "Gujarat",
     "districtName": "Narmada",
     "assemblyConstituencyCode": "AC-GJ-149",
@@ -3576,7 +3576,7 @@
     }
   },
   {
-    "id": "loc_gu_1557",
+    "id": "loc_gu_1505",
     "stateName": "Gujarat",
     "districtName": "Bharuch",
     "assemblyConstituencyCode": "AC-GJ-150",
@@ -3600,7 +3600,7 @@
     }
   },
   {
-    "id": "loc_gu_1558",
+    "id": "loc_gu_1506",
     "stateName": "Gujarat",
     "districtName": "Bharuch",
     "assemblyConstituencyCode": "AC-GJ-151",
@@ -3624,7 +3624,7 @@
     }
   },
   {
-    "id": "loc_gu_1559",
+    "id": "loc_gu_1507",
     "stateName": "Gujarat",
     "districtName": "Bharuch",
     "assemblyConstituencyCode": "AC-GJ-152",
@@ -3648,7 +3648,7 @@
     }
   },
   {
-    "id": "loc_gu_1560",
+    "id": "loc_gu_1508",
     "stateName": "Gujarat",
     "districtName": "Bharuch",
     "assemblyConstituencyCode": "AC-GJ-153",
@@ -3672,7 +3672,7 @@
     }
   },
   {
-    "id": "loc_gu_1561",
+    "id": "loc_gu_1509",
     "stateName": "Gujarat",
     "districtName": "Bharuch",
     "assemblyConstituencyCode": "AC-GJ-154",
@@ -3696,7 +3696,7 @@
     }
   },
   {
-    "id": "loc_gu_1562",
+    "id": "loc_gu_1510",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-155",
@@ -3720,7 +3720,7 @@
     }
   },
   {
-    "id": "loc_gu_1563",
+    "id": "loc_gu_1511",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-156",
@@ -3744,7 +3744,7 @@
     }
   },
   {
-    "id": "loc_gu_1564",
+    "id": "loc_gu_1512",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-157",
@@ -3768,7 +3768,7 @@
     }
   },
   {
-    "id": "loc_gu_1565",
+    "id": "loc_gu_1513",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-158",
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "id": "loc_gu_1566",
+    "id": "loc_gu_1514",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-159",
@@ -3816,7 +3816,7 @@
     }
   },
   {
-    "id": "loc_gu_1567",
+    "id": "loc_gu_1515",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-160",
@@ -3840,7 +3840,7 @@
     }
   },
   {
-    "id": "loc_gu_1568",
+    "id": "loc_gu_1516",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-161",
@@ -3864,7 +3864,7 @@
     }
   },
   {
-    "id": "loc_gu_1569",
+    "id": "loc_gu_1517",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-162",
@@ -3888,7 +3888,7 @@
     }
   },
   {
-    "id": "loc_gu_1570",
+    "id": "loc_gu_1518",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-163",
@@ -3912,7 +3912,7 @@
     }
   },
   {
-    "id": "loc_gu_1571",
+    "id": "loc_gu_1519",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-164",
@@ -3936,7 +3936,7 @@
     }
   },
   {
-    "id": "loc_gu_1572",
+    "id": "loc_gu_1520",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-165",
@@ -3960,7 +3960,7 @@
     }
   },
   {
-    "id": "loc_gu_1573",
+    "id": "loc_gu_1521",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-166",
@@ -3984,7 +3984,7 @@
     }
   },
   {
-    "id": "loc_gu_1574",
+    "id": "loc_gu_1522",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-167",
@@ -4008,7 +4008,7 @@
     }
   },
   {
-    "id": "loc_gu_1575",
+    "id": "loc_gu_1523",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-168",
@@ -4032,7 +4032,7 @@
     }
   },
   {
-    "id": "loc_gu_1576",
+    "id": "loc_gu_1524",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-169",
@@ -4056,7 +4056,7 @@
     }
   },
   {
-    "id": "loc_gu_1577",
+    "id": "loc_gu_1525",
     "stateName": "Gujarat",
     "districtName": "Surat",
     "assemblyConstituencyCode": "AC-GJ-170",
@@ -4080,7 +4080,7 @@
     }
   },
   {
-    "id": "loc_gu_1578",
+    "id": "loc_gu_1526",
     "stateName": "Gujarat",
     "districtName": "Tapi",
     "assemblyConstituencyCode": "AC-GJ-171",
@@ -4104,7 +4104,7 @@
     }
   },
   {
-    "id": "loc_gu_1579",
+    "id": "loc_gu_1527",
     "stateName": "Gujarat",
     "districtName": "Tapi",
     "assemblyConstituencyCode": "AC-GJ-172",
@@ -4128,7 +4128,7 @@
     }
   },
   {
-    "id": "loc_gu_1580",
+    "id": "loc_gu_1528",
     "stateName": "Gujarat",
     "districtName": "Dang",
     "assemblyConstituencyCode": "AC-GJ-173",
@@ -4152,7 +4152,7 @@
     }
   },
   {
-    "id": "loc_gu_1581",
+    "id": "loc_gu_1529",
     "stateName": "Gujarat",
     "districtName": "Navsari",
     "assemblyConstituencyCode": "AC-GJ-174",
@@ -4176,7 +4176,7 @@
     }
   },
   {
-    "id": "loc_gu_1582",
+    "id": "loc_gu_1530",
     "stateName": "Gujarat",
     "districtName": "Navsari",
     "assemblyConstituencyCode": "AC-GJ-175",
@@ -4200,7 +4200,7 @@
     }
   },
   {
-    "id": "loc_gu_1583",
+    "id": "loc_gu_1531",
     "stateName": "Gujarat",
     "districtName": "Navsari",
     "assemblyConstituencyCode": "AC-GJ-176",
@@ -4224,7 +4224,7 @@
     }
   },
   {
-    "id": "loc_gu_1584",
+    "id": "loc_gu_1532",
     "stateName": "Gujarat",
     "districtName": "Navsari",
     "assemblyConstituencyCode": "AC-GJ-177",
@@ -4248,7 +4248,7 @@
     }
   },
   {
-    "id": "loc_gu_1585",
+    "id": "loc_gu_1533",
     "stateName": "Gujarat",
     "districtName": "Valsad",
     "assemblyConstituencyCode": "AC-GJ-178",
@@ -4272,7 +4272,7 @@
     }
   },
   {
-    "id": "loc_gu_1586",
+    "id": "loc_gu_1534",
     "stateName": "Gujarat",
     "districtName": "Valsad",
     "assemblyConstituencyCode": "AC-GJ-179",
@@ -4296,7 +4296,7 @@
     }
   },
   {
-    "id": "loc_gu_1587",
+    "id": "loc_gu_1535",
     "stateName": "Gujarat",
     "districtName": "Valsad",
     "assemblyConstituencyCode": "AC-GJ-180",
@@ -4320,7 +4320,7 @@
     }
   },
   {
-    "id": "loc_gu_1588",
+    "id": "loc_gu_1536",
     "stateName": "Gujarat",
     "districtName": "Valsad",
     "assemblyConstituencyCode": "AC-GJ-181",
@@ -4344,7 +4344,7 @@
     }
   },
   {
-    "id": "loc_gu_1589",
+    "id": "loc_gu_1537",
     "stateName": "Gujarat",
     "districtName": "Valsad",
     "assemblyConstituencyCode": "AC-GJ-182",

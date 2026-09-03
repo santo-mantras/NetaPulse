@@ -1,6 +1,6 @@
 [
   {
-    "id": "loc_as_2327",
+    "id": "loc_as_2275",
     "stateName": "Assam",
     "districtName": "Karimganj",
     "assemblyConstituencyCode": "AC-AS-1",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "loc_as_2328",
+    "id": "loc_as_2276",
     "stateName": "Assam",
     "districtName": "Karimganj",
     "assemblyConstituencyCode": "AC-AS-2",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": "loc_as_2329",
+    "id": "loc_as_2277",
     "stateName": "Assam",
     "districtName": "Karimganj",
     "assemblyConstituencyCode": "AC-AS-3",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": "loc_as_2330",
+    "id": "loc_as_2278",
     "stateName": "Assam",
     "districtName": "Karimganj",
     "assemblyConstituencyCode": "AC-AS-4",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "id": "loc_as_2331",
+    "id": "loc_as_2279",
     "stateName": "Assam",
     "districtName": "Karimganj",
     "assemblyConstituencyCode": "AC-AS-5",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "id": "loc_as_2332",
+    "id": "loc_as_2280",
     "stateName": "Assam",
     "districtName": "Hailakandi",
     "assemblyConstituencyCode": "AC-AS-6",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": "loc_as_2333",
+    "id": "loc_as_2281",
     "stateName": "Assam",
     "districtName": "Hailakandi",
     "assemblyConstituencyCode": "AC-AS-7",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "loc_as_2334",
+    "id": "loc_as_2282",
     "stateName": "Assam",
     "districtName": "Hailakandi",
     "assemblyConstituencyCode": "AC-AS-8",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "id": "loc_as_2335",
+    "id": "loc_as_2283",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-9",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": "loc_as_2336",
+    "id": "loc_as_2284",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-10",
@@ -240,7 +240,7 @@
     }
   },
   {
-    "id": "loc_as_2337",
+    "id": "loc_as_2285",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-11",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "id": "loc_as_2338",
+    "id": "loc_as_2286",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-12",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "id": "loc_as_2339",
+    "id": "loc_as_2287",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-13",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "id": "loc_as_2340",
+    "id": "loc_as_2288",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-14",
@@ -336,7 +336,7 @@
     }
   },
   {
-    "id": "loc_as_2341",
+    "id": "loc_as_2289",
     "stateName": "Assam",
     "districtName": "Cachar",
     "assemblyConstituencyCode": "AC-AS-15",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "id": "loc_as_2342",
+    "id": "loc_as_2290",
     "stateName": "Assam",
     "districtName": "Dima Hasao",
     "assemblyConstituencyCode": "AC-AS-16",
@@ -384,7 +384,7 @@
     }
   },
   {
-    "id": "loc_as_2343",
+    "id": "loc_as_2291",
     "stateName": "Assam",
     "districtName": "Karbi Anglong",
     "assemblyConstituencyCode": "AC-AS-17",
@@ -408,7 +408,7 @@
     }
   },
   {
-    "id": "loc_as_2344",
+    "id": "loc_as_2292",
     "stateName": "Assam",
     "districtName": "Karbi Anglong",
     "assemblyConstituencyCode": "AC-AS-18",
@@ -432,7 +432,7 @@
     }
   },
   {
-    "id": "loc_as_2345",
+    "id": "loc_as_2293",
     "stateName": "Assam",
     "districtName": "Karbi Anglong",
     "assemblyConstituencyCode": "AC-AS-19",
@@ -456,7 +456,7 @@
     }
   },
   {
-    "id": "loc_as_2346",
+    "id": "loc_as_2294",
     "stateName": "Assam",
     "districtName": "West Karbi Anglong",
     "assemblyConstituencyCode": "AC-AS-20",
@@ -480,7 +480,7 @@
     }
   },
   {
-    "id": "loc_as_2347",
+    "id": "loc_as_2295",
     "stateName": "Assam",
     "districtName": "South Salmara",
     "assemblyConstituencyCode": "AC-AS-21",
@@ -504,7 +504,7 @@
     }
   },
   {
-    "id": "loc_as_2348",
+    "id": "loc_as_2296",
     "stateName": "Assam",
     "districtName": "South Salmara",
     "assemblyConstituencyCode": "AC-AS-22",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "id": "loc_as_2349",
+    "id": "loc_as_2297",
     "stateName": "Assam",
     "districtName": "Dhubri",
     "assemblyConstituencyCode": "AC-AS-23",
@@ -552,7 +552,7 @@
     }
   },
   {
-    "id": "loc_as_2350",
+    "id": "loc_as_2298",
     "stateName": "Assam",
     "districtName": "Dhubri",
     "assemblyConstituencyCode": "AC-AS-24",
@@ -576,7 +576,7 @@
     }
   },
   {
-    "id": "loc_as_2351",
+    "id": "loc_as_2299",
     "stateName": "Assam",
     "districtName": "Dhubri",
     "assemblyConstituencyCode": "AC-AS-25",
@@ -600,7 +600,7 @@
     }
   },
   {
-    "id": "loc_as_2352",
+    "id": "loc_as_2300",
     "stateName": "Assam",
     "districtName": "Dhubri",
     "assemblyConstituencyCode": "AC-AS-26",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "id": "loc_as_2353",
+    "id": "loc_as_2301",
     "stateName": "Assam",
     "districtName": "Dhubri",
     "assemblyConstituencyCode": "AC-AS-27",
@@ -648,7 +648,7 @@
     }
   },
   {
-    "id": "loc_as_2354",
+    "id": "loc_as_2302",
     "stateName": "Assam",
     "districtName": "Kokrajhar",
     "assemblyConstituencyCode": "AC-AS-28",
@@ -672,7 +672,7 @@
     }
   },
   {
-    "id": "loc_as_2355",
+    "id": "loc_as_2303",
     "stateName": "Assam",
     "districtName": "Kokrajhar",
     "assemblyConstituencyCode": "AC-AS-29",
@@ -696,7 +696,7 @@
     }
   },
   {
-    "id": "loc_as_2356",
+    "id": "loc_as_2304",
     "stateName": "Assam",
     "districtName": "Kokrajhar",
     "assemblyConstituencyCode": "AC-AS-30",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "id": "loc_as_2357",
+    "id": "loc_as_2305",
     "stateName": "Assam",
     "districtName": "Chirang",
     "assemblyConstituencyCode": "AC-AS-31",
@@ -744,7 +744,7 @@
     }
   },
   {
-    "id": "loc_as_2358",
+    "id": "loc_as_2306",
     "stateName": "Assam",
     "districtName": "Bongaigaon",
     "assemblyConstituencyCode": "AC-AS-32",
@@ -768,7 +768,7 @@
     }
   },
   {
-    "id": "loc_as_2359",
+    "id": "loc_as_2307",
     "stateName": "Assam",
     "districtName": "Chirang",
     "assemblyConstituencyCode": "AC-AS-33",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "id": "loc_as_2360",
+    "id": "loc_as_2308",
     "stateName": "Assam",
     "districtName": "Bongaigaon",
     "assemblyConstituencyCode": "AC-AS-34",
@@ -816,7 +816,7 @@
     }
   },
   {
-    "id": "loc_as_2361",
+    "id": "loc_as_2309",
     "stateName": "Assam",
     "districtName": "Bongaigaon",
     "assemblyConstituencyCode": "AC-AS-35",
@@ -840,7 +840,7 @@
     }
   },
   {
-    "id": "loc_as_2362",
+    "id": "loc_as_2310",
     "stateName": "Assam",
     "districtName": "Goalpara",
     "assemblyConstituencyCode": "AC-AS-36",
@@ -864,7 +864,7 @@
     }
   },
   {
-    "id": "loc_as_2363",
+    "id": "loc_as_2311",
     "stateName": "Assam",
     "districtName": "Goalpara",
     "assemblyConstituencyCode": "AC-AS-37",
@@ -888,7 +888,7 @@
     }
   },
   {
-    "id": "loc_as_2364",
+    "id": "loc_as_2312",
     "stateName": "Assam",
     "districtName": "Goalpara",
     "assemblyConstituencyCode": "AC-AS-38",
@@ -912,7 +912,7 @@
     }
   },
   {
-    "id": "loc_as_2365",
+    "id": "loc_as_2313",
     "stateName": "Assam",
     "districtName": "Goalpara",
     "assemblyConstituencyCode": "AC-AS-39",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "id": "loc_as_2366",
+    "id": "loc_as_2314",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-40",
@@ -960,7 +960,7 @@
     }
   },
   {
-    "id": "loc_as_2367",
+    "id": "loc_as_2315",
     "stateName": "Assam",
     "districtName": "Bajali",
     "assemblyConstituencyCode": "AC-AS-41",
@@ -984,7 +984,7 @@
     }
   },
   {
-    "id": "loc_as_2368",
+    "id": "loc_as_2316",
     "stateName": "Assam",
     "districtName": "Bajali",
     "assemblyConstituencyCode": "AC-AS-42",
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "id": "loc_as_2369",
+    "id": "loc_as_2317",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-43",
@@ -1032,7 +1032,7 @@
     }
   },
   {
-    "id": "loc_as_2370",
+    "id": "loc_as_2318",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-44",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "id": "loc_as_2371",
+    "id": "loc_as_2319",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-45",
@@ -1080,7 +1080,7 @@
     }
   },
   {
-    "id": "loc_as_2372",
+    "id": "loc_as_2320",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-46",
@@ -1104,7 +1104,7 @@
     }
   },
   {
-    "id": "loc_as_2373",
+    "id": "loc_as_2321",
     "stateName": "Assam",
     "districtName": "Barpeta",
     "assemblyConstituencyCode": "AC-AS-47",
@@ -1128,7 +1128,7 @@
     }
   },
   {
-    "id": "loc_as_2374",
+    "id": "loc_as_2322",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-48",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "id": "loc_as_2375",
+    "id": "loc_as_2323",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-49",
@@ -1176,7 +1176,7 @@
     }
   },
   {
-    "id": "loc_as_2376",
+    "id": "loc_as_2324",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-50",
@@ -1200,7 +1200,7 @@
     }
   },
   {
-    "id": "loc_as_2377",
+    "id": "loc_as_2325",
     "stateName": "Assam",
     "districtName": "Kamrup Metropolitan",
     "assemblyConstituencyCode": "AC-AS-51",
@@ -1224,7 +1224,7 @@
     }
   },
   {
-    "id": "loc_as_2378",
+    "id": "loc_as_2326",
     "stateName": "Assam",
     "districtName": "Kamrup Metropolitan",
     "assemblyConstituencyCode": "AC-AS-52",
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "id": "loc_as_2379",
+    "id": "loc_as_2327",
     "stateName": "Assam",
     "districtName": "Kamrup Metropolitan",
     "assemblyConstituencyCode": "AC-AS-53",
@@ -1272,7 +1272,7 @@
     }
   },
   {
-    "id": "loc_as_2380",
+    "id": "loc_as_2328",
     "stateName": "Assam",
     "districtName": "Kamrup Metropolitan",
     "assemblyConstituencyCode": "AC-AS-54",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "id": "loc_as_2381",
+    "id": "loc_as_2329",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-55",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "id": "loc_as_2382",
+    "id": "loc_as_2330",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-56",
@@ -1344,7 +1344,7 @@
     }
   },
   {
-    "id": "loc_as_2383",
+    "id": "loc_as_2331",
     "stateName": "Assam",
     "districtName": "Kamrup",
     "assemblyConstituencyCode": "AC-AS-57",
@@ -1368,7 +1368,7 @@
     }
   },
   {
-    "id": "loc_as_2384",
+    "id": "loc_as_2332",
     "stateName": "Assam",
     "districtName": "Baksa",
     "assemblyConstituencyCode": "AC-AS-58",
@@ -1392,7 +1392,7 @@
     }
   },
   {
-    "id": "loc_as_2385",
+    "id": "loc_as_2333",
     "stateName": "Assam",
     "districtName": "Nalbari",
     "assemblyConstituencyCode": "AC-AS-59",
@@ -1416,7 +1416,7 @@
     }
   },
   {
-    "id": "loc_as_2386",
+    "id": "loc_as_2334",
     "stateName": "Assam",
     "districtName": "Nalbari",
     "assemblyConstituencyCode": "AC-AS-60",
@@ -1440,7 +1440,7 @@
     }
   },
   {
-    "id": "loc_as_2387",
+    "id": "loc_as_2335",
     "stateName": "Assam",
     "districtName": "Nalbari",
     "assemblyConstituencyCode": "AC-AS-61",
@@ -1464,7 +1464,7 @@
     }
   },
   {
-    "id": "loc_as_2388",
+    "id": "loc_as_2336",
     "stateName": "Assam",
     "districtName": "Baksa",
     "assemblyConstituencyCode": "AC-AS-62",
@@ -1488,7 +1488,7 @@
     }
   },
   {
-    "id": "loc_as_2389",
+    "id": "loc_as_2337",
     "stateName": "Assam",
     "districtName": "Baksa",
     "assemblyConstituencyCode": "AC-AS-63",
@@ -1512,7 +1512,7 @@
     }
   },
   {
-    "id": "loc_as_2390",
+    "id": "loc_as_2338",
     "stateName": "Assam",
     "districtName": "Udalguri",
     "assemblyConstituencyCode": "AC-AS-64",
@@ -1536,7 +1536,7 @@
     }
   },
   {
-    "id": "loc_as_2391",
+    "id": "loc_as_2339",
     "stateName": "Assam",
     "districtName": "Darrang",
     "assemblyConstituencyCode": "AC-AS-65",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "id": "loc_as_2392",
+    "id": "loc_as_2340",
     "stateName": "Assam",
     "districtName": "Darrang",
     "assemblyConstituencyCode": "AC-AS-66",
@@ -1584,7 +1584,7 @@
     }
   },
   {
-    "id": "loc_as_2393",
+    "id": "loc_as_2341",
     "stateName": "Assam",
     "districtName": "Darrang",
     "assemblyConstituencyCode": "AC-AS-67",
@@ -1608,7 +1608,7 @@
     }
   },
   {
-    "id": "loc_as_2394",
+    "id": "loc_as_2342",
     "stateName": "Assam",
     "districtName": "Darrang",
     "assemblyConstituencyCode": "AC-AS-68",
@@ -1632,7 +1632,7 @@
     }
   },
   {
-    "id": "loc_as_2395",
+    "id": "loc_as_2343",
     "stateName": "Assam",
     "districtName": "Udalguri",
     "assemblyConstituencyCode": "AC-AS-69",
@@ -1656,7 +1656,7 @@
     }
   },
   {
-    "id": "loc_as_2396",
+    "id": "loc_as_2344",
     "stateName": "Assam",
     "districtName": "Udalguri",
     "assemblyConstituencyCode": "AC-AS-70",
@@ -1680,7 +1680,7 @@
     }
   },
   {
-    "id": "loc_as_2397",
+    "id": "loc_as_2345",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-71",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "loc_as_2398",
+    "id": "loc_as_2346",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-72",
@@ -1728,7 +1728,7 @@
     }
   },
   {
-    "id": "loc_as_2399",
+    "id": "loc_as_2347",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-73",
@@ -1752,7 +1752,7 @@
     }
   },
   {
-    "id": "loc_as_2400",
+    "id": "loc_as_2348",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-74",
@@ -1776,7 +1776,7 @@
     }
   },
   {
-    "id": "loc_as_2401",
+    "id": "loc_as_2349",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-75",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "id": "loc_as_2402",
+    "id": "loc_as_2350",
     "stateName": "Assam",
     "districtName": "Biswanath",
     "assemblyConstituencyCode": "AC-AS-76",
@@ -1824,7 +1824,7 @@
     }
   },
   {
-    "id": "loc_as_2403",
+    "id": "loc_as_2351",
     "stateName": "Assam",
     "districtName": "Biswanath",
     "assemblyConstituencyCode": "AC-AS-77",
@@ -1848,7 +1848,7 @@
     }
   },
   {
-    "id": "loc_as_2404",
+    "id": "loc_as_2352",
     "stateName": "Assam",
     "districtName": "Sonitpur",
     "assemblyConstituencyCode": "AC-AS-78",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "id": "loc_as_2405",
+    "id": "loc_as_2353",
     "stateName": "Assam",
     "districtName": "Morigaon",
     "assemblyConstituencyCode": "AC-AS-79",
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "id": "loc_as_2406",
+    "id": "loc_as_2354",
     "stateName": "Assam",
     "districtName": "Morigaon",
     "assemblyConstituencyCode": "AC-AS-80",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "id": "loc_as_2407",
+    "id": "loc_as_2355",
     "stateName": "Assam",
     "districtName": "Morigaon",
     "assemblyConstituencyCode": "AC-AS-81",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "id": "loc_as_2408",
+    "id": "loc_as_2356",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-82",
@@ -1968,7 +1968,7 @@
     }
   },
   {
-    "id": "loc_as_2409",
+    "id": "loc_as_2357",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-83",
@@ -1992,7 +1992,7 @@
     }
   },
   {
-    "id": "loc_as_2410",
+    "id": "loc_as_2358",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-84",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "id": "loc_as_2411",
+    "id": "loc_as_2359",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-85",
@@ -2040,7 +2040,7 @@
     }
   },
   {
-    "id": "loc_as_2412",
+    "id": "loc_as_2360",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-86",
@@ -2064,7 +2064,7 @@
     }
   },
   {
-    "id": "loc_as_2413",
+    "id": "loc_as_2361",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-87",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "id": "loc_as_2414",
+    "id": "loc_as_2362",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-88",
@@ -2112,7 +2112,7 @@
     }
   },
   {
-    "id": "loc_as_2415",
+    "id": "loc_as_2363",
     "stateName": "Assam",
     "districtName": "Nagaon",
     "assemblyConstituencyCode": "AC-AS-89",
@@ -2136,7 +2136,7 @@
     }
   },
   {
-    "id": "loc_as_2416",
+    "id": "loc_as_2364",
     "stateName": "Assam",
     "districtName": "Hojai",
     "assemblyConstituencyCode": "AC-AS-90",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "id": "loc_as_2417",
+    "id": "loc_as_2365",
     "stateName": "Assam",
     "districtName": "Hojai",
     "assemblyConstituencyCode": "AC-AS-91",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "id": "loc_as_2418",
+    "id": "loc_as_2366",
     "stateName": "Assam",
     "districtName": "Hojai",
     "assemblyConstituencyCode": "AC-AS-92",
@@ -2208,7 +2208,7 @@
     }
   },
   {
-    "id": "loc_as_2419",
+    "id": "loc_as_2367",
     "stateName": "Assam",
     "districtName": "Golaghat",
     "assemblyConstituencyCode": "AC-AS-93",
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "id": "loc_as_2420",
+    "id": "loc_as_2368",
     "stateName": "Assam",
     "districtName": "Golaghat",
     "assemblyConstituencyCode": "AC-AS-94",
@@ -2256,7 +2256,7 @@
     }
   },
   {
-    "id": "loc_as_2421",
+    "id": "loc_as_2369",
     "stateName": "Assam",
     "districtName": "Golaghat",
     "assemblyConstituencyCode": "AC-AS-95",
@@ -2280,7 +2280,7 @@
     }
   },
   {
-    "id": "loc_as_2422",
+    "id": "loc_as_2370",
     "stateName": "Assam",
     "districtName": "Golaghat",
     "assemblyConstituencyCode": "AC-AS-96",
@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "id": "loc_as_2423",
+    "id": "loc_as_2371",
     "stateName": "Assam",
     "districtName": "Golaghat",
     "assemblyConstituencyCode": "AC-AS-97",
@@ -2328,7 +2328,7 @@
     }
   },
   {
-    "id": "loc_as_2424",
+    "id": "loc_as_2372",
     "stateName": "Assam",
     "districtName": "Jorhat",
     "assemblyConstituencyCode": "AC-AS-98",
@@ -2352,7 +2352,7 @@
     }
   },
   {
-    "id": "loc_as_2425",
+    "id": "loc_as_2373",
     "stateName": "Assam",
     "districtName": "Majuli",
     "assemblyConstituencyCode": "AC-AS-99",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "id": "loc_as_2426",
+    "id": "loc_as_2374",
     "stateName": "Assam",
     "districtName": "Jorhat",
     "assemblyConstituencyCode": "AC-AS-100",
@@ -2400,7 +2400,7 @@
     }
   },
   {
-    "id": "loc_as_2427",
+    "id": "loc_as_2375",
     "stateName": "Assam",
     "districtName": "Jorhat",
     "assemblyConstituencyCode": "AC-AS-101",
@@ -2424,7 +2424,7 @@
     }
   },
   {
-    "id": "loc_as_2428",
+    "id": "loc_as_2376",
     "stateName": "Assam",
     "districtName": "Jorhat",
     "assemblyConstituencyCode": "AC-AS-102",
@@ -2448,7 +2448,7 @@
     }
   },
   {
-    "id": "loc_as_2429",
+    "id": "loc_as_2377",
     "stateName": "Assam",
     "districtName": "Sibsagar",
     "assemblyConstituencyCode": "AC-AS-103",
@@ -2472,7 +2472,7 @@
     }
   },
   {
-    "id": "loc_as_2430",
+    "id": "loc_as_2378",
     "stateName": "Assam",
     "districtName": "Sibsagar",
     "assemblyConstituencyCode": "AC-AS-104",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "id": "loc_as_2431",
+    "id": "loc_as_2379",
     "stateName": "Assam",
     "districtName": "Charaideo",
     "assemblyConstituencyCode": "AC-AS-105",
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "id": "loc_as_2432",
+    "id": "loc_as_2380",
     "stateName": "Assam",
     "districtName": "Charaideo",
     "assemblyConstituencyCode": "AC-AS-106",
@@ -2544,7 +2544,7 @@
     }
   },
   {
-    "id": "loc_as_2433",
+    "id": "loc_as_2381",
     "stateName": "Assam",
     "districtName": "Sibsagar",
     "assemblyConstituencyCode": "AC-AS-107",
@@ -2568,7 +2568,7 @@
     }
   },
   {
-    "id": "loc_as_2434",
+    "id": "loc_as_2382",
     "stateName": "Assam",
     "districtName": "Sibsagar",
     "assemblyConstituencyCode": "AC-AS-108",
@@ -2592,7 +2592,7 @@
     }
   },
   {
-    "id": "loc_as_2435",
+    "id": "loc_as_2383",
     "stateName": "Assam",
     "districtName": "Lakhimpur",
     "assemblyConstituencyCode": "AC-AS-109",
@@ -2616,7 +2616,7 @@
     }
   },
   {
-    "id": "loc_as_2436",
+    "id": "loc_as_2384",
     "stateName": "Assam",
     "districtName": "Lakhimpur",
     "assemblyConstituencyCode": "AC-AS-110",
@@ -2640,7 +2640,7 @@
     }
   },
   {
-    "id": "loc_as_2437",
+    "id": "loc_as_2385",
     "stateName": "Assam",
     "districtName": "Lakhimpur",
     "assemblyConstituencyCode": "AC-AS-111",
@@ -2664,7 +2664,7 @@
     }
   },
   {
-    "id": "loc_as_2438",
+    "id": "loc_as_2386",
     "stateName": "Assam",
     "districtName": "Lakhimpur",
     "assemblyConstituencyCode": "AC-AS-112",
@@ -2688,7 +2688,7 @@
     }
   },
   {
-    "id": "loc_as_2439",
+    "id": "loc_as_2387",
     "stateName": "Assam",
     "districtName": "Dhemaji",
     "assemblyConstituencyCode": "AC-AS-113",
@@ -2712,7 +2712,7 @@
     }
   },
   {
-    "id": "loc_as_2440",
+    "id": "loc_as_2388",
     "stateName": "Assam",
     "districtName": "Dhemaji",
     "assemblyConstituencyCode": "AC-AS-114",
@@ -2736,7 +2736,7 @@
     }
   },
   {
-    "id": "loc_as_2441",
+    "id": "loc_as_2389",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-115",
@@ -2760,7 +2760,7 @@
     }
   },
   {
-    "id": "loc_as_2442",
+    "id": "loc_as_2390",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-116",
@@ -2784,7 +2784,7 @@
     }
   },
   {
-    "id": "loc_as_2443",
+    "id": "loc_as_2391",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-117",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "id": "loc_as_2444",
+    "id": "loc_as_2392",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-118",
@@ -2832,7 +2832,7 @@
     }
   },
   {
-    "id": "loc_as_2445",
+    "id": "loc_as_2393",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-119",
@@ -2856,7 +2856,7 @@
     }
   },
   {
-    "id": "loc_as_2446",
+    "id": "loc_as_2394",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-120",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "id": "loc_as_2447",
+    "id": "loc_as_2395",
     "stateName": "Assam",
     "districtName": "Dibrugarh",
     "assemblyConstituencyCode": "AC-AS-121",
@@ -2904,7 +2904,7 @@
     }
   },
   {
-    "id": "loc_as_2448",
+    "id": "loc_as_2396",
     "stateName": "Assam",
     "districtName": "Tinsukia",
     "assemblyConstituencyCode": "AC-AS-122",
@@ -2928,7 +2928,7 @@
     }
   },
   {
-    "id": "loc_as_2449",
+    "id": "loc_as_2397",
     "stateName": "Assam",
     "districtName": "Tinsukia",
     "assemblyConstituencyCode": "AC-AS-123",
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "id": "loc_as_2450",
+    "id": "loc_as_2398",
     "stateName": "Assam",
     "districtName": "Tinsukia",
     "assemblyConstituencyCode": "AC-AS-124",
@@ -2976,7 +2976,7 @@
     }
   },
   {
-    "id": "loc_as_2451",
+    "id": "loc_as_2399",
     "stateName": "Assam",
     "districtName": "Tinsukia",
     "assemblyConstituencyCode": "AC-AS-125",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "id": "loc_as_2452",
+    "id": "loc_as_2400",
     "stateName": "Assam",
     "districtName": "Tinsukia",
     "assemblyConstituencyCode": "AC-AS-126",

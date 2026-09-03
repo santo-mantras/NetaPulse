@@ -1,6 +1,6 @@
 [
   {
-    "id": "loc_ka_346",
+    "id": "loc_ka_305",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-2",
@@ -24,55 +24,7 @@
     }
   },
   {
-    "id": "loc_ka_347",
-    "stateName": "Karnataka",
-    "districtName": "Bengaluru Urban",
-    "assemblyConstituencyCode": "AC-KA-3",
-    "assemblyConstituencyName": "Padmanabanagar",
-    "crimeRate": "250.4 per 100k",
-    "crimeRatePerLakh": 250.4,
-    "literacyRate": 72.0,
-    "literacyRatePercentage": 72.0,
-    "hospitalsCount": 29,
-    "govtSchoolsCount": 196,
-    "regionalInsight": {
-      "title": "Padmanabanagar Civic Context",
-      "historicalFact": "Founded by Kempe Gowda in 1537, Bengaluru has evolved from the Garden City into India's premier Silicon Valley and biotech powerhouse.",
-      "currentChallenge": "Critical civic priorities include mitigating peak-hour traffic bottlenecks through metro transit expansion, lake rejuvenation, and piped water reach under Cauvery Stage V."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_348",
-    "stateName": "Karnataka",
-    "districtName": "Bengaluru Urban",
-    "assemblyConstituencyCode": "AC-KA-4",
-    "assemblyConstituencyName": "BTM Layout",
-    "crimeRate": "250.4 per 100k",
-    "crimeRatePerLakh": 250.4,
-    "literacyRate": 72.0,
-    "literacyRatePercentage": 72.0,
-    "hospitalsCount": 29,
-    "govtSchoolsCount": 196,
-    "regionalInsight": {
-      "title": "BTM Layout Civic Context",
-      "historicalFact": "Founded by Kempe Gowda in 1537, Bengaluru has evolved from the Garden City into India's premier Silicon Valley and biotech powerhouse.",
-      "currentChallenge": "Critical civic priorities include mitigating peak-hour traffic bottlenecks through metro transit expansion, lake rejuvenation, and piped water reach under Cauvery Stage V."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_349",
+    "id": "loc_ka_306",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-5",
@@ -96,7 +48,7 @@
     }
   },
   {
-    "id": "loc_ka_350",
+    "id": "loc_ka_307",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-6",
@@ -120,31 +72,7 @@
     }
   },
   {
-    "id": "loc_ka_351",
-    "stateName": "Karnataka",
-    "districtName": "Bengaluru Urban",
-    "assemblyConstituencyCode": "AC-KA-7",
-    "assemblyConstituencyName": "Shanthinagar",
-    "crimeRate": "250.4 per 100k",
-    "crimeRatePerLakh": 250.4,
-    "literacyRate": 72.0,
-    "literacyRatePercentage": 72.0,
-    "hospitalsCount": 29,
-    "govtSchoolsCount": 196,
-    "regionalInsight": {
-      "title": "Shanthinagar Civic Context",
-      "historicalFact": "Founded by Kempe Gowda in 1537, Bengaluru has evolved from the Garden City into India's premier Silicon Valley and biotech powerhouse.",
-      "currentChallenge": "Critical civic priorities include mitigating peak-hour traffic bottlenecks through metro transit expansion, lake rejuvenation, and piped water reach under Cauvery Stage V."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_352",
+    "id": "loc_ka_308",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-8",
@@ -168,7 +96,7 @@
     }
   },
   {
-    "id": "loc_ka_353",
+    "id": "loc_ka_309",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-9",
@@ -192,7 +120,7 @@
     }
   },
   {
-    "id": "loc_ka_354",
+    "id": "loc_ka_310",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-10",
@@ -216,7 +144,7 @@
     }
   },
   {
-    "id": "loc_ka_355",
+    "id": "loc_ka_311",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-11",
@@ -240,7 +168,7 @@
     }
   },
   {
-    "id": "loc_ka_356",
+    "id": "loc_ka_312",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-12",
@@ -264,7 +192,7 @@
     }
   },
   {
-    "id": "loc_ka_357",
+    "id": "loc_ka_313",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-13",
@@ -288,7 +216,7 @@
     }
   },
   {
-    "id": "loc_ka_358",
+    "id": "loc_ka_314",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-14",
@@ -312,31 +240,7 @@
     }
   },
   {
-    "id": "loc_ka_359",
-    "stateName": "Karnataka",
-    "districtName": "Bengaluru Urban",
-    "assemblyConstituencyCode": "AC-KA-15",
-    "assemblyConstituencyName": "Rajajinagar",
-    "crimeRate": "250.4 per 100k",
-    "crimeRatePerLakh": 250.4,
-    "literacyRate": 72.0,
-    "literacyRatePercentage": 72.0,
-    "hospitalsCount": 29,
-    "govtSchoolsCount": 196,
-    "regionalInsight": {
-      "title": "Rajajinagar Civic Context",
-      "historicalFact": "Founded by Kempe Gowda in 1537, Bengaluru has evolved from the Garden City into India's premier Silicon Valley and biotech powerhouse.",
-      "currentChallenge": "Critical civic priorities include mitigating peak-hour traffic bottlenecks through metro transit expansion, lake rejuvenation, and piped water reach under Cauvery Stage V."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_360",
+    "id": "loc_ka_315",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-16",
@@ -360,7 +264,7 @@
     }
   },
   {
-    "id": "loc_ka_361",
+    "id": "loc_ka_316",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-17",
@@ -384,7 +288,7 @@
     }
   },
   {
-    "id": "loc_ka_362",
+    "id": "loc_ka_317",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-18",
@@ -408,7 +312,7 @@
     }
   },
   {
-    "id": "loc_ka_363",
+    "id": "loc_ka_318",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-19",
@@ -432,7 +336,7 @@
     }
   },
   {
-    "id": "loc_ka_364",
+    "id": "loc_ka_319",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-20",
@@ -456,7 +360,7 @@
     }
   },
   {
-    "id": "loc_ka_365",
+    "id": "loc_ka_320",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-21",
@@ -480,7 +384,7 @@
     }
   },
   {
-    "id": "loc_ka_366",
+    "id": "loc_ka_321",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-22",
@@ -504,7 +408,7 @@
     }
   },
   {
-    "id": "loc_ka_367",
+    "id": "loc_ka_322",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-23",
@@ -528,7 +432,7 @@
     }
   },
   {
-    "id": "loc_ka_368",
+    "id": "loc_ka_323",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-24",
@@ -552,7 +456,7 @@
     }
   },
   {
-    "id": "loc_ka_369",
+    "id": "loc_ka_324",
     "stateName": "Karnataka",
     "districtName": "Ramanagara",
     "assemblyConstituencyCode": "AC-KA-25",
@@ -576,7 +480,7 @@
     }
   },
   {
-    "id": "loc_ka_370",
+    "id": "loc_ka_325",
     "stateName": "Karnataka",
     "districtName": "Ramanagara",
     "assemblyConstituencyCode": "AC-KA-26",
@@ -600,31 +504,7 @@
     }
   },
   {
-    "id": "loc_ka_371",
-    "stateName": "Karnataka",
-    "districtName": "Ramanagara",
-    "assemblyConstituencyCode": "AC-KA-27",
-    "assemblyConstituencyName": "Ramanagara",
-    "crimeRate": "158.3 per 100k",
-    "crimeRatePerLakh": 158.3,
-    "literacyRate": 74.7,
-    "literacyRatePercentage": 74.7,
-    "hospitalsCount": 41,
-    "govtSchoolsCount": 321,
-    "regionalInsight": {
-      "title": "Ramanagara Civic Context",
-      "historicalFact": "Ramanagara forms an important historical and developmental hub of Karnataka, known for traditional craftsmanship, agrarian resilience, and scenic Deccan topography.",
-      "currentChallenge": "Key public focus areas include water conservation, expanding primary school infrastructure, and upgrading road connectivity across Ramanagara."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_372",
+    "id": "loc_ka_326",
     "stateName": "Karnataka",
     "districtName": "Ramanagara",
     "assemblyConstituencyCode": "AC-KA-28",
@@ -648,7 +528,7 @@
     }
   },
   {
-    "id": "loc_ka_373",
+    "id": "loc_ka_327",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-29",
@@ -672,7 +552,7 @@
     }
   },
   {
-    "id": "loc_ka_374",
+    "id": "loc_ka_328",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-30",
@@ -696,7 +576,7 @@
     }
   },
   {
-    "id": "loc_ka_375",
+    "id": "loc_ka_329",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-31",
@@ -720,7 +600,7 @@
     }
   },
   {
-    "id": "loc_ka_376",
+    "id": "loc_ka_330",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-32",
@@ -744,7 +624,7 @@
     }
   },
   {
-    "id": "loc_ka_377",
+    "id": "loc_ka_331",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-33",
@@ -768,7 +648,7 @@
     }
   },
   {
-    "id": "loc_ka_378",
+    "id": "loc_ka_332",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-34",
@@ -792,7 +672,7 @@
     }
   },
   {
-    "id": "loc_ka_379",
+    "id": "loc_ka_333",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-35",
@@ -816,7 +696,7 @@
     }
   },
   {
-    "id": "loc_ka_380",
+    "id": "loc_ka_334",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-36",
@@ -840,31 +720,7 @@
     }
   },
   {
-    "id": "loc_ka_381",
-    "stateName": "Karnataka",
-    "districtName": "Dakshina Kannada",
-    "assemblyConstituencyCode": "AC-KA-37",
-    "assemblyConstituencyName": "Mangalore (Ullal)",
-    "crimeRate": "159.5 per 100k",
-    "crimeRatePerLakh": 159.5,
-    "literacyRate": 84.8,
-    "literacyRatePercentage": 84.8,
-    "hospitalsCount": 32,
-    "govtSchoolsCount": 247,
-    "regionalInsight": {
-      "title": "Mangalore (Ullal) Civic Context",
-      "historicalFact": "A vital coastal trade gateway anchored by Mangaluru port, characterized by historic Tuluva culture, coastal fisheries, and prominent banking hubs.",
-      "currentChallenge": "Civic priorities involve coastal sea erosion prevention during the South-West monsoon, highway tunnel connectivity through Shiradi Ghat, and industrial effluent monitoring."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_382",
+    "id": "loc_ka_335",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-38",
@@ -888,7 +744,7 @@
     }
   },
   {
-    "id": "loc_ka_383",
+    "id": "loc_ka_336",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-39",
@@ -912,7 +768,7 @@
     }
   },
   {
-    "id": "loc_ka_384",
+    "id": "loc_ka_337",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-40",
@@ -936,7 +792,7 @@
     }
   },
   {
-    "id": "loc_ka_385",
+    "id": "loc_ka_338",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-41",
@@ -960,7 +816,7 @@
     }
   },
   {
-    "id": "loc_ka_386",
+    "id": "loc_ka_339",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-42",
@@ -984,7 +840,7 @@
     }
   },
   {
-    "id": "loc_ka_387",
+    "id": "loc_ka_340",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-43",
@@ -1008,7 +864,7 @@
     }
   },
   {
-    "id": "loc_ka_388",
+    "id": "loc_ka_341",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-44",
@@ -1032,7 +888,7 @@
     }
   },
   {
-    "id": "loc_ka_389",
+    "id": "loc_ka_342",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-45",
@@ -1056,7 +912,7 @@
     }
   },
   {
-    "id": "loc_ka_390",
+    "id": "loc_ka_343",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-46",
@@ -1080,7 +936,7 @@
     }
   },
   {
-    "id": "loc_ka_391",
+    "id": "loc_ka_344",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-47",
@@ -1104,7 +960,7 @@
     }
   },
   {
-    "id": "loc_ka_392",
+    "id": "loc_ka_345",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-48",
@@ -1128,7 +984,7 @@
     }
   },
   {
-    "id": "loc_ka_393",
+    "id": "loc_ka_346",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-49",
@@ -1152,7 +1008,7 @@
     }
   },
   {
-    "id": "loc_ka_394",
+    "id": "loc_ka_347",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-50",
@@ -1176,7 +1032,7 @@
     }
   },
   {
-    "id": "loc_ka_395",
+    "id": "loc_ka_348",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-51",
@@ -1200,7 +1056,7 @@
     }
   },
   {
-    "id": "loc_ka_396",
+    "id": "loc_ka_349",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-52",
@@ -1224,7 +1080,7 @@
     }
   },
   {
-    "id": "loc_ka_397",
+    "id": "loc_ka_350",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-53",
@@ -1248,7 +1104,7 @@
     }
   },
   {
-    "id": "loc_ka_398",
+    "id": "loc_ka_351",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-54",
@@ -1272,7 +1128,7 @@
     }
   },
   {
-    "id": "loc_ka_399",
+    "id": "loc_ka_352",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-55",
@@ -1296,7 +1152,7 @@
     }
   },
   {
-    "id": "loc_ka_400",
+    "id": "loc_ka_353",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-56",
@@ -1320,7 +1176,7 @@
     }
   },
   {
-    "id": "loc_ka_401",
+    "id": "loc_ka_354",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-57",
@@ -1344,7 +1200,7 @@
     }
   },
   {
-    "id": "loc_ka_402",
+    "id": "loc_ka_355",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-58",
@@ -1368,7 +1224,7 @@
     }
   },
   {
-    "id": "loc_ka_403",
+    "id": "loc_ka_356",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-59",
@@ -1392,7 +1248,7 @@
     }
   },
   {
-    "id": "loc_ka_404",
+    "id": "loc_ka_357",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-60",
@@ -1416,7 +1272,7 @@
     }
   },
   {
-    "id": "loc_ka_405",
+    "id": "loc_ka_358",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-61",
@@ -1440,7 +1296,7 @@
     }
   },
   {
-    "id": "loc_ka_406",
+    "id": "loc_ka_359",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-62",
@@ -1464,7 +1320,7 @@
     }
   },
   {
-    "id": "loc_ka_407",
+    "id": "loc_ka_360",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-63",
@@ -1488,31 +1344,7 @@
     }
   },
   {
-    "id": "loc_ka_408",
-    "stateName": "Karnataka",
-    "districtName": "Shivamogga",
-    "assemblyConstituencyCode": "AC-KA-64",
-    "assemblyConstituencyName": "Thirthahalli",
-    "crimeRate": "205.7 per 100k",
-    "crimeRatePerLakh": 205.7,
-    "literacyRate": 82.5,
-    "literacyRatePercentage": 82.5,
-    "hospitalsCount": 23,
-    "govtSchoolsCount": 284,
-    "regionalInsight": {
-      "title": "Thirthahalli Civic Context",
-      "historicalFact": "Shivamogga forms an important historical and developmental hub of Karnataka, known for traditional craftsmanship, agrarian resilience, and scenic Deccan topography.",
-      "currentChallenge": "Key public focus areas include water conservation, expanding primary school infrastructure, and upgrading road connectivity across Thirthahalli."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_409",
+    "id": "loc_ka_361",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-65",
@@ -1536,7 +1368,7 @@
     }
   },
   {
-    "id": "loc_ka_410",
+    "id": "loc_ka_362",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-66",
@@ -1560,7 +1392,7 @@
     }
   },
   {
-    "id": "loc_ka_411",
+    "id": "loc_ka_363",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-67",
@@ -1584,7 +1416,7 @@
     }
   },
   {
-    "id": "loc_ka_412",
+    "id": "loc_ka_364",
     "stateName": "Karnataka",
     "districtName": "Ballari",
     "assemblyConstituencyCode": "AC-KA-68",
@@ -1608,31 +1440,7 @@
     }
   },
   {
-    "id": "loc_ka_413",
-    "stateName": "Karnataka",
-    "districtName": "Ballari",
-    "assemblyConstituencyCode": "AC-KA-69",
-    "assemblyConstituencyName": "Bellary Rural (ST)",
-    "crimeRate": "247.4 per 100k",
-    "crimeRatePerLakh": 247.4,
-    "literacyRate": 73.8,
-    "literacyRatePercentage": 73.8,
-    "hospitalsCount": 29,
-    "govtSchoolsCount": 303,
-    "regionalInsight": {
-      "title": "Bellary Rural (ST) Civic Context",
-      "historicalFact": "Ballari boasts a rich legacy anchored by the nearby Vijayanagara imperial ruins and serves as a major iron ore mining and steel manufacturing hub.",
-      "currentChallenge": "Primary civic challenges include post-mining environmental remediation, industrial dust suppression, and high-specialty medical healthcare access."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_414",
+    "id": "loc_ka_365",
     "stateName": "Karnataka",
     "districtName": "Ballari",
     "assemblyConstituencyCode": "AC-KA-70",
@@ -1656,7 +1464,7 @@
     }
   },
   {
-    "id": "loc_ka_415",
+    "id": "loc_ka_366",
     "stateName": "Karnataka",
     "districtName": "Ballari",
     "assemblyConstituencyCode": "AC-KA-71",
@@ -1680,7 +1488,7 @@
     }
   },
   {
-    "id": "loc_ka_416",
+    "id": "loc_ka_367",
     "stateName": "Karnataka",
     "districtName": "Ballari",
     "assemblyConstituencyCode": "AC-KA-72",
@@ -1704,7 +1512,7 @@
     }
   },
   {
-    "id": "loc_ka_535",
+    "id": "loc_ka_486",
     "stateName": "Karnataka",
     "districtName": "Belagavi",
     "assemblyConstituencyCode": "AC-KA-6",
@@ -1728,7 +1536,7 @@
     }
   },
   {
-    "id": "loc_ka_536",
+    "id": "loc_ka_487",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-19",
@@ -1752,7 +1560,7 @@
     }
   },
   {
-    "id": "loc_ka_537",
+    "id": "loc_ka_488",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-20",
@@ -1776,7 +1584,7 @@
     }
   },
   {
-    "id": "loc_ka_538",
+    "id": "loc_ka_489",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-21",
@@ -1800,7 +1608,7 @@
     }
   },
   {
-    "id": "loc_ka_539",
+    "id": "loc_ka_490",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-22",
@@ -1824,7 +1632,7 @@
     }
   },
   {
-    "id": "loc_ka_540",
+    "id": "loc_ka_491",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-23",
@@ -1848,7 +1656,7 @@
     }
   },
   {
-    "id": "loc_ka_541",
+    "id": "loc_ka_492",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-24",
@@ -1872,7 +1680,7 @@
     }
   },
   {
-    "id": "loc_ka_542",
+    "id": "loc_ka_493",
     "stateName": "Karnataka",
     "districtName": "Bagalkot",
     "assemblyConstituencyCode": "AC-KA-25",
@@ -1896,7 +1704,7 @@
     }
   },
   {
-    "id": "loc_ka_543",
+    "id": "loc_ka_494",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-26",
@@ -1920,31 +1728,7 @@
     }
   },
   {
-    "id": "loc_ka_544",
-    "stateName": "Karnataka",
-    "districtName": "Vijayapura",
-    "assemblyConstituencyCode": "AC-KA-27",
-    "assemblyConstituencyName": "Devar Hippargi",
-    "crimeRate": "160.3 per 100k",
-    "crimeRatePerLakh": 160.3,
-    "literacyRate": 72.6,
-    "literacyRatePercentage": 72.6,
-    "hospitalsCount": 24,
-    "govtSchoolsCount": 188,
-    "regionalInsight": {
-      "title": "Devar Hippargi Civic Context",
-      "historicalFact": "Vijayapura forms an important historical and developmental hub of Karnataka, known for traditional craftsmanship, agrarian resilience, and scenic Deccan topography.",
-      "currentChallenge": "Key public focus areas include water conservation, expanding primary school infrastructure, and upgrading road connectivity across Devar Hippargi."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_545",
+    "id": "loc_ka_495",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-28",
@@ -1968,7 +1752,7 @@
     }
   },
   {
-    "id": "loc_ka_546",
+    "id": "loc_ka_496",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-29",
@@ -1992,7 +1776,7 @@
     }
   },
   {
-    "id": "loc_ka_547",
+    "id": "loc_ka_497",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-30",
@@ -2016,7 +1800,7 @@
     }
   },
   {
-    "id": "loc_ka_548",
+    "id": "loc_ka_498",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-31",
@@ -2040,7 +1824,7 @@
     }
   },
   {
-    "id": "loc_ka_549",
+    "id": "loc_ka_499",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-32",
@@ -2064,7 +1848,7 @@
     }
   },
   {
-    "id": "loc_ka_550",
+    "id": "loc_ka_500",
     "stateName": "Karnataka",
     "districtName": "Vijayapura",
     "assemblyConstituencyCode": "AC-KA-33",
@@ -2088,7 +1872,7 @@
     }
   },
   {
-    "id": "loc_ka_551",
+    "id": "loc_ka_501",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-34",
@@ -2112,7 +1896,7 @@
     }
   },
   {
-    "id": "loc_ka_552",
+    "id": "loc_ka_502",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-35",
@@ -2136,7 +1920,7 @@
     }
   },
   {
-    "id": "loc_ka_553",
+    "id": "loc_ka_503",
     "stateName": "Karnataka",
     "districtName": "Yadgir",
     "assemblyConstituencyCode": "AC-KA-36",
@@ -2160,31 +1944,7 @@
     }
   },
   {
-    "id": "loc_ka_554",
-    "stateName": "Karnataka",
-    "districtName": "Yadgir",
-    "assemblyConstituencyCode": "AC-KA-37",
-    "assemblyConstituencyName": "Shahapur",
-    "crimeRate": "237.9 per 100k",
-    "crimeRatePerLakh": 237.9,
-    "literacyRate": 87.3,
-    "literacyRatePercentage": 87.3,
-    "hospitalsCount": 20,
-    "govtSchoolsCount": 301,
-    "regionalInsight": {
-      "title": "Shahapur Civic Context",
-      "historicalFact": "Yadgir forms an important historical and developmental hub of Karnataka, known for traditional craftsmanship, agrarian resilience, and scenic Deccan topography.",
-      "currentChallenge": "Key public focus areas include water conservation, expanding primary school infrastructure, and upgrading road connectivity across Shahapur."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_555",
+    "id": "loc_ka_504",
     "stateName": "Karnataka",
     "districtName": "Yadgir",
     "assemblyConstituencyCode": "AC-KA-38",
@@ -2208,7 +1968,7 @@
     }
   },
   {
-    "id": "loc_ka_556",
+    "id": "loc_ka_505",
     "stateName": "Karnataka",
     "districtName": "Yadgir",
     "assemblyConstituencyCode": "AC-KA-39",
@@ -2232,7 +1992,7 @@
     }
   },
   {
-    "id": "loc_ka_557",
+    "id": "loc_ka_506",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-40",
@@ -2256,7 +2016,7 @@
     }
   },
   {
-    "id": "loc_ka_558",
+    "id": "loc_ka_507",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-41",
@@ -2280,7 +2040,7 @@
     }
   },
   {
-    "id": "loc_ka_559",
+    "id": "loc_ka_508",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-42",
@@ -2304,7 +2064,7 @@
     }
   },
   {
-    "id": "loc_ka_560",
+    "id": "loc_ka_509",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-43",
@@ -2328,7 +2088,7 @@
     }
   },
   {
-    "id": "loc_ka_561",
+    "id": "loc_ka_510",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-44",
@@ -2352,7 +2112,7 @@
     }
   },
   {
-    "id": "loc_ka_562",
+    "id": "loc_ka_511",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-45",
@@ -2376,7 +2136,7 @@
     }
   },
   {
-    "id": "loc_ka_563",
+    "id": "loc_ka_512",
     "stateName": "Karnataka",
     "districtName": "Kalaburagi",
     "assemblyConstituencyCode": "AC-KA-46",
@@ -2400,7 +2160,7 @@
     }
   },
   {
-    "id": "loc_ka_564",
+    "id": "loc_ka_513",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-47",
@@ -2424,7 +2184,7 @@
     }
   },
   {
-    "id": "loc_ka_565",
+    "id": "loc_ka_514",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-48",
@@ -2448,7 +2208,7 @@
     }
   },
   {
-    "id": "loc_ka_566",
+    "id": "loc_ka_515",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-49",
@@ -2472,7 +2232,7 @@
     }
   },
   {
-    "id": "loc_ka_567",
+    "id": "loc_ka_516",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-50",
@@ -2496,7 +2256,7 @@
     }
   },
   {
-    "id": "loc_ka_568",
+    "id": "loc_ka_517",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-51",
@@ -2520,7 +2280,7 @@
     }
   },
   {
-    "id": "loc_ka_569",
+    "id": "loc_ka_518",
     "stateName": "Karnataka",
     "districtName": "Bidar",
     "assemblyConstituencyCode": "AC-KA-52",
@@ -2544,7 +2304,7 @@
     }
   },
   {
-    "id": "loc_ka_570",
+    "id": "loc_ka_519",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-53",
@@ -2568,7 +2328,7 @@
     }
   },
   {
-    "id": "loc_ka_571",
+    "id": "loc_ka_520",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-54",
@@ -2592,7 +2352,7 @@
     }
   },
   {
-    "id": "loc_ka_572",
+    "id": "loc_ka_521",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-55",
@@ -2616,7 +2376,7 @@
     }
   },
   {
-    "id": "loc_ka_573",
+    "id": "loc_ka_522",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-56",
@@ -2640,7 +2400,7 @@
     }
   },
   {
-    "id": "loc_ka_574",
+    "id": "loc_ka_523",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-57",
@@ -2664,7 +2424,7 @@
     }
   },
   {
-    "id": "loc_ka_575",
+    "id": "loc_ka_524",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-58",
@@ -2688,7 +2448,7 @@
     }
   },
   {
-    "id": "loc_ka_576",
+    "id": "loc_ka_525",
     "stateName": "Karnataka",
     "districtName": "Raichur",
     "assemblyConstituencyCode": "AC-KA-59",
@@ -2712,7 +2472,7 @@
     }
   },
   {
-    "id": "loc_ka_577",
+    "id": "loc_ka_526",
     "stateName": "Karnataka",
     "districtName": "Koppal",
     "assemblyConstituencyCode": "AC-KA-60",
@@ -2736,7 +2496,7 @@
     }
   },
   {
-    "id": "loc_ka_578",
+    "id": "loc_ka_527",
     "stateName": "Karnataka",
     "districtName": "Koppal",
     "assemblyConstituencyCode": "AC-KA-61",
@@ -2760,7 +2520,7 @@
     }
   },
   {
-    "id": "loc_ka_579",
+    "id": "loc_ka_528",
     "stateName": "Karnataka",
     "districtName": "Koppal",
     "assemblyConstituencyCode": "AC-KA-62",
@@ -2784,7 +2544,7 @@
     }
   },
   {
-    "id": "loc_ka_580",
+    "id": "loc_ka_529",
     "stateName": "Karnataka",
     "districtName": "Koppal",
     "assemblyConstituencyCode": "AC-KA-63",
@@ -2808,31 +2568,7 @@
     }
   },
   {
-    "id": "loc_ka_581",
-    "stateName": "Karnataka",
-    "districtName": "Koppal",
-    "assemblyConstituencyCode": "AC-KA-64",
-    "assemblyConstituencyName": "Koppal",
-    "crimeRate": "147.8 per 100k",
-    "crimeRatePerLakh": 147.8,
-    "literacyRate": 73.1,
-    "literacyRatePercentage": 73.1,
-    "hospitalsCount": 18,
-    "govtSchoolsCount": 254,
-    "regionalInsight": {
-      "title": "Koppal Civic Context",
-      "historicalFact": "Koppal forms an important historical and developmental hub of Karnataka, known for traditional craftsmanship, agrarian resilience, and scenic Deccan topography.",
-      "currentChallenge": "Key public focus areas include water conservation, expanding primary school infrastructure, and upgrading road connectivity across Koppal."
-    },
-    "districtStatsSources": {
-      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
-      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
-      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
-      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
-    }
-  },
-  {
-    "id": "loc_ka_582",
+    "id": "loc_ka_530",
     "stateName": "Karnataka",
     "districtName": "Gadag",
     "assemblyConstituencyCode": "AC-KA-65",
@@ -2856,7 +2592,7 @@
     }
   },
   {
-    "id": "loc_ka_583",
+    "id": "loc_ka_531",
     "stateName": "Karnataka",
     "districtName": "Gadag",
     "assemblyConstituencyCode": "AC-KA-66",
@@ -2880,7 +2616,7 @@
     }
   },
   {
-    "id": "loc_ka_584",
+    "id": "loc_ka_532",
     "stateName": "Karnataka",
     "districtName": "Gadag",
     "assemblyConstituencyCode": "AC-KA-67",
@@ -2904,7 +2640,7 @@
     }
   },
   {
-    "id": "loc_ka_585",
+    "id": "loc_ka_533",
     "stateName": "Karnataka",
     "districtName": "Gadag",
     "assemblyConstituencyCode": "AC-KA-68",
@@ -2928,7 +2664,7 @@
     }
   },
   {
-    "id": "loc_ka_586",
+    "id": "loc_ka_534",
     "stateName": "Karnataka",
     "districtName": "Dharwad",
     "assemblyConstituencyCode": "AC-KA-71",
@@ -2952,7 +2688,7 @@
     }
   },
   {
-    "id": "loc_ka_587",
+    "id": "loc_ka_535",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-76",
@@ -2976,7 +2712,7 @@
     }
   },
   {
-    "id": "loc_ka_588",
+    "id": "loc_ka_536",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-77",
@@ -3000,7 +2736,7 @@
     }
   },
   {
-    "id": "loc_ka_589",
+    "id": "loc_ka_537",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-78",
@@ -3024,7 +2760,7 @@
     }
   },
   {
-    "id": "loc_ka_590",
+    "id": "loc_ka_538",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-79",
@@ -3048,7 +2784,7 @@
     }
   },
   {
-    "id": "loc_ka_591",
+    "id": "loc_ka_539",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-80",
@@ -3072,7 +2808,7 @@
     }
   },
   {
-    "id": "loc_ka_592",
+    "id": "loc_ka_540",
     "stateName": "Karnataka",
     "districtName": "Uttara Kannada",
     "assemblyConstituencyCode": "AC-KA-81",
@@ -3096,7 +2832,7 @@
     }
   },
   {
-    "id": "loc_ka_593",
+    "id": "loc_ka_541",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-82",
@@ -3120,7 +2856,7 @@
     }
   },
   {
-    "id": "loc_ka_594",
+    "id": "loc_ka_542",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-83",
@@ -3144,7 +2880,7 @@
     }
   },
   {
-    "id": "loc_ka_595",
+    "id": "loc_ka_543",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-84",
@@ -3168,7 +2904,7 @@
     }
   },
   {
-    "id": "loc_ka_596",
+    "id": "loc_ka_544",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-85",
@@ -3192,7 +2928,7 @@
     }
   },
   {
-    "id": "loc_ka_597",
+    "id": "loc_ka_545",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-86",
@@ -3216,7 +2952,7 @@
     }
   },
   {
-    "id": "loc_ka_598",
+    "id": "loc_ka_546",
     "stateName": "Karnataka",
     "districtName": "Haveri",
     "assemblyConstituencyCode": "AC-KA-87",
@@ -3240,7 +2976,7 @@
     }
   },
   {
-    "id": "loc_ka_599",
+    "id": "loc_ka_547",
     "stateName": "Karnataka",
     "districtName": "Vijayanagara",
     "assemblyConstituencyCode": "AC-KA-88",
@@ -3264,7 +3000,7 @@
     }
   },
   {
-    "id": "loc_ka_600",
+    "id": "loc_ka_548",
     "stateName": "Karnataka",
     "districtName": "Vijayanagara",
     "assemblyConstituencyCode": "AC-KA-89",
@@ -3288,7 +3024,7 @@
     }
   },
   {
-    "id": "loc_ka_601",
+    "id": "loc_ka_549",
     "stateName": "Karnataka",
     "districtName": "Vijayanagara",
     "assemblyConstituencyCode": "AC-KA-90",
@@ -3312,7 +3048,7 @@
     }
   },
   {
-    "id": "loc_ka_602",
+    "id": "loc_ka_550",
     "stateName": "Karnataka",
     "districtName": "Ballari",
     "assemblyConstituencyCode": "AC-KA-93",
@@ -3336,7 +3072,7 @@
     }
   },
   {
-    "id": "loc_ka_603",
+    "id": "loc_ka_551",
     "stateName": "Karnataka",
     "districtName": "Vijayanagara",
     "assemblyConstituencyCode": "AC-KA-96",
@@ -3360,7 +3096,7 @@
     }
   },
   {
-    "id": "loc_ka_604",
+    "id": "loc_ka_552",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-97",
@@ -3384,7 +3120,7 @@
     }
   },
   {
-    "id": "loc_ka_605",
+    "id": "loc_ka_553",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-98",
@@ -3408,7 +3144,7 @@
     }
   },
   {
-    "id": "loc_ka_606",
+    "id": "loc_ka_554",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-99",
@@ -3432,7 +3168,7 @@
     }
   },
   {
-    "id": "loc_ka_607",
+    "id": "loc_ka_555",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-100",
@@ -3456,7 +3192,7 @@
     }
   },
   {
-    "id": "loc_ka_608",
+    "id": "loc_ka_556",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-101",
@@ -3480,7 +3216,7 @@
     }
   },
   {
-    "id": "loc_ka_609",
+    "id": "loc_ka_557",
     "stateName": "Karnataka",
     "districtName": "Chitradurga",
     "assemblyConstituencyCode": "AC-KA-102",
@@ -3504,7 +3240,7 @@
     }
   },
   {
-    "id": "loc_ka_610",
+    "id": "loc_ka_558",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-103",
@@ -3528,7 +3264,7 @@
     }
   },
   {
-    "id": "loc_ka_611",
+    "id": "loc_ka_559",
     "stateName": "Karnataka",
     "districtName": "Vijayanagara",
     "assemblyConstituencyCode": "AC-KA-104",
@@ -3552,7 +3288,7 @@
     }
   },
   {
-    "id": "loc_ka_612",
+    "id": "loc_ka_560",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-105",
@@ -3576,7 +3312,7 @@
     }
   },
   {
-    "id": "loc_ka_613",
+    "id": "loc_ka_561",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-106",
@@ -3600,7 +3336,7 @@
     }
   },
   {
-    "id": "loc_ka_614",
+    "id": "loc_ka_562",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-107",
@@ -3624,7 +3360,7 @@
     }
   },
   {
-    "id": "loc_ka_615",
+    "id": "loc_ka_563",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-108",
@@ -3648,7 +3384,7 @@
     }
   },
   {
-    "id": "loc_ka_616",
+    "id": "loc_ka_564",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-109",
@@ -3672,7 +3408,7 @@
     }
   },
   {
-    "id": "loc_ka_617",
+    "id": "loc_ka_565",
     "stateName": "Karnataka",
     "districtName": "Davanagere",
     "assemblyConstituencyCode": "AC-KA-110",
@@ -3696,7 +3432,7 @@
     }
   },
   {
-    "id": "loc_ka_618",
+    "id": "loc_ka_566",
     "stateName": "Karnataka",
     "districtName": "Shivamogga",
     "assemblyConstituencyCode": "AC-KA-114",
@@ -3720,7 +3456,7 @@
     }
   },
   {
-    "id": "loc_ka_619",
+    "id": "loc_ka_567",
     "stateName": "Karnataka",
     "districtName": "Udupi",
     "assemblyConstituencyCode": "AC-KA-118",
@@ -3744,7 +3480,7 @@
     }
   },
   {
-    "id": "loc_ka_620",
+    "id": "loc_ka_568",
     "stateName": "Karnataka",
     "districtName": "Udupi",
     "assemblyConstituencyCode": "AC-KA-119",
@@ -3768,7 +3504,7 @@
     }
   },
   {
-    "id": "loc_ka_621",
+    "id": "loc_ka_569",
     "stateName": "Karnataka",
     "districtName": "Udupi",
     "assemblyConstituencyCode": "AC-KA-120",
@@ -3792,7 +3528,7 @@
     }
   },
   {
-    "id": "loc_ka_622",
+    "id": "loc_ka_570",
     "stateName": "Karnataka",
     "districtName": "Udupi",
     "assemblyConstituencyCode": "AC-KA-121",
@@ -3816,7 +3552,7 @@
     }
   },
   {
-    "id": "loc_ka_623",
+    "id": "loc_ka_571",
     "stateName": "Karnataka",
     "districtName": "Udupi",
     "assemblyConstituencyCode": "AC-KA-122",
@@ -3840,7 +3576,7 @@
     }
   },
   {
-    "id": "loc_ka_624",
+    "id": "loc_ka_572",
     "stateName": "Karnataka",
     "districtName": "Chikkamagaluru",
     "assemblyConstituencyCode": "AC-KA-123",
@@ -3864,7 +3600,7 @@
     }
   },
   {
-    "id": "loc_ka_625",
+    "id": "loc_ka_573",
     "stateName": "Karnataka",
     "districtName": "Chikkamagaluru",
     "assemblyConstituencyCode": "AC-KA-124",
@@ -3888,7 +3624,7 @@
     }
   },
   {
-    "id": "loc_ka_626",
+    "id": "loc_ka_574",
     "stateName": "Karnataka",
     "districtName": "Chikkamagaluru",
     "assemblyConstituencyCode": "AC-KA-125",
@@ -3912,7 +3648,7 @@
     }
   },
   {
-    "id": "loc_ka_627",
+    "id": "loc_ka_575",
     "stateName": "Karnataka",
     "districtName": "Chikkamagaluru",
     "assemblyConstituencyCode": "AC-KA-126",
@@ -3936,7 +3672,7 @@
     }
   },
   {
-    "id": "loc_ka_628",
+    "id": "loc_ka_576",
     "stateName": "Karnataka",
     "districtName": "Chikkamagaluru",
     "assemblyConstituencyCode": "AC-KA-127",
@@ -3960,7 +3696,7 @@
     }
   },
   {
-    "id": "loc_ka_629",
+    "id": "loc_ka_577",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-128",
@@ -3984,7 +3720,7 @@
     }
   },
   {
-    "id": "loc_ka_630",
+    "id": "loc_ka_578",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-129",
@@ -4008,7 +3744,7 @@
     }
   },
   {
-    "id": "loc_ka_631",
+    "id": "loc_ka_579",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-130",
@@ -4032,7 +3768,7 @@
     }
   },
   {
-    "id": "loc_ka_632",
+    "id": "loc_ka_580",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-131",
@@ -4056,7 +3792,7 @@
     }
   },
   {
-    "id": "loc_ka_633",
+    "id": "loc_ka_581",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-132",
@@ -4080,7 +3816,7 @@
     }
   },
   {
-    "id": "loc_ka_634",
+    "id": "loc_ka_582",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-133",
@@ -4104,7 +3840,7 @@
     }
   },
   {
-    "id": "loc_ka_635",
+    "id": "loc_ka_583",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-134",
@@ -4128,7 +3864,7 @@
     }
   },
   {
-    "id": "loc_ka_636",
+    "id": "loc_ka_584",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-135",
@@ -4152,7 +3888,7 @@
     }
   },
   {
-    "id": "loc_ka_637",
+    "id": "loc_ka_585",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-136",
@@ -4176,7 +3912,7 @@
     }
   },
   {
-    "id": "loc_ka_638",
+    "id": "loc_ka_586",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-137",
@@ -4200,7 +3936,7 @@
     }
   },
   {
-    "id": "loc_ka_639",
+    "id": "loc_ka_587",
     "stateName": "Karnataka",
     "districtName": "Tumakuru",
     "assemblyConstituencyCode": "AC-KA-138",
@@ -4224,7 +3960,7 @@
     }
   },
   {
-    "id": "loc_ka_640",
+    "id": "loc_ka_588",
     "stateName": "Karnataka",
     "districtName": "Chikkaballapura",
     "assemblyConstituencyCode": "AC-KA-139",
@@ -4248,7 +3984,7 @@
     }
   },
   {
-    "id": "loc_ka_641",
+    "id": "loc_ka_589",
     "stateName": "Karnataka",
     "districtName": "Chikkaballapura",
     "assemblyConstituencyCode": "AC-KA-140",
@@ -4272,7 +4008,7 @@
     }
   },
   {
-    "id": "loc_ka_642",
+    "id": "loc_ka_590",
     "stateName": "Karnataka",
     "districtName": "Chikkaballapura",
     "assemblyConstituencyCode": "AC-KA-141",
@@ -4296,7 +4032,7 @@
     }
   },
   {
-    "id": "loc_ka_643",
+    "id": "loc_ka_591",
     "stateName": "Karnataka",
     "districtName": "Chikkaballapura",
     "assemblyConstituencyCode": "AC-KA-142",
@@ -4320,7 +4056,7 @@
     }
   },
   {
-    "id": "loc_ka_644",
+    "id": "loc_ka_592",
     "stateName": "Karnataka",
     "districtName": "Chikkaballapura",
     "assemblyConstituencyCode": "AC-KA-143",
@@ -4344,7 +4080,7 @@
     }
   },
   {
-    "id": "loc_ka_645",
+    "id": "loc_ka_593",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-144",
@@ -4368,7 +4104,7 @@
     }
   },
   {
-    "id": "loc_ka_646",
+    "id": "loc_ka_594",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-145",
@@ -4392,7 +4128,7 @@
     }
   },
   {
-    "id": "loc_ka_647",
+    "id": "loc_ka_595",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-146",
@@ -4416,7 +4152,7 @@
     }
   },
   {
-    "id": "loc_ka_648",
+    "id": "loc_ka_596",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-147",
@@ -4440,7 +4176,7 @@
     }
   },
   {
-    "id": "loc_ka_649",
+    "id": "loc_ka_597",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-148",
@@ -4464,7 +4200,7 @@
     }
   },
   {
-    "id": "loc_ka_650",
+    "id": "loc_ka_598",
     "stateName": "Karnataka",
     "districtName": "Kolar",
     "assemblyConstituencyCode": "AC-KA-149",
@@ -4488,7 +4224,7 @@
     }
   },
   {
-    "id": "loc_ka_651",
+    "id": "loc_ka_599",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-151",
@@ -4512,7 +4248,7 @@
     }
   },
   {
-    "id": "loc_ka_652",
+    "id": "loc_ka_600",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-152",
@@ -4536,7 +4272,7 @@
     }
   },
   {
-    "id": "loc_ka_653",
+    "id": "loc_ka_601",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-153",
@@ -4560,7 +4296,7 @@
     }
   },
   {
-    "id": "loc_ka_654",
+    "id": "loc_ka_602",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-154",
@@ -4584,7 +4320,7 @@
     }
   },
   {
-    "id": "loc_ka_655",
+    "id": "loc_ka_603",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-155",
@@ -4608,7 +4344,7 @@
     }
   },
   {
-    "id": "loc_ka_656",
+    "id": "loc_ka_604",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-156",
@@ -4632,7 +4368,7 @@
     }
   },
   {
-    "id": "loc_ka_657",
+    "id": "loc_ka_605",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-159",
@@ -4656,7 +4392,7 @@
     }
   },
   {
-    "id": "loc_ka_658",
+    "id": "loc_ka_606",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-161",
@@ -4680,7 +4416,7 @@
     }
   },
   {
-    "id": "loc_ka_659",
+    "id": "loc_ka_607",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-163",
@@ -4704,7 +4440,7 @@
     }
   },
   {
-    "id": "loc_ka_660",
+    "id": "loc_ka_608",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-165",
@@ -4728,7 +4464,7 @@
     }
   },
   {
-    "id": "loc_ka_661",
+    "id": "loc_ka_609",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-166",
@@ -4752,7 +4488,7 @@
     }
   },
   {
-    "id": "loc_ka_662",
+    "id": "loc_ka_610",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-167",
@@ -4776,7 +4512,7 @@
     }
   },
   {
-    "id": "loc_ka_663",
+    "id": "loc_ka_611",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-168",
@@ -4800,7 +4536,7 @@
     }
   },
   {
-    "id": "loc_ka_664",
+    "id": "loc_ka_612",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-169",
@@ -4824,7 +4560,7 @@
     }
   },
   {
-    "id": "loc_ka_665",
+    "id": "loc_ka_613",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-171",
@@ -4848,7 +4584,7 @@
     }
   },
   {
-    "id": "loc_ka_666",
+    "id": "loc_ka_614",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-172",
@@ -4872,7 +4608,7 @@
     }
   },
   {
-    "id": "loc_ka_667",
+    "id": "loc_ka_615",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-176",
@@ -4896,7 +4632,7 @@
     }
   },
   {
-    "id": "loc_ka_668",
+    "id": "loc_ka_616",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Urban",
     "assemblyConstituencyCode": "AC-KA-177",
@@ -4920,7 +4656,7 @@
     }
   },
   {
-    "id": "loc_ka_669",
+    "id": "loc_ka_617",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Rural",
     "assemblyConstituencyCode": "AC-KA-178",
@@ -4944,7 +4680,7 @@
     }
   },
   {
-    "id": "loc_ka_670",
+    "id": "loc_ka_618",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Rural",
     "assemblyConstituencyCode": "AC-KA-179",
@@ -4968,7 +4704,7 @@
     }
   },
   {
-    "id": "loc_ka_671",
+    "id": "loc_ka_619",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Rural",
     "assemblyConstituencyCode": "AC-KA-180",
@@ -4992,7 +4728,7 @@
     }
   },
   {
-    "id": "loc_ka_672",
+    "id": "loc_ka_620",
     "stateName": "Karnataka",
     "districtName": "Bengaluru Rural",
     "assemblyConstituencyCode": "AC-KA-181",
@@ -5016,7 +4752,7 @@
     }
   },
   {
-    "id": "loc_ka_673",
+    "id": "loc_ka_621",
     "stateName": "Karnataka",
     "districtName": "Ramanagara",
     "assemblyConstituencyCode": "AC-KA-183",
@@ -5040,7 +4776,7 @@
     }
   },
   {
-    "id": "loc_ka_674",
+    "id": "loc_ka_622",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-186",
@@ -5064,7 +4800,7 @@
     }
   },
   {
-    "id": "loc_ka_675",
+    "id": "loc_ka_623",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-187",
@@ -5088,7 +4824,7 @@
     }
   },
   {
-    "id": "loc_ka_676",
+    "id": "loc_ka_624",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-188",
@@ -5112,7 +4848,7 @@
     }
   },
   {
-    "id": "loc_ka_677",
+    "id": "loc_ka_625",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-189",
@@ -5136,7 +4872,7 @@
     }
   },
   {
-    "id": "loc_ka_678",
+    "id": "loc_ka_626",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-190",
@@ -5160,7 +4896,7 @@
     }
   },
   {
-    "id": "loc_ka_679",
+    "id": "loc_ka_627",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-191",
@@ -5184,7 +4920,7 @@
     }
   },
   {
-    "id": "loc_ka_680",
+    "id": "loc_ka_628",
     "stateName": "Karnataka",
     "districtName": "Mandya",
     "assemblyConstituencyCode": "AC-KA-192",
@@ -5208,7 +4944,7 @@
     }
   },
   {
-    "id": "loc_ka_681",
+    "id": "loc_ka_629",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-193",
@@ -5232,7 +4968,7 @@
     }
   },
   {
-    "id": "loc_ka_682",
+    "id": "loc_ka_630",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-194",
@@ -5256,7 +4992,7 @@
     }
   },
   {
-    "id": "loc_ka_683",
+    "id": "loc_ka_631",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-195",
@@ -5280,7 +5016,7 @@
     }
   },
   {
-    "id": "loc_ka_684",
+    "id": "loc_ka_632",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-196",
@@ -5304,7 +5040,7 @@
     }
   },
   {
-    "id": "loc_ka_685",
+    "id": "loc_ka_633",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-197",
@@ -5328,7 +5064,7 @@
     }
   },
   {
-    "id": "loc_ka_686",
+    "id": "loc_ka_634",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-198",
@@ -5352,7 +5088,7 @@
     }
   },
   {
-    "id": "loc_ka_687",
+    "id": "loc_ka_635",
     "stateName": "Karnataka",
     "districtName": "Hassan",
     "assemblyConstituencyCode": "AC-KA-199",
@@ -5376,7 +5112,7 @@
     }
   },
   {
-    "id": "loc_ka_688",
+    "id": "loc_ka_636",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-204",
@@ -5400,7 +5136,7 @@
     }
   },
   {
-    "id": "loc_ka_689",
+    "id": "loc_ka_637",
     "stateName": "Karnataka",
     "districtName": "Dakshina Kannada",
     "assemblyConstituencyCode": "AC-KA-205",
@@ -5424,7 +5160,7 @@
     }
   },
   {
-    "id": "loc_ka_690",
+    "id": "loc_ka_638",
     "stateName": "Karnataka",
     "districtName": "Kodagu",
     "assemblyConstituencyCode": "AC-KA-208",
@@ -5448,7 +5184,7 @@
     }
   },
   {
-    "id": "loc_ka_691",
+    "id": "loc_ka_639",
     "stateName": "Karnataka",
     "districtName": "Kodagu",
     "assemblyConstituencyCode": "AC-KA-209",
@@ -5472,7 +5208,7 @@
     }
   },
   {
-    "id": "loc_ka_692",
+    "id": "loc_ka_640",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-211",
@@ -5496,7 +5232,7 @@
     }
   },
   {
-    "id": "loc_ka_693",
+    "id": "loc_ka_641",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-213",
@@ -5520,7 +5256,7 @@
     }
   },
   {
-    "id": "loc_ka_694",
+    "id": "loc_ka_642",
     "stateName": "Karnataka",
     "districtName": "Mysuru",
     "assemblyConstituencyCode": "AC-KA-214",
@@ -5544,7 +5280,7 @@
     }
   },
   {
-    "id": "loc_ka_695",
+    "id": "loc_ka_643",
     "stateName": "Karnataka",
     "districtName": "Chamarajanagar",
     "assemblyConstituencyCode": "AC-KA-221",
@@ -5568,7 +5304,7 @@
     }
   },
   {
-    "id": "loc_ka_696",
+    "id": "loc_ka_644",
     "stateName": "Karnataka",
     "districtName": "Chamarajanagar",
     "assemblyConstituencyCode": "AC-KA-222",
@@ -5592,7 +5328,7 @@
     }
   },
   {
-    "id": "loc_ka_697",
+    "id": "loc_ka_645",
     "stateName": "Karnataka",
     "districtName": "Chamarajanagar",
     "assemblyConstituencyCode": "AC-KA-223",
@@ -5616,7 +5352,7 @@
     }
   },
   {
-    "id": "loc_ka_698",
+    "id": "loc_ka_646",
     "stateName": "Karnataka",
     "districtName": "Chamarajanagar",
     "assemblyConstituencyCode": "AC-KA-224",

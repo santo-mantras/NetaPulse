@@ -1,6 +1,6 @@
 [
   {
-    "id": "ke_2453",
+    "id": "ke_2401",
     "name": "A. K. M. Ashraf",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -10,15 +10,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -46,7 +46,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -79,7 +79,7 @@
     }
   },
   {
-    "id": "ke_2454",
+    "id": "ke_2402",
     "name": "N. A. Nellikkunnu",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -89,14 +89,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -125,7 +125,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -158,7 +158,7 @@
     }
   },
   {
-    "id": "ke_2455",
+    "id": "ke_2403",
     "name": "C. H. Kunhambu",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -168,14 +168,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -204,7 +204,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -237,7 +237,7 @@
     }
   },
   {
-    "id": "ke_2456",
+    "id": "ke_2404",
     "name": "E. Chandrasekharan",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -247,15 +247,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -283,7 +283,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -316,7 +316,7 @@
     }
   },
   {
-    "id": "ke_2457",
+    "id": "ke_2405",
     "name": "M. Rajagopalan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -326,14 +326,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -362,7 +362,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -395,7 +395,7 @@
     }
   },
   {
-    "id": "ke_2458",
+    "id": "ke_2406",
     "name": "TI. Madhusoodanan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -405,14 +405,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -441,7 +441,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -474,7 +474,7 @@
     }
   },
   {
-    "id": "ke_2459",
+    "id": "ke_2407",
     "name": "M. Vijin",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -484,14 +484,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -520,7 +520,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -553,7 +553,7 @@
     }
   },
   {
-    "id": "ke_2460",
+    "id": "ke_2408",
     "name": "M. V. Govindan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -563,7 +563,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -599,7 +599,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -632,7 +632,7 @@
     }
   },
   {
-    "id": "ke_2461",
+    "id": "ke_2409",
     "name": "Sajeev Joseph",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -642,14 +642,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -678,7 +678,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -711,7 +711,7 @@
     }
   },
   {
-    "id": "ke_2462",
+    "id": "ke_2410",
     "name": "K. V. Sumesh",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -721,14 +721,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -757,7 +757,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -790,7 +790,7 @@
     }
   },
   {
-    "id": "ke_2463",
+    "id": "ke_2411",
     "name": "Kadannappalli Ramachandran",
     "role": "MLA",
     "party": "Cong(S)",
@@ -800,15 +800,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -836,7 +836,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -869,9 +869,9 @@
     }
   },
   {
-    "id": "ke_2464",
+    "id": "ke_2412",
     "name": "Pinarayi Vijayan",
-    "role": "Chief Minister of Kerala",
+    "role": "MLA / Former Chief Minister",
     "party": "Communist Party of India (Marxist)",
     "photoUrl": "/assets/candidates/pinarayi_vijayan.jpg",
     "constituencyName": "Dharmadam",
@@ -879,7 +879,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Special Development Fund for MLAs (SDF-MLA)",
     "fundUtilizationPercentage": 97.8,
     "ladFundAllocatedINR": 50000000,
@@ -915,7 +915,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 88000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -948,7 +948,7 @@
     }
   },
   {
-    "id": "ke_2465",
+    "id": "ke_2413",
     "name": "A. N. Shamseer",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -958,14 +958,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 20,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -994,7 +994,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1027,7 +1027,7 @@
     }
   },
   {
-    "id": "ke_2466",
+    "id": "ke_2414",
     "name": "K. P. Mohanan",
     "role": "MLA",
     "party": "LJD",
@@ -1037,15 +1037,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1073,7 +1073,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1106,7 +1106,7 @@
     }
   },
   {
-    "id": "ke_2467",
+    "id": "ke_2415",
     "name": "K. K. Shailaja",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1116,7 +1116,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Special Development Fund for MLAs (SDF-MLA)",
     "fundUtilizationPercentage": 96.2,
     "ladFundAllocatedINR": 50000000,
@@ -1152,7 +1152,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1185,7 +1185,7 @@
     }
   },
   {
-    "id": "ke_2468",
+    "id": "ke_2416",
     "name": "Sunny Joseph",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1195,15 +1195,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1231,7 +1231,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1264,7 +1264,7 @@
     }
   },
   {
-    "id": "ke_2469",
+    "id": "ke_2417",
     "name": "O. R. Kelu",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1280,9 +1280,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1310,7 +1310,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1343,7 +1343,7 @@
     }
   },
   {
-    "id": "ke_2470",
+    "id": "ke_2418",
     "name": "I. C. Balakrishnan",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1353,14 +1353,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1389,7 +1389,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1422,7 +1422,7 @@
     }
   },
   {
-    "id": "ke_2471",
+    "id": "ke_2419",
     "name": "T. Siddique",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1432,14 +1432,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1468,7 +1468,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1501,7 +1501,7 @@
     }
   },
   {
-    "id": "ke_2472",
+    "id": "ke_2420",
     "name": "K. K. Rema",
     "role": "MLA",
     "party": "RMPI",
@@ -1511,14 +1511,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1547,7 +1547,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1580,7 +1580,7 @@
     }
   },
   {
-    "id": "ke_2473",
+    "id": "ke_2421",
     "name": "K. P. Kunhammadkutty",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1596,9 +1596,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1626,7 +1626,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1659,7 +1659,7 @@
     }
   },
   {
-    "id": "ke_2474",
+    "id": "ke_2422",
     "name": "E. K. Vijayan",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -1675,9 +1675,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1705,7 +1705,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1738,7 +1738,7 @@
     }
   },
   {
-    "id": "ke_2475",
+    "id": "ke_2423",
     "name": "Kanathil Jameela",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1754,9 +1754,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1784,7 +1784,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1817,7 +1817,7 @@
     }
   },
   {
-    "id": "ke_2476",
+    "id": "ke_2424",
     "name": "T. P. Ramakrishnan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1827,15 +1827,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1863,7 +1863,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "id": "ke_2477",
+    "id": "ke_2425",
     "name": "K. M. Sachin Dev",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -1906,15 +1906,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1942,7 +1942,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -1975,7 +1975,7 @@
     }
   },
   {
-    "id": "ke_2478",
+    "id": "ke_2426",
     "name": "A. K. Saseendran",
     "role": "MLA",
     "party": "Nationalist Congress Party",
@@ -1985,15 +1985,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2021,7 +2021,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2054,7 +2054,7 @@
     }
   },
   {
-    "id": "ke_2479",
+    "id": "ke_2427",
     "name": "Thottathil Raveendran",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -2070,9 +2070,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2100,7 +2100,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2133,7 +2133,7 @@
     }
   },
   {
-    "id": "ke_2480",
+    "id": "ke_2428",
     "name": "Ahamed Devarkovil",
     "role": "MLA",
     "party": "INL",
@@ -2143,15 +2143,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2179,7 +2179,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2212,7 +2212,7 @@
     }
   },
   {
-    "id": "ke_2481",
+    "id": "ke_2429",
     "name": "P. A. Mohammed Riyas",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -2222,15 +2222,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2258,7 +2258,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2291,7 +2291,7 @@
     }
   },
   {
-    "id": "ke_2482",
+    "id": "ke_2430",
     "name": "P. T. A. Rahim",
     "role": "MLA",
     "party": "Independent",
@@ -2301,14 +2301,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 21,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2337,7 +2337,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2370,7 +2370,7 @@
     }
   },
   {
-    "id": "ke_2483",
+    "id": "ke_2431",
     "name": "M. K. Muneer",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -2380,15 +2380,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2416,7 +2416,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2449,7 +2449,7 @@
     }
   },
   {
-    "id": "ke_2484",
+    "id": "ke_2432",
     "name": "Linto Joseph",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -2459,14 +2459,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2495,7 +2495,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2528,7 +2528,7 @@
     }
   },
   {
-    "id": "ke_2485",
+    "id": "ke_2433",
     "name": "T. V. Ibrahim",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -2538,15 +2538,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2574,7 +2574,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2607,7 +2607,7 @@
     }
   },
   {
-    "id": "ke_2486",
+    "id": "ke_2434",
     "name": "P. K. Basheer",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -2617,14 +2617,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2653,7 +2653,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2686,7 +2686,7 @@
     }
   },
   {
-    "id": "ke_2487",
+    "id": "ke_2435",
     "name": "P. V. Anvar",
     "role": "MLA",
     "party": "Independent",
@@ -2696,14 +2696,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 40,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2732,7 +2732,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2765,7 +2765,7 @@
     }
   },
   {
-    "id": "ke_2488",
+    "id": "ke_2436",
     "name": "A. P. Anil Kumar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2775,14 +2775,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2811,7 +2811,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "id": "ke_2489",
+    "id": "ke_2437",
     "name": "U. A. Latheef",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -2860,8 +2860,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2890,7 +2890,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -2923,7 +2923,7 @@
     }
   },
   {
-    "id": "ke_2490",
+    "id": "ke_2438",
     "name": "Najeeb Kanthapuram",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -2939,9 +2939,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2969,7 +2969,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3002,7 +3002,7 @@
     }
   },
   {
-    "id": "ke_2491",
+    "id": "ke_2439",
     "name": "Manjalamkuzhi Ali",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3012,14 +3012,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3048,7 +3048,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3081,7 +3081,7 @@
     }
   },
   {
-    "id": "ke_2492",
+    "id": "ke_2440",
     "name": "P. Ubaidulla",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3091,14 +3091,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3127,7 +3127,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3160,7 +3160,7 @@
     }
   },
   {
-    "id": "ke_2493",
+    "id": "ke_2441",
     "name": "P. K. Kunhalikutty",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3170,14 +3170,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3206,7 +3206,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3239,7 +3239,7 @@
     }
   },
   {
-    "id": "ke_2494",
+    "id": "ke_2442",
     "name": "P. Abdul Hameed",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3249,15 +3249,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3285,7 +3285,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3318,7 +3318,7 @@
     }
   },
   {
-    "id": "ke_2495",
+    "id": "ke_2443",
     "name": "K. P. A. Majeed",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3328,15 +3328,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3364,7 +3364,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3397,7 +3397,7 @@
     }
   },
   {
-    "id": "ke_2496",
+    "id": "ke_2444",
     "name": "V. Abdurahman",
     "role": "MLA",
     "party": "National Secular Conference",
@@ -3407,14 +3407,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3443,7 +3443,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3476,7 +3476,7 @@
     }
   },
   {
-    "id": "ke_2497",
+    "id": "ke_2445",
     "name": "Kurukkoli Moideen",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3486,15 +3486,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3522,7 +3522,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3555,7 +3555,7 @@
     }
   },
   {
-    "id": "ke_2498",
+    "id": "ke_2446",
     "name": "K. K. Abid Hussain Thangal",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -3565,14 +3565,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3601,7 +3601,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3634,7 +3634,7 @@
     }
   },
   {
-    "id": "ke_2499",
+    "id": "ke_2447",
     "name": "K. T. Jaleel",
     "role": "MLA",
     "party": "Independent",
@@ -3644,14 +3644,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3680,7 +3680,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3713,7 +3713,7 @@
     }
   },
   {
-    "id": "ke_2500",
+    "id": "ke_2448",
     "name": "P. Nandakumar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -3723,14 +3723,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3759,7 +3759,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "id": "ke_2501",
+    "id": "ke_2449",
     "name": "M. B. Rajesh",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -3808,8 +3808,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3838,7 +3838,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3871,7 +3871,7 @@
     }
   },
   {
-    "id": "ke_2502",
+    "id": "ke_2450",
     "name": "Muhammed Muhsin",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -3887,9 +3887,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3917,7 +3917,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -3950,7 +3950,7 @@
     }
   },
   {
-    "id": "ke_2503",
+    "id": "ke_2451",
     "name": "P. Mammikutty",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -3960,15 +3960,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3996,7 +3996,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4029,7 +4029,7 @@
     }
   },
   {
-    "id": "ke_2504",
+    "id": "ke_2452",
     "name": "K. Premkumar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4045,8 +4045,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4075,7 +4075,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4108,7 +4108,7 @@
     }
   },
   {
-    "id": "ke_2505",
+    "id": "ke_2453",
     "name": "K. Shanthakumari",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4118,15 +4118,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4154,7 +4154,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4187,7 +4187,7 @@
     }
   },
   {
-    "id": "ke_2506",
+    "id": "ke_2454",
     "name": "N. Shamsudheen",
     "role": "MLA",
     "party": "Indian Union Muslim League",
@@ -4197,14 +4197,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4233,7 +4233,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4266,7 +4266,7 @@
     }
   },
   {
-    "id": "ke_2507",
+    "id": "ke_2455",
     "name": "A. Prabhakaran",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4282,8 +4282,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4312,7 +4312,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4345,7 +4345,7 @@
     }
   },
   {
-    "id": "ke_2508",
+    "id": "ke_2456",
     "name": "Shafi Parambil",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -4355,15 +4355,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4391,7 +4391,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4424,7 +4424,7 @@
     }
   },
   {
-    "id": "ke_2509",
+    "id": "ke_2457",
     "name": "P. P. Sumod",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4434,14 +4434,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4470,7 +4470,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4503,7 +4503,7 @@
     }
   },
   {
-    "id": "ke_2510",
+    "id": "ke_2458",
     "name": "K. Krishnankutty",
     "role": "MLA",
     "party": "Janata Dal (Secular)",
@@ -4513,14 +4513,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4549,7 +4549,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4582,7 +4582,7 @@
     }
   },
   {
-    "id": "ke_2511",
+    "id": "ke_2459",
     "name": "K. Babu",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4592,15 +4592,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4628,7 +4628,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4661,7 +4661,7 @@
     }
   },
   {
-    "id": "ke_2512",
+    "id": "ke_2460",
     "name": "K. D. Prasenan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4677,8 +4677,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4707,7 +4707,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4740,7 +4740,7 @@
     }
   },
   {
-    "id": "ke_2513",
+    "id": "ke_2461",
     "name": "K. Radhakrishnan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4750,15 +4750,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4786,7 +4786,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4819,7 +4819,7 @@
     }
   },
   {
-    "id": "ke_2514",
+    "id": "ke_2462",
     "name": "A. C. Moideen",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4829,15 +4829,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4865,7 +4865,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4898,7 +4898,7 @@
     }
   },
   {
-    "id": "ke_2515",
+    "id": "ke_2463",
     "name": "N. K. Akbar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4908,15 +4908,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4944,7 +4944,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -4977,7 +4977,7 @@
     }
   },
   {
-    "id": "ke_2516",
+    "id": "ke_2464",
     "name": "Murali Perunelly",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -4987,14 +4987,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5023,7 +5023,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5056,7 +5056,7 @@
     }
   },
   {
-    "id": "ke_2517",
+    "id": "ke_2465",
     "name": "Xavier Chittilappilly",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -5072,9 +5072,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5102,7 +5102,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5135,7 +5135,7 @@
     }
   },
   {
-    "id": "ke_2518",
+    "id": "ke_2466",
     "name": "K. Rajan",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -5145,7 +5145,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -5181,7 +5181,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5214,7 +5214,7 @@
     }
   },
   {
-    "id": "ke_2519",
+    "id": "ke_2467",
     "name": "P. Balachandran",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -5224,14 +5224,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5260,7 +5260,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5293,7 +5293,7 @@
     }
   },
   {
-    "id": "ke_2520",
+    "id": "ke_2468",
     "name": "C. C. Mukundan",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -5303,14 +5303,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5339,7 +5339,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5372,7 +5372,7 @@
     }
   },
   {
-    "id": "ke_2521",
+    "id": "ke_2469",
     "name": "E. T. Taison",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -5382,15 +5382,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5418,7 +5418,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5451,7 +5451,7 @@
     }
   },
   {
-    "id": "ke_2522",
+    "id": "ke_2470",
     "name": "R. Bindu",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -5461,15 +5461,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5497,7 +5497,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5530,7 +5530,7 @@
     }
   },
   {
-    "id": "ke_2523",
+    "id": "ke_2471",
     "name": "K. K. Ramachandran",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -5540,15 +5540,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5576,7 +5576,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "ke_2524",
+    "id": "ke_2472",
     "name": "T. J. Saneesh Kumar Joseph",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -5619,15 +5619,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5655,7 +5655,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5688,7 +5688,7 @@
     }
   },
   {
-    "id": "ke_2525",
+    "id": "ke_2473",
     "name": "V. R. Sunil Kumar",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -5698,14 +5698,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5734,7 +5734,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5767,7 +5767,7 @@
     }
   },
   {
-    "id": "ke_2526",
+    "id": "ke_2474",
     "name": "Eldhose Kunnappilly",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -5777,14 +5777,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5813,7 +5813,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5846,7 +5846,7 @@
     }
   },
   {
-    "id": "ke_2527",
+    "id": "ke_2475",
     "name": "Roji M. John",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -5856,15 +5856,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5892,7 +5892,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -5925,7 +5925,7 @@
     }
   },
   {
-    "id": "ke_2528",
+    "id": "ke_2476",
     "name": "Anwar Sadath",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -5935,14 +5935,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5971,7 +5971,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6004,7 +6004,7 @@
     }
   },
   {
-    "id": "ke_2529",
+    "id": "ke_2477",
     "name": "P. Rajeev",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6014,15 +6014,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6050,7 +6050,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6083,9 +6083,9 @@
     }
   },
   {
-    "id": "ke_2530",
+    "id": "ke_2478",
     "name": "V. D. Satheesan",
-    "role": "Leader of Opposition",
+    "role": "Chief Minister of Kerala",
     "party": "Indian National Congress",
     "photoUrl": "/assets/candidates/v__d__satheesan.jpg",
     "constituencyName": "Paravur",
@@ -6129,7 +6129,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6162,7 +6162,7 @@
     }
   },
   {
-    "id": "ke_2531",
+    "id": "ke_2479",
     "name": "K. N. Unnikrishnan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6172,14 +6172,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 41,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6208,7 +6208,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6241,7 +6241,7 @@
     }
   },
   {
-    "id": "ke_2532",
+    "id": "ke_2480",
     "name": "K. J. Maxi",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6251,14 +6251,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6287,7 +6287,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6320,7 +6320,7 @@
     }
   },
   {
-    "id": "ke_2533",
+    "id": "ke_2481",
     "name": "K. Babu",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6330,15 +6330,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6366,7 +6366,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6399,7 +6399,7 @@
     }
   },
   {
-    "id": "ke_2534",
+    "id": "ke_2482",
     "name": "T. J. Vinod",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6409,14 +6409,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6445,7 +6445,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6478,7 +6478,7 @@
     }
   },
   {
-    "id": "ke_2535",
+    "id": "ke_2483",
     "name": "P. T. Thomas",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6494,9 +6494,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6524,7 +6524,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6557,7 +6557,7 @@
     }
   },
   {
-    "id": "ke_2536",
+    "id": "ke_2484",
     "name": "P. V. Sreenijin",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6567,15 +6567,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6603,7 +6603,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6636,7 +6636,7 @@
     }
   },
   {
-    "id": "ke_2537",
+    "id": "ke_2485",
     "name": "Anoop Jacob",
     "role": "MLA",
     "party": "Kerala Congress (Jacob)",
@@ -6652,8 +6652,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6682,7 +6682,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6715,7 +6715,7 @@
     }
   },
   {
-    "id": "ke_2538",
+    "id": "ke_2486",
     "name": "Mathew Kuzhalnadan",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6725,7 +6725,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -6761,7 +6761,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6794,7 +6794,7 @@
     }
   },
   {
-    "id": "ke_2539",
+    "id": "ke_2487",
     "name": "Antony John",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6804,15 +6804,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6840,7 +6840,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6873,7 +6873,7 @@
     }
   },
   {
-    "id": "ke_2540",
+    "id": "ke_2488",
     "name": "A. Raja",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6883,14 +6883,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6919,7 +6919,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -6952,7 +6952,7 @@
     }
   },
   {
-    "id": "ke_2541",
+    "id": "ke_2489",
     "name": "M. M. Mani",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -6962,14 +6962,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 43,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6998,7 +6998,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7031,7 +7031,7 @@
     }
   },
   {
-    "id": "ke_2542",
+    "id": "ke_2490",
     "name": "P. J. Joseph",
     "role": "MLA",
     "party": "KEC",
@@ -7041,15 +7041,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7077,7 +7077,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7110,7 +7110,7 @@
     }
   },
   {
-    "id": "ke_2543",
+    "id": "ke_2491",
     "name": "Roshy Augustine",
     "role": "MLA",
     "party": "Kerala Congress (M)",
@@ -7120,14 +7120,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 43,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7156,7 +7156,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7189,7 +7189,7 @@
     }
   },
   {
-    "id": "ke_2544",
+    "id": "ke_2492",
     "name": "Vazhoor Soman",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -7199,14 +7199,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 43,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7235,7 +7235,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7268,7 +7268,7 @@
     }
   },
   {
-    "id": "ke_2545",
+    "id": "ke_2493",
     "name": "Mani C. Kappan",
     "role": "MLA",
     "party": "KDP",
@@ -7278,14 +7278,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7314,7 +7314,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7347,7 +7347,7 @@
     }
   },
   {
-    "id": "ke_2546",
+    "id": "ke_2494",
     "name": "Monce Joseph",
     "role": "MLA",
     "party": "KEC",
@@ -7357,15 +7357,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7393,7 +7393,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7426,7 +7426,7 @@
     }
   },
   {
-    "id": "ke_2547",
+    "id": "ke_2495",
     "name": "C. K. Asha",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -7436,14 +7436,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7472,7 +7472,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7505,7 +7505,7 @@
     }
   },
   {
-    "id": "ke_2548",
+    "id": "ke_2496",
     "name": "V. N. Vasavan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -7515,15 +7515,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7551,7 +7551,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7584,7 +7584,7 @@
     }
   },
   {
-    "id": "ke_2549",
+    "id": "ke_2497",
     "name": "Thiruvanchoor Radhakrishnan",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -7594,15 +7594,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7630,7 +7630,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7663,7 +7663,7 @@
     }
   },
   {
-    "id": "ke_2550",
+    "id": "ke_2498",
     "name": "Oommen Chandy",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -7679,9 +7679,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7709,7 +7709,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7742,7 +7742,7 @@
     }
   },
   {
-    "id": "ke_2551",
+    "id": "ke_2499",
     "name": "Job Michael",
     "role": "MLA",
     "party": "Kerala Congress (M)",
@@ -7758,9 +7758,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7788,7 +7788,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7821,7 +7821,7 @@
     }
   },
   {
-    "id": "ke_2552",
+    "id": "ke_2500",
     "name": "N. Jayaraj",
     "role": "MLA",
     "party": "Kerala Congress (M)",
@@ -7831,14 +7831,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 23,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7867,7 +7867,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7900,7 +7900,7 @@
     }
   },
   {
-    "id": "ke_2553",
+    "id": "ke_2501",
     "name": "Sebastian Kulathunkal",
     "role": "MLA",
     "party": "Kerala Congress (M)",
@@ -7910,14 +7910,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7946,7 +7946,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -7979,7 +7979,7 @@
     }
   },
   {
-    "id": "ke_2554",
+    "id": "ke_2502",
     "name": "Daleema Jojo",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -7989,14 +7989,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8025,7 +8025,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8058,7 +8058,7 @@
     }
   },
   {
-    "id": "ke_2555",
+    "id": "ke_2503",
     "name": "P. Prasad",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -8068,14 +8068,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8104,7 +8104,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8137,7 +8137,7 @@
     }
   },
   {
-    "id": "ke_2556",
+    "id": "ke_2504",
     "name": "P. P. Chitharanjan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8147,14 +8147,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8183,7 +8183,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8216,7 +8216,7 @@
     }
   },
   {
-    "id": "ke_2557",
+    "id": "ke_2505",
     "name": "H. Salam",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8226,15 +8226,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8262,7 +8262,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8295,7 +8295,7 @@
     }
   },
   {
-    "id": "ke_2558",
+    "id": "ke_2506",
     "name": "Thomas K. Thomas",
     "role": "MLA",
     "party": "Nationalist Congress Party",
@@ -8305,15 +8305,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8341,7 +8341,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8374,7 +8374,7 @@
     }
   },
   {
-    "id": "ke_2559",
+    "id": "ke_2507",
     "name": "Ramesh Chennithala",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8384,7 +8384,7 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Special Development Fund for MLAs (SDF-MLA)",
     "fundUtilizationPercentage": 94.4,
     "ladFundAllocatedINR": 50000000,
@@ -8420,7 +8420,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8453,7 +8453,7 @@
     }
   },
   {
-    "id": "ke_2560",
+    "id": "ke_2508",
     "name": "U. Prathibha",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8463,14 +8463,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8499,7 +8499,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8532,7 +8532,7 @@
     }
   },
   {
-    "id": "ke_2561",
+    "id": "ke_2509",
     "name": "M. S. Arun Kumar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8542,14 +8542,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8578,7 +8578,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8611,7 +8611,7 @@
     }
   },
   {
-    "id": "ke_2562",
+    "id": "ke_2510",
     "name": "Saji Cherian",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8621,15 +8621,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8657,7 +8657,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8690,7 +8690,7 @@
     }
   },
   {
-    "id": "ke_2563",
+    "id": "ke_2511",
     "name": "Mathew T. Thomas",
     "role": "MLA",
     "party": "Janata Dal (Secular)",
@@ -8706,8 +8706,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8736,7 +8736,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8769,7 +8769,7 @@
     }
   },
   {
-    "id": "ke_2564",
+    "id": "ke_2512",
     "name": "Pramod Narayan",
     "role": "MLA",
     "party": "Kerala Congress (M)",
@@ -8779,15 +8779,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8815,7 +8815,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8848,7 +8848,7 @@
     }
   },
   {
-    "id": "ke_2565",
+    "id": "ke_2513",
     "name": "Veena George",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8858,15 +8858,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8894,7 +8894,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8927,7 +8927,7 @@
     }
   },
   {
-    "id": "ke_2566",
+    "id": "ke_2514",
     "name": "K. U. Jenish Kumar",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -8937,15 +8937,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8973,7 +8973,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9006,7 +9006,7 @@
     }
   },
   {
-    "id": "ke_2567",
+    "id": "ke_2515",
     "name": "Chittayam Gopakumar",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -9016,14 +9016,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9052,7 +9052,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9085,7 +9085,7 @@
     }
   },
   {
-    "id": "ke_2568",
+    "id": "ke_2516",
     "name": "C. R. Mahesh",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -9095,14 +9095,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9131,7 +9131,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9164,7 +9164,7 @@
     }
   },
   {
-    "id": "ke_2569",
+    "id": "ke_2517",
     "name": "Sujith Vijayanpillai",
     "role": "MLA",
     "party": "Independent",
@@ -9174,14 +9174,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9210,7 +9210,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9243,7 +9243,7 @@
     }
   },
   {
-    "id": "ke_2570",
+    "id": "ke_2518",
     "name": "Kovoor Kunjumon",
     "role": "MLA",
     "party": "Independent",
@@ -9253,14 +9253,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9289,7 +9289,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9322,7 +9322,7 @@
     }
   },
   {
-    "id": "ke_2571",
+    "id": "ke_2519",
     "name": "K. N. Balagopal",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -9338,8 +9338,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 23,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9368,7 +9368,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9401,7 +9401,7 @@
     }
   },
   {
-    "id": "ke_2572",
+    "id": "ke_2520",
     "name": "K. B. Ganesh Kumar",
     "role": "MLA",
     "party": "Kerala Congress (B)",
@@ -9411,15 +9411,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9447,7 +9447,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9480,7 +9480,7 @@
     }
   },
   {
-    "id": "ke_2573",
+    "id": "ke_2521",
     "name": "P. S. Supal",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -9490,15 +9490,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9526,7 +9526,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9559,7 +9559,7 @@
     }
   },
   {
-    "id": "ke_2574",
+    "id": "ke_2522",
     "name": "J. Chinchu Rani",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -9569,14 +9569,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9605,7 +9605,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9638,7 +9638,7 @@
     }
   },
   {
-    "id": "ke_2575",
+    "id": "ke_2523",
     "name": "P. C. Vishnunath",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -9648,15 +9648,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9684,7 +9684,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9717,7 +9717,7 @@
     }
   },
   {
-    "id": "ke_2576",
+    "id": "ke_2524",
     "name": "Mukesh",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -9727,14 +9727,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 40,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9763,7 +9763,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9796,7 +9796,7 @@
     }
   },
   {
-    "id": "ke_2577",
+    "id": "ke_2525",
     "name": "M. Noushad",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -9806,14 +9806,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9842,7 +9842,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9875,7 +9875,7 @@
     }
   },
   {
-    "id": "ke_2578",
+    "id": "ke_2526",
     "name": "G. S. Jayalal",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -9885,14 +9885,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 14,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 18,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9921,7 +9921,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -9954,7 +9954,7 @@
     }
   },
   {
-    "id": "ke_2579",
+    "id": "ke_2527",
     "name": "V. Joy",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -9964,14 +9964,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10000,7 +10000,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10033,7 +10033,7 @@
     }
   },
   {
-    "id": "ke_2580",
+    "id": "ke_2528",
     "name": "O. S. Ambika",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10043,14 +10043,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10079,7 +10079,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10112,7 +10112,7 @@
     }
   },
   {
-    "id": "ke_2581",
+    "id": "ke_2529",
     "name": "V. Sasi",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -10122,14 +10122,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10158,7 +10158,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10191,7 +10191,7 @@
     }
   },
   {
-    "id": "ke_2582",
+    "id": "ke_2530",
     "name": "G. R. Anil",
     "role": "MLA",
     "party": "Communist Party of India",
@@ -10201,15 +10201,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10237,7 +10237,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10270,7 +10270,7 @@
     }
   },
   {
-    "id": "ke_2583",
+    "id": "ke_2531",
     "name": "D. K. Murali",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10280,15 +10280,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10316,7 +10316,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10349,7 +10349,7 @@
     }
   },
   {
-    "id": "ke_2584",
+    "id": "ke_2532",
     "name": "Kadakampally Surendran",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10359,15 +10359,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10395,7 +10395,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10428,7 +10428,7 @@
     }
   },
   {
-    "id": "ke_2585",
+    "id": "ke_2533",
     "name": "V. K. Prasanth",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10438,15 +10438,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10474,7 +10474,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10507,7 +10507,7 @@
     }
   },
   {
-    "id": "ke_2586",
+    "id": "ke_2534",
     "name": "Antony Raju",
     "role": "MLA",
     "party": "JKC",
@@ -10517,14 +10517,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10553,7 +10553,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10586,7 +10586,7 @@
     }
   },
   {
-    "id": "ke_2587",
+    "id": "ke_2535",
     "name": "V. Sivankutty",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10596,15 +10596,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10632,7 +10632,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10665,7 +10665,7 @@
     }
   },
   {
-    "id": "ke_2588",
+    "id": "ke_2536",
     "name": "G. Stephen",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10681,8 +10681,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 15,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
     "worksPendingCount": 1,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10711,7 +10711,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10744,7 +10744,7 @@
     }
   },
   {
-    "id": "ke_2589",
+    "id": "ke_2537",
     "name": "C. K. Hareendran",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10754,15 +10754,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10790,7 +10790,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10823,7 +10823,7 @@
     }
   },
   {
-    "id": "ke_2590",
+    "id": "ke_2538",
     "name": "I. B. Sathish",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10833,14 +10833,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10869,7 +10869,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10902,7 +10902,7 @@
     }
   },
   {
-    "id": "ke_2591",
+    "id": "ke_2539",
     "name": "M. Vincent",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -10912,15 +10912,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Kerala Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10948,7 +10948,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -10981,7 +10981,7 @@
     }
   },
   {
-    "id": "ke_2592",
+    "id": "ke_2540",
     "name": "K. Ansalan",
     "role": "MLA",
     "party": "Communist Party of India (Marxist)",
@@ -10997,9 +10997,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Kerala Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11027,7 +11027,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,

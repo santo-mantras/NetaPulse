@@ -1,6 +1,6 @@
 [
   {
-    "id": "gu_1408",
+    "id": "gu_1356",
     "name": "P. M. Jadeja",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10,14 +10,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -46,7 +46,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -79,7 +79,7 @@
     }
   },
   {
-    "id": "gu_1409",
+    "id": "gu_1357",
     "name": "Aniruddh Dave",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -89,15 +89,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -125,7 +125,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -158,7 +158,7 @@
     }
   },
   {
-    "id": "gu_1410",
+    "id": "gu_1358",
     "name": "Keshubhai Shivdas Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -168,15 +168,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -204,7 +204,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -237,7 +237,7 @@
     }
   },
   {
-    "id": "gu_1411",
+    "id": "gu_1359",
     "name": "Chhanga Trikam Bijal",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -247,15 +247,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -283,7 +283,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -316,7 +316,7 @@
     }
   },
   {
-    "id": "gu_1412",
+    "id": "gu_1360",
     "name": "Malti Maheshwari",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -326,15 +326,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -362,7 +362,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -395,7 +395,7 @@
     }
   },
   {
-    "id": "gu_1413",
+    "id": "gu_1361",
     "name": "Virendrasinh Jadeja",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -405,15 +405,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -441,7 +441,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -474,7 +474,7 @@
     }
   },
   {
-    "id": "gu_1414",
+    "id": "gu_1362",
     "name": "Geniben Thakor",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -484,15 +484,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -520,7 +520,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -553,7 +553,7 @@
     }
   },
   {
-    "id": "gu_1415",
+    "id": "gu_1363",
     "name": "Shankar Chaudhary",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -563,15 +563,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -599,7 +599,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -632,7 +632,7 @@
     }
   },
   {
-    "id": "gu_1416",
+    "id": "gu_1364",
     "name": "Mavji Desai",
     "role": "MLA",
     "party": "Ind",
@@ -648,8 +648,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -678,7 +678,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -711,7 +711,7 @@
     }
   },
   {
-    "id": "gu_1417",
+    "id": "gu_1365",
     "name": "Kantibhai Kharadi",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -721,14 +721,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -757,7 +757,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -790,7 +790,7 @@
     }
   },
   {
-    "id": "gu_1418",
+    "id": "gu_1366",
     "name": "Jignesh Mevani",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -836,7 +836,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -869,7 +869,7 @@
     }
   },
   {
-    "id": "gu_1419",
+    "id": "gu_1367",
     "name": "Aniket Thakar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -879,15 +879,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -915,7 +915,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -948,7 +948,7 @@
     }
   },
   {
-    "id": "gu_1420",
+    "id": "gu_1368",
     "name": "Pravinkumar Mali",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -964,9 +964,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -994,7 +994,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1027,7 +1027,7 @@
     }
   },
   {
-    "id": "gu_1421",
+    "id": "gu_1369",
     "name": "Keshaji Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1037,15 +1037,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1073,7 +1073,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1106,7 +1106,7 @@
     }
   },
   {
-    "id": "gu_1422",
+    "id": "gu_1370",
     "name": "Amrutbhai Thakor",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1116,15 +1116,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1152,7 +1152,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1185,7 +1185,7 @@
     }
   },
   {
-    "id": "gu_1423",
+    "id": "gu_1371",
     "name": "Lavingji Thakor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1201,8 +1201,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1231,7 +1231,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1264,7 +1264,7 @@
     }
   },
   {
-    "id": "gu_1424",
+    "id": "gu_1372",
     "name": "Dineshbhai Thakor",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1274,15 +1274,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1310,7 +1310,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1343,7 +1343,7 @@
     }
   },
   {
-    "id": "gu_1425",
+    "id": "gu_1373",
     "name": "Kiritkumar Patel",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1353,14 +1353,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1389,7 +1389,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1422,7 +1422,7 @@
     }
   },
   {
-    "id": "gu_1426",
+    "id": "gu_1374",
     "name": "Balvantsinh Rajput",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1432,15 +1432,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1468,7 +1468,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1501,7 +1501,7 @@
     }
   },
   {
-    "id": "gu_1427",
+    "id": "gu_1375",
     "name": "Sardarsinh Chaudhary",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1511,15 +1511,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1547,7 +1547,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1580,7 +1580,7 @@
     }
   },
   {
-    "id": "gu_1428",
+    "id": "gu_1376",
     "name": "Kiritkuimar Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1590,14 +1590,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1626,7 +1626,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1659,7 +1659,7 @@
     }
   },
   {
-    "id": "gu_1429",
+    "id": "gu_1377",
     "name": "Rushikesh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1669,15 +1669,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1705,7 +1705,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1738,7 +1738,7 @@
     }
   },
   {
-    "id": "gu_1430",
+    "id": "gu_1378",
     "name": "Sukhaji Thakor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1748,15 +1748,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1784,7 +1784,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1817,7 +1817,7 @@
     }
   },
   {
-    "id": "gu_1431",
+    "id": "gu_1379",
     "name": "Karshanbhai Solanki",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1827,15 +1827,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1863,7 +1863,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "id": "gu_1432",
+    "id": "gu_1380",
     "name": "Mukesh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -1912,8 +1912,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1942,7 +1942,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -1975,7 +1975,7 @@
     }
   },
   {
-    "id": "gu_1433",
+    "id": "gu_1381",
     "name": "C. J. Chavda",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -1985,14 +1985,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2021,7 +2021,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2054,7 +2054,7 @@
     }
   },
   {
-    "id": "gu_1434",
+    "id": "gu_1382",
     "name": "V. D. Zala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2064,14 +2064,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2100,7 +2100,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2133,7 +2133,7 @@
     }
   },
   {
-    "id": "gu_1435",
+    "id": "gu_1383",
     "name": "Ramanlal Vora",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2143,15 +2143,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2179,7 +2179,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2212,7 +2212,7 @@
     }
   },
   {
-    "id": "gu_1436",
+    "id": "gu_1384",
     "name": "Tushar Chaudhary",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -2222,15 +2222,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2258,7 +2258,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2291,7 +2291,7 @@
     }
   },
   {
-    "id": "gu_1437",
+    "id": "gu_1385",
     "name": "Punamchand Baranda",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2301,15 +2301,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2337,7 +2337,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2370,7 +2370,7 @@
     }
   },
   {
-    "id": "gu_1438",
+    "id": "gu_1386",
     "name": "Bhikhusinh Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2380,14 +2380,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2416,7 +2416,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2449,7 +2449,7 @@
     }
   },
   {
-    "id": "gu_1439",
+    "id": "gu_1387",
     "name": "Dhavalsinh Zala",
     "role": "MLA",
     "party": "Ind",
@@ -2459,15 +2459,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2495,7 +2495,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2528,7 +2528,7 @@
     }
   },
   {
-    "id": "gu_1440",
+    "id": "gu_1388",
     "name": "Gajendrasinh Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2544,8 +2544,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 23,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2574,7 +2574,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2607,7 +2607,7 @@
     }
   },
   {
-    "id": "gu_1441",
+    "id": "gu_1389",
     "name": "Balrajsinh Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2617,14 +2617,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2653,7 +2653,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2686,7 +2686,7 @@
     }
   },
   {
-    "id": "gu_1442",
+    "id": "gu_1390",
     "name": "Alpesh Thakor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2702,8 +2702,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 14,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2732,7 +2732,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2765,7 +2765,7 @@
     }
   },
   {
-    "id": "gu_1443",
+    "id": "gu_1391",
     "name": "Ritaben Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2775,15 +2775,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2811,7 +2811,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "id": "gu_1444",
+    "id": "gu_1392",
     "name": "Jayantibhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2854,15 +2854,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2890,7 +2890,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -2923,7 +2923,7 @@
     }
   },
   {
-    "id": "gu_1445",
+    "id": "gu_1393",
     "name": "Laxmanji Thakor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -2939,8 +2939,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2969,7 +2969,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3002,7 +3002,7 @@
     }
   },
   {
-    "id": "gu_1446",
+    "id": "gu_1394",
     "name": "Hardik Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3012,7 +3012,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
@@ -3048,7 +3048,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3081,7 +3081,7 @@
     }
   },
   {
-    "id": "gu_1447",
+    "id": "gu_1395",
     "name": "Kanubhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3091,15 +3091,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3127,7 +3127,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3160,7 +3160,7 @@
     }
   },
   {
-    "id": "gu_1448",
+    "id": "gu_1396",
     "name": "Bhupendrabhai Patel",
     "role": "Chief Minister of Gujarat",
     "party": "Bharatiya Janata Party",
@@ -3170,7 +3170,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Grant (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 30000000,
@@ -3206,7 +3206,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 85000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3239,7 +3239,7 @@
     }
   },
   {
-    "id": "gu_1449",
+    "id": "gu_1397",
     "name": "Amit Thaker",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3249,14 +3249,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3285,7 +3285,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3318,7 +3318,7 @@
     }
   },
   {
-    "id": "gu_1450",
+    "id": "gu_1398",
     "name": "Babusinh Jadav",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3328,15 +3328,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3364,7 +3364,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3397,7 +3397,7 @@
     }
   },
   {
-    "id": "gu_1451",
+    "id": "gu_1399",
     "name": "Amit Popatlal Shah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3407,14 +3407,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3443,7 +3443,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3476,7 +3476,7 @@
     }
   },
   {
-    "id": "gu_1452",
+    "id": "gu_1400",
     "name": "Jitendrakumar Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3486,15 +3486,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3522,7 +3522,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3555,7 +3555,7 @@
     }
   },
   {
-    "id": "gu_1453",
+    "id": "gu_1401",
     "name": "Jagdish Vishwakarma",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3571,9 +3571,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3601,7 +3601,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3634,7 +3634,7 @@
     }
   },
   {
-    "id": "gu_1454",
+    "id": "gu_1402",
     "name": "Payal Kukrani",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3650,9 +3650,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3680,7 +3680,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3713,7 +3713,7 @@
     }
   },
   {
-    "id": "gu_1455",
+    "id": "gu_1403",
     "name": "Kanchanben Radadiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3729,9 +3729,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3759,7 +3759,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "id": "gu_1456",
+    "id": "gu_1404",
     "name": "Dineshsinh Kushwaha",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3802,15 +3802,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3838,7 +3838,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3871,7 +3871,7 @@
     }
   },
   {
-    "id": "gu_1457",
+    "id": "gu_1405",
     "name": "Hasmukh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3881,15 +3881,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3917,7 +3917,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -3950,7 +3950,7 @@
     }
   },
   {
-    "id": "gu_1458",
+    "id": "gu_1406",
     "name": "Kaushik Jain",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -3960,14 +3960,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -3996,7 +3996,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4029,7 +4029,7 @@
     }
   },
   {
-    "id": "gu_1459",
+    "id": "gu_1407",
     "name": "Imran Khedawala",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -4039,14 +4039,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4075,7 +4075,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4108,7 +4108,7 @@
     }
   },
   {
-    "id": "gu_1460",
+    "id": "gu_1408",
     "name": "Amul Bhatt",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4118,15 +4118,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4154,7 +4154,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4187,7 +4187,7 @@
     }
   },
   {
-    "id": "gu_1461",
+    "id": "gu_1409",
     "name": "Shailesh Parmar",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -4203,9 +4203,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4233,7 +4233,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4266,7 +4266,7 @@
     }
   },
   {
-    "id": "gu_1462",
+    "id": "gu_1410",
     "name": "Harshad Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4276,15 +4276,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4312,7 +4312,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4345,7 +4345,7 @@
     }
   },
   {
-    "id": "gu_1463",
+    "id": "gu_1411",
     "name": "Darshna Vaghela",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4355,15 +4355,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4391,7 +4391,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4424,7 +4424,7 @@
     }
   },
   {
-    "id": "gu_1464",
+    "id": "gu_1412",
     "name": "Babubhai Jamnadas",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4440,8 +4440,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4470,7 +4470,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4503,7 +4503,7 @@
     }
   },
   {
-    "id": "gu_1465",
+    "id": "gu_1413",
     "name": "Kiritsinh Dabhi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4513,14 +4513,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4549,7 +4549,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4582,7 +4582,7 @@
     }
   },
   {
-    "id": "gu_1466",
+    "id": "gu_1414",
     "name": "Kalabhai Dabhi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4592,15 +4592,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4628,7 +4628,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4661,7 +4661,7 @@
     }
   },
   {
-    "id": "gu_1467",
+    "id": "gu_1415",
     "name": "Parshottam Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4671,14 +4671,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4707,7 +4707,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4740,7 +4740,7 @@
     }
   },
   {
-    "id": "gu_1468",
+    "id": "gu_1416",
     "name": "Kiritsinh Rana",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4750,15 +4750,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4786,7 +4786,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4819,7 +4819,7 @@
     }
   },
   {
-    "id": "gu_1469",
+    "id": "gu_1417",
     "name": "Jagdish Makwana",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4835,9 +4835,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4865,7 +4865,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4898,7 +4898,7 @@
     }
   },
   {
-    "id": "gu_1470",
+    "id": "gu_1418",
     "name": "Shamji Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4908,14 +4908,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -4944,7 +4944,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -4977,7 +4977,7 @@
     }
   },
   {
-    "id": "gu_1471",
+    "id": "gu_1419",
     "name": "Prakash Varmora",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -4987,15 +4987,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5023,7 +5023,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5056,7 +5056,7 @@
     }
   },
   {
-    "id": "gu_1472",
+    "id": "gu_1420",
     "name": "Kantilal Amrutiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5066,14 +5066,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5102,7 +5102,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5135,7 +5135,7 @@
     }
   },
   {
-    "id": "gu_1473",
+    "id": "gu_1421",
     "name": "Durlabhji Dethariya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5145,15 +5145,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5181,7 +5181,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5214,7 +5214,7 @@
     }
   },
   {
-    "id": "gu_1474",
+    "id": "gu_1422",
     "name": "Jitu Somani",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5224,15 +5224,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5260,7 +5260,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5293,7 +5293,7 @@
     }
   },
   {
-    "id": "gu_1475",
+    "id": "gu_1423",
     "name": "Uday Kangad",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5303,14 +5303,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5339,7 +5339,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5372,7 +5372,7 @@
     }
   },
   {
-    "id": "gu_1476",
+    "id": "gu_1424",
     "name": "Darshita Shah",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5382,15 +5382,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5418,7 +5418,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5451,7 +5451,7 @@
     }
   },
   {
-    "id": "gu_1477",
+    "id": "gu_1425",
     "name": "Rameshbhai Tilala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5461,15 +5461,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5497,7 +5497,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5530,7 +5530,7 @@
     }
   },
   {
-    "id": "gu_1478",
+    "id": "gu_1426",
     "name": "Bhanuben Babariya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5540,15 +5540,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5576,7 +5576,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "gu_1479",
+    "id": "gu_1427",
     "name": "Kunvarjibhai Bavaliya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5619,15 +5619,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5655,7 +5655,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5688,7 +5688,7 @@
     }
   },
   {
-    "id": "gu_1480",
+    "id": "gu_1428",
     "name": "Geetaba Jadeja",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5698,15 +5698,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5734,7 +5734,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5767,7 +5767,7 @@
     }
   },
   {
-    "id": "gu_1481",
+    "id": "gu_1429",
     "name": "Jayeshbhai Radadiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5777,15 +5777,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5813,7 +5813,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5846,7 +5846,7 @@
     }
   },
   {
-    "id": "gu_1482",
+    "id": "gu_1430",
     "name": "Mahendrabhai Padalia",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5856,15 +5856,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5892,7 +5892,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5925,7 +5925,7 @@
     }
   },
   {
-    "id": "gu_1483",
+    "id": "gu_1431",
     "name": "Meghjibhai Chavda",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -5941,9 +5941,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5971,7 +5971,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6004,7 +6004,7 @@
     }
   },
   {
-    "id": "gu_1484",
+    "id": "gu_1432",
     "name": "Raghavji Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6014,15 +6014,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6050,7 +6050,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6083,7 +6083,7 @@
     }
   },
   {
-    "id": "gu_1485",
+    "id": "gu_1433",
     "name": "Rivaba Jadeja",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6093,7 +6093,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Grant (MLA-LADS)",
     "fundUtilizationPercentage": 91.3,
     "ladFundAllocatedINR": 30000000,
@@ -6129,7 +6129,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6162,7 +6162,7 @@
     }
   },
   {
-    "id": "gu_1486",
+    "id": "gu_1434",
     "name": "Divyesh Akbari",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6172,15 +6172,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6208,7 +6208,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6241,7 +6241,7 @@
     }
   },
   {
-    "id": "gu_1487",
+    "id": "gu_1435",
     "name": "Hemant Ahir",
     "role": "MLA",
     "party": "Aam Aadmi Party",
@@ -6251,15 +6251,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6287,7 +6287,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6320,7 +6320,7 @@
     }
   },
   {
-    "id": "gu_1488",
+    "id": "gu_1436",
     "name": "Mulubhai Bera",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6330,15 +6330,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6366,7 +6366,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6399,7 +6399,7 @@
     }
   },
   {
-    "id": "gu_1489",
+    "id": "gu_1437",
     "name": "Pabubha Manek",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6409,15 +6409,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6445,7 +6445,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6478,7 +6478,7 @@
     }
   },
   {
-    "id": "gu_1490",
+    "id": "gu_1438",
     "name": "Arjun Modhwadia",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6488,15 +6488,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6524,7 +6524,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6557,7 +6557,7 @@
     }
   },
   {
-    "id": "gu_1491",
+    "id": "gu_1439",
     "name": "Kandhal Jadeja",
     "role": "MLA",
     "party": "Samajwadi Party",
@@ -6567,15 +6567,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6603,7 +6603,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6636,7 +6636,7 @@
     }
   },
   {
-    "id": "gu_1492",
+    "id": "gu_1440",
     "name": "Arvind Ladani",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -6646,15 +6646,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6682,7 +6682,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6715,7 +6715,7 @@
     }
   },
   {
-    "id": "gu_1493",
+    "id": "gu_1441",
     "name": "Sanjay Koradia",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6725,15 +6725,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6761,7 +6761,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6794,7 +6794,7 @@
     }
   },
   {
-    "id": "gu_1494",
+    "id": "gu_1442",
     "name": "Bhupat Bhayani",
     "role": "MLA",
     "party": "Aam Aadmi Party",
@@ -6804,14 +6804,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6840,7 +6840,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6873,7 +6873,7 @@
     }
   },
   {
-    "id": "gu_1495",
+    "id": "gu_1443",
     "name": "Devabhai Malam",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6883,15 +6883,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6919,7 +6919,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -6952,7 +6952,7 @@
     }
   },
   {
-    "id": "gu_1496",
+    "id": "gu_1444",
     "name": "Bhagvanjibhai Karagatiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -6962,15 +6962,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6998,7 +6998,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7031,7 +7031,7 @@
     }
   },
   {
-    "id": "gu_1497",
+    "id": "gu_1445",
     "name": "Vimal Chudasma",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -7041,14 +7041,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7077,7 +7077,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7110,7 +7110,7 @@
     }
   },
   {
-    "id": "gu_1498",
+    "id": "gu_1446",
     "name": "Bhagabhai Dhanabhai Barad",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7126,8 +7126,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7156,7 +7156,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7189,7 +7189,7 @@
     }
   },
   {
-    "id": "gu_1499",
+    "id": "gu_1447",
     "name": "Pradyuman Vaja",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7199,15 +7199,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7235,7 +7235,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7268,7 +7268,7 @@
     }
   },
   {
-    "id": "gu_1500",
+    "id": "gu_1448",
     "name": "Kalubhai Rathod",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7278,14 +7278,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7314,7 +7314,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7347,7 +7347,7 @@
     }
   },
   {
-    "id": "gu_1501",
+    "id": "gu_1449",
     "name": "Jaysukhbhai Kakadiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7363,9 +7363,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7393,7 +7393,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7426,7 +7426,7 @@
     }
   },
   {
-    "id": "gu_1502",
+    "id": "gu_1450",
     "name": "Kaushik Kantibhai Vekariya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7436,15 +7436,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7472,7 +7472,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7505,7 +7505,7 @@
     }
   },
   {
-    "id": "gu_1503",
+    "id": "gu_1451",
     "name": "Janakbhai Talaviya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7515,7 +7515,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
@@ -7551,7 +7551,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7584,7 +7584,7 @@
     }
   },
   {
-    "id": "gu_1504",
+    "id": "gu_1452",
     "name": "Mahesh Kaswala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7600,8 +7600,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7630,7 +7630,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7663,7 +7663,7 @@
     }
   },
   {
-    "id": "gu_1505",
+    "id": "gu_1453",
     "name": "Hirabhai Solanki",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7673,15 +7673,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7709,7 +7709,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7742,7 +7742,7 @@
     }
   },
   {
-    "id": "gu_1506",
+    "id": "gu_1454",
     "name": "Shivabhai Gohil",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7752,15 +7752,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7788,7 +7788,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7821,7 +7821,7 @@
     }
   },
   {
-    "id": "gu_1507",
+    "id": "gu_1455",
     "name": "Gautambhai Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7831,15 +7831,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7867,7 +7867,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7900,7 +7900,7 @@
     }
   },
   {
-    "id": "gu_1508",
+    "id": "gu_1456",
     "name": "Sudhir Vaghani",
     "role": "MLA",
     "party": "Aam Aadmi Party",
@@ -7910,14 +7910,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7946,7 +7946,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -7979,7 +7979,7 @@
     }
   },
   {
-    "id": "gu_1509",
+    "id": "gu_1457",
     "name": "Bhikabhai Baraiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -7989,15 +7989,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8025,7 +8025,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8058,7 +8058,7 @@
     }
   },
   {
-    "id": "gu_1510",
+    "id": "gu_1458",
     "name": "Parshottam Solanki",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8068,15 +8068,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8104,7 +8104,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8137,7 +8137,7 @@
     }
   },
   {
-    "id": "gu_1511",
+    "id": "gu_1459",
     "name": "Sejalben Pandya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8147,15 +8147,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8183,7 +8183,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8216,7 +8216,7 @@
     }
   },
   {
-    "id": "gu_1512",
+    "id": "gu_1460",
     "name": "Jitu Vaghani",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8232,8 +8232,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8262,7 +8262,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8295,7 +8295,7 @@
     }
   },
   {
-    "id": "gu_1513",
+    "id": "gu_1461",
     "name": "Shambhuprasad Tundiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8305,15 +8305,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8341,7 +8341,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8374,7 +8374,7 @@
     }
   },
   {
-    "id": "gu_1514",
+    "id": "gu_1462",
     "name": "Umesh Makwana",
     "role": "MLA",
     "party": "Aam Aadmi Party",
@@ -8384,15 +8384,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8420,7 +8420,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8453,7 +8453,7 @@
     }
   },
   {
-    "id": "gu_1515",
+    "id": "gu_1463",
     "name": "Chirag Patel",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8463,15 +8463,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8499,7 +8499,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8532,7 +8532,7 @@
     }
   },
   {
-    "id": "gu_1516",
+    "id": "gu_1464",
     "name": "Ramanbhai Bhikhabhai Solanki",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8542,15 +8542,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8578,7 +8578,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8611,7 +8611,7 @@
     }
   },
   {
-    "id": "gu_1517",
+    "id": "gu_1465",
     "name": "Amit Chavda",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -8621,15 +8621,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8657,7 +8657,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8690,7 +8690,7 @@
     }
   },
   {
-    "id": "gu_1518",
+    "id": "gu_1466",
     "name": "Govindbhai Raijibhai Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8700,14 +8700,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8736,7 +8736,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8769,7 +8769,7 @@
     }
   },
   {
-    "id": "gu_1519",
+    "id": "gu_1467",
     "name": "Yogesh R. Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8779,15 +8779,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8815,7 +8815,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8848,7 +8848,7 @@
     }
   },
   {
-    "id": "gu_1520",
+    "id": "gu_1468",
     "name": "Kamleshbhai Rameshbhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8858,15 +8858,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8894,7 +8894,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -8927,7 +8927,7 @@
     }
   },
   {
-    "id": "gu_1521",
+    "id": "gu_1469",
     "name": "Vipulkumar Vinubhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -8937,14 +8937,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8973,7 +8973,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9006,7 +9006,7 @@
     }
   },
   {
-    "id": "gu_1522",
+    "id": "gu_1470",
     "name": "Kalpeshbhai Ashabhai Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9016,15 +9016,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9052,7 +9052,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9085,7 +9085,7 @@
     }
   },
   {
-    "id": "gu_1523",
+    "id": "gu_1471",
     "name": "Pankaj Desai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9095,15 +9095,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9131,7 +9131,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9164,7 +9164,7 @@
     }
   },
   {
-    "id": "gu_1524",
+    "id": "gu_1472",
     "name": "Arjunsinh Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9180,9 +9180,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9210,7 +9210,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9243,7 +9243,7 @@
     }
   },
   {
-    "id": "gu_1525",
+    "id": "gu_1473",
     "name": "Sanjaysinh Mahida",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9253,15 +9253,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9289,7 +9289,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9322,7 +9322,7 @@
     }
   },
   {
-    "id": "gu_1526",
+    "id": "gu_1474",
     "name": "Yogendrasinh Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9332,14 +9332,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9368,7 +9368,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9401,7 +9401,7 @@
     }
   },
   {
-    "id": "gu_1527",
+    "id": "gu_1475",
     "name": "Rajeshkumar Zala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9411,15 +9411,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9447,7 +9447,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9480,7 +9480,7 @@
     }
   },
   {
-    "id": "gu_1528",
+    "id": "gu_1476",
     "name": "Mansinh Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9490,7 +9490,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
@@ -9526,7 +9526,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9559,7 +9559,7 @@
     }
   },
   {
-    "id": "gu_1529",
+    "id": "gu_1477",
     "name": "Gulabsinh Chauhan",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -9569,15 +9569,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9605,7 +9605,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9638,7 +9638,7 @@
     }
   },
   {
-    "id": "gu_1530",
+    "id": "gu_1478",
     "name": "Kuber Dindor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9648,15 +9648,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9684,7 +9684,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9717,7 +9717,7 @@
     }
   },
   {
-    "id": "gu_1531",
+    "id": "gu_1479",
     "name": "Jethabhai Ahir",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9727,14 +9727,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 18,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 17,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9763,7 +9763,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9796,7 +9796,7 @@
     }
   },
   {
-    "id": "gu_1532",
+    "id": "gu_1480",
     "name": "Nimisha Suthar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9806,15 +9806,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9842,7 +9842,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9875,7 +9875,7 @@
     }
   },
   {
-    "id": "gu_1533",
+    "id": "gu_1481",
     "name": "C.K Raulji",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9885,14 +9885,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9921,7 +9921,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -9954,7 +9954,7 @@
     }
   },
   {
-    "id": "gu_1534",
+    "id": "gu_1482",
     "name": "Fatesinh Chauhan",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -9970,8 +9970,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10000,7 +10000,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10033,7 +10033,7 @@
     }
   },
   {
-    "id": "gu_1535",
+    "id": "gu_1483",
     "name": "Jaydrathsinh Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10043,15 +10043,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10079,7 +10079,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10112,7 +10112,7 @@
     }
   },
   {
-    "id": "gu_1536",
+    "id": "gu_1484",
     "name": "Ramesh Katara",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10122,15 +10122,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10158,7 +10158,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10191,7 +10191,7 @@
     }
   },
   {
-    "id": "gu_1537",
+    "id": "gu_1485",
     "name": "Mahesh Bhuriya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10207,8 +10207,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 14,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -10237,7 +10237,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10270,7 +10270,7 @@
     }
   },
   {
-    "id": "gu_1538",
+    "id": "gu_1486",
     "name": "Shaileshbhai Bhabhor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10280,7 +10280,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
@@ -10349,7 +10349,7 @@
     }
   },
   {
-    "id": "gu_1539",
+    "id": "gu_1487",
     "name": "Kanaiyalal Kishori",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10359,15 +10359,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10395,7 +10395,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10428,7 +10428,7 @@
     }
   },
   {
-    "id": "gu_1540",
+    "id": "gu_1488",
     "name": "Mahendrabhai Bhabhor",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10438,15 +10438,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10507,7 +10507,7 @@
     }
   },
   {
-    "id": "gu_1541",
+    "id": "gu_1489",
     "name": "Bachubhai Khabad",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10517,15 +10517,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10553,7 +10553,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10586,7 +10586,7 @@
     }
   },
   {
-    "id": "gu_1542",
+    "id": "gu_1490",
     "name": "Ketan Inamdar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10602,9 +10602,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10632,7 +10632,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10665,7 +10665,7 @@
     }
   },
   {
-    "id": "gu_1543",
+    "id": "gu_1491",
     "name": "Dharmendrasinh Vaghela",
     "role": "MLA",
     "party": "Ind",
@@ -10675,15 +10675,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10711,7 +10711,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10744,7 +10744,7 @@
     }
   },
   {
-    "id": "gu_1544",
+    "id": "gu_1492",
     "name": "Rajendrasinh Rathva",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10754,15 +10754,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10790,7 +10790,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10823,7 +10823,7 @@
     }
   },
   {
-    "id": "gu_1545",
+    "id": "gu_1493",
     "name": "Jayantibhai Rathva",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10833,15 +10833,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10869,7 +10869,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10902,7 +10902,7 @@
     }
   },
   {
-    "id": "gu_1546",
+    "id": "gu_1494",
     "name": "Abhesinh Tadvi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10912,15 +10912,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -10948,7 +10948,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -10981,7 +10981,7 @@
     }
   },
   {
-    "id": "gu_1547",
+    "id": "gu_1495",
     "name": "Shaileshbhai Mehta",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -10991,14 +10991,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -11027,7 +11027,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11060,7 +11060,7 @@
     }
   },
   {
-    "id": "gu_1548",
+    "id": "gu_1496",
     "name": "Manisha Vakil",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11076,9 +11076,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11106,7 +11106,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11139,7 +11139,7 @@
     }
   },
   {
-    "id": "gu_1549",
+    "id": "gu_1497",
     "name": "Keyur Rokadia",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11155,9 +11155,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11185,7 +11185,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11218,7 +11218,7 @@
     }
   },
   {
-    "id": "gu_1550",
+    "id": "gu_1498",
     "name": "Chaitanya Desai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11228,14 +11228,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -11264,7 +11264,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11297,7 +11297,7 @@
     }
   },
   {
-    "id": "gu_1551",
+    "id": "gu_1499",
     "name": "Balkrushna Shukla",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11307,15 +11307,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11343,7 +11343,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11376,7 +11376,7 @@
     }
   },
   {
-    "id": "gu_1552",
+    "id": "gu_1500",
     "name": "Yogesh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11386,15 +11386,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11422,7 +11422,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11455,7 +11455,7 @@
     }
   },
   {
-    "id": "gu_1553",
+    "id": "gu_1501",
     "name": "Chaitanyasinh Pratapsinh Zala",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11465,14 +11465,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -11501,7 +11501,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11534,7 +11534,7 @@
     }
   },
   {
-    "id": "gu_1554",
+    "id": "gu_1502",
     "name": "Akshaykumar Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11580,7 +11580,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11613,7 +11613,7 @@
     }
   },
   {
-    "id": "gu_1555",
+    "id": "gu_1503",
     "name": "Darshna Vasava",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11623,15 +11623,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11659,7 +11659,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11692,7 +11692,7 @@
     }
   },
   {
-    "id": "gu_1556",
+    "id": "gu_1504",
     "name": "Chaitar Vasava",
     "role": "MLA",
     "party": "Aam Aadmi Party",
@@ -11702,15 +11702,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11738,7 +11738,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11771,7 +11771,7 @@
     }
   },
   {
-    "id": "gu_1557",
+    "id": "gu_1505",
     "name": "Devkishordasji Swami",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11781,14 +11781,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -11817,7 +11817,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11850,7 +11850,7 @@
     }
   },
   {
-    "id": "gu_1558",
+    "id": "gu_1506",
     "name": "Arunsinh Rana",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11860,7 +11860,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
@@ -11896,7 +11896,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -11929,7 +11929,7 @@
     }
   },
   {
-    "id": "gu_1559",
+    "id": "gu_1507",
     "name": "Ritesh Vasava",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -11945,9 +11945,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -11975,7 +11975,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12008,7 +12008,7 @@
     }
   },
   {
-    "id": "gu_1560",
+    "id": "gu_1508",
     "name": "Ramesh Mistry",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12018,14 +12018,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -12054,7 +12054,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12087,7 +12087,7 @@
     }
   },
   {
-    "id": "gu_1561",
+    "id": "gu_1509",
     "name": "Ishwarsinh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12097,14 +12097,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -12133,7 +12133,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12166,7 +12166,7 @@
     }
   },
   {
-    "id": "gu_1562",
+    "id": "gu_1510",
     "name": "Mukeshbhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12182,9 +12182,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12212,7 +12212,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12245,7 +12245,7 @@
     }
   },
   {
-    "id": "gu_1563",
+    "id": "gu_1511",
     "name": "Ganpat Vasava",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12261,8 +12261,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -12291,7 +12291,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12324,7 +12324,7 @@
     }
   },
   {
-    "id": "gu_1564",
+    "id": "gu_1512",
     "name": "Kunvarji Halpati",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12334,14 +12334,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -12370,7 +12370,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12403,7 +12403,7 @@
     }
   },
   {
-    "id": "gu_1565",
+    "id": "gu_1513",
     "name": "Praful Pansheriya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12413,15 +12413,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12449,7 +12449,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12482,7 +12482,7 @@
     }
   },
   {
-    "id": "gu_1566",
+    "id": "gu_1514",
     "name": "Arvind Rana",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12492,15 +12492,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
+    "worksRecommendedCount": 37,
     "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12528,7 +12528,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12561,7 +12561,7 @@
     }
   },
   {
-    "id": "gu_1567",
+    "id": "gu_1515",
     "name": "Kanti Balar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12571,15 +12571,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12607,7 +12607,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12640,7 +12640,7 @@
     }
   },
   {
-    "id": "gu_1568",
+    "id": "gu_1516",
     "name": "Kishor Kanani",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12650,15 +12650,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12686,7 +12686,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12719,7 +12719,7 @@
     }
   },
   {
-    "id": "gu_1569",
+    "id": "gu_1517",
     "name": "Pravin Ghoghari",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12735,9 +12735,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12765,7 +12765,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12798,7 +12798,7 @@
     }
   },
   {
-    "id": "gu_1570",
+    "id": "gu_1518",
     "name": "Sangita Patil",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12808,14 +12808,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -12844,7 +12844,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12877,7 +12877,7 @@
     }
   },
   {
-    "id": "gu_1571",
+    "id": "gu_1519",
     "name": "Manu Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -12887,15 +12887,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -12923,7 +12923,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -12956,9 +12956,9 @@
     }
   },
   {
-    "id": "gu_1572",
+    "id": "gu_1520",
     "name": "Harsh Sanghavi",
-    "role": "MLA",
+    "role": "Deputy Chief Minister / MLA",
     "party": "Bharatiya Janata Party",
     "photoUrl": "/assets/candidates/harsh_sanghavi.jpg",
     "constituencyName": "Majura",
@@ -13002,7 +13002,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13035,7 +13035,7 @@
     }
   },
   {
-    "id": "gu_1573",
+    "id": "gu_1521",
     "name": "Vinodbhai Moradiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13045,15 +13045,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13081,7 +13081,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13114,7 +13114,7 @@
     }
   },
   {
-    "id": "gu_1574",
+    "id": "gu_1522",
     "name": "Purnesh Modi",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13124,14 +13124,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -13160,7 +13160,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13193,7 +13193,7 @@
     }
   },
   {
-    "id": "gu_1575",
+    "id": "gu_1523",
     "name": "Sandip Desai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13203,14 +13203,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -13239,7 +13239,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13272,7 +13272,7 @@
     }
   },
   {
-    "id": "gu_1576",
+    "id": "gu_1524",
     "name": "Ishwarbhai Parmar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13282,15 +13282,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13318,7 +13318,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13351,7 +13351,7 @@
     }
   },
   {
-    "id": "gu_1577",
+    "id": "gu_1525",
     "name": "Mohanbhai Dhodiya",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13361,15 +13361,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13397,7 +13397,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13430,7 +13430,7 @@
     }
   },
   {
-    "id": "gu_1578",
+    "id": "gu_1526",
     "name": "Mohan Kokani",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13446,8 +13446,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 16,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
     "worksPendingCount": 2,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -13476,7 +13476,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13509,7 +13509,7 @@
     }
   },
   {
-    "id": "gu_1579",
+    "id": "gu_1527",
     "name": "Jayram Gamit",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13519,15 +13519,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13555,7 +13555,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13588,7 +13588,7 @@
     }
   },
   {
-    "id": "gu_1580",
+    "id": "gu_1528",
     "name": "Vijay Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13604,9 +13604,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13634,7 +13634,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13667,7 +13667,7 @@
     }
   },
   {
-    "id": "gu_1581",
+    "id": "gu_1529",
     "name": "R. C. Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13677,15 +13677,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13713,7 +13713,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13746,7 +13746,7 @@
     }
   },
   {
-    "id": "gu_1582",
+    "id": "gu_1530",
     "name": "Rakesh Desai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13756,15 +13756,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13792,7 +13792,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13825,7 +13825,7 @@
     }
   },
   {
-    "id": "gu_1583",
+    "id": "gu_1531",
     "name": "Naresh Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13835,15 +13835,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -13871,7 +13871,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -13904,7 +13904,7 @@
     }
   },
   {
-    "id": "gu_1584",
+    "id": "gu_1532",
     "name": "Anantkumar Patel",
     "role": "MLA",
     "party": "Indian National Congress",
@@ -13920,8 +13920,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -13983,7 +13983,7 @@
     }
   },
   {
-    "id": "gu_1585",
+    "id": "gu_1533",
     "name": "Arvind Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -13993,15 +13993,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -14029,7 +14029,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -14062,7 +14062,7 @@
     }
   },
   {
-    "id": "gu_1586",
+    "id": "gu_1534",
     "name": "Bharatbhai Patel",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -14078,9 +14078,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -14108,7 +14108,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -14141,7 +14141,7 @@
     }
   },
   {
-    "id": "gu_1587",
+    "id": "gu_1535",
     "name": "Kanubhai Desai",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -14157,9 +14157,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -14187,7 +14187,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -14220,7 +14220,7 @@
     }
   },
   {
-    "id": "gu_1588",
+    "id": "gu_1536",
     "name": "Jitubhai Chaudhary",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -14230,14 +14230,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Gujarat Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.7,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -14266,7 +14266,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -14299,7 +14299,7 @@
     }
   },
   {
-    "id": "gu_1589",
+    "id": "gu_1537",
     "name": "Ramanlal Patkar",
     "role": "MLA",
     "party": "Bharatiya Janata Party",
@@ -14315,8 +14315,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 27500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Gujarat Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -14345,7 +14345,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
