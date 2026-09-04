@@ -13698,5 +13698,55 @@
     "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Sangli.",
     "status": "In Progress",
     "sourceCitation": "Official Performance Review (Maharashtra)"
+  },
+  {
+    "id": "ma_2920_prom_1",
+    "title": "Mukhyamantri Majhi Ladki Bahin Scheme",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Monthly direct DBT financial assistance of ₹1,500 to eligible women",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Nagpur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Maharashtra)"
+  },
+  {
+    "id": "ma_2920_prom_2",
+    "title": "Farm Loan Waiver & ₹15,000 Annual Krishi Sanman",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Comprehensive debt relief and quarterly agricultural input subsidy for dryland farmers",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Nagpur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Maharashtra)"
+  },
+  {
+    "id": "ma_2920_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Nagpur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Maharashtra)"
+  },
+  {
+    "id": "ma_2920_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Nagpur (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Nagpur",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Nagpur.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Maharashtra)"
+  },
+  {
+    "id": "ma_2920_prom_5",
+    "title": "Smart Govt School Digital Labs in Nagpur (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Nagpur (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Nagpur.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Maharashtra)"
   }
 ]

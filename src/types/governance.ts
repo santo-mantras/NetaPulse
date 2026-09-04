@@ -28,6 +28,7 @@ export interface CandidateProfile {
     id: string;
     name: string;
     role: 'MLA' | 'MP' | 'Corporator';
+    gender?: 'Male' | 'Female' | 'Other';
     party: string;
     photoUrl: string;
     constituencyName: string;

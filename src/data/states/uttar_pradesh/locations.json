@@ -9094,5 +9094,53 @@
       "hospitalsSource": "National Health Mission (NHM) District Health Directory",
       "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
     }
+  },
+  {
+    "id": "loc_ut_2917",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Varanasi",
+    "assemblyConstituencyCode": "PC-UP-77",
+    "assemblyConstituencyName": "Varanasi (Lok Sabha)",
+    "crimeRate": "260.9 per 100k",
+    "crimeRatePerLakh": 260.9,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 240,
+    "regionalInsight": {
+      "title": "Varanasi (Lok Sabha) Civic Context",
+      "historicalFact": "One of the world's oldest continuously inhabited spiritual centers on the banks of the sacred Ganges, world-famous for Banarasi silk and music.",
+      "currentChallenge": "Key public focus areas include sewage treatment capacity to ensure zero untreated discharge into the Ganga, old city heritage walkway preservation, and traffic flow."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_2919",
+    "stateName": "Uttar Pradesh",
+    "districtName": "Lucknow",
+    "assemblyConstituencyCode": "PC-UP-35",
+    "assemblyConstituencyName": "Lucknow (Lok Sabha)",
+    "crimeRate": "149.5 per 100k",
+    "crimeRatePerLakh": 149.5,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Lucknow (Lok Sabha) Civic Context",
+      "historicalFact": "The state capital and cultural seat of the Nawabs of Awadh, renowned for its architectural monuments, Chikankari textiles, and administrative governance.",
+      "currentChallenge": "Civic priorities include Gomti river pollution control, outer peripheral road decongestion, and upgrading municipal health centers in newly expanded wards."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
   }
 ]

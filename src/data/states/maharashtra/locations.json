@@ -6574,5 +6574,29 @@
       "hospitalsSource": "National Health Mission (NHM) District Health Directory",
       "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
     }
+  },
+  {
+    "id": "loc_ma_2920",
+    "stateName": "Maharashtra",
+    "districtName": "Nagpur",
+    "assemblyConstituencyCode": "PC-MH-10",
+    "assemblyConstituencyName": "Nagpur (Lok Sabha)",
+    "crimeRate": "225.9 per 100k",
+    "crimeRatePerLakh": 225.9,
+    "literacyRate": 85.8,
+    "literacyRatePercentage": 85.8,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 289,
+    "regionalInsight": {
+      "title": "Nagpur (Lok Sabha) Civic Context",
+      "historicalFact": "The winter capital of Maharashtra and geographical center of India, renowned as the Orange City and a major logistics hub.",
+      "currentChallenge": "Major public focus areas include multi-modal international cargo hub expansion (MIHAN), Nag river pollution abatement, and thermal power emissions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
   }
 ]

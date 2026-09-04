@@ -4,6 +4,7 @@ import { LocationSelector } from './components/LocationSelector';
 import { CandidateDossier } from './components/CandidateDossier';
 import { CandidateCompareModal } from './components/CandidateCompareModal';
 import { NetaPulseLogo } from './components/NetaPulseLogo';
+import { CivicPulseTicker } from './components/CivicPulseTicker';
 import { mockLocations, mockCandidates, mockPromises, mockNews } from './data/dataAdapter';
 import type { LocationHierarchy, CandidateProfile } from './types/governance';
 import { motion } from 'framer-motion';
@@ -15,6 +16,16 @@ function App() {
   const [selectedLocation, setSelectedLocation] = useState<LocationHierarchy>(defaultLandingLoc);
   const [searchQuery, setSearchQuery] = useState('');
   const [isCompareModalOpen, setIsCompareModalOpen] = useState(false);
+  const [resetKey, setResetKey] = useState(0);
+
+  const handleHomeRedirect = (e: React.MouseEvent) => {
+    e.preventDefault();
+    setSearchQuery('');
+    setSelectedLocation(defaultLandingLoc);
+    setResetKey(prev => prev + 1);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.history.pushState({}, '', '/');
+  };
 
   // Toggle theme
   useEffect(() => {
@@ -34,7 +45,28 @@ function App() {
     const searchResults = Object.values(mockCandidates).filter(c => 
       c.name.toLowerCase().includes(q) || 
       c.constituencyName.toLowerCase().includes(q)
-    );
+    ).sort((a, b) => {
+      const aNameLower = a.name.toLowerCase();
+      const bNameLower = b.name.toLowerCase();
+      const aNameStart = aNameLower.startsWith(q) ? -10 : (aNameLower.split(' ').some(w => w.startsWith(q)) ? -6 : 0);
+      const bNameStart = bNameLower.startsWith(q) ? -10 : (bNameLower.split(' ').some(w => w.startsWith(q)) ? -6 : 0);
+
+      const getRoleRank = (role?: string) => {
+        if (!role) return 0;
+        const r = role.toLowerCase();
+        if (r.includes('prime minister')) return -15;
+        if (r.includes('union') || r.includes('cabinet minister')) return -8;
+        if (r.includes('chief minister') && !r.includes('former')) return -6;
+        if (r.includes('leader of opposition') || r.includes('lop')) return -4;
+        if (r.includes('deputy')) return -3;
+        if (r.includes('mp') || r.includes('lok sabha')) return -2;
+        return 0;
+      };
+
+      const aRoleWeight = getRoleRank(a.role);
+      const bRoleWeight = getRoleRank(b.role);
+      return (aNameStart + aRoleWeight) - (bNameStart + bRoleWeight);
+    });
     
     if (searchResults.length > 0) {
       primaryCandidate = searchResults[0];
@@ -71,33 +103,30 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-100 dark:bg-slate-950 transition-colors duration-300 font-sans selection:bg-blue-200 dark:selection:bg-blue-900">
       
-      {/* Civic Pulse Ticker */}
-      <div className="bg-indigo-600 dark:bg-indigo-900 text-white text-xs font-semibold py-2 overflow-hidden whitespace-nowrap relative flex items-center">
-        <motion.div
-          animate={{ x: [800, -1000] }}
-          transition={{ repeat: Infinity, duration: 15, ease: "linear" }}
-          className="inline-block"
-        >
-          <span className="mr-8">🚀 <span className="text-indigo-200">LOK SABHA WINTER SESSION:</span> Average MP Attendance is 82%</span>
-          <span className="mr-8">⚖️ <span className="text-indigo-200">SUPREME COURT:</span> New guidelines issued for expedited hearings of cases against MPs/MLAs</span>
-          <span>📉 <span className="text-indigo-200">TRANSPARENCY AUDIT:</span> 34% of local area development funds remained unutilized last quarter</span>
-        </motion.div>
-      </div>
+      {/* Dynamic 5-Line Civic Pulse Ticker */}
+      <CivicPulseTicker />
 
       {/* Header */}
       <header className="sticky top-0 z-30 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
         <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <NetaPulseLogo className="w-10 h-10" />
+          <a 
+            href="/"
+            onClick={handleHomeRedirect}
+            className="flex items-center gap-3 cursor-pointer group select-none focus:outline-none"
+            title="NetaPulse Home"
+          >
+            <div className="transition-transform duration-200 group-hover:scale-105">
+              <NetaPulseLogo className="w-10 h-10" />
+            </div>
             <div>
-              <h1 className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-700 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-tight">
+              <h1 className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-700 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-tight group-hover:opacity-90 transition-opacity">
                 NetaPulse
               </h1>
               <p className="text-[10px] sm:text-xs font-bold text-slate-500 dark:text-slate-400 tracking-wide mt-0.5" title="Satyānna pramaditavyam - Do not deviate from the truth.">
                 सत्यान्न प्रमदितव्यम्
               </p>
             </div>
-          </div>
+          </a>
 
           <button
             onClick={() => setDarkMode(!darkMode)}
@@ -124,6 +153,7 @@ function App() {
           </motion.div>
 
           <LocationSelector 
+            key={resetKey}
             locations={mockLocations} 
             candidates={Object.values(mockCandidates)}
             onLocationSelect={setSelectedLocation} 
@@ -136,6 +166,7 @@ function App() {
           {primaryCandidate ? (
             <CandidateDossier 
               candidate={primaryCandidate} 
+              allCandidates={Object.values(mockCandidates)}
               promises={mockPromises[primaryCandidate.id] || []}
               news={mockNews[primaryCandidate.id] || []}
               location={selectedLocation}
@@ -155,25 +186,15 @@ function App() {
       {/* Footer */}
       <footer className="mt-20 border-t border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 backdrop-blur-md py-8">
         <div className="max-w-6xl mx-auto px-4 text-center space-y-4">
-          <div className="flex flex-col items-center justify-center">
-            <p className="text-base text-slate-800 dark:text-slate-200 font-bold tracking-wide">
-              "सत्यान्न प्रमदितव्यम्"
-            </p>
-            <p className="text-xs text-slate-500 dark:text-slate-400 italic font-medium mt-0.5">
-              "Do not deviate from the truth."
-            </p>
-            <p className="text-[10px] text-slate-400 dark:text-slate-500 font-semibold tracking-wider uppercase mt-1">
-              — TAITTIRIYA UPANISHAD
-            </p>
-          </div>
-          
-          <p className="text-xs text-slate-500 dark:text-slate-500 font-medium max-w-3xl mx-auto">
+          <p className="text-xs text-slate-500 dark:text-slate-400 font-medium max-w-3xl mx-auto leading-relaxed">
             Disclaimer: All data is aggregated from open public domains including the Election Commission of India (ECI), PRS Legislative Research, and mainstream media outlets. NetaPulse does not alter primary affidavit data.
           </p>
-          <div className="flex flex-wrap items-center justify-center gap-4 text-xs font-bold text-slate-400 dark:text-slate-500">
-            <a href="#" className="hover:text-blue-500 transition-colors">ECI Portal</a> • 
-            <a href="#" className="hover:text-blue-500 transition-colors">PRS India</a> • 
-            <a href="#" className="hover:text-blue-500 transition-colors">Local Govt Directory</a>
+          <div className="flex flex-wrap items-center justify-center gap-3 text-xs font-bold text-slate-400 dark:text-slate-500 select-none">
+            <span>ECI Portal</span>
+            <span className="text-slate-300 dark:text-slate-600">•</span>
+            <span>PRS India</span>
+            <span className="text-slate-300 dark:text-slate-600">•</span>
+            <span>Local Govt Directory</span>
           </div>
         </div>
       </footer>

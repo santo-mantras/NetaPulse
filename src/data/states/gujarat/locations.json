@@ -4366,5 +4366,29 @@
       "hospitalsSource": "National Health Mission (NHM) District Health Directory",
       "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
     }
+  },
+  {
+    "id": "loc_gu_2918",
+    "stateName": "Gujarat",
+    "districtName": "Gandhinagar",
+    "assemblyConstituencyCode": "PC-GJ-06",
+    "assemblyConstituencyName": "Gandhinagar (Lok Sabha)",
+    "crimeRate": "262.0 per 100k",
+    "crimeRatePerLakh": 262.0,
+    "literacyRate": 82.5,
+    "literacyRatePercentage": 82.5,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Gandhinagar (Lok Sabha) Civic Context",
+      "historicalFact": "Gandhinagar is an enterprising trade and agricultural hub in Gujarat, renowned for cooperative dairying, entrepreneurial zeal, and community-led water harvesting.",
+      "currentChallenge": "Primary public focus includes minor canal network maintenance, industrial area power reliability, and modern healthcare facilities across Gandhinagar (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
   }
 ]

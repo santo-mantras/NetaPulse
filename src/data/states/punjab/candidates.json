@@ -3,6 +3,7 @@
     "id": "pu_368",
     "name": "Bhagwant Mann",
     "role": "Chief Minister of Punjab",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/bhagwant_mann.jpg",
     "constituencyName": "Dhuri",
@@ -10,7 +11,7 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
@@ -46,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 199000000,
     "declaredLiabilitiesINR": 33291972,
     "criminalCasesCount": 0,
@@ -82,6 +83,7 @@
     "id": "pu_369",
     "name": "Narinder Kaur Bharaj",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sangrur",
@@ -89,7 +91,7 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 59,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
@@ -125,7 +127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 150000000,
     "declaredLiabilitiesINR": 16853107,
     "criminalCasesCount": 0,
@@ -161,6 +163,7 @@
     "id": "pu_370",
     "name": "Aman Arora",
     "role": "Cabinet Minister for Housing & Urban Dev",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_3.jpg",
     "constituencyName": "Sunam",
@@ -168,7 +171,7 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
@@ -204,7 +207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 749000000,
     "declaredLiabilitiesINR": 85179586,
     "criminalCasesCount": 0,
@@ -240,6 +243,7 @@
     "id": "pu_371",
     "name": "Harpal Singh Cheema",
     "role": "Cabinet Minister for Finance",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_4.jpg",
     "constituencyName": "Dirba (SC)",
@@ -247,7 +251,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 111,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
@@ -283,7 +287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 258000000,
     "declaredLiabilitiesINR": 36422111,
     "criminalCasesCount": 0,
@@ -319,6 +323,7 @@
     "id": "pu_372",
     "name": "Barinder Kumar Goyal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Lehra",
@@ -326,7 +331,7 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 118,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
@@ -362,13 +367,13 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 742000000,
     "declaredLiabilitiesINR": 60688125,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/466/2021",
+        "caseNumber": "CC/544/2021",
         "court": "Chief Judicial Magistrate Court, Sangrur",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -405,6 +410,7 @@
     "id": "pu_373",
     "name": "Jeevan Jyot Kaur",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_6.jpg",
     "constituencyName": "Amritsar East",
@@ -412,7 +418,7 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 103,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
@@ -448,7 +454,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 239000000,
     "declaredLiabilitiesINR": 33405019,
     "criminalCasesCount": 0,
@@ -484,6 +490,7 @@
     "id": "pu_374",
     "name": "Kunwar Vijay Pratap Singh",
     "role": "MLA / Former IPS Officer",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_7.jpg",
     "constituencyName": "Amritsar North",
@@ -491,7 +498,7 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 43,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
@@ -527,7 +534,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 328000000,
     "declaredLiabilitiesINR": 49564000,
     "criminalCasesCount": 0,
@@ -563,6 +570,7 @@
     "id": "pu_375",
     "name": "Dr. Ajay Gupta",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Amritsar Central",
@@ -570,7 +578,7 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
@@ -606,19 +614,19 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 111000000,
     "declaredLiabilitiesINR": 9594680,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/364/2021",
+        "caseNumber": "CC/702/2021",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/4421/2022",
+        "caseNumber": "CR/7158/2022",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -655,6 +663,7 @@
     "id": "pu_376",
     "name": "Dr. Jasbir Singh Sandhu",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Amritsar West (SC)",
@@ -662,7 +671,7 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 77,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -698,7 +707,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 647000000,
     "declaredLiabilitiesINR": 88218614,
     "criminalCasesCount": 0,
@@ -734,6 +743,7 @@
     "id": "pu_377",
     "name": "Dr. Inderbir Singh Nijjar",
     "role": "MLA / Former Minister",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pu_dr__inderbir_singh_nijjar.jpg",
     "constituencyName": "Amritsar South",
@@ -741,7 +751,7 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
@@ -777,7 +787,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 89000000,
     "declaredLiabilitiesINR": 4956310,
     "criminalCasesCount": 0,
@@ -813,6 +823,7 @@
     "id": "pu_378",
     "name": "Ganieve Kaur Majithia",
     "role": "MLA",
+    "gender": "Female",
     "party": "Shiromani Akali Dal",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Majitha",
@@ -820,7 +831,7 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
@@ -856,7 +867,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 474000000,
     "declaredLiabilitiesINR": 25604652,
     "criminalCasesCount": 0,
@@ -892,6 +903,7 @@
     "id": "pu_379",
     "name": "Harbhajan Singh ETO",
     "role": "Cabinet Minister for Power",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jandiala (SC)",
@@ -899,7 +911,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
@@ -935,7 +947,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 49000000,
     "declaredLiabilitiesINR": 7366984,
     "criminalCasesCount": 0,
@@ -971,6 +983,7 @@
     "id": "pu_380",
     "name": "Jaswinder Singh Ramdas",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Attari (SC)",
@@ -978,7 +991,7 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 71,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
@@ -1014,19 +1027,19 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 66000000,
     "declaredLiabilitiesINR": 9367323,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/820/2021",
+        "caseNumber": "CC/863/2021",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/5329/2022",
+        "caseNumber": "CR/1985/2022",
         "court": "Chief Judicial Magistrate Court, Amritsar",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1063,6 +1076,7 @@
     "id": "pu_381",
     "name": "Sukhbinder Singh Sarkaria",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Raja Sansi",
@@ -1070,7 +1084,7 @@
     "attendancePercentage": 83,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 73,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
@@ -1106,7 +1120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 651000000,
     "declaredLiabilitiesINR": 96379569,
     "criminalCasesCount": 0,
@@ -1142,6 +1156,7 @@
     "id": "pu_382",
     "name": "Dalbir Singh Tong",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Baba Bakala (SC)",
@@ -1149,7 +1164,7 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 89,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
@@ -1185,7 +1200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 482000000,
     "declaredLiabilitiesINR": 45728837,
     "criminalCasesCount": 0,
@@ -1221,6 +1236,7 @@
     "id": "pu_383",
     "name": "Kuldeep Singh Dhaliwal",
     "role": "Cabinet Minister for NRI Affairs",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_16.jpg",
     "constituencyName": "Ajnala",
@@ -1228,7 +1244,7 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 123,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
@@ -1264,7 +1280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 124000000,
     "declaredLiabilitiesINR": 11544685,
     "criminalCasesCount": 0,
@@ -1300,6 +1316,7 @@
     "id": "pu_384",
     "name": "Ashok Prashar Pappu",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Ludhiana Central",
@@ -1343,7 +1360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 705000000,
     "declaredLiabilitiesINR": 80822977,
     "criminalCasesCount": 0,
@@ -1379,6 +1396,7 @@
     "id": "pu_385",
     "name": "Daljit Singh Grewal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_18.jpg",
     "constituencyName": "Ludhiana East",
@@ -1386,7 +1404,7 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
@@ -1422,7 +1440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 561000000,
     "declaredLiabilitiesINR": 90118488,
     "criminalCasesCount": 0,
@@ -1458,6 +1476,7 @@
     "id": "pu_386",
     "name": "Gurpreet Bassi Gogi",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_19.jpg",
     "constituencyName": "Ludhiana West",
@@ -1465,7 +1484,7 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 98,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 50000000,
@@ -1501,7 +1520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 630000000,
     "declaredLiabilitiesINR": 104123251,
     "criminalCasesCount": 0,
@@ -1537,6 +1556,7 @@
     "id": "pu_387",
     "name": "Rajinder Pal Kaur Chhina",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Ludhiana South",
@@ -1580,19 +1600,19 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 791000000,
     "declaredLiabilitiesINR": 73767809,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/797/2021",
+        "caseNumber": "CC/541/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/3140/2022",
+        "caseNumber": "CR/7907/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1629,6 +1649,7 @@
     "id": "pu_388",
     "name": "Madan Lal Bagga",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Ludhiana North",
@@ -1636,15 +1657,15 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
     "ladFundUnspentINR": 9000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1672,13 +1693,13 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 81000000,
     "declaredLiabilitiesINR": 3993639,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/829/2021",
+        "caseNumber": "CC/529/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -1715,6 +1736,7 @@
     "id": "pu_389",
     "name": "Kulwant Singh Sidhu",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Atam Nagar",
@@ -1722,15 +1744,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 121,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1758,19 +1780,19 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 7436430,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/979/2021",
+        "caseNumber": "CC/568/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/4960/2022",
+        "caseNumber": "CR/6287/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1807,6 +1829,7 @@
     "id": "pu_390",
     "name": "Jiwan Singh Sangowal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Gill (SC)",
@@ -1814,15 +1837,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1850,7 +1873,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 701000000,
     "declaredLiabilitiesINR": 89148098,
     "criminalCasesCount": 0,
@@ -1886,6 +1909,7 @@
     "id": "pu_391",
     "name": "Manwinder Singh Giaspura",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Payal (SC)",
@@ -1899,9 +1923,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1929,19 +1953,19 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 843000000,
     "declaredLiabilitiesINR": 103944657,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/464/2021",
+        "caseNumber": "CC/199/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/3804/2022",
+        "caseNumber": "CR/5479/2022",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -1978,6 +2002,7 @@
     "id": "pu_392",
     "name": "Manpreet Singh Ayali",
     "role": "MLA",
+    "gender": "Male",
     "party": "Shiromani Akali Dal",
     "photoUrl": "/assets/candidates/pb_25.jpg",
     "constituencyName": "Dakha",
@@ -1991,9 +2016,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
     "ladFundUnspentINR": 10500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 10,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2021,7 +2046,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 754000000,
     "declaredLiabilitiesINR": 122571982,
     "criminalCasesCount": 0,
@@ -2057,6 +2082,7 @@
     "id": "pu_393",
     "name": "Hakam Singh Thekedar",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Raikot (SC)",
@@ -2064,15 +2090,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 91,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2100,7 +2126,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 69000000,
     "declaredLiabilitiesINR": 11370639,
     "criminalCasesCount": 0,
@@ -2136,6 +2162,7 @@
     "id": "pu_394",
     "name": "Sarvjit Kaur Manuke",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jagraon (SC)",
@@ -2143,14 +2170,14 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 35,
     "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2179,13 +2206,13 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 181000000,
     "declaredLiabilitiesINR": 21194973,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/990/2021",
+        "caseNumber": "CC/974/2021",
         "court": "Chief Judicial Magistrate Court, Ludhiana",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2222,6 +2249,7 @@
     "id": "pu_395",
     "name": "Jagtar Singh Diyalpura",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Samrala",
@@ -2229,15 +2257,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2265,7 +2293,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 341000000,
     "declaredLiabilitiesINR": 51180286,
     "criminalCasesCount": 0,
@@ -2301,6 +2329,7 @@
     "id": "pu_396",
     "name": "Hardeep Singh Mundian",
     "role": "Cabinet Minister for Revenue",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sahnewal",
@@ -2308,7 +2337,7 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 105,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
@@ -2344,7 +2373,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 755000000,
     "declaredLiabilitiesINR": 44865435,
     "criminalCasesCount": 0,
@@ -2380,6 +2409,7 @@
     "id": "pu_397",
     "name": "Tarunpreet Singh Sond",
     "role": "Cabinet Minister for Tourism",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Khanna",
@@ -2423,7 +2453,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 391000000,
     "declaredLiabilitiesINR": 52187998,
     "criminalCasesCount": 0,
@@ -2459,6 +2489,7 @@
     "id": "pu_398",
     "name": "Raman Arora",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jalandhar Central",
@@ -2466,7 +2497,7 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 103,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
@@ -2502,7 +2533,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 477000000,
     "declaredLiabilitiesINR": 48946119,
     "criminalCasesCount": 0,
@@ -2538,6 +2569,7 @@
     "id": "pu_399",
     "name": "Avtar Singh Junior",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jalandhar North",
@@ -2551,9 +2583,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
     "ladFundUnspentINR": 9000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2581,7 +2613,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 749000000,
     "declaredLiabilitiesINR": 114766618,
     "criminalCasesCount": 0,
@@ -2617,6 +2649,7 @@
     "id": "pu_400",
     "name": "Mohinder Bhagat",
     "role": "Cabinet Minister for Defense Services",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jalandhar West (SC)",
@@ -2624,7 +2657,7 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 50000000,
@@ -2660,7 +2693,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 270000000,
     "declaredLiabilitiesINR": 13254934,
     "criminalCasesCount": 0,
@@ -2696,6 +2729,7 @@
     "id": "pu_401",
     "name": "Pargat Singh",
     "role": "MLA / Olympian",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/candidates/pb_34.jpg",
     "constituencyName": "Jalandhar Cantt",
@@ -2703,7 +2737,7 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 116,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
@@ -2745,7 +2779,7 @@
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/621/2021",
+        "caseNumber": "CC/674/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2782,6 +2816,7 @@
     "id": "pu_402",
     "name": "Balkar Singh",
     "role": "MLA / Former Minister",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Kartarpur (SC)",
@@ -2789,7 +2824,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -2861,6 +2896,7 @@
     "id": "pu_403",
     "name": "Sukhwinder Singh Kotli",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Adampur (SC)",
@@ -2874,9 +2910,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
     "ladFundUnspentINR": 11000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 11,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 10,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2904,13 +2940,13 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 552000000,
     "declaredLiabilitiesINR": 51981002,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/920/2021",
+        "caseNumber": "CC/253/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -2947,6 +2983,7 @@
     "id": "pu_404",
     "name": "Inderjit Kaur Mann",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Nakodar",
@@ -2954,15 +2991,15 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2990,13 +3027,13 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 511000000,
     "declaredLiabilitiesINR": 55731628,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/869/2021",
+        "caseNumber": "CC/478/2021",
         "court": "Chief Judicial Magistrate Court, Jalandhar",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3033,6 +3070,7 @@
     "id": "pu_405",
     "name": "Hardev Singh Laddi",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Shahkot",
@@ -3040,15 +3078,15 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 78.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39000000,
     "ladFundUnspentINR": 11000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 28,
-    "worksPendingCount": 9,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3076,7 +3114,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 137000000,
     "declaredLiabilitiesINR": 6767054,
     "criminalCasesCount": 0,
@@ -3112,6 +3150,7 @@
     "id": "pu_406",
     "name": "Vikramjit Singh Chaudhary",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/candidates/pb_39.jpg",
     "constituencyName": "Phillaur (SC)",
@@ -3119,7 +3158,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 108,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -3155,7 +3194,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 283000000,
     "declaredLiabilitiesINR": 50901510,
     "criminalCasesCount": 0,
@@ -3191,6 +3230,7 @@
     "id": "pu_407",
     "name": "Ajit Pal Singh Kohli",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Patiala Urban",
@@ -3198,7 +3238,7 @@
     "attendancePercentage": 81,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 117,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
@@ -3240,7 +3280,7 @@
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/809/2021",
+        "caseNumber": "CC/248/2021",
         "court": "Chief Judicial Magistrate Court, Patiala",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3277,6 +3317,7 @@
     "id": "pu_408",
     "name": "Dr. Balbir Singh",
     "role": "Cabinet Minister for Health",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Patiala Rural",
@@ -3284,7 +3325,7 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
@@ -3320,7 +3361,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 613000000,
     "declaredLiabilitiesINR": 84182786,
     "criminalCasesCount": 0,
@@ -3356,6 +3397,7 @@
     "id": "pu_409",
     "name": "Neena Mittal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Rajpura",
@@ -3363,7 +3405,7 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 72,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
@@ -3399,7 +3441,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 573000000,
     "declaredLiabilitiesINR": 23393803,
     "criminalCasesCount": 0,
@@ -3435,6 +3477,7 @@
     "id": "pu_410",
     "name": "Chetan Singh Jauramajra",
     "role": "Cabinet Minister for Public Relations",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Samana",
@@ -3442,7 +3485,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 90,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 81.0,
     "ladFundAllocatedINR": 50000000,
@@ -3478,7 +3521,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 5310921,
     "criminalCasesCount": 0,
@@ -3514,6 +3557,7 @@
     "id": "pu_411",
     "name": "Gurdev Singh Dev Mann",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Nabha (SC)",
@@ -3521,7 +3565,7 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 99,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 50000000,
@@ -3557,7 +3601,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 408000000,
     "declaredLiabilitiesINR": 39469850,
     "criminalCasesCount": 0,
@@ -3593,6 +3637,7 @@
     "id": "pu_412",
     "name": "Harmeet Singh Pathanmajra",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sanour",
@@ -3600,15 +3645,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 28,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3636,13 +3681,13 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 532000000,
     "declaredLiabilitiesINR": 80888790,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/973/2021",
+        "caseNumber": "CC/757/2021",
         "court": "Chief Judicial Magistrate Court, Patiala",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3679,6 +3724,7 @@
     "id": "pu_413",
     "name": "Gurlal Ghanaur",
     "role": "MLA / International Boxer",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Ghanaur",
@@ -3686,15 +3732,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 77.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38500000,
     "ladFundUnspentINR": 11500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 9,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3722,7 +3768,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 708000000,
     "declaredLiabilitiesINR": 117442599,
     "criminalCasesCount": 0,
@@ -3758,6 +3804,7 @@
     "id": "pu_414",
     "name": "Kulwant Singh Bazigar",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Shutrana (SC)",
@@ -3765,15 +3812,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3801,7 +3848,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 364000000,
     "declaredLiabilitiesINR": 22909317,
     "criminalCasesCount": 0,
@@ -3837,6 +3884,7 @@
     "id": "pu_415",
     "name": "Jagroop Singh Gill",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bathinda Urban",
@@ -3880,13 +3928,13 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 159000000,
     "declaredLiabilitiesINR": 27575248,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/604/2021",
+        "caseNumber": "CC/858/2021",
         "court": "Chief Judicial Magistrate Court, Bathinda",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -3923,6 +3971,7 @@
     "id": "pu_416",
     "name": "Amit Rattan Kotfatta",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bathinda Rural (SC)",
@@ -3930,7 +3979,7 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
@@ -3966,7 +4015,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 367000000,
     "declaredLiabilitiesINR": 36247659,
     "criminalCasesCount": 0,
@@ -4002,6 +4051,7 @@
     "id": "pu_417",
     "name": "Prof. Baljinder Kaur",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Talwandi Sabo",
@@ -4009,7 +4059,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 87,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
@@ -4045,7 +4095,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 411000000,
     "declaredLiabilitiesINR": 34943678,
     "criminalCasesCount": 0,
@@ -4081,6 +4131,7 @@
     "id": "pu_418",
     "name": "Sukhveer Singh Maiser Khana",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Maur",
@@ -4088,15 +4139,15 @@
     "attendancePercentage": 79,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 107,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4124,7 +4175,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 64000000,
     "declaredLiabilitiesINR": 3042779,
     "criminalCasesCount": 0,
@@ -4160,6 +4211,7 @@
     "id": "pu_419",
     "name": "Balkar Singh Sidhu",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Rampura Phul",
@@ -4167,7 +4219,7 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 130,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
@@ -4203,7 +4255,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 801000000,
     "declaredLiabilitiesINR": 59180105,
     "criminalCasesCount": 0,
@@ -4239,6 +4291,7 @@
     "id": "pu_420",
     "name": "Master Jagsir Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bhucho Mandi (SC)",
@@ -4246,15 +4299,15 @@
     "attendancePercentage": 78,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 76.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 38000000,
     "ladFundUnspentINR": 12000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 10,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 8,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4282,7 +4335,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 718000000,
     "declaredLiabilitiesINR": 30633450,
     "criminalCasesCount": 0,
@@ -4318,6 +4371,7 @@
     "id": "pu_421",
     "name": "Harjot Singh Bains",
     "role": "Cabinet Minister for Education",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Anandpur Sahib",
@@ -4325,7 +4379,7 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 80,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
@@ -4361,7 +4415,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 644000000,
     "declaredLiabilitiesINR": 44158667,
     "criminalCasesCount": 0,
@@ -4397,6 +4451,7 @@
     "id": "pu_422",
     "name": "Dinesh Chadha",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_55.jpg",
     "constituencyName": "Rupnagar",
@@ -4404,7 +4459,7 @@
     "attendancePercentage": 80,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 121,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
@@ -4440,19 +4495,19 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 119000000,
     "declaredLiabilitiesINR": 10931887,
     "criminalCasesCount": 2,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/609/2021",
+        "caseNumber": "CC/755/2021",
         "court": "Chief Judicial Magistrate Court, SAS Nagar (Mohali)",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
       },
       {
-        "caseNumber": "CR/7099/2022",
+        "caseNumber": "CR/4023/2022",
         "court": "Chief Judicial Magistrate Court, SAS Nagar (Mohali)",
         "charges": "IPC 188: Disobedience to order duly promulgated by public servant during rally",
         "status": "Under Cognizance"
@@ -4489,6 +4544,7 @@
     "id": "pu_423",
     "name": "Dr. Charanjit Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Chamkaur Sahib (SC)",
@@ -4532,7 +4588,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 384000000,
     "declaredLiabilitiesINR": 55471095,
     "criminalCasesCount": 0,
@@ -4568,6 +4624,7 @@
     "id": "pu_424",
     "name": "Kulwant Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Mohali",
@@ -4611,7 +4668,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 745000000,
     "declaredLiabilitiesINR": 122840146,
     "criminalCasesCount": 0,
@@ -4647,6 +4704,7 @@
     "id": "pu_425",
     "name": "Anmol Gagan Maan",
     "role": "MLA / Former Cabinet Minister",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/candidates/pb_58.jpg",
     "constituencyName": "Kharar",
@@ -4690,7 +4748,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 410000000,
     "declaredLiabilitiesINR": 58587564,
     "criminalCasesCount": 0,
@@ -4726,6 +4784,7 @@
     "id": "pu_426",
     "name": "Kuljit Singh Randhawa",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Dera Bassi",
@@ -4769,7 +4828,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 174000000,
     "declaredLiabilitiesINR": 17659004,
     "criminalCasesCount": 0,
@@ -4805,6 +4864,7 @@
     "id": "pu_428",
     "name": "Gurmeet Singh Meet Hayer",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Barnala",
@@ -4812,15 +4872,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 65,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4848,7 +4908,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 185000000,
     "declaredLiabilitiesINR": 12000000,
     "criminalCasesCount": 0,
@@ -4884,6 +4944,7 @@
     "id": "pu_429",
     "name": "Kulwant Singh Pandori",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Mehal Kalan (SC)",
@@ -4891,15 +4952,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 48,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -4927,7 +4988,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3200000,
     "criminalCasesCount": 0,
@@ -4963,6 +5024,7 @@
     "id": "pu_430",
     "name": "Labh Singh Ugoke",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bhadaur (SC)",
@@ -4976,9 +5038,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5006,7 +5068,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 15000000,
     "declaredLiabilitiesINR": 1200000,
     "criminalCasesCount": 0,
@@ -5042,6 +5104,7 @@
     "id": "pu_431",
     "name": "Lakhbir Singh Rai",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Fatehgarh Sahib",
@@ -5055,8 +5118,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 21,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 23,
     "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5085,7 +5148,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 78000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5121,6 +5184,7 @@
     "id": "pu_432",
     "name": "Gurinder Singh Garry Birring",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Amloh",
@@ -5134,9 +5198,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5164,7 +5228,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 145000000,
     "declaredLiabilitiesINR": 16000000,
     "criminalCasesCount": 0,
@@ -5200,6 +5264,7 @@
     "id": "pu_433",
     "name": "Rupinder Singh Happy",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bassi Pathana (SC)",
@@ -5207,15 +5272,15 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 46,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
     "ladFundUnspentINR": 9000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5243,7 +5308,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 52000000,
     "declaredLiabilitiesINR": 4100000,
     "criminalCasesCount": 0,
@@ -5279,6 +5344,7 @@
     "id": "pu_434",
     "name": "Gurdit Singh Sekhon",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Faridkot",
@@ -5286,15 +5352,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 58,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5322,7 +5388,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 98000000,
     "declaredLiabilitiesINR": 7500000,
     "criminalCasesCount": 0,
@@ -5358,6 +5424,7 @@
     "id": "pu_435",
     "name": "Kultar Singh Sandhwan",
     "role": "Speaker of Punjab Assembly",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Kotkapura",
@@ -5365,14 +5432,14 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 34,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5401,7 +5468,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 112000000,
     "declaredLiabilitiesINR": 14000000,
     "criminalCasesCount": 0,
@@ -5437,6 +5504,7 @@
     "id": "pu_436",
     "name": "Amolak Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jaitu (SC)",
@@ -5444,15 +5512,15 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 51,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5480,7 +5548,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 38000000,
     "declaredLiabilitiesINR": 2900000,
     "criminalCasesCount": 0,
@@ -5516,6 +5584,7 @@
     "id": "pu_437",
     "name": "Narinderpal Singh Sawna",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Fazilka",
@@ -5523,15 +5592,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5559,7 +5628,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 89000000,
     "declaredLiabilitiesINR": 6200000,
     "criminalCasesCount": 0,
@@ -5595,6 +5664,7 @@
     "id": "pu_438",
     "name": "Sandeep Jakhar",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Abohar",
@@ -5602,15 +5672,15 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 79.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 39500000,
     "ladFundUnspentINR": 10500000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5638,7 +5708,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 280000000,
     "declaredLiabilitiesINR": 24000000,
     "criminalCasesCount": 0,
@@ -5674,6 +5744,7 @@
     "id": "pu_439",
     "name": "Jagdeep Kamboj Goldy",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Jalalabad",
@@ -5681,15 +5752,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5717,7 +5788,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 64000000,
     "declaredLiabilitiesINR": 5100000,
     "criminalCasesCount": 0,
@@ -5753,6 +5824,7 @@
     "id": "pu_440",
     "name": "Amandeep Singh Goldy Musafir",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Balluana (SC)",
@@ -5766,9 +5838,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
     "ladFundUnspentINR": 9000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 20,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 8,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5796,7 +5868,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 42000000,
     "declaredLiabilitiesINR": 3300000,
     "criminalCasesCount": 0,
@@ -5832,6 +5904,7 @@
     "id": "pu_441",
     "name": "Ranbir Singh Bhullar",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Firozpur City",
@@ -5839,15 +5912,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -5875,7 +5948,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 115000000,
     "declaredLiabilitiesINR": 12500000,
     "criminalCasesCount": 0,
@@ -5911,6 +5984,7 @@
     "id": "pu_442",
     "name": "Rajnish Dahiya",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Firozpur Rural (SC)",
@@ -5918,14 +5992,14 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 50,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 29,
     "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -5954,7 +6028,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 58000000,
     "declaredLiabilitiesINR": 4800000,
     "criminalCasesCount": 0,
@@ -5990,6 +6064,7 @@
     "id": "pu_443",
     "name": "Fauja Singh Sarari",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Guru Har Sahai",
@@ -5997,15 +6072,15 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 80.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 40000000,
     "ladFundUnspentINR": 10000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6033,7 +6108,7 @@
         "status": "Pending Sanction"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 6100000,
     "criminalCasesCount": 0,
@@ -6069,6 +6144,7 @@
     "id": "pu_444",
     "name": "Naresh Kataria",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Zira",
@@ -6076,15 +6152,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 53,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 12,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6112,7 +6188,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 86000000,
     "declaredLiabilitiesINR": 7900000,
     "criminalCasesCount": 0,
@@ -6148,6 +6224,7 @@
     "id": "pu_445",
     "name": "Barindermeet Singh Pahra",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Gurdaspur",
@@ -6155,7 +6232,7 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
@@ -6191,7 +6268,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 135000000,
     "declaredLiabilitiesINR": 18000000,
     "criminalCasesCount": 0,
@@ -6227,6 +6304,7 @@
     "id": "pu_446",
     "name": "Amansher Singh Sherry Kalsi",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Batala",
@@ -6234,15 +6312,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 68,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6270,7 +6348,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 168000000,
     "declaredLiabilitiesINR": 14500000,
     "criminalCasesCount": 0,
@@ -6306,6 +6384,7 @@
     "id": "pu_447",
     "name": "Sukhjinder Singh Randhawa",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Dera Baba Nanak",
@@ -6313,15 +6392,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 88,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6349,7 +6428,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 240000000,
     "declaredLiabilitiesINR": 22000000,
     "criminalCasesCount": 0,
@@ -6385,6 +6464,7 @@
     "id": "pu_448",
     "name": "Aruna Chaudhary",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Dina Nagar (SC)",
@@ -6392,15 +6472,15 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 70,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6428,7 +6508,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 195000000,
     "declaredLiabilitiesINR": 16500000,
     "criminalCasesCount": 0,
@@ -6464,6 +6544,7 @@
     "id": "pu_449",
     "name": "Partap Singh Bajwa",
     "role": "Leader of Opposition",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Qadian",
@@ -6471,15 +6552,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 115,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6507,7 +6588,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 380000000,
     "declaredLiabilitiesINR": 31000000,
     "criminalCasesCount": 0,
@@ -6543,6 +6624,7 @@
     "id": "pu_450",
     "name": "Tripat Rajinder Singh Bajwa",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Fatehgarh Churian",
@@ -6550,15 +6632,15 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 8,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6586,7 +6668,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 290000000,
     "declaredLiabilitiesINR": 26000000,
     "criminalCasesCount": 0,
@@ -6622,6 +6704,7 @@
     "id": "pu_451",
     "name": "Amarpal Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sri Hargobindpur (SC)",
@@ -6629,15 +6712,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 47,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6665,7 +6748,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 5200000,
     "criminalCasesCount": 0,
@@ -6701,6 +6784,7 @@
     "id": "pu_452",
     "name": "Bram Shanker Jimpa",
     "role": "Cabinet Minister for Revenue",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Hoshiarpur",
@@ -6708,15 +6792,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47000000,
     "ladFundUnspentINR": 3000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6744,7 +6828,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 142000000,
     "declaredLiabilitiesINR": 11000000,
     "criminalCasesCount": 0,
@@ -6780,6 +6864,7 @@
     "id": "pu_453",
     "name": "Dr. Raj Kumar Chabbewal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Chabbewal (SC)",
@@ -6787,14 +6872,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 84,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 31,
     "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -6823,7 +6908,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 210000000,
     "declaredLiabilitiesINR": 18500000,
     "criminalCasesCount": 0,
@@ -6859,6 +6944,7 @@
     "id": "pu_454",
     "name": "Karambir Singh Ghuman",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Dasuya",
@@ -6866,15 +6952,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 58,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6902,7 +6988,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 94000000,
     "declaredLiabilitiesINR": 8200000,
     "criminalCasesCount": 0,
@@ -6938,6 +7024,7 @@
     "id": "pu_455",
     "name": "Jasvir Singh Raja Gill",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Urmar",
@@ -6951,9 +7038,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 15,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -6981,7 +7068,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 108000000,
     "declaredLiabilitiesINR": 9400000,
     "criminalCasesCount": 0,
@@ -7017,6 +7104,7 @@
     "id": "pu_456",
     "name": "Jangi Lal Mahajan",
     "role": "MLA",
+    "gender": "Male",
     "party": "Bharatiya Janata Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Mukerian",
@@ -7024,15 +7112,15 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 69,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 82.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41000000,
     "ladFundUnspentINR": 9000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 8,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7060,7 +7148,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 125000000,
     "declaredLiabilitiesINR": 13000000,
     "criminalCasesCount": 0,
@@ -7096,6 +7184,7 @@
     "id": "pu_457",
     "name": "Dr. Ravjot Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sham Chaurasi (SC)",
@@ -7103,14 +7192,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 70,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45500000,
     "ladFundUnspentINR": 4500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 21,
     "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7139,7 +7228,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 165000000,
     "declaredLiabilitiesINR": 15000000,
     "criminalCasesCount": 0,
@@ -7175,6 +7264,7 @@
     "id": "pu_458",
     "name": "Jai Krishan Singh Rouri",
     "role": "Deputy Speaker",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Garhshankar",
@@ -7188,8 +7278,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7218,7 +7308,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 48000000,
     "declaredLiabilitiesINR": 3900000,
     "criminalCasesCount": 0,
@@ -7254,6 +7344,7 @@
     "id": "pu_459",
     "name": "Rana Gurjeet Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Kapurthala",
@@ -7261,14 +7352,14 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 85,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 28,
     "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7297,7 +7388,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 890000000,
     "declaredLiabilitiesINR": 72000000,
     "criminalCasesCount": 0,
@@ -7333,6 +7424,7 @@
     "id": "pu_460",
     "name": "Balwinder Singh Dhaliwal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Phagwara (SC)",
@@ -7340,15 +7432,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7376,7 +7468,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 148000000,
     "declaredLiabilitiesINR": 12000000,
     "criminalCasesCount": 0,
@@ -7412,6 +7504,7 @@
     "id": "pu_461",
     "name": "Rana Inder Pratap Singh",
     "role": "MLA",
+    "gender": "Male",
     "party": "Independent",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sultanpur Lodhi",
@@ -7425,9 +7518,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7455,7 +7548,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 310000000,
     "declaredLiabilitiesINR": 25000000,
     "criminalCasesCount": 0,
@@ -7491,6 +7584,7 @@
     "id": "pu_462",
     "name": "Sukhpal Singh Khaira",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bholath",
@@ -7498,15 +7592,15 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 98,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7534,13 +7628,13 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 220000000,
     "declaredLiabilitiesINR": 18000000,
     "criminalCasesCount": 1,
     "criminalCasesDetails": [
       {
-        "caseNumber": "CC/881/2021",
+        "caseNumber": "CC/564/2021",
         "court": "Chief Judicial Magistrate Court, Kapurthala",
         "charges": "IPC 143/147: Unlawful assembly during political demonstration",
         "status": "Pending Trial"
@@ -7577,6 +7671,7 @@
     "id": "pu_463",
     "name": "Dr. Mohammad Jamil Ur Rehman",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Malerkotla",
@@ -7584,15 +7679,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 71,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7620,7 +7715,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 85000000,
     "declaredLiabilitiesINR": 7200000,
     "criminalCasesCount": 0,
@@ -7656,6 +7751,7 @@
     "id": "pu_464",
     "name": "Prof. Jaswant Singh Gajjan Majra",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Amargarh",
@@ -7663,15 +7759,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 54,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7699,7 +7795,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 195000000,
     "declaredLiabilitiesINR": 16000000,
     "criminalCasesCount": 0,
@@ -7735,6 +7831,7 @@
     "id": "pu_465",
     "name": "Dr. Vijay Singla",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Mansa",
@@ -7742,14 +7839,14 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 60,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 33,
     "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -7778,7 +7875,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 168000000,
     "declaredLiabilitiesINR": 13500000,
     "criminalCasesCount": 0,
@@ -7814,6 +7911,7 @@
     "id": "pu_466",
     "name": "Budh Ram",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Budhlada (SC)",
@@ -7821,15 +7919,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 80,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7857,7 +7955,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 54000000,
     "declaredLiabilitiesINR": 4200000,
     "criminalCasesCount": 0,
@@ -7893,6 +7991,7 @@
     "id": "pu_467",
     "name": "Gurpreet Singh Banawali",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sardulgarh",
@@ -7900,15 +7999,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 64,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 19,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -7936,7 +8035,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 76000000,
     "declaredLiabilitiesINR": 6500000,
     "criminalCasesCount": 0,
@@ -7972,6 +8071,7 @@
     "id": "pu_468",
     "name": "Dr. Amandeep Kaur Arora",
     "role": "MLA",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Moga",
@@ -7979,14 +8079,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 73,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45500000,
     "ladFundUnspentINR": 4500000,
-    "worksRecommendedCount": 20,
-    "worksCompletedCount": 18,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
     "worksPendingCount": 2,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8015,7 +8115,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 95000000,
     "declaredLiabilitiesINR": 8100000,
     "criminalCasesCount": 0,
@@ -8051,6 +8151,7 @@
     "id": "pu_469",
     "name": "Amritpal Singh Sukhanand",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Baghapurana",
@@ -8064,9 +8165,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 25,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8094,7 +8195,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 82000000,
     "declaredLiabilitiesINR": 6800000,
     "criminalCasesCount": 0,
@@ -8130,6 +8231,7 @@
     "id": "pu_470",
     "name": "Manjit Singh Bilaspur",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Nihal Singh Wala (SC)",
@@ -8143,8 +8245,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8173,7 +8275,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 49000000,
     "declaredLiabilitiesINR": 3600000,
     "criminalCasesCount": 0,
@@ -8209,6 +8311,7 @@
     "id": "pu_471",
     "name": "Devinderjeet Singh Laddi Dhos",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Dharamkot",
@@ -8216,15 +8319,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 59,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8252,7 +8355,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 112000000,
     "declaredLiabilitiesINR": 9800000,
     "criminalCasesCount": 0,
@@ -8288,6 +8391,7 @@
     "id": "pu_472",
     "name": "Ashwani Kumar Sharma",
     "role": "State BJP President / MLA",
+    "gender": "Male",
     "party": "Bharatiya Janata Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Pathankot",
@@ -8295,14 +8399,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 86,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 84.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42000000,
     "ladFundUnspentINR": 8000000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 19,
     "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8331,7 +8435,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 145000000,
     "declaredLiabilitiesINR": 12000000,
     "criminalCasesCount": 0,
@@ -8367,6 +8471,7 @@
     "id": "pu_473",
     "name": "Naresh Puri",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Sujanpur",
@@ -8374,15 +8479,15 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 65,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 83.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 41500000,
     "ladFundUnspentINR": 8500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8410,7 +8515,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 118000000,
     "declaredLiabilitiesINR": 10500000,
     "criminalCasesCount": 0,
@@ -8446,6 +8551,7 @@
     "id": "pu_474",
     "name": "Lal Chand Kataruchakk",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Bhoa (SC)",
@@ -8453,15 +8559,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 71,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8489,7 +8595,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 56000000,
     "declaredLiabilitiesINR": 4500000,
     "criminalCasesCount": 0,
@@ -8525,6 +8631,7 @@
     "id": "pu_475",
     "name": "Dr. Nachhatar Pal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Bahujan Samaj Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Nawanshahr",
@@ -8532,15 +8639,15 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 63,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 85.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 42500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8568,7 +8675,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 84000000,
     "declaredLiabilitiesINR": 7100000,
     "criminalCasesCount": 0,
@@ -8604,6 +8711,7 @@
     "id": "pu_476",
     "name": "Sukhwinder Kumar Sukhi",
     "role": "MLA",
+    "gender": "Male",
     "party": "Shiromani Akali Dal",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Banga (SC)",
@@ -8611,15 +8719,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8647,7 +8755,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 132000000,
     "declaredLiabilitiesINR": 11500000,
     "criminalCasesCount": 0,
@@ -8683,6 +8791,7 @@
     "id": "pu_477",
     "name": "Santosh Kumari Kataria",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Balachaur",
@@ -8696,9 +8805,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 17,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8726,7 +8835,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 62000000,
     "declaredLiabilitiesINR": 5200000,
     "criminalCasesCount": 0,
@@ -8762,6 +8871,7 @@
     "id": "pu_478",
     "name": "Jagdeep Singh Kaka Brar",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Muktsar",
@@ -8775,8 +8885,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 35,
     "worksPendingCount": 5,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8805,7 +8915,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 142000000,
     "declaredLiabilitiesINR": 12500000,
     "criminalCasesCount": 0,
@@ -8841,6 +8951,7 @@
     "id": "pu_479",
     "name": "Dr. Baljit Kaur",
     "role": "Cabinet Minister for Social Security",
+    "gender": "Female",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Malout (SC)",
@@ -8848,14 +8959,14 @@
     "attendancePercentage": 94,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47000000,
     "ladFundUnspentINR": 3000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -8884,7 +8995,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 182000000,
     "declaredLiabilitiesINR": 14000000,
     "criminalCasesCount": 0,
@@ -8920,6 +9031,7 @@
     "id": "pu_480",
     "name": "Amrinder Singh Raja Warring",
     "role": "MLA",
+    "gender": "Male",
     "party": "Indian National Congress",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Gidderbaha",
@@ -8927,15 +9039,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 92,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43000000,
     "ladFundUnspentINR": 7000000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -8963,7 +9075,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 265000000,
     "declaredLiabilitiesINR": 24000000,
     "criminalCasesCount": 0,
@@ -8999,6 +9111,7 @@
     "id": "pu_481",
     "name": "Gurmeet Singh Khudian",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Lambi",
@@ -9006,14 +9119,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9042,7 +9155,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 175000000,
     "declaredLiabilitiesINR": 15000000,
     "criminalCasesCount": 0,
@@ -9078,6 +9191,7 @@
     "id": "pu_482",
     "name": "Dr. Kashmir Singh Sohal",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Tarn Taran",
@@ -9085,15 +9199,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 68,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 21,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9121,7 +9235,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 125000000,
     "declaredLiabilitiesINR": 10200000,
     "criminalCasesCount": 0,
@@ -9157,6 +9271,7 @@
     "id": "pu_483",
     "name": "Laljit Singh Bhullar",
     "role": "Cabinet Minister for Transport",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Patti",
@@ -9164,15 +9279,15 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9200,7 +9315,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 154000000,
     "declaredLiabilitiesINR": 13000000,
     "criminalCasesCount": 0,
@@ -9236,6 +9351,7 @@
     "id": "pu_484",
     "name": "Manjinder Singh Lalpura",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Khadoor Sahib",
@@ -9243,14 +9359,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 61,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Punjab Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 44000000,
     "ladFundUnspentINR": 6000000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 20,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 14,
     "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -9279,7 +9395,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 78000000,
     "declaredLiabilitiesINR": 6500000,
     "criminalCasesCount": 0,
@@ -9315,6 +9431,7 @@
     "id": "pu_485",
     "name": "Sarvan Singh Dhun",
     "role": "MLA",
+    "gender": "Male",
     "party": "Aam Aadmi Party",
     "photoUrl": "/assets/placeholder-avatar.svg",
     "constituencyName": "Khem Karan",
@@ -9328,9 +9445,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 43500000,
     "ladFundUnspentINR": 6500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 25,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Punjab Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -9358,7 +9475,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 89000000,
     "declaredLiabilitiesINR": 7800000,
     "criminalCasesCount": 0,

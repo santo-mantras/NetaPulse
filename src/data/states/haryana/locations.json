@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "loc_ha_2618",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-1",
+    "assemblyConstituencyName": "Kalka",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Kalka Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2619",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-2",
+    "assemblyConstituencyName": "Panchkula",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Panchkula Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2620",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-3",
+    "assemblyConstituencyName": "Naraingarh",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Naraingarh Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2621",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-4",
+    "assemblyConstituencyName": "Ambala Cantt",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Ambala Cantt Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2622",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-5",
+    "assemblyConstituencyName": "Ambala City",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Ambala City Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2623",
+    "stateName": "Haryana",
+    "districtName": "Ambala",
+    "assemblyConstituencyCode": "AC-HR-6",
+    "assemblyConstituencyName": "Mulana (SC)",
+    "crimeRate": "184.9 per 100k",
+    "crimeRatePerLakh": 184.9,
+    "literacyRate": 73.9,
+    "literacyRatePercentage": 73.9,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 164,
+    "regionalInsight": {
+      "title": "Mulana (SC) Civic Context",
+      "historicalFact": "Historically famous for the 1857 Sepoy Mutiny uprising and its major military cantonment, Ambala is internationally recognized as India's premier scientific instruments manufacturing center and major rail junction.",
+      "currentChallenge": "Critical civic tasks center on Tangri river monsoon flash flood prevention, industrial cluster drainage, and traffic decongestion along National Highway 44."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2624",
+    "stateName": "Haryana",
+    "districtName": "Yamunanagar",
+    "assemblyConstituencyCode": "AC-HR-7",
+    "assemblyConstituencyName": "Sadhaura (SC)",
+    "crimeRate": "258.9 per 100k",
+    "crimeRatePerLakh": 258.9,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Sadhaura (SC) Civic Context",
+      "historicalFact": "Bordered by the Shivalik foothills and sacred Hathnikund barrage, it is celebrated as India's premier plywood and timber manufacturing cluster along with sugar refining.",
+      "currentChallenge": "Major civic tasks include riverbed silt management along the Yamuna, industrial wastewater treatment from paper mills, and Shivalik eco-sensitive preservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2625",
+    "stateName": "Haryana",
+    "districtName": "Yamunanagar",
+    "assemblyConstituencyCode": "AC-HR-8",
+    "assemblyConstituencyName": "Jagadhri",
+    "crimeRate": "258.9 per 100k",
+    "crimeRatePerLakh": 258.9,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Jagadhri Civic Context",
+      "historicalFact": "Bordered by the Shivalik foothills and sacred Hathnikund barrage, it is celebrated as India's premier plywood and timber manufacturing cluster along with sugar refining.",
+      "currentChallenge": "Major civic tasks include riverbed silt management along the Yamuna, industrial wastewater treatment from paper mills, and Shivalik eco-sensitive preservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2626",
+    "stateName": "Haryana",
+    "districtName": "Yamunanagar",
+    "assemblyConstituencyCode": "AC-HR-9",
+    "assemblyConstituencyName": "Yamunanagar",
+    "crimeRate": "258.9 per 100k",
+    "crimeRatePerLakh": 258.9,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Yamunanagar Civic Context",
+      "historicalFact": "Bordered by the Shivalik foothills and sacred Hathnikund barrage, it is celebrated as India's premier plywood and timber manufacturing cluster along with sugar refining.",
+      "currentChallenge": "Major civic tasks include riverbed silt management along the Yamuna, industrial wastewater treatment from paper mills, and Shivalik eco-sensitive preservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2627",
+    "stateName": "Haryana",
+    "districtName": "Yamunanagar",
+    "assemblyConstituencyCode": "AC-HR-10",
+    "assemblyConstituencyName": "Radaur",
+    "crimeRate": "258.9 per 100k",
+    "crimeRatePerLakh": 258.9,
+    "literacyRate": 73.1,
+    "literacyRatePercentage": 73.1,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Radaur Civic Context",
+      "historicalFact": "Bordered by the Shivalik foothills and sacred Hathnikund barrage, it is celebrated as India's premier plywood and timber manufacturing cluster along with sugar refining.",
+      "currentChallenge": "Major civic tasks include riverbed silt management along the Yamuna, industrial wastewater treatment from paper mills, and Shivalik eco-sensitive preservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2628",
+    "stateName": "Haryana",
+    "districtName": "Kurukshetra",
+    "assemblyConstituencyCode": "AC-HR-11",
+    "assemblyConstituencyName": "Ladwa",
+    "crimeRate": "152.3 per 100k",
+    "crimeRatePerLakh": 152.3,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Ladwa Civic Context",
+      "historicalFact": "Sacred land of the Mahabharata and birthplace of the Bhagavad Gita at Jyotisar, Kurukshetra is celebrated as the crucible of Vedic philosophy, ancient learning, and India's agricultural prosperity.",
+      "currentChallenge": "Key civic priorities include de-siltation of the Saraswati river basin feeder channels, pilgrim infrastructure around Brahma Sarovar, and managing post-harvest agricultural residue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2629",
+    "stateName": "Haryana",
+    "districtName": "Kurukshetra",
+    "assemblyConstituencyCode": "AC-HR-12",
+    "assemblyConstituencyName": "Shahbad (SC)",
+    "crimeRate": "152.3 per 100k",
+    "crimeRatePerLakh": 152.3,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Shahbad (SC) Civic Context",
+      "historicalFact": "Sacred land of the Mahabharata and birthplace of the Bhagavad Gita at Jyotisar, Kurukshetra is celebrated as the crucible of Vedic philosophy, ancient learning, and India's agricultural prosperity.",
+      "currentChallenge": "Key civic priorities include de-siltation of the Saraswati river basin feeder channels, pilgrim infrastructure around Brahma Sarovar, and managing post-harvest agricultural residue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2630",
+    "stateName": "Haryana",
+    "districtName": "Kurukshetra",
+    "assemblyConstituencyCode": "AC-HR-13",
+    "assemblyConstituencyName": "Thanesar",
+    "crimeRate": "152.3 per 100k",
+    "crimeRatePerLakh": 152.3,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Thanesar Civic Context",
+      "historicalFact": "Sacred land of the Mahabharata and birthplace of the Bhagavad Gita at Jyotisar, Kurukshetra is celebrated as the crucible of Vedic philosophy, ancient learning, and India's agricultural prosperity.",
+      "currentChallenge": "Key civic priorities include de-siltation of the Saraswati river basin feeder channels, pilgrim infrastructure around Brahma Sarovar, and managing post-harvest agricultural residue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2631",
+    "stateName": "Haryana",
+    "districtName": "Kurukshetra",
+    "assemblyConstituencyCode": "AC-HR-14",
+    "assemblyConstituencyName": "Pehowa",
+    "crimeRate": "152.3 per 100k",
+    "crimeRatePerLakh": 152.3,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Pehowa Civic Context",
+      "historicalFact": "Sacred land of the Mahabharata and birthplace of the Bhagavad Gita at Jyotisar, Kurukshetra is celebrated as the crucible of Vedic philosophy, ancient learning, and India's agricultural prosperity.",
+      "currentChallenge": "Key civic priorities include de-siltation of the Saraswati river basin feeder channels, pilgrim infrastructure around Brahma Sarovar, and managing post-harvest agricultural residue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2632",
+    "stateName": "Haryana",
+    "districtName": "Kaithal",
+    "assemblyConstituencyCode": "AC-HR-15",
+    "assemblyConstituencyName": "Guhla (SC)",
+    "crimeRate": "242.5 per 100k",
+    "crimeRatePerLakh": 242.5,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 323,
+    "regionalInsight": {
+      "title": "Guhla (SC) Civic Context",
+      "historicalFact": "Legendary birthplace of Lord Hanuman (Kapisthala) and burial site of Razia Sultana, the first female monarch of the Delhi Sultanate.",
+      "currentChallenge": "Primary public needs include reviving historical water bodies, grain market decongestion, and upgrading rural health sub-centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2633",
+    "stateName": "Haryana",
+    "districtName": "Kaithal",
+    "assemblyConstituencyCode": "AC-HR-16",
+    "assemblyConstituencyName": "Kalayat",
+    "crimeRate": "242.5 per 100k",
+    "crimeRatePerLakh": 242.5,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 323,
+    "regionalInsight": {
+      "title": "Kalayat Civic Context",
+      "historicalFact": "Legendary birthplace of Lord Hanuman (Kapisthala) and burial site of Razia Sultana, the first female monarch of the Delhi Sultanate.",
+      "currentChallenge": "Primary public needs include reviving historical water bodies, grain market decongestion, and upgrading rural health sub-centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2634",
+    "stateName": "Haryana",
+    "districtName": "Kaithal",
+    "assemblyConstituencyCode": "AC-HR-17",
+    "assemblyConstituencyName": "Kaithal",
+    "crimeRate": "242.5 per 100k",
+    "crimeRatePerLakh": 242.5,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 323,
+    "regionalInsight": {
+      "title": "Kaithal Civic Context",
+      "historicalFact": "Legendary birthplace of Lord Hanuman (Kapisthala) and burial site of Razia Sultana, the first female monarch of the Delhi Sultanate.",
+      "currentChallenge": "Primary public needs include reviving historical water bodies, grain market decongestion, and upgrading rural health sub-centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2635",
+    "stateName": "Haryana",
+    "districtName": "Kaithal",
+    "assemblyConstituencyCode": "AC-HR-18",
+    "assemblyConstituencyName": "Pundri",
+    "crimeRate": "242.5 per 100k",
+    "crimeRatePerLakh": 242.5,
+    "literacyRate": 80.1,
+    "literacyRatePercentage": 80.1,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 323,
+    "regionalInsight": {
+      "title": "Pundri Civic Context",
+      "historicalFact": "Legendary birthplace of Lord Hanuman (Kapisthala) and burial site of Razia Sultana, the first female monarch of the Delhi Sultanate.",
+      "currentChallenge": "Primary public needs include reviving historical water bodies, grain market decongestion, and upgrading rural health sub-centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2636",
+    "stateName": "Haryana",
+    "districtName": "Karnal",
+    "assemblyConstituencyCode": "AC-HR-19",
+    "assemblyConstituencyName": "Nilokheri (SC)",
+    "crimeRate": "187.9 per 100k",
+    "crimeRatePerLakh": 187.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Nilokheri (SC) Civic Context",
+      "historicalFact": "Known as the City of Daanveer Karna and home to the National Dairy Research Institute (NDRI), Karnal is the epicenter of India's basmati rice export trade and agricultural genetics.",
+      "currentChallenge": "Civic challenges include balancing intensive agrochemical runoff with groundwater recharge, modernizing rural grain mandis, and peripheral road upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2637",
+    "stateName": "Haryana",
+    "districtName": "Karnal",
+    "assemblyConstituencyCode": "AC-HR-20",
+    "assemblyConstituencyName": "Indri",
+    "crimeRate": "187.9 per 100k",
+    "crimeRatePerLakh": 187.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Indri Civic Context",
+      "historicalFact": "Known as the City of Daanveer Karna and home to the National Dairy Research Institute (NDRI), Karnal is the epicenter of India's basmati rice export trade and agricultural genetics.",
+      "currentChallenge": "Civic challenges include balancing intensive agrochemical runoff with groundwater recharge, modernizing rural grain mandis, and peripheral road upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2638",
+    "stateName": "Haryana",
+    "districtName": "Karnal",
+    "assemblyConstituencyCode": "AC-HR-21",
+    "assemblyConstituencyName": "Karnal",
+    "crimeRate": "187.9 per 100k",
+    "crimeRatePerLakh": 187.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Karnal Civic Context",
+      "historicalFact": "Known as the City of Daanveer Karna and home to the National Dairy Research Institute (NDRI), Karnal is the epicenter of India's basmati rice export trade and agricultural genetics.",
+      "currentChallenge": "Civic challenges include balancing intensive agrochemical runoff with groundwater recharge, modernizing rural grain mandis, and peripheral road upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2639",
+    "stateName": "Haryana",
+    "districtName": "Karnal",
+    "assemblyConstituencyCode": "AC-HR-22",
+    "assemblyConstituencyName": "Gharaunda",
+    "crimeRate": "187.9 per 100k",
+    "crimeRatePerLakh": 187.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Gharaunda Civic Context",
+      "historicalFact": "Known as the City of Daanveer Karna and home to the National Dairy Research Institute (NDRI), Karnal is the epicenter of India's basmati rice export trade and agricultural genetics.",
+      "currentChallenge": "Civic challenges include balancing intensive agrochemical runoff with groundwater recharge, modernizing rural grain mandis, and peripheral road upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2640",
+    "stateName": "Haryana",
+    "districtName": "Karnal",
+    "assemblyConstituencyCode": "AC-HR-23",
+    "assemblyConstituencyName": "Assandh",
+    "crimeRate": "187.9 per 100k",
+    "crimeRatePerLakh": 187.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Assandh Civic Context",
+      "historicalFact": "Known as the City of Daanveer Karna and home to the National Dairy Research Institute (NDRI), Karnal is the epicenter of India's basmati rice export trade and agricultural genetics.",
+      "currentChallenge": "Civic challenges include balancing intensive agrochemical runoff with groundwater recharge, modernizing rural grain mandis, and peripheral road upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2641",
+    "stateName": "Haryana",
+    "districtName": "Panipat",
+    "assemblyConstituencyCode": "AC-HR-24",
+    "assemblyConstituencyName": "Panipat Rural",
+    "crimeRate": "182.6 per 100k",
+    "crimeRatePerLakh": 182.6,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 255,
+    "regionalInsight": {
+      "title": "Panipat Rural Civic Context",
+      "historicalFact": "Site of three historic battles that shaped Indian medieval history (1526, 1556, and 1761), Panipat is globally acclaimed as the 'Textile City' and India's largest center for shoddy yarn and handloom rugs.",
+      "currentChallenge": "Primary public priorities include industrial textile effluent treatment in the dye cluster, municipal solid waste management, and heavy goods corridor bypass development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2642",
+    "stateName": "Haryana",
+    "districtName": "Panipat",
+    "assemblyConstituencyCode": "AC-HR-25",
+    "assemblyConstituencyName": "Panipat City",
+    "crimeRate": "182.6 per 100k",
+    "crimeRatePerLakh": 182.6,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 255,
+    "regionalInsight": {
+      "title": "Panipat City Civic Context",
+      "historicalFact": "Site of three historic battles that shaped Indian medieval history (1526, 1556, and 1761), Panipat is globally acclaimed as the 'Textile City' and India's largest center for shoddy yarn and handloom rugs.",
+      "currentChallenge": "Primary public priorities include industrial textile effluent treatment in the dye cluster, municipal solid waste management, and heavy goods corridor bypass development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2643",
+    "stateName": "Haryana",
+    "districtName": "Panipat",
+    "assemblyConstituencyCode": "AC-HR-26",
+    "assemblyConstituencyName": "Israna (SC)",
+    "crimeRate": "182.6 per 100k",
+    "crimeRatePerLakh": 182.6,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 255,
+    "regionalInsight": {
+      "title": "Israna (SC) Civic Context",
+      "historicalFact": "Site of three historic battles that shaped Indian medieval history (1526, 1556, and 1761), Panipat is globally acclaimed as the 'Textile City' and India's largest center for shoddy yarn and handloom rugs.",
+      "currentChallenge": "Primary public priorities include industrial textile effluent treatment in the dye cluster, municipal solid waste management, and heavy goods corridor bypass development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2644",
+    "stateName": "Haryana",
+    "districtName": "Panipat",
+    "assemblyConstituencyCode": "AC-HR-27",
+    "assemblyConstituencyName": "Samalkha",
+    "crimeRate": "182.6 per 100k",
+    "crimeRatePerLakh": 182.6,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 255,
+    "regionalInsight": {
+      "title": "Samalkha Civic Context",
+      "historicalFact": "Site of three historic battles that shaped Indian medieval history (1526, 1556, and 1761), Panipat is globally acclaimed as the 'Textile City' and India's largest center for shoddy yarn and handloom rugs.",
+      "currentChallenge": "Primary public priorities include industrial textile effluent treatment in the dye cluster, municipal solid waste management, and heavy goods corridor bypass development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2645",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-28",
+    "assemblyConstituencyName": "Ganaur",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Ganaur Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2646",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-29",
+    "assemblyConstituencyName": "Rai",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Rai Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2647",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-30",
+    "assemblyConstituencyName": "Kharkhauda (SC)",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Kharkhauda (SC) Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2648",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-31",
+    "assemblyConstituencyName": "Sonipat",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Sonipat Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2649",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-32",
+    "assemblyConstituencyName": "Gohana",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Gohana Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2650",
+    "stateName": "Haryana",
+    "districtName": "Sonipat",
+    "assemblyConstituencyCode": "AC-HR-33",
+    "assemblyConstituencyName": "Baroda",
+    "crimeRate": "221.6 per 100k",
+    "crimeRatePerLakh": 221.6,
+    "literacyRate": 81.9,
+    "literacyRatePercentage": 81.9,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 174,
+    "regionalInsight": {
+      "title": "Baroda Civic Context",
+      "historicalFact": "Believed to be ancient 'Swarnaprastha' founded by the Pandavas, Sonipat has transformed into an education and industrial corridor hosting world-class universities and automotive manufacturing hubs.",
+      "currentChallenge": "Major civic tasks include stormwater drainage integration along the Kundli corridor, protecting the Yamuna floodplains from encroachments, and commuter transport links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2651",
+    "stateName": "Haryana",
+    "districtName": "Jind",
+    "assemblyConstituencyCode": "AC-HR-34",
+    "assemblyConstituencyName": "Julana",
+    "crimeRate": "206.6 per 100k",
+    "crimeRatePerLakh": 206.6,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Julana Civic Context",
+      "historicalFact": "Historically associated with the ancient Jayanti Devi temple built by the Pandavas, Jind forms the socio-political heartland and dairy cattle hub of Haryana.",
+      "currentChallenge": "Key public focus areas include rural road link durability, agro-processing cold storage chains, and modern drinking water treatment plants."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2652",
+    "stateName": "Haryana",
+    "districtName": "Jind",
+    "assemblyConstituencyCode": "AC-HR-35",
+    "assemblyConstituencyName": "Safidon",
+    "crimeRate": "206.6 per 100k",
+    "crimeRatePerLakh": 206.6,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Safidon Civic Context",
+      "historicalFact": "Historically associated with the ancient Jayanti Devi temple built by the Pandavas, Jind forms the socio-political heartland and dairy cattle hub of Haryana.",
+      "currentChallenge": "Key public focus areas include rural road link durability, agro-processing cold storage chains, and modern drinking water treatment plants."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2653",
+    "stateName": "Haryana",
+    "districtName": "Jind",
+    "assemblyConstituencyCode": "AC-HR-36",
+    "assemblyConstituencyName": "Jind",
+    "crimeRate": "206.6 per 100k",
+    "crimeRatePerLakh": 206.6,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Jind Civic Context",
+      "historicalFact": "Historically associated with the ancient Jayanti Devi temple built by the Pandavas, Jind forms the socio-political heartland and dairy cattle hub of Haryana.",
+      "currentChallenge": "Key public focus areas include rural road link durability, agro-processing cold storage chains, and modern drinking water treatment plants."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2654",
+    "stateName": "Haryana",
+    "districtName": "Jind",
+    "assemblyConstituencyCode": "AC-HR-37",
+    "assemblyConstituencyName": "Uchana Kalan",
+    "crimeRate": "206.6 per 100k",
+    "crimeRatePerLakh": 206.6,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Uchana Kalan Civic Context",
+      "historicalFact": "Historically associated with the ancient Jayanti Devi temple built by the Pandavas, Jind forms the socio-political heartland and dairy cattle hub of Haryana.",
+      "currentChallenge": "Key public focus areas include rural road link durability, agro-processing cold storage chains, and modern drinking water treatment plants."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2655",
+    "stateName": "Haryana",
+    "districtName": "Jind",
+    "assemblyConstituencyCode": "AC-HR-38",
+    "assemblyConstituencyName": "Narwana (SC)",
+    "crimeRate": "206.6 per 100k",
+    "crimeRatePerLakh": 206.6,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Narwana (SC) Civic Context",
+      "historicalFact": "Historically associated with the ancient Jayanti Devi temple built by the Pandavas, Jind forms the socio-political heartland and dairy cattle hub of Haryana.",
+      "currentChallenge": "Key public focus areas include rural road link durability, agro-processing cold storage chains, and modern drinking water treatment plants."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2656",
+    "stateName": "Haryana",
+    "districtName": "Fatehabad",
+    "assemblyConstituencyCode": "AC-HR-39",
+    "assemblyConstituencyName": "Tohana",
+    "crimeRate": "220.5 per 100k",
+    "crimeRatePerLakh": 220.5,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 206,
+    "regionalInsight": {
+      "title": "Tohana Civic Context",
+      "historicalFact": "Home to ancient Harappan archaeological sites at Banawali and Kunal, founded by Firoz Shah Tughlaq in honor of his son Fateh Khan.",
+      "currentChallenge": "Civic focus centers on groundwater salinity, expanding micro-irrigation subsidies, and modernizing veterinary hospitals."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2657",
+    "stateName": "Haryana",
+    "districtName": "Fatehabad",
+    "assemblyConstituencyCode": "AC-HR-40",
+    "assemblyConstituencyName": "Fatehabad",
+    "crimeRate": "220.5 per 100k",
+    "crimeRatePerLakh": 220.5,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 206,
+    "regionalInsight": {
+      "title": "Fatehabad Civic Context",
+      "historicalFact": "Home to ancient Harappan archaeological sites at Banawali and Kunal, founded by Firoz Shah Tughlaq in honor of his son Fateh Khan.",
+      "currentChallenge": "Civic focus centers on groundwater salinity, expanding micro-irrigation subsidies, and modernizing veterinary hospitals."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2658",
+    "stateName": "Haryana",
+    "districtName": "Fatehabad",
+    "assemblyConstituencyCode": "AC-HR-41",
+    "assemblyConstituencyName": "Ratia (SC)",
+    "crimeRate": "220.5 per 100k",
+    "crimeRatePerLakh": 220.5,
+    "literacyRate": 80.5,
+    "literacyRatePercentage": 80.5,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 206,
+    "regionalInsight": {
+      "title": "Ratia (SC) Civic Context",
+      "historicalFact": "Home to ancient Harappan archaeological sites at Banawali and Kunal, founded by Firoz Shah Tughlaq in honor of his son Fateh Khan.",
+      "currentChallenge": "Civic focus centers on groundwater salinity, expanding micro-irrigation subsidies, and modernizing veterinary hospitals."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2659",
+    "stateName": "Haryana",
+    "districtName": "Sirsa",
+    "assemblyConstituencyCode": "AC-HR-42",
+    "assemblyConstituencyName": "Kalanwali (SC)",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Kalanwali (SC) Civic Context",
+      "historicalFact": "Dating to ancient Saraswati river trade routes and mentioned in the Mahabharata as Sairishaka, Sirsa is Haryana's largest cotton and wheat growing agrarian hub.",
+      "currentChallenge": "Civic priorities focus on preventing pink bollworm infestations, canal distributary tail-end water security, and rural public healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2660",
+    "stateName": "Haryana",
+    "districtName": "Sirsa",
+    "assemblyConstituencyCode": "AC-HR-43",
+    "assemblyConstituencyName": "Dabwali",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Dabwali Civic Context",
+      "historicalFact": "Dating to ancient Saraswati river trade routes and mentioned in the Mahabharata as Sairishaka, Sirsa is Haryana's largest cotton and wheat growing agrarian hub.",
+      "currentChallenge": "Civic priorities focus on preventing pink bollworm infestations, canal distributary tail-end water security, and rural public healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2661",
+    "stateName": "Haryana",
+    "districtName": "Sirsa",
+    "assemblyConstituencyCode": "AC-HR-44",
+    "assemblyConstituencyName": "Rania",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Rania Civic Context",
+      "historicalFact": "Dating to ancient Saraswati river trade routes and mentioned in the Mahabharata as Sairishaka, Sirsa is Haryana's largest cotton and wheat growing agrarian hub.",
+      "currentChallenge": "Civic priorities focus on preventing pink bollworm infestations, canal distributary tail-end water security, and rural public healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2662",
+    "stateName": "Haryana",
+    "districtName": "Sirsa",
+    "assemblyConstituencyCode": "AC-HR-45",
+    "assemblyConstituencyName": "Sirsa",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Sirsa Civic Context",
+      "historicalFact": "Dating to ancient Saraswati river trade routes and mentioned in the Mahabharata as Sairishaka, Sirsa is Haryana's largest cotton and wheat growing agrarian hub.",
+      "currentChallenge": "Civic priorities focus on preventing pink bollworm infestations, canal distributary tail-end water security, and rural public healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2663",
+    "stateName": "Haryana",
+    "districtName": "Sirsa",
+    "assemblyConstituencyCode": "AC-HR-46",
+    "assemblyConstituencyName": "Ellenabad",
+    "crimeRate": "258.1 per 100k",
+    "crimeRatePerLakh": 258.1,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Ellenabad Civic Context",
+      "historicalFact": "Dating to ancient Saraswati river trade routes and mentioned in the Mahabharata as Sairishaka, Sirsa is Haryana's largest cotton and wheat growing agrarian hub.",
+      "currentChallenge": "Civic priorities focus on preventing pink bollworm infestations, canal distributary tail-end water security, and rural public healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2664",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-47",
+    "assemblyConstituencyName": "Adampur",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Adampur Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2665",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-48",
+    "assemblyConstituencyName": "Uklana (SC)",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Uklana (SC) Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2666",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-49",
+    "assemblyConstituencyName": "Narnaund",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Narnaund Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2667",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-50",
+    "assemblyConstituencyName": "Hansi",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Hansi Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2668",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-51",
+    "assemblyConstituencyName": "Barwala",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Barwala Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2669",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-52",
+    "assemblyConstituencyName": "Hisar",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Hisar Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2670",
+    "stateName": "Haryana",
+    "districtName": "Hisar",
+    "assemblyConstituencyCode": "AC-HR-53",
+    "assemblyConstituencyName": "Nalwa",
+    "crimeRate": "234.4 per 100k",
+    "crimeRatePerLakh": 234.4,
+    "literacyRate": 75.6,
+    "literacyRatePercentage": 75.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 251,
+    "regionalInsight": {
+      "title": "Nalwa Civic Context",
+      "historicalFact": "Founded in 1354 by Firoz Shah Tughlaq as 'Hisar-e-Firoza', it is celebrated as India's 'Steel City' and a major agricultural research center hosting CCS HAU and Central Sheep Breeding Farm.",
+      "currentChallenge": "Key civic challenges include mitigating industrial emissions in steel re-rolling zones, canal water supply during arid summer months, and rural health clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2671",
+    "stateName": "Haryana",
+    "districtName": "Bhiwani",
+    "assemblyConstituencyCode": "AC-HR-54",
+    "assemblyConstituencyName": "Loharu",
+    "crimeRate": "219.7 per 100k",
+    "crimeRatePerLakh": 219.7,
+    "literacyRate": 72.1,
+    "literacyRatePercentage": 72.1,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Loharu Civic Context",
+      "historicalFact": "Known as the 'Kashi of North India' for its historic temples and the 'Boxing Club of India' for producing Olympic medalists and international pugilists.",
+      "currentChallenge": "Key civic priorities include combatting groundwater depletion in the semi-arid zone, sports academy infrastructure upgrades, and canal water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2672",
+    "stateName": "Haryana",
+    "districtName": "Charkhi Dadri",
+    "assemblyConstituencyCode": "AC-HR-55",
+    "assemblyConstituencyName": "Badhra",
+    "crimeRate": "236.3 per 100k",
+    "crimeRatePerLakh": 236.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 307,
+    "regionalInsight": {
+      "title": "Badhra Civic Context",
+      "historicalFact": "Nestled between two adjoining settlements and home to rare flexible sandstone (Kalyana stone), recognized for its prominent defense recruitment tradition.",
+      "currentChallenge": "Key civic tasks involve canal water rationing during summer months, rural connectivity roads, and local agro-processing hubs."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2673",
+    "stateName": "Haryana",
+    "districtName": "Charkhi Dadri",
+    "assemblyConstituencyCode": "AC-HR-56",
+    "assemblyConstituencyName": "Dadri",
+    "crimeRate": "236.3 per 100k",
+    "crimeRatePerLakh": 236.3,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 307,
+    "regionalInsight": {
+      "title": "Dadri Civic Context",
+      "historicalFact": "Nestled between two adjoining settlements and home to rare flexible sandstone (Kalyana stone), recognized for its prominent defense recruitment tradition.",
+      "currentChallenge": "Key civic tasks involve canal water rationing during summer months, rural connectivity roads, and local agro-processing hubs."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2674",
+    "stateName": "Haryana",
+    "districtName": "Bhiwani",
+    "assemblyConstituencyCode": "AC-HR-57",
+    "assemblyConstituencyName": "Bhiwani",
+    "crimeRate": "219.7 per 100k",
+    "crimeRatePerLakh": 219.7,
+    "literacyRate": 72.1,
+    "literacyRatePercentage": 72.1,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Bhiwani Civic Context",
+      "historicalFact": "Known as the 'Kashi of North India' for its historic temples and the 'Boxing Club of India' for producing Olympic medalists and international pugilists.",
+      "currentChallenge": "Key civic priorities include combatting groundwater depletion in the semi-arid zone, sports academy infrastructure upgrades, and canal water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2675",
+    "stateName": "Haryana",
+    "districtName": "Bhiwani",
+    "assemblyConstituencyCode": "AC-HR-58",
+    "assemblyConstituencyName": "Tosham",
+    "crimeRate": "219.7 per 100k",
+    "crimeRatePerLakh": 219.7,
+    "literacyRate": 72.1,
+    "literacyRatePercentage": 72.1,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Tosham Civic Context",
+      "historicalFact": "Known as the 'Kashi of North India' for its historic temples and the 'Boxing Club of India' for producing Olympic medalists and international pugilists.",
+      "currentChallenge": "Key civic priorities include combatting groundwater depletion in the semi-arid zone, sports academy infrastructure upgrades, and canal water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2676",
+    "stateName": "Haryana",
+    "districtName": "Bhiwani",
+    "assemblyConstituencyCode": "AC-HR-59",
+    "assemblyConstituencyName": "Bawani Khera (SC)",
+    "crimeRate": "219.7 per 100k",
+    "crimeRatePerLakh": 219.7,
+    "literacyRate": 72.1,
+    "literacyRatePercentage": 72.1,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 308,
+    "regionalInsight": {
+      "title": "Bawani Khera (SC) Civic Context",
+      "historicalFact": "Known as the 'Kashi of North India' for its historic temples and the 'Boxing Club of India' for producing Olympic medalists and international pugilists.",
+      "currentChallenge": "Key civic priorities include combatting groundwater depletion in the semi-arid zone, sports academy infrastructure upgrades, and canal water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2677",
+    "stateName": "Haryana",
+    "districtName": "Rohtak",
+    "assemblyConstituencyCode": "AC-HR-60",
+    "assemblyConstituencyName": "Meham",
+    "crimeRate": "237.9 per 100k",
+    "crimeRatePerLakh": 237.9,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Meham Civic Context",
+      "historicalFact": "Heart of the Jat heartland and Haryana's educational capital, home to Maharshi Dayanand University and India's premier cloth market (Shori Bazaar).",
+      "currentChallenge": "Civic focus centers on groundwater table salinization in low-lying sectors, modernization of the drainage pumping grid, and outer orbital road development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2678",
+    "stateName": "Haryana",
+    "districtName": "Rohtak",
+    "assemblyConstituencyCode": "AC-HR-61",
+    "assemblyConstituencyName": "Garhi Sampla-Kiloi",
+    "crimeRate": "237.9 per 100k",
+    "crimeRatePerLakh": 237.9,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Garhi Sampla-Kiloi Civic Context",
+      "historicalFact": "Heart of the Jat heartland and Haryana's educational capital, home to Maharshi Dayanand University and India's premier cloth market (Shori Bazaar).",
+      "currentChallenge": "Civic focus centers on groundwater table salinization in low-lying sectors, modernization of the drainage pumping grid, and outer orbital road development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2679",
+    "stateName": "Haryana",
+    "districtName": "Rohtak",
+    "assemblyConstituencyCode": "AC-HR-62",
+    "assemblyConstituencyName": "Rohtak",
+    "crimeRate": "237.9 per 100k",
+    "crimeRatePerLakh": 237.9,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Rohtak Civic Context",
+      "historicalFact": "Heart of the Jat heartland and Haryana's educational capital, home to Maharshi Dayanand University and India's premier cloth market (Shori Bazaar).",
+      "currentChallenge": "Civic focus centers on groundwater table salinization in low-lying sectors, modernization of the drainage pumping grid, and outer orbital road development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2680",
+    "stateName": "Haryana",
+    "districtName": "Rohtak",
+    "assemblyConstituencyCode": "AC-HR-63",
+    "assemblyConstituencyName": "Kalanaur (SC)",
+    "crimeRate": "237.9 per 100k",
+    "crimeRatePerLakh": 237.9,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 27,
+    "govtSchoolsCount": 243,
+    "regionalInsight": {
+      "title": "Kalanaur (SC) Civic Context",
+      "historicalFact": "Heart of the Jat heartland and Haryana's educational capital, home to Maharshi Dayanand University and India's premier cloth market (Shori Bazaar).",
+      "currentChallenge": "Civic focus centers on groundwater table salinization in low-lying sectors, modernization of the drainage pumping grid, and outer orbital road development."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2681",
+    "stateName": "Haryana",
+    "districtName": "Jhajjar",
+    "assemblyConstituencyCode": "AC-HR-64",
+    "assemblyConstituencyName": "Bahadurgarh",
+    "crimeRate": "191.3 per 100k",
+    "crimeRatePerLakh": 191.3,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Bahadurgarh Civic Context",
+      "historicalFact": "Famed for its rich military tradition providing generations of decorated soldiers to the Indian Armed Forces, and home to the Bhindawas bird sanctuary wetland.",
+      "currentChallenge": "Critical civic tasks center on stormwater accumulation during monsoons, rural youth skill development, and water pipeline reach across arid villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2682",
+    "stateName": "Haryana",
+    "districtName": "Jhajjar",
+    "assemblyConstituencyCode": "AC-HR-65",
+    "assemblyConstituencyName": "Badli",
+    "crimeRate": "191.3 per 100k",
+    "crimeRatePerLakh": 191.3,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Badli Civic Context",
+      "historicalFact": "Famed for its rich military tradition providing generations of decorated soldiers to the Indian Armed Forces, and home to the Bhindawas bird sanctuary wetland.",
+      "currentChallenge": "Critical civic tasks center on stormwater accumulation during monsoons, rural youth skill development, and water pipeline reach across arid villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2683",
+    "stateName": "Haryana",
+    "districtName": "Jhajjar",
+    "assemblyConstituencyCode": "AC-HR-66",
+    "assemblyConstituencyName": "Jhajjar (SC)",
+    "crimeRate": "191.3 per 100k",
+    "crimeRatePerLakh": 191.3,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Jhajjar (SC) Civic Context",
+      "historicalFact": "Famed for its rich military tradition providing generations of decorated soldiers to the Indian Armed Forces, and home to the Bhindawas bird sanctuary wetland.",
+      "currentChallenge": "Critical civic tasks center on stormwater accumulation during monsoons, rural youth skill development, and water pipeline reach across arid villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2684",
+    "stateName": "Haryana",
+    "districtName": "Jhajjar",
+    "assemblyConstituencyCode": "AC-HR-67",
+    "assemblyConstituencyName": "Beri",
+    "crimeRate": "191.3 per 100k",
+    "crimeRatePerLakh": 191.3,
+    "literacyRate": 81.1,
+    "literacyRatePercentage": 81.1,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 296,
+    "regionalInsight": {
+      "title": "Beri Civic Context",
+      "historicalFact": "Famed for its rich military tradition providing generations of decorated soldiers to the Indian Armed Forces, and home to the Bhindawas bird sanctuary wetland.",
+      "currentChallenge": "Critical civic tasks center on stormwater accumulation during monsoons, rural youth skill development, and water pipeline reach across arid villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2685",
+    "stateName": "Haryana",
+    "districtName": "Mahendragarh",
+    "assemblyConstituencyCode": "AC-HR-68",
+    "assemblyConstituencyName": "Ateli",
+    "crimeRate": "214.8 per 100k",
+    "crimeRatePerLakh": 214.8,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Ateli Civic Context",
+      "historicalFact": "Historic stronghold of the Rathore Rajputs with its massive fortress, known for rich copper, iron, and limestone deposits in the Dhosi hill volcanic range.",
+      "currentChallenge": "Critical developmental priorities include drinking water supply in the rocky Aravalli terrain, agricultural power supply, and dryland farming support."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2686",
+    "stateName": "Haryana",
+    "districtName": "Mahendragarh",
+    "assemblyConstituencyCode": "AC-HR-69",
+    "assemblyConstituencyName": "Mahendragarh",
+    "crimeRate": "214.8 per 100k",
+    "crimeRatePerLakh": 214.8,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Mahendragarh Civic Context",
+      "historicalFact": "Historic stronghold of the Rathore Rajputs with its massive fortress, known for rich copper, iron, and limestone deposits in the Dhosi hill volcanic range.",
+      "currentChallenge": "Critical developmental priorities include drinking water supply in the rocky Aravalli terrain, agricultural power supply, and dryland farming support."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2687",
+    "stateName": "Haryana",
+    "districtName": "Mahendragarh",
+    "assemblyConstituencyCode": "AC-HR-70",
+    "assemblyConstituencyName": "Narnaul",
+    "crimeRate": "214.8 per 100k",
+    "crimeRatePerLakh": 214.8,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Narnaul Civic Context",
+      "historicalFact": "Historic stronghold of the Rathore Rajputs with its massive fortress, known for rich copper, iron, and limestone deposits in the Dhosi hill volcanic range.",
+      "currentChallenge": "Critical developmental priorities include drinking water supply in the rocky Aravalli terrain, agricultural power supply, and dryland farming support."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2688",
+    "stateName": "Haryana",
+    "districtName": "Mahendragarh",
+    "assemblyConstituencyCode": "AC-HR-71",
+    "assemblyConstituencyName": "Nangal Chaudhry",
+    "crimeRate": "214.8 per 100k",
+    "crimeRatePerLakh": 214.8,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Nangal Chaudhry Civic Context",
+      "historicalFact": "Historic stronghold of the Rathore Rajputs with its massive fortress, known for rich copper, iron, and limestone deposits in the Dhosi hill volcanic range.",
+      "currentChallenge": "Critical developmental priorities include drinking water supply in the rocky Aravalli terrain, agricultural power supply, and dryland farming support."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2689",
+    "stateName": "Haryana",
+    "districtName": "Rewari",
+    "assemblyConstituencyCode": "AC-HR-72",
+    "assemblyConstituencyName": "Bawal (SC)",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Bawal (SC) Civic Context",
+      "historicalFact": "Seat of King Hemu (Hemchandra Vikramaditya) and birthplace of the 1857 hero Rao Tula Ram, Rewari is world-famous for its traditional brassware and India's oldest operational steam locomotive shed.",
+      "currentChallenge": "Civic focus involves industrial pollution monitoring in the Bawal DMIC zone, Sahibi river rejuvenation, and clean drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2690",
+    "stateName": "Haryana",
+    "districtName": "Rewari",
+    "assemblyConstituencyCode": "AC-HR-73",
+    "assemblyConstituencyName": "Kosli",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Kosli Civic Context",
+      "historicalFact": "Seat of King Hemu (Hemchandra Vikramaditya) and birthplace of the 1857 hero Rao Tula Ram, Rewari is world-famous for its traditional brassware and India's oldest operational steam locomotive shed.",
+      "currentChallenge": "Civic focus involves industrial pollution monitoring in the Bawal DMIC zone, Sahibi river rejuvenation, and clean drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2691",
+    "stateName": "Haryana",
+    "districtName": "Rewari",
+    "assemblyConstituencyCode": "AC-HR-74",
+    "assemblyConstituencyName": "Rewari",
+    "crimeRate": "211.2 per 100k",
+    "crimeRatePerLakh": 211.2,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Rewari Civic Context",
+      "historicalFact": "Seat of King Hemu (Hemchandra Vikramaditya) and birthplace of the 1857 hero Rao Tula Ram, Rewari is world-famous for its traditional brassware and India's oldest operational steam locomotive shed.",
+      "currentChallenge": "Civic focus involves industrial pollution monitoring in the Bawal DMIC zone, Sahibi river rejuvenation, and clean drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2692",
+    "stateName": "Haryana",
+    "districtName": "Gurugram",
+    "assemblyConstituencyCode": "AC-HR-75",
+    "assemblyConstituencyName": "Pataudi (SC)",
+    "crimeRate": "193.5 per 100k",
+    "crimeRatePerLakh": 193.5,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Pataudi (SC) Civic Context",
+      "historicalFact": "Traditionally associated with Guru Dronacharya as 'Gurugram', it has evolved from a rural hamlet into India's premier Millennium City and global Fortune 500 corporate center.",
+      "currentChallenge": "Critical public priorities include resolving chronic monsoon waterlogging along the Delhi-Gurugram expressway, Najafgarh drain environmental revival, and civic water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2693",
+    "stateName": "Haryana",
+    "districtName": "Gurugram",
+    "assemblyConstituencyCode": "AC-HR-76",
+    "assemblyConstituencyName": "Badshahpur",
+    "crimeRate": "193.5 per 100k",
+    "crimeRatePerLakh": 193.5,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Badshahpur Civic Context",
+      "historicalFact": "Traditionally associated with Guru Dronacharya as 'Gurugram', it has evolved from a rural hamlet into India's premier Millennium City and global Fortune 500 corporate center.",
+      "currentChallenge": "Critical public priorities include resolving chronic monsoon waterlogging along the Delhi-Gurugram expressway, Najafgarh drain environmental revival, and civic water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2694",
+    "stateName": "Haryana",
+    "districtName": "Gurugram",
+    "assemblyConstituencyCode": "AC-HR-77",
+    "assemblyConstituencyName": "Gurgaon",
+    "crimeRate": "193.5 per 100k",
+    "crimeRatePerLakh": 193.5,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Gurgaon Civic Context",
+      "historicalFact": "Traditionally associated with Guru Dronacharya as 'Gurugram', it has evolved from a rural hamlet into India's premier Millennium City and global Fortune 500 corporate center.",
+      "currentChallenge": "Critical public priorities include resolving chronic monsoon waterlogging along the Delhi-Gurugram expressway, Najafgarh drain environmental revival, and civic water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2695",
+    "stateName": "Haryana",
+    "districtName": "Gurugram",
+    "assemblyConstituencyCode": "AC-HR-78",
+    "assemblyConstituencyName": "Sohna",
+    "crimeRate": "193.5 per 100k",
+    "crimeRatePerLakh": 193.5,
+    "literacyRate": 85.3,
+    "literacyRatePercentage": 85.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Sohna Civic Context",
+      "historicalFact": "Traditionally associated with Guru Dronacharya as 'Gurugram', it has evolved from a rural hamlet into India's premier Millennium City and global Fortune 500 corporate center.",
+      "currentChallenge": "Critical public priorities include resolving chronic monsoon waterlogging along the Delhi-Gurugram expressway, Najafgarh drain environmental revival, and civic water distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2696",
+    "stateName": "Haryana",
+    "districtName": "Nuh",
+    "assemblyConstituencyCode": "AC-HR-79",
+    "assemblyConstituencyName": "Nuh",
+    "crimeRate": "241.9 per 100k",
+    "crimeRatePerLakh": 241.9,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Nuh Civic Context",
+      "historicalFact": "Heart of the Mewat cultural region, characterized by ancient Aravalli ridges, Kotla lake wetlands, and rich Meo folklore and pastoral traditions.",
+      "currentChallenge": "Major civic needs involve maternal healthcare access, expanding secondary educational institutions, and resolving chronic drinking water salinity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2697",
+    "stateName": "Haryana",
+    "districtName": "Nuh",
+    "assemblyConstituencyCode": "AC-HR-80",
+    "assemblyConstituencyName": "Ferozepur Jhirka",
+    "crimeRate": "241.9 per 100k",
+    "crimeRatePerLakh": 241.9,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Ferozepur Jhirka Civic Context",
+      "historicalFact": "Heart of the Mewat cultural region, characterized by ancient Aravalli ridges, Kotla lake wetlands, and rich Meo folklore and pastoral traditions.",
+      "currentChallenge": "Major civic needs involve maternal healthcare access, expanding secondary educational institutions, and resolving chronic drinking water salinity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2698",
+    "stateName": "Haryana",
+    "districtName": "Nuh",
+    "assemblyConstituencyCode": "AC-HR-81",
+    "assemblyConstituencyName": "Punahana",
+    "crimeRate": "241.9 per 100k",
+    "crimeRatePerLakh": 241.9,
+    "literacyRate": 73.3,
+    "literacyRatePercentage": 73.3,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 148,
+    "regionalInsight": {
+      "title": "Punahana Civic Context",
+      "historicalFact": "Heart of the Mewat cultural region, characterized by ancient Aravalli ridges, Kotla lake wetlands, and rich Meo folklore and pastoral traditions.",
+      "currentChallenge": "Major civic needs involve maternal healthcare access, expanding secondary educational institutions, and resolving chronic drinking water salinity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2699",
+    "stateName": "Haryana",
+    "districtName": "Palwal",
+    "assemblyConstituencyCode": "AC-HR-82",
+    "assemblyConstituencyName": "Hathin",
+    "crimeRate": "149.6 per 100k",
+    "crimeRatePerLakh": 149.6,
+    "literacyRate": 74.3,
+    "literacyRatePercentage": 74.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 359,
+    "regionalInsight": {
+      "title": "Hathin Civic Context",
+      "historicalFact": "Associated with the legendary demon Palwasur and Mahatma Gandhi's first political arrest at Palwal railway station during the 1919 anti-Rowlatt Satyagraha.",
+      "currentChallenge": "Public priorities include expanding highway overbridges along the KMP expressway, peri-urban drainage, and rural primary healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2700",
+    "stateName": "Haryana",
+    "districtName": "Palwal",
+    "assemblyConstituencyCode": "AC-HR-83",
+    "assemblyConstituencyName": "Hodal (SC)",
+    "crimeRate": "149.6 per 100k",
+    "crimeRatePerLakh": 149.6,
+    "literacyRate": 74.3,
+    "literacyRatePercentage": 74.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 359,
+    "regionalInsight": {
+      "title": "Hodal (SC) Civic Context",
+      "historicalFact": "Associated with the legendary demon Palwasur and Mahatma Gandhi's first political arrest at Palwal railway station during the 1919 anti-Rowlatt Satyagraha.",
+      "currentChallenge": "Public priorities include expanding highway overbridges along the KMP expressway, peri-urban drainage, and rural primary healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2701",
+    "stateName": "Haryana",
+    "districtName": "Palwal",
+    "assemblyConstituencyCode": "AC-HR-84",
+    "assemblyConstituencyName": "Palwal",
+    "crimeRate": "149.6 per 100k",
+    "crimeRatePerLakh": 149.6,
+    "literacyRate": 74.3,
+    "literacyRatePercentage": 74.3,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 359,
+    "regionalInsight": {
+      "title": "Palwal Civic Context",
+      "historicalFact": "Associated with the legendary demon Palwasur and Mahatma Gandhi's first political arrest at Palwal railway station during the 1919 anti-Rowlatt Satyagraha.",
+      "currentChallenge": "Public priorities include expanding highway overbridges along the KMP expressway, peri-urban drainage, and rural primary healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2702",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-85",
+    "assemblyConstituencyName": "Prithla",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Prithla Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2703",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-86",
+    "assemblyConstituencyName": "Faridabad NIT",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Faridabad NIT Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2704",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-87",
+    "assemblyConstituencyName": "Badkhal",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Badkhal Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2705",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-88",
+    "assemblyConstituencyName": "Ballabhgarh",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Ballabhgarh Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2706",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-89",
+    "assemblyConstituencyName": "Faridabad",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Faridabad Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ha_2707",
+    "stateName": "Haryana",
+    "districtName": "Faridabad",
+    "assemblyConstituencyCode": "AC-HR-90",
+    "assemblyConstituencyName": "Tigaon",
+    "crimeRate": "229.2 per 100k",
+    "crimeRatePerLakh": 229.2,
+    "literacyRate": 76.7,
+    "literacyRatePercentage": 76.7,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 282,
+    "regionalInsight": {
+      "title": "Tigaon Civic Context",
+      "historicalFact": "Founded in 1607 by Sheikh Farid, it served as a model refugee township post-1947 and grew into Northern India's pioneering heavy industrial, tractor, and engineering manufacturing base.",
+      "currentChallenge": "Major developmental tasks involve Aravali forest biodiversity conservation, upgrading legacy sewer grids, and rapid transit expansion to Greater Faridabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

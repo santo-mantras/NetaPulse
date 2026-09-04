@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="20" fill="#ec4899"/>
+  <!-- BRS Car / Emblem Motif -->
+  <path d="M22 62 L32 44 L68 44 L78 62 Z" fill="#ffffff"/>
+  <rect x="18" y="60" width="64" height="14" rx="4" fill="#ffffff"/>
+  <circle cx="32" cy="74" r="8" fill="#1e293b" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="68" cy="74" r="8" fill="#1e293b" stroke="#ffffff" stroke-width="2"/>
+  <text x="50" y="36" font-size="14" font-weight="900" font-family="sans-serif" fill="#ffffff" text-anchor="middle">BRS</text>
+</svg>

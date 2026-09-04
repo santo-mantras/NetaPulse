@@ -429,5 +429,91 @@ STATE_PROFILES = {
             { "party": "Bharatiya Janata Party", "seats": 48, "pct": 68.6 },
             { "party": "Aam Aadmi Party", "seats": 22, "pct": 31.4 }
         ]
+    },
+    "Haryana": {
+        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹11.20 Lakh Cr",
+        "perCapitaIncomeINR": "₹3,25,759",
+        "fiscalHealth": "2.8% GSDP (FRBM Compliant)",
+        "socialProgressIndex": "57.68 (Tier 2 - High)",
+        "historicalFact": "The sacred soil of Kurukshetra where the Bhagavad Gita was expounded, serving as the crucible of Vedic ethos and modern India's agrarian powerhouse and automotive industrial corridor.",
+        "totalAssembly": 90,
+        "totalLokSabha": 10,
+        "totalDistricts": 22,
+        "majorityMark": 46,
+        "currentRuler": "Bharatiya Janata Party",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Indian National Lok Dal": "#16a34a",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 53.3 },
+            { "party": "Indian National Congress", "seats": 37, "pct": 41.1 },
+            { "party": "Indian National Lok Dal", "seats": 2, "pct": 2.2 },
+            { "party": "Others / Independents", "seats": 3, "pct": 3.3 }
+        ]
+    },
+    "Telangana": {
+        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "deputyChiefMinisters": [
+            { "name": "Mallu Bhatti Vikramarka", "party": "INC" }
+        ],
+        "gsdpINR": "₹14.00 Lakh Cr",
+        "perCapitaIncomeINR": "₹3,43,297",
+        "fiscalHealth": "2.9% GSDP (FRBM Compliant)",
+        "socialProgressIndex": "53.41 (Tier 4 - Middle)",
+        "historicalFact": "Historic heart of the Deccan plateau, famed for the Golconda Diamond Sultanate and Kakatiya architecture, today powering India's premier biotechnology (Genome Valley) and software hubs.",
+        "totalAssembly": 119,
+        "totalLokSabha": 17,
+        "totalDistricts": 33,
+        "majorityMark": 60,
+        "currentRuler": "Indian National Congress",
+        "partyColors": {
+            "Indian National Congress": "#06b6d4",
+            "Bharat Rashtra Samithi": "#ec4899",
+            "Bharatiya Janata Party": "#f97316",
+            "AIMIM": "#15803d",
+            "Communist Party of India": "#dc2626"
+        },
+        "seatTally": [
+            { "party": "Indian National Congress", "seats": 64, "pct": 53.8 },
+            { "party": "Bharat Rashtra Samithi", "seats": 39, "pct": 32.8 },
+            { "party": "Bharatiya Janata Party", "seats": 8, "pct": 6.7 },
+            { "party": "AIMIM", "seats": 7, "pct": 5.9 },
+            { "party": "Communist Party of India", "seats": 1, "pct": 0.8 }
+        ]
+    },
+    "Jammu & Kashmir": {
+        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" },
+        "deputyChiefMinisters": [
+            { "name": "Surinder Kumar Choudhary", "party": "JKNC" }
+        ],
+        "gsdpINR": "₹2.45 Lakh Cr",
+        "perCapitaIncomeINR": "₹1,43,500",
+        "fiscalHealth": "3.1% GSDP (Central Grants Support)",
+        "socialProgressIndex": "54.12 (Tier 3 - Upper Middle)",
+        "historicalFact": "The crown of the Himalayas and cradle of Kashmiri Shaivism and Sufi Rishism, celebrated worldwide for saffron cultivation, handicraft artistry, and the serene Dal Lake.",
+        "totalAssembly": 90,
+        "totalLokSabha": 5,
+        "totalDistricts": 20,
+        "majorityMark": 46,
+        "currentRuler": "JKNC-INC Alliance",
+        "partyColors": {
+            "Jammu & Kashmir National Conference": "#dc2626",
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Jammu & Kashmir People's Democratic Party": "#16a34a",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Jammu & Kashmir National Conference", "seats": 42, "pct": 46.7 },
+            { "party": "Bharatiya Janata Party", "seats": 29, "pct": 32.2 },
+            { "party": "Indian National Congress", "seats": 6, "pct": 6.7 },
+            { "party": "Jammu & Kashmir People's Democratic Party", "seats": 3, "pct": 3.3 },
+            { "party": "Others / Independents", "seats": 10, "pct": 11.1 }
+        ]
     }
 }

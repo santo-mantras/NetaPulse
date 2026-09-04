@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "loc_ja_2827",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-1",
+    "assemblyConstituencyName": "Karnah",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Karnah Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2828",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-2",
+    "assemblyConstituencyName": "Trehgam",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Trehgam Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2829",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-3",
+    "assemblyConstituencyName": "Kupwara",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Kupwara Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2830",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-4",
+    "assemblyConstituencyName": "Lolab",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Lolab Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2831",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-5",
+    "assemblyConstituencyName": "Handwara",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Handwara Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2832",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kupwara",
+    "assemblyConstituencyCode": "AC-JK-6",
+    "assemblyConstituencyName": "Langate",
+    "crimeRate": "166.4 per 100k",
+    "crimeRatePerLakh": 166.4,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 313,
+    "regionalInsight": {
+      "title": "Langate Civic Context",
+      "historicalFact": "Border district blessed with the enchanting Lolab and Bangus valleys, marked by alpine forests, freshwater streams, and traditional Gujjar-Bakkarwal pastoral culture.",
+      "currentChallenge": "Key civic needs focus on Sadna Top tunnel and winter road clearance, cross-border healthcare, and telecommunication infrastructure in remote border villages."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2833",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-7",
+    "assemblyConstituencyName": "Sopore",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Sopore Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2834",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-8",
+    "assemblyConstituencyName": "Rafiabad",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Rafiabad Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2835",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-9",
+    "assemblyConstituencyName": "Uri",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Uri Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2836",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-10",
+    "assemblyConstituencyName": "Baramulla",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Baramulla Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2837",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-11",
+    "assemblyConstituencyName": "Gulmarg",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Gulmarg Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2838",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-12",
+    "assemblyConstituencyName": "Wagoora-Kreeri",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Wagoora-Kreeri Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2839",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Baramulla",
+    "assemblyConstituencyCode": "AC-JK-13",
+    "assemblyConstituencyName": "Pattan",
+    "crimeRate": "176.6 per 100k",
+    "crimeRatePerLakh": 176.6,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Pattan Civic Context",
+      "historicalFact": "Historic gateway to the Kashmir Valley along the Jhelum river gorge, featuring ancient Buddhist and Hindu sites (Parihaspora and Ushkar) and world-famous apple orchards of Sopore.",
+      "currentChallenge": "Civic challenges include flood spill channel maintenance, apple trade logistics during harvest season, and high-altitude road all-weather connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2840",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Bandipora",
+    "assemblyConstituencyCode": "AC-JK-14",
+    "assemblyConstituencyName": "Sonawari",
+    "crimeRate": "274.6 per 100k",
+    "crimeRatePerLakh": 274.6,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 281,
+    "regionalInsight": {
+      "title": "Sonawari Civic Context",
+      "historicalFact": "Bordered by Wular Lake—one of Asia's largest freshwater lakes—and celebrated for the ancient Gilgit trade route, high-yield walnut production, and Kishanganga hydel power.",
+      "currentChallenge": "Critical civic focus involves Wular lake silt dredging and wetland revival, trout fish aquaculture support, and Bandipora-Gurez winter tunnel connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2841",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Bandipora",
+    "assemblyConstituencyCode": "AC-JK-15",
+    "assemblyConstituencyName": "Bandipora",
+    "crimeRate": "274.6 per 100k",
+    "crimeRatePerLakh": 274.6,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 281,
+    "regionalInsight": {
+      "title": "Bandipora Civic Context",
+      "historicalFact": "Bordered by Wular Lake—one of Asia's largest freshwater lakes—and celebrated for the ancient Gilgit trade route, high-yield walnut production, and Kishanganga hydel power.",
+      "currentChallenge": "Critical civic focus involves Wular lake silt dredging and wetland revival, trout fish aquaculture support, and Bandipora-Gurez winter tunnel connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2842",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Bandipora",
+    "assemblyConstituencyCode": "AC-JK-16",
+    "assemblyConstituencyName": "Gurez (ST)",
+    "crimeRate": "274.6 per 100k",
+    "crimeRatePerLakh": 274.6,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 281,
+    "regionalInsight": {
+      "title": "Gurez (ST) Civic Context",
+      "historicalFact": "Bordered by Wular Lake—one of Asia's largest freshwater lakes—and celebrated for the ancient Gilgit trade route, high-yield walnut production, and Kishanganga hydel power.",
+      "currentChallenge": "Critical civic focus involves Wular lake silt dredging and wetland revival, trout fish aquaculture support, and Bandipora-Gurez winter tunnel connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2843",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Ganderbal",
+    "assemblyConstituencyCode": "AC-JK-17",
+    "assemblyConstituencyName": "Kangan (ST)",
+    "crimeRate": "154.1 per 100k",
+    "crimeRatePerLakh": 154.1,
+    "literacyRate": 77.9,
+    "literacyRatePercentage": 77.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Kangan (ST) Civic Context",
+      "historicalFact": "Traversed by the rushing Sindh River, it hosts the sacred Kheer Bhawani temple at Tulmulla and serves as the strategic base for the Sonamarg-Ladakh mountain corridor.",
+      "currentChallenge": "Civic tasks center on regulating eco-tourism density, Sindh river sand-mining control, and mountain slope avalanche mitigation along the Zojila highway."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2844",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Ganderbal",
+    "assemblyConstituencyCode": "AC-JK-18",
+    "assemblyConstituencyName": "Ganderbal",
+    "crimeRate": "154.1 per 100k",
+    "crimeRatePerLakh": 154.1,
+    "literacyRate": 77.9,
+    "literacyRatePercentage": 77.9,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Ganderbal Civic Context",
+      "historicalFact": "Traversed by the rushing Sindh River, it hosts the sacred Kheer Bhawani temple at Tulmulla and serves as the strategic base for the Sonamarg-Ladakh mountain corridor.",
+      "currentChallenge": "Civic tasks center on regulating eco-tourism density, Sindh river sand-mining control, and mountain slope avalanche mitigation along the Zojila highway."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2845",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-19",
+    "assemblyConstituencyName": "Hazratbal",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Hazratbal Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2846",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-20",
+    "assemblyConstituencyName": "Khanyar",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Khanyar Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2847",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-21",
+    "assemblyConstituencyName": "Habba Kadal",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Habba Kadal Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2848",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-22",
+    "assemblyConstituencyName": "Lal Chowk",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Lal Chowk Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2849",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-23",
+    "assemblyConstituencyName": "Channapora",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Channapora Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2850",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-24",
+    "assemblyConstituencyName": "Zadibal",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Zadibal Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2851",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-25",
+    "assemblyConstituencyName": "Eidgah",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Eidgah Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2852",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Srinagar",
+    "assemblyConstituencyCode": "AC-JK-26",
+    "assemblyConstituencyName": "Central Shalteng",
+    "crimeRate": "205.2 per 100k",
+    "crimeRatePerLakh": 205.2,
+    "literacyRate": 74.8,
+    "literacyRatePercentage": 74.8,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Central Shalteng Civic Context",
+      "historicalFact": "Founded over two millennia ago by Emperor Ashoka, Srinagar is world-renowned for the serene Dal Lake, Mughal Gardens, historic wooden architecture, and GI-tagged Pashmina weaving.",
+      "currentChallenge": "Major public focus centers on Dal and Nigeen lake ecological restoration, underground sewage network expansion, and heritage architectural conservation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2853",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Budgam",
+    "assemblyConstituencyCode": "AC-JK-27",
+    "assemblyConstituencyName": "Budgam",
+    "crimeRate": "229.3 per 100k",
+    "crimeRatePerLakh": 229.3,
+    "literacyRate": 77.2,
+    "literacyRatePercentage": 77.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Budgam Civic Context",
+      "historicalFact": "Seat of the revered Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) at Charar-i-Sharief and home to the pristine high-altitude meadows of Doodhpathri.",
+      "currentChallenge": "Public developmental priorities include karewa plateau conservation against illegal soil mining, airport approach road decongestion, and rural drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2854",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Budgam",
+    "assemblyConstituencyCode": "AC-JK-28",
+    "assemblyConstituencyName": "Beerwah",
+    "crimeRate": "229.3 per 100k",
+    "crimeRatePerLakh": 229.3,
+    "literacyRate": 77.2,
+    "literacyRatePercentage": 77.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Beerwah Civic Context",
+      "historicalFact": "Seat of the revered Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) at Charar-i-Sharief and home to the pristine high-altitude meadows of Doodhpathri.",
+      "currentChallenge": "Public developmental priorities include karewa plateau conservation against illegal soil mining, airport approach road decongestion, and rural drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2855",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Budgam",
+    "assemblyConstituencyCode": "AC-JK-29",
+    "assemblyConstituencyName": "Khansahib",
+    "crimeRate": "229.3 per 100k",
+    "crimeRatePerLakh": 229.3,
+    "literacyRate": 77.2,
+    "literacyRatePercentage": 77.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Khansahib Civic Context",
+      "historicalFact": "Seat of the revered Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) at Charar-i-Sharief and home to the pristine high-altitude meadows of Doodhpathri.",
+      "currentChallenge": "Public developmental priorities include karewa plateau conservation against illegal soil mining, airport approach road decongestion, and rural drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2856",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Budgam",
+    "assemblyConstituencyCode": "AC-JK-30",
+    "assemblyConstituencyName": "Chrar-i-Sharief",
+    "crimeRate": "229.3 per 100k",
+    "crimeRatePerLakh": 229.3,
+    "literacyRate": 77.2,
+    "literacyRatePercentage": 77.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Chrar-i-Sharief Civic Context",
+      "historicalFact": "Seat of the revered Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) at Charar-i-Sharief and home to the pristine high-altitude meadows of Doodhpathri.",
+      "currentChallenge": "Public developmental priorities include karewa plateau conservation against illegal soil mining, airport approach road decongestion, and rural drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2857",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Budgam",
+    "assemblyConstituencyCode": "AC-JK-31",
+    "assemblyConstituencyName": "Chadoora",
+    "crimeRate": "229.3 per 100k",
+    "crimeRatePerLakh": 229.3,
+    "literacyRate": 77.2,
+    "literacyRatePercentage": 77.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 147,
+    "regionalInsight": {
+      "title": "Chadoora Civic Context",
+      "historicalFact": "Seat of the revered Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) at Charar-i-Sharief and home to the pristine high-altitude meadows of Doodhpathri.",
+      "currentChallenge": "Public developmental priorities include karewa plateau conservation against illegal soil mining, airport approach road decongestion, and rural drinking water filtration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2858",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Pulwama",
+    "assemblyConstituencyCode": "AC-JK-32",
+    "assemblyConstituencyName": "Pampore",
+    "crimeRate": "156.1 per 100k",
+    "crimeRatePerLakh": 156.1,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Pampore Civic Context",
+      "historicalFact": "Globally acclaimed as the 'Saffron Bowl of Kashmir' around Pampore and the premier dairy hub of the valley, sustaining traditional walnut and willow bat manufacturing.",
+      "currentChallenge": "Major priorities include protecting prime saffron soil (karewas) from urbanization, irrigation sprinkler networks for saffron fields, and industrial estate infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2859",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Pulwama",
+    "assemblyConstituencyCode": "AC-JK-33",
+    "assemblyConstituencyName": "Tral",
+    "crimeRate": "156.1 per 100k",
+    "crimeRatePerLakh": 156.1,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Tral Civic Context",
+      "historicalFact": "Globally acclaimed as the 'Saffron Bowl of Kashmir' around Pampore and the premier dairy hub of the valley, sustaining traditional walnut and willow bat manufacturing.",
+      "currentChallenge": "Major priorities include protecting prime saffron soil (karewas) from urbanization, irrigation sprinkler networks for saffron fields, and industrial estate infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2860",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Pulwama",
+    "assemblyConstituencyCode": "AC-JK-34",
+    "assemblyConstituencyName": "Pulwama",
+    "crimeRate": "156.1 per 100k",
+    "crimeRatePerLakh": 156.1,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Pulwama Civic Context",
+      "historicalFact": "Globally acclaimed as the 'Saffron Bowl of Kashmir' around Pampore and the premier dairy hub of the valley, sustaining traditional walnut and willow bat manufacturing.",
+      "currentChallenge": "Major priorities include protecting prime saffron soil (karewas) from urbanization, irrigation sprinkler networks for saffron fields, and industrial estate infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2861",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Pulwama",
+    "assemblyConstituencyCode": "AC-JK-35",
+    "assemblyConstituencyName": "Rajpora",
+    "crimeRate": "156.1 per 100k",
+    "crimeRatePerLakh": 156.1,
+    "literacyRate": 86.4,
+    "literacyRatePercentage": 86.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Rajpora Civic Context",
+      "historicalFact": "Globally acclaimed as the 'Saffron Bowl of Kashmir' around Pampore and the premier dairy hub of the valley, sustaining traditional walnut and willow bat manufacturing.",
+      "currentChallenge": "Major priorities include protecting prime saffron soil (karewas) from urbanization, irrigation sprinkler networks for saffron fields, and industrial estate infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2862",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Shopian",
+    "assemblyConstituencyCode": "AC-JK-36",
+    "assemblyConstituencyName": "Zainapora",
+    "crimeRate": "197.4 per 100k",
+    "crimeRatePerLakh": 197.4,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 273,
+    "regionalInsight": {
+      "title": "Zainapora Civic Context",
+      "historicalFact": "Historic stop along the imperial Mughal Road over Pir Panjal, recognized as the premier apple and walnut hub of the Himalayas with rich spiritual heritage.",
+      "currentChallenge": "Public focus centers on Mughal Road all-weather year-round maintenance, anti-hail net subsidies for orchards, and expanding CA cold chain facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2863",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Shopian",
+    "assemblyConstituencyCode": "AC-JK-37",
+    "assemblyConstituencyName": "Shopian",
+    "crimeRate": "197.4 per 100k",
+    "crimeRatePerLakh": 197.4,
+    "literacyRate": 72.9,
+    "literacyRatePercentage": 72.9,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 273,
+    "regionalInsight": {
+      "title": "Shopian Civic Context",
+      "historicalFact": "Historic stop along the imperial Mughal Road over Pir Panjal, recognized as the premier apple and walnut hub of the Himalayas with rich spiritual heritage.",
+      "currentChallenge": "Public focus centers on Mughal Road all-weather year-round maintenance, anti-hail net subsidies for orchards, and expanding CA cold chain facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2864",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kulgam",
+    "assemblyConstituencyCode": "AC-JK-38",
+    "assemblyConstituencyName": "D.H. Pora",
+    "crimeRate": "180.2 per 100k",
+    "crimeRatePerLakh": 180.2,
+    "literacyRate": 85.7,
+    "literacyRatePercentage": 85.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "D.H. Pora Civic Context",
+      "historicalFact": "Known as the 'Rice Bowl of South Kashmir' along the Veshaw River, famous for the scenic Aharbal waterfall and traditional red-clay pottery and apple plantations.",
+      "currentChallenge": "Civic challenges include Veshaw river flash flood control, rural farm road macadamization, and rural youth sports infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2865",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kulgam",
+    "assemblyConstituencyCode": "AC-JK-39",
+    "assemblyConstituencyName": "Kulgam",
+    "crimeRate": "180.2 per 100k",
+    "crimeRatePerLakh": 180.2,
+    "literacyRate": 85.7,
+    "literacyRatePercentage": 85.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "Kulgam Civic Context",
+      "historicalFact": "Known as the 'Rice Bowl of South Kashmir' along the Veshaw River, famous for the scenic Aharbal waterfall and traditional red-clay pottery and apple plantations.",
+      "currentChallenge": "Civic challenges include Veshaw river flash flood control, rural farm road macadamization, and rural youth sports infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2866",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kulgam",
+    "assemblyConstituencyCode": "AC-JK-40",
+    "assemblyConstituencyName": "Devsar",
+    "crimeRate": "180.2 per 100k",
+    "crimeRatePerLakh": 180.2,
+    "literacyRate": 85.7,
+    "literacyRatePercentage": 85.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 332,
+    "regionalInsight": {
+      "title": "Devsar Civic Context",
+      "historicalFact": "Known as the 'Rice Bowl of South Kashmir' along the Veshaw River, famous for the scenic Aharbal waterfall and traditional red-clay pottery and apple plantations.",
+      "currentChallenge": "Civic challenges include Veshaw river flash flood control, rural farm road macadamization, and rural youth sports infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2867",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-41",
+    "assemblyConstituencyName": "Dooru",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Dooru Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2868",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-42",
+    "assemblyConstituencyName": "Kokernag (ST)",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Kokernag (ST) Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2869",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-43",
+    "assemblyConstituencyName": "Anantnag West",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Anantnag West Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2870",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-44",
+    "assemblyConstituencyName": "Anantnag",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Anantnag Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2871",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-45",
+    "assemblyConstituencyName": "Srigufwara-Bijbehara",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Srigufwara-Bijbehara Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2872",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-46",
+    "assemblyConstituencyName": "Shangus-Anantnag East",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Shangus-Anantnag East Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2873",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Anantnag",
+    "assemblyConstituencyCode": "AC-JK-47",
+    "assemblyConstituencyName": "Pahalgam",
+    "crimeRate": "160.5 per 100k",
+    "crimeRatePerLakh": 160.5,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Pahalgam Civic Context",
+      "historicalFact": "Celebrated as the commercial capital of South Kashmir, home to the ancient 8th-century Martand Sun Temple and the traditional pilgrimage gateway for the sacred Amarnath Yatra.",
+      "currentChallenge": "Critical civic priorities include Lidder and Jhelum riverbank flood stabilization, winter highway connectivity, and expanding high-density apple cold storage facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2874",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kishtwar",
+    "assemblyConstituencyCode": "AC-JK-48",
+    "assemblyConstituencyName": "Inderwal",
+    "crimeRate": "165.8 per 100k",
+    "crimeRatePerLakh": 165.8,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Inderwal Civic Context",
+      "historicalFact": "Known as the 'Land of Sapphire and Saffron' along the upper Chenab, hosting the Dul Hasti power project and the Kishtwar High Altitude National Park.",
+      "currentChallenge": "Key developmental tasks include Chenab river hydel project ecological compliance, remote high-altitude road access, and specialized hospital facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2875",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kishtwar",
+    "assemblyConstituencyCode": "AC-JK-49",
+    "assemblyConstituencyName": "Kishtwar",
+    "crimeRate": "165.8 per 100k",
+    "crimeRatePerLakh": 165.8,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Kishtwar Civic Context",
+      "historicalFact": "Known as the 'Land of Sapphire and Saffron' along the upper Chenab, hosting the Dul Hasti power project and the Kishtwar High Altitude National Park.",
+      "currentChallenge": "Key developmental tasks include Chenab river hydel project ecological compliance, remote high-altitude road access, and specialized hospital facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2876",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kishtwar",
+    "assemblyConstituencyCode": "AC-JK-50",
+    "assemblyConstituencyName": "Padder-Nagseni",
+    "crimeRate": "165.8 per 100k",
+    "crimeRatePerLakh": 165.8,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 25,
+    "govtSchoolsCount": 222,
+    "regionalInsight": {
+      "title": "Padder-Nagseni Civic Context",
+      "historicalFact": "Known as the 'Land of Sapphire and Saffron' along the upper Chenab, hosting the Dul Hasti power project and the Kishtwar High Altitude National Park.",
+      "currentChallenge": "Key developmental tasks include Chenab river hydel project ecological compliance, remote high-altitude road access, and specialized hospital facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2877",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Doda",
+    "assemblyConstituencyCode": "AC-JK-51",
+    "assemblyConstituencyName": "Bhadarwah",
+    "crimeRate": "166.2 per 100k",
+    "crimeRatePerLakh": 166.2,
+    "literacyRate": 81.3,
+    "literacyRatePercentage": 81.3,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 334,
+    "regionalInsight": {
+      "title": "Bhadarwah Civic Context",
+      "historicalFact": "Characterized by precipitous Himalayan valleys, Bhaderwah's picturesque meadows (Chhota Kashmir), and traditional lavender cultivation.",
+      "currentChallenge": "Civic focus involves road safety on mountain highways, promotion of aromatic flower processing units, and winter heating facilities in public schools."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2878",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Doda",
+    "assemblyConstituencyCode": "AC-JK-52",
+    "assemblyConstituencyName": "Doda",
+    "crimeRate": "166.2 per 100k",
+    "crimeRatePerLakh": 166.2,
+    "literacyRate": 81.3,
+    "literacyRatePercentage": 81.3,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 334,
+    "regionalInsight": {
+      "title": "Doda Civic Context",
+      "historicalFact": "Characterized by precipitous Himalayan valleys, Bhaderwah's picturesque meadows (Chhota Kashmir), and traditional lavender cultivation.",
+      "currentChallenge": "Civic focus involves road safety on mountain highways, promotion of aromatic flower processing units, and winter heating facilities in public schools."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2879",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Doda",
+    "assemblyConstituencyCode": "AC-JK-53",
+    "assemblyConstituencyName": "Doda West",
+    "crimeRate": "166.2 per 100k",
+    "crimeRatePerLakh": 166.2,
+    "literacyRate": 81.3,
+    "literacyRatePercentage": 81.3,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 334,
+    "regionalInsight": {
+      "title": "Doda West Civic Context",
+      "historicalFact": "Characterized by precipitous Himalayan valleys, Bhaderwah's picturesque meadows (Chhota Kashmir), and traditional lavender cultivation.",
+      "currentChallenge": "Civic focus involves road safety on mountain highways, promotion of aromatic flower processing units, and winter heating facilities in public schools."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2880",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Ramban",
+    "assemblyConstituencyCode": "AC-JK-54",
+    "assemblyConstituencyName": "Ramban",
+    "crimeRate": "173.8 per 100k",
+    "crimeRatePerLakh": 173.8,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Ramban Civic Context",
+      "historicalFact": "Perched along the rugged Chenab gorge, famous for the Baglihar Hydroelectric project and dense deodar forests, forming the central spine of NH-44.",
+      "currentChallenge": "Major public priorities involve landslide-prone slope stabilization along the highway, riverbank safety, and mountain emergency trauma clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2881",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Ramban",
+    "assemblyConstituencyCode": "AC-JK-55",
+    "assemblyConstituencyName": "Banihal",
+    "crimeRate": "173.8 per 100k",
+    "crimeRatePerLakh": 173.8,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 170,
+    "regionalInsight": {
+      "title": "Banihal Civic Context",
+      "historicalFact": "Perched along the rugged Chenab gorge, famous for the Baglihar Hydroelectric project and dense deodar forests, forming the central spine of NH-44.",
+      "currentChallenge": "Major public priorities involve landslide-prone slope stabilization along the highway, riverbank safety, and mountain emergency trauma clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2882",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Reasi",
+    "assemblyConstituencyCode": "AC-JK-56",
+    "assemblyConstituencyName": "Gulabgarh (ST)",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 321,
+    "regionalInsight": {
+      "title": "Gulabgarh (ST) Civic Context",
+      "historicalFact": "Home to the revered Shri Mata Vaishno Devi shrine at Katra, the historic Bhimgarh Fort, and the world's highest railway bridge spanning the Chenab river.",
+      "currentChallenge": "Civic priorities focus on pilgrimage crowd flow management, Chenab gorge eco-conservation, and rural drinking water pipelines."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2883",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Reasi",
+    "assemblyConstituencyCode": "AC-JK-57",
+    "assemblyConstituencyName": "Reasi",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 321,
+    "regionalInsight": {
+      "title": "Reasi Civic Context",
+      "historicalFact": "Home to the revered Shri Mata Vaishno Devi shrine at Katra, the historic Bhimgarh Fort, and the world's highest railway bridge spanning the Chenab river.",
+      "currentChallenge": "Civic priorities focus on pilgrimage crowd flow management, Chenab gorge eco-conservation, and rural drinking water pipelines."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2884",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Reasi",
+    "assemblyConstituencyCode": "AC-JK-58",
+    "assemblyConstituencyName": "Shri Mata Vaishno Devi",
+    "crimeRate": "213.4 per 100k",
+    "crimeRatePerLakh": 213.4,
+    "literacyRate": 87.7,
+    "literacyRatePercentage": 87.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 321,
+    "regionalInsight": {
+      "title": "Shri Mata Vaishno Devi Civic Context",
+      "historicalFact": "Home to the revered Shri Mata Vaishno Devi shrine at Katra, the historic Bhimgarh Fort, and the world's highest railway bridge spanning the Chenab river.",
+      "currentChallenge": "Civic priorities focus on pilgrimage crowd flow management, Chenab gorge eco-conservation, and rural drinking water pipelines."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2885",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Udhampur",
+    "assemblyConstituencyCode": "AC-JK-59",
+    "assemblyConstituencyName": "Udhampur West",
+    "crimeRate": "275.1 per 100k",
+    "crimeRatePerLakh": 275.1,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Udhampur West Civic Context",
+      "historicalFact": "Strategic headquarters of the Indian Army's Northern Command, home to the ancient Devika sacred river and the historic Krimchi temple complex.",
+      "currentChallenge": "Civic tasks involve landslide mitigation along the Jammu-Srinagar national highway, Devika river pollution abatement, and rural school infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2886",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Udhampur",
+    "assemblyConstituencyCode": "AC-JK-60",
+    "assemblyConstituencyName": "Udhampur East",
+    "crimeRate": "275.1 per 100k",
+    "crimeRatePerLakh": 275.1,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Udhampur East Civic Context",
+      "historicalFact": "Strategic headquarters of the Indian Army's Northern Command, home to the ancient Devika sacred river and the historic Krimchi temple complex.",
+      "currentChallenge": "Civic tasks involve landslide mitigation along the Jammu-Srinagar national highway, Devika river pollution abatement, and rural school infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2887",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Udhampur",
+    "assemblyConstituencyCode": "AC-JK-61",
+    "assemblyConstituencyName": "Chenani",
+    "crimeRate": "275.1 per 100k",
+    "crimeRatePerLakh": 275.1,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Chenani Civic Context",
+      "historicalFact": "Strategic headquarters of the Indian Army's Northern Command, home to the ancient Devika sacred river and the historic Krimchi temple complex.",
+      "currentChallenge": "Civic tasks involve landslide mitigation along the Jammu-Srinagar national highway, Devika river pollution abatement, and rural school infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2888",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Udhampur",
+    "assemblyConstituencyCode": "AC-JK-62",
+    "assemblyConstituencyName": "Ramnagar (SC)",
+    "crimeRate": "275.1 per 100k",
+    "crimeRatePerLakh": 275.1,
+    "literacyRate": 81.5,
+    "literacyRatePercentage": 81.5,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Ramnagar (SC) Civic Context",
+      "historicalFact": "Strategic headquarters of the Indian Army's Northern Command, home to the ancient Devika sacred river and the historic Krimchi temple complex.",
+      "currentChallenge": "Civic tasks involve landslide mitigation along the Jammu-Srinagar national highway, Devika river pollution abatement, and rural school infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2889",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-63",
+    "assemblyConstituencyName": "Bani",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Bani Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2890",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-64",
+    "assemblyConstituencyName": "Billawar",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Billawar Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2891",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-65",
+    "assemblyConstituencyName": "Basohli",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Basohli Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2892",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-66",
+    "assemblyConstituencyName": "Jasrota",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Jasrota Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2893",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-67",
+    "assemblyConstituencyName": "Kathua (SC)",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Kathua (SC) Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2894",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Kathua",
+    "assemblyConstituencyCode": "AC-JK-68",
+    "assemblyConstituencyName": "Hiranagar",
+    "crimeRate": "187.4 per 100k",
+    "crimeRatePerLakh": 187.4,
+    "literacyRate": 79.5,
+    "literacyRatePercentage": 79.5,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Hiranagar Civic Context",
+      "historicalFact": "Gateway to Jammu & Kashmir along the Ravi River, known for the ancient Jasrota royal palace ruins, industrial parks, and the picturesque Ranjit Sagar Dam.",
+      "currentChallenge": "Primary civic priorities involve industrial effluent monitoring along Govindsar, Kandi belt drinking water security, and rural border road connectivity."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2895",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Samba",
+    "assemblyConstituencyCode": "AC-JK-69",
+    "assemblyConstituencyName": "Ramgarh (SC)",
+    "crimeRate": "148.9 per 100k",
+    "crimeRatePerLakh": 148.9,
+    "literacyRate": 78.2,
+    "literacyRatePercentage": 78.2,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Ramgarh (SC) Civic Context",
+      "historicalFact": "Historically celebrated for its 22 royal clans (Samba Barah), traditional handloom calico printing, and scenic Mansar and Surinsar lakes.",
+      "currentChallenge": "Public priorities include expanding industrial infrastructure in the SIDCO zone, Kandi area water harvesting sumps, and border village security bunkers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2896",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Samba",
+    "assemblyConstituencyCode": "AC-JK-70",
+    "assemblyConstituencyName": "Samba",
+    "crimeRate": "148.9 per 100k",
+    "crimeRatePerLakh": 148.9,
+    "literacyRate": 78.2,
+    "literacyRatePercentage": 78.2,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Samba Civic Context",
+      "historicalFact": "Historically celebrated for its 22 royal clans (Samba Barah), traditional handloom calico printing, and scenic Mansar and Surinsar lakes.",
+      "currentChallenge": "Public priorities include expanding industrial infrastructure in the SIDCO zone, Kandi area water harvesting sumps, and border village security bunkers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2897",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Samba",
+    "assemblyConstituencyCode": "AC-JK-71",
+    "assemblyConstituencyName": "Vijaypur",
+    "crimeRate": "148.9 per 100k",
+    "crimeRatePerLakh": 148.9,
+    "literacyRate": 78.2,
+    "literacyRatePercentage": 78.2,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Vijaypur Civic Context",
+      "historicalFact": "Historically celebrated for its 22 royal clans (Samba Barah), traditional handloom calico printing, and scenic Mansar and Surinsar lakes.",
+      "currentChallenge": "Public priorities include expanding industrial infrastructure in the SIDCO zone, Kandi area water harvesting sumps, and border village security bunkers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2898",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-72",
+    "assemblyConstituencyName": "Bishnah (SC)",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Bishnah (SC) Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2899",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-73",
+    "assemblyConstituencyName": "Suchetgarh (SC)",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Suchetgarh (SC) Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2900",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-74",
+    "assemblyConstituencyName": "R. S. Pora-Jammu South",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "R. S. Pora-Jammu South Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2901",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-75",
+    "assemblyConstituencyName": "Bahu",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Bahu Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2902",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-76",
+    "assemblyConstituencyName": "Jammu East",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Jammu East Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2903",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-77",
+    "assemblyConstituencyName": "Nagrota",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Nagrota Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2904",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-78",
+    "assemblyConstituencyName": "Jammu West",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Jammu West Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2905",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-79",
+    "assemblyConstituencyName": "Jammu North",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Jammu North Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2906",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-80",
+    "assemblyConstituencyName": "Marh (SC)",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Marh (SC) Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2907",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-81",
+    "assemblyConstituencyName": "Akhnoor (SC)",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Akhnoor (SC) Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2908",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Jammu",
+    "assemblyConstituencyCode": "AC-JK-82",
+    "assemblyConstituencyName": "Chhamb",
+    "crimeRate": "176.9 per 100k",
+    "crimeRatePerLakh": 176.9,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Chhamb Civic Context",
+      "historicalFact": "The revered 'City of Temples' along the Tawi river, seat of the historic Bahu Fort, Raghunath Temple, and the primary transit hub for millions of Vaishno Devi pilgrims.",
+      "currentChallenge": "Key civic tasks include Tawi riverfront development, urban drainage desilting, and mitigating peak pilgrimage traffic congestion through smart mobility."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2909",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Rajouri",
+    "assemblyConstituencyCode": "AC-JK-83",
+    "assemblyConstituencyName": "Kalakote-Sunderbani",
+    "crimeRate": "200.2 per 100k",
+    "crimeRatePerLakh": 200.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Kalakote-Sunderbani Civic Context",
+      "historicalFact": "Ancient kingdom of Rajapuri mentioned in Kalhana's Rajatarangini, bridging Jammu with the Kashmir valley across the Pir Panjal mountains.",
+      "currentChallenge": "Major civic focus areas include border area school upgrades, rural electrification in hilly terrains, and medical clinic modernization."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2910",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Rajouri",
+    "assemblyConstituencyCode": "AC-JK-84",
+    "assemblyConstituencyName": "Nowshera",
+    "crimeRate": "200.2 per 100k",
+    "crimeRatePerLakh": 200.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Nowshera Civic Context",
+      "historicalFact": "Ancient kingdom of Rajapuri mentioned in Kalhana's Rajatarangini, bridging Jammu with the Kashmir valley across the Pir Panjal mountains.",
+      "currentChallenge": "Major civic focus areas include border area school upgrades, rural electrification in hilly terrains, and medical clinic modernization."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2911",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Rajouri",
+    "assemblyConstituencyCode": "AC-JK-85",
+    "assemblyConstituencyName": "Rajouri (ST)",
+    "crimeRate": "200.2 per 100k",
+    "crimeRatePerLakh": 200.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Rajouri (ST) Civic Context",
+      "historicalFact": "Ancient kingdom of Rajapuri mentioned in Kalhana's Rajatarangini, bridging Jammu with the Kashmir valley across the Pir Panjal mountains.",
+      "currentChallenge": "Major civic focus areas include border area school upgrades, rural electrification in hilly terrains, and medical clinic modernization."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2912",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Rajouri",
+    "assemblyConstituencyCode": "AC-JK-86",
+    "assemblyConstituencyName": "Budhal (ST)",
+    "crimeRate": "200.2 per 100k",
+    "crimeRatePerLakh": 200.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Budhal (ST) Civic Context",
+      "historicalFact": "Ancient kingdom of Rajapuri mentioned in Kalhana's Rajatarangini, bridging Jammu with the Kashmir valley across the Pir Panjal mountains.",
+      "currentChallenge": "Major civic focus areas include border area school upgrades, rural electrification in hilly terrains, and medical clinic modernization."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2913",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Rajouri",
+    "assemblyConstituencyCode": "AC-JK-87",
+    "assemblyConstituencyName": "Thannamandi (ST)",
+    "crimeRate": "200.2 per 100k",
+    "crimeRatePerLakh": 200.2,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Thannamandi (ST) Civic Context",
+      "historicalFact": "Ancient kingdom of Rajapuri mentioned in Kalhana's Rajatarangini, bridging Jammu with the Kashmir valley across the Pir Panjal mountains.",
+      "currentChallenge": "Major civic focus areas include border area school upgrades, rural electrification in hilly terrains, and medical clinic modernization."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2914",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Poonch",
+    "assemblyConstituencyCode": "AC-JK-88",
+    "assemblyConstituencyName": "Surankote (ST)",
+    "crimeRate": "157.7 per 100k",
+    "crimeRatePerLakh": 157.7,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 265,
+    "regionalInsight": {
+      "title": "Surankote (ST) Civic Context",
+      "historicalFact": "Historic border principality famed for Poonch Fort, sacred Chittoor Baba Buddha Amarnath, and the serene Seven Lakes alpine circuit.",
+      "currentChallenge": "Critical challenges include Pir Panjal tunnel connectivity, border shelling rehabilitation centers, and all-weather road links to interior hamlets."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2915",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Poonch",
+    "assemblyConstituencyCode": "AC-JK-89",
+    "assemblyConstituencyName": "Poonch Haveli",
+    "crimeRate": "157.7 per 100k",
+    "crimeRatePerLakh": 157.7,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 265,
+    "regionalInsight": {
+      "title": "Poonch Haveli Civic Context",
+      "historicalFact": "Historic border principality famed for Poonch Fort, sacred Chittoor Baba Buddha Amarnath, and the serene Seven Lakes alpine circuit.",
+      "currentChallenge": "Critical challenges include Pir Panjal tunnel connectivity, border shelling rehabilitation centers, and all-weather road links to interior hamlets."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ja_2916",
+    "stateName": "Jammu & Kashmir",
+    "districtName": "Poonch",
+    "assemblyConstituencyCode": "AC-JK-90",
+    "assemblyConstituencyName": "Mendhar (ST)",
+    "crimeRate": "157.7 per 100k",
+    "crimeRatePerLakh": 157.7,
+    "literacyRate": 74.6,
+    "literacyRatePercentage": 74.6,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 265,
+    "regionalInsight": {
+      "title": "Mendhar (ST) Civic Context",
+      "historicalFact": "Historic border principality famed for Poonch Fort, sacred Chittoor Baba Buddha Amarnath, and the serene Seven Lakes alpine circuit.",
+      "currentChallenge": "Critical challenges include Pir Panjal tunnel connectivity, border shelling rehabilitation centers, and all-weather road links to interior hamlets."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

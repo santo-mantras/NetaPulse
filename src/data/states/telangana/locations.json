@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "loc_te_2708",
+    "stateName": "Telangana",
+    "districtName": "Adilabad",
+    "assemblyConstituencyCode": "AC-TG-1",
+    "assemblyConstituencyName": "Sirpur",
+    "crimeRate": "274.7 per 100k",
+    "crimeRatePerLakh": 274.7,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Sirpur Civic Context",
+      "historicalFact": "Ancient gateway to South India along the Penganga and Godavari rivers, celebrated for the Dokra bell-metal crafts of Jainoor, Kuntala waterfall, and vibrant Gond tribal folklore.",
+      "currentChallenge": "Primary civic priorities include expanding minor irrigation for cotton and soybean farmers, tribal hamlet all-weather road links, and upgrading district health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2709",
+    "stateName": "Telangana",
+    "districtName": "Kumuram Bheem Asifabad",
+    "assemblyConstituencyCode": "AC-TG-2",
+    "assemblyConstituencyName": "Asifabad (ST)",
+    "crimeRate": "200.1 per 100k",
+    "crimeRatePerLakh": 200.1,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Asifabad (ST) Civic Context",
+      "historicalFact": "Birthplace of tribal revolutionary leader Kumuram Bheem who fought for 'Jal, Jangal, Zameen', home to Jodeghat and ancient Gond-Kolam tribes.",
+      "currentChallenge": "Public focus centers on interior forest road connectivity, seasonal epidemic control in tribal hamlets, and indigenous craft promotion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2710",
+    "stateName": "Telangana",
+    "districtName": "Mancherial",
+    "assemblyConstituencyCode": "AC-TG-3",
+    "assemblyConstituencyName": "Bellampalli (SC)",
+    "crimeRate": "269.9 per 100k",
+    "crimeRatePerLakh": 269.9,
+    "literacyRate": 85.8,
+    "literacyRatePercentage": 85.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Bellampalli (SC) Civic Context",
+      "historicalFact": "Prominent industrial and commercial junction along the Godavari, known for Singareni coal fields, cement manufacturing, and the Pranahita wildlife sanctuary.",
+      "currentChallenge": "Major civic tasks include river pollution abatement, fly ash control from power units, and urban municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2711",
+    "stateName": "Telangana",
+    "districtName": "Mancherial",
+    "assemblyConstituencyCode": "AC-TG-4",
+    "assemblyConstituencyName": "Mancherial",
+    "crimeRate": "269.9 per 100k",
+    "crimeRatePerLakh": 269.9,
+    "literacyRate": 85.8,
+    "literacyRatePercentage": 85.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Mancherial Civic Context",
+      "historicalFact": "Prominent industrial and commercial junction along the Godavari, known for Singareni coal fields, cement manufacturing, and the Pranahita wildlife sanctuary.",
+      "currentChallenge": "Major civic tasks include river pollution abatement, fly ash control from power units, and urban municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2712",
+    "stateName": "Telangana",
+    "districtName": "Mancherial",
+    "assemblyConstituencyCode": "AC-TG-5",
+    "assemblyConstituencyName": "Chennur (SC)",
+    "crimeRate": "269.9 per 100k",
+    "crimeRatePerLakh": 269.9,
+    "literacyRate": 85.8,
+    "literacyRatePercentage": 85.8,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 324,
+    "regionalInsight": {
+      "title": "Chennur (SC) Civic Context",
+      "historicalFact": "Prominent industrial and commercial junction along the Godavari, known for Singareni coal fields, cement manufacturing, and the Pranahita wildlife sanctuary.",
+      "currentChallenge": "Major civic tasks include river pollution abatement, fly ash control from power units, and urban municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2713",
+    "stateName": "Telangana",
+    "districtName": "Nirmal",
+    "assemblyConstituencyCode": "AC-TG-6",
+    "assemblyConstituencyName": "Mudhole",
+    "crimeRate": "201.1 per 100k",
+    "crimeRatePerLakh": 201.1,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 185,
+    "regionalInsight": {
+      "title": "Mudhole Civic Context",
+      "historicalFact": "Celebrated for centuries-old Nirmal lacquerware, oil paintings, and wooden toys crafted by the traditional 'Naqqash' community, and historic French-built battery forts.",
+      "currentChallenge": "Major public tasks involve artisan raw material timber supply, Godavari basin soil erosion prevention, and municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2714",
+    "stateName": "Telangana",
+    "districtName": "Nirmal",
+    "assemblyConstituencyCode": "AC-TG-7",
+    "assemblyConstituencyName": "Nirmal",
+    "crimeRate": "201.1 per 100k",
+    "crimeRatePerLakh": 201.1,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 185,
+    "regionalInsight": {
+      "title": "Nirmal Civic Context",
+      "historicalFact": "Celebrated for centuries-old Nirmal lacquerware, oil paintings, and wooden toys crafted by the traditional 'Naqqash' community, and historic French-built battery forts.",
+      "currentChallenge": "Major public tasks involve artisan raw material timber supply, Godavari basin soil erosion prevention, and municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2715",
+    "stateName": "Telangana",
+    "districtName": "Adilabad",
+    "assemblyConstituencyCode": "AC-TG-8",
+    "assemblyConstituencyName": "Boath (ST)",
+    "crimeRate": "274.7 per 100k",
+    "crimeRatePerLakh": 274.7,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Boath (ST) Civic Context",
+      "historicalFact": "Ancient gateway to South India along the Penganga and Godavari rivers, celebrated for the Dokra bell-metal crafts of Jainoor, Kuntala waterfall, and vibrant Gond tribal folklore.",
+      "currentChallenge": "Primary civic priorities include expanding minor irrigation for cotton and soybean farmers, tribal hamlet all-weather road links, and upgrading district health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2716",
+    "stateName": "Telangana",
+    "districtName": "Adilabad",
+    "assemblyConstituencyCode": "AC-TG-9",
+    "assemblyConstituencyName": "Adilabad",
+    "crimeRate": "274.7 per 100k",
+    "crimeRatePerLakh": 274.7,
+    "literacyRate": 73.6,
+    "literacyRatePercentage": 73.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 203,
+    "regionalInsight": {
+      "title": "Adilabad Civic Context",
+      "historicalFact": "Ancient gateway to South India along the Penganga and Godavari rivers, celebrated for the Dokra bell-metal crafts of Jainoor, Kuntala waterfall, and vibrant Gond tribal folklore.",
+      "currentChallenge": "Primary civic priorities include expanding minor irrigation for cotton and soybean farmers, tribal hamlet all-weather road links, and upgrading district health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2717",
+    "stateName": "Telangana",
+    "districtName": "Nirmal",
+    "assemblyConstituencyCode": "AC-TG-10",
+    "assemblyConstituencyName": "Khanapur (ST)",
+    "crimeRate": "201.1 per 100k",
+    "crimeRatePerLakh": 201.1,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 185,
+    "regionalInsight": {
+      "title": "Khanapur (ST) Civic Context",
+      "historicalFact": "Celebrated for centuries-old Nirmal lacquerware, oil paintings, and wooden toys crafted by the traditional 'Naqqash' community, and historic French-built battery forts.",
+      "currentChallenge": "Major public tasks involve artisan raw material timber supply, Godavari basin soil erosion prevention, and municipal drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2718",
+    "stateName": "Telangana",
+    "districtName": "Nizamabad",
+    "assemblyConstituencyCode": "AC-TG-11",
+    "assemblyConstituencyName": "Armur",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 354,
+    "regionalInsight": {
+      "title": "Armur Civic Context",
+      "historicalFact": "Situated in the fertile basin of the Godavari and Manjira rivers, famed for the historic 10th-century Nizamabad Fort and extensive turmeric and paddy agricultural production.",
+      "currentChallenge": "Critical public priorities include establishing the National Turmeric Board infrastructure, canal desilting, and groundwater recharge in Kandi zones."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2719",
+    "stateName": "Telangana",
+    "districtName": "Nizamabad",
+    "assemblyConstituencyCode": "AC-TG-12",
+    "assemblyConstituencyName": "Bodhan",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 354,
+    "regionalInsight": {
+      "title": "Bodhan Civic Context",
+      "historicalFact": "Situated in the fertile basin of the Godavari and Manjira rivers, famed for the historic 10th-century Nizamabad Fort and extensive turmeric and paddy agricultural production.",
+      "currentChallenge": "Critical public priorities include establishing the National Turmeric Board infrastructure, canal desilting, and groundwater recharge in Kandi zones."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2720",
+    "stateName": "Telangana",
+    "districtName": "Kamareddy",
+    "assemblyConstituencyCode": "AC-TG-13",
+    "assemblyConstituencyName": "Jukkal (SC)",
+    "crimeRate": "244.9 per 100k",
+    "crimeRatePerLakh": 244.9,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Jukkal (SC) Civic Context",
+      "historicalFact": "Agrarian district known for sugarcane and rice cultivation, historical trade routes, and the sacred Domakonda Fort.",
+      "currentChallenge": "Key tasks include Nizamsagar canal modernization, sugarcane farmer timely procurement payments, and municipal infrastructure upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2721",
+    "stateName": "Telangana",
+    "districtName": "Kamareddy",
+    "assemblyConstituencyCode": "AC-TG-14",
+    "assemblyConstituencyName": "Banswada",
+    "crimeRate": "244.9 per 100k",
+    "crimeRatePerLakh": 244.9,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Banswada Civic Context",
+      "historicalFact": "Agrarian district known for sugarcane and rice cultivation, historical trade routes, and the sacred Domakonda Fort.",
+      "currentChallenge": "Key tasks include Nizamsagar canal modernization, sugarcane farmer timely procurement payments, and municipal infrastructure upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2722",
+    "stateName": "Telangana",
+    "districtName": "Kamareddy",
+    "assemblyConstituencyCode": "AC-TG-15",
+    "assemblyConstituencyName": "Yellareddy",
+    "crimeRate": "244.9 per 100k",
+    "crimeRatePerLakh": 244.9,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Yellareddy Civic Context",
+      "historicalFact": "Agrarian district known for sugarcane and rice cultivation, historical trade routes, and the sacred Domakonda Fort.",
+      "currentChallenge": "Key tasks include Nizamsagar canal modernization, sugarcane farmer timely procurement payments, and municipal infrastructure upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2723",
+    "stateName": "Telangana",
+    "districtName": "Kamareddy",
+    "assemblyConstituencyCode": "AC-TG-16",
+    "assemblyConstituencyName": "Kamareddy",
+    "crimeRate": "244.9 per 100k",
+    "crimeRatePerLakh": 244.9,
+    "literacyRate": 87.5,
+    "literacyRatePercentage": 87.5,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 194,
+    "regionalInsight": {
+      "title": "Kamareddy Civic Context",
+      "historicalFact": "Agrarian district known for sugarcane and rice cultivation, historical trade routes, and the sacred Domakonda Fort.",
+      "currentChallenge": "Key tasks include Nizamsagar canal modernization, sugarcane farmer timely procurement payments, and municipal infrastructure upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2724",
+    "stateName": "Telangana",
+    "districtName": "Nizamabad",
+    "assemblyConstituencyCode": "AC-TG-17",
+    "assemblyConstituencyName": "Nizamabad Urban",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 354,
+    "regionalInsight": {
+      "title": "Nizamabad Urban Civic Context",
+      "historicalFact": "Situated in the fertile basin of the Godavari and Manjira rivers, famed for the historic 10th-century Nizamabad Fort and extensive turmeric and paddy agricultural production.",
+      "currentChallenge": "Critical public priorities include establishing the National Turmeric Board infrastructure, canal desilting, and groundwater recharge in Kandi zones."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2725",
+    "stateName": "Telangana",
+    "districtName": "Nizamabad",
+    "assemblyConstituencyCode": "AC-TG-18",
+    "assemblyConstituencyName": "Nizamabad Rural",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 354,
+    "regionalInsight": {
+      "title": "Nizamabad Rural Civic Context",
+      "historicalFact": "Situated in the fertile basin of the Godavari and Manjira rivers, famed for the historic 10th-century Nizamabad Fort and extensive turmeric and paddy agricultural production.",
+      "currentChallenge": "Critical public priorities include establishing the National Turmeric Board infrastructure, canal desilting, and groundwater recharge in Kandi zones."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2726",
+    "stateName": "Telangana",
+    "districtName": "Nizamabad",
+    "assemblyConstituencyCode": "AC-TG-19",
+    "assemblyConstituencyName": "Balkonda",
+    "crimeRate": "187.2 per 100k",
+    "crimeRatePerLakh": 187.2,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 354,
+    "regionalInsight": {
+      "title": "Balkonda Civic Context",
+      "historicalFact": "Situated in the fertile basin of the Godavari and Manjira rivers, famed for the historic 10th-century Nizamabad Fort and extensive turmeric and paddy agricultural production.",
+      "currentChallenge": "Critical public priorities include establishing the National Turmeric Board infrastructure, canal desilting, and groundwater recharge in Kandi zones."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2727",
+    "stateName": "Telangana",
+    "districtName": "Jagtial",
+    "assemblyConstituencyCode": "AC-TG-20",
+    "assemblyConstituencyName": "Koratla",
+    "crimeRate": "161.3 per 100k",
+    "crimeRatePerLakh": 161.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 191,
+    "regionalInsight": {
+      "title": "Koratla Civic Context",
+      "historicalFact": "Known for the historic star-shaped Jagtial Fort built by French engineers and lush mango and sweet orange orchards.",
+      "currentChallenge": "Civic focus includes mango pulp processing units, canal distributary maintenance from Sri Ram Sagar Project, and rural road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2728",
+    "stateName": "Telangana",
+    "districtName": "Jagtial",
+    "assemblyConstituencyCode": "AC-TG-21",
+    "assemblyConstituencyName": "Jagtial",
+    "crimeRate": "161.3 per 100k",
+    "crimeRatePerLakh": 161.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 191,
+    "regionalInsight": {
+      "title": "Jagtial Civic Context",
+      "historicalFact": "Known for the historic star-shaped Jagtial Fort built by French engineers and lush mango and sweet orange orchards.",
+      "currentChallenge": "Civic focus includes mango pulp processing units, canal distributary maintenance from Sri Ram Sagar Project, and rural road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2729",
+    "stateName": "Telangana",
+    "districtName": "Jagtial",
+    "assemblyConstituencyCode": "AC-TG-22",
+    "assemblyConstituencyName": "Dharmapuri (SC)",
+    "crimeRate": "161.3 per 100k",
+    "crimeRatePerLakh": 161.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 191,
+    "regionalInsight": {
+      "title": "Dharmapuri (SC) Civic Context",
+      "historicalFact": "Known for the historic star-shaped Jagtial Fort built by French engineers and lush mango and sweet orange orchards.",
+      "currentChallenge": "Civic focus includes mango pulp processing units, canal distributary maintenance from Sri Ram Sagar Project, and rural road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2730",
+    "stateName": "Telangana",
+    "districtName": "Peddapalli",
+    "assemblyConstituencyCode": "AC-TG-23",
+    "assemblyConstituencyName": "Ramagundam",
+    "crimeRate": "146.8 per 100k",
+    "crimeRatePerLakh": 146.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Ramagundam Civic Context",
+      "historicalFact": "Important industrial and energy hub along the Godavari, hosting NTPC Ramagundam super thermal power station and open-cast coal mines.",
+      "currentChallenge": "Primary civic focus centers on air quality index management in Ramagundam, worker occupational health facilities, and fly ash reuse."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2731",
+    "stateName": "Telangana",
+    "districtName": "Peddapalli",
+    "assemblyConstituencyCode": "AC-TG-24",
+    "assemblyConstituencyName": "Manthani",
+    "crimeRate": "146.8 per 100k",
+    "crimeRatePerLakh": 146.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Manthani Civic Context",
+      "historicalFact": "Important industrial and energy hub along the Godavari, hosting NTPC Ramagundam super thermal power station and open-cast coal mines.",
+      "currentChallenge": "Primary civic focus centers on air quality index management in Ramagundam, worker occupational health facilities, and fly ash reuse."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2732",
+    "stateName": "Telangana",
+    "districtName": "Peddapalli",
+    "assemblyConstituencyCode": "AC-TG-25",
+    "assemblyConstituencyName": "Peddapalle",
+    "crimeRate": "146.8 per 100k",
+    "crimeRatePerLakh": 146.8,
+    "literacyRate": 82.4,
+    "literacyRatePercentage": 82.4,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Peddapalle Civic Context",
+      "historicalFact": "Important industrial and energy hub along the Godavari, hosting NTPC Ramagundam super thermal power station and open-cast coal mines.",
+      "currentChallenge": "Primary civic focus centers on air quality index management in Ramagundam, worker occupational health facilities, and fly ash reuse."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2733",
+    "stateName": "Telangana",
+    "districtName": "Karimnagar",
+    "assemblyConstituencyCode": "AC-TG-26",
+    "assemblyConstituencyName": "Karimnagar",
+    "crimeRate": "199.3 per 100k",
+    "crimeRatePerLakh": 199.3,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 268,
+    "regionalInsight": {
+      "title": "Karimnagar Civic Context",
+      "historicalFact": "Historically known as Sabbinadu along the Godavari, world-renowned for exquisite silver filigree (Tarkashi) craftsmanship and granary production under the Lower Manair Dam.",
+      "currentChallenge": "Civic challenges include Manair riverfront beautification, granary mandi modernization, and industrial effluent control."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2734",
+    "stateName": "Telangana",
+    "districtName": "Karimnagar",
+    "assemblyConstituencyCode": "AC-TG-27",
+    "assemblyConstituencyName": "Choppadandi (SC)",
+    "crimeRate": "199.3 per 100k",
+    "crimeRatePerLakh": 199.3,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 268,
+    "regionalInsight": {
+      "title": "Choppadandi (SC) Civic Context",
+      "historicalFact": "Historically known as Sabbinadu along the Godavari, world-renowned for exquisite silver filigree (Tarkashi) craftsmanship and granary production under the Lower Manair Dam.",
+      "currentChallenge": "Civic challenges include Manair riverfront beautification, granary mandi modernization, and industrial effluent control."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2735",
+    "stateName": "Telangana",
+    "districtName": "Rajanna Sircilla",
+    "assemblyConstituencyCode": "AC-TG-28",
+    "assemblyConstituencyName": "Vemulawada",
+    "crimeRate": "152.2 per 100k",
+    "crimeRatePerLakh": 152.2,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Vemulawada Civic Context",
+      "historicalFact": "Renowned as the 'Textile City' of Telangana, celebrated for powerlooms, handloom weaving cooperatives, and the sacred Sri Raja Rajeshwara Swamy Temple at Vemulawada.",
+      "currentChallenge": "Key civic challenges include powerloom modernization subsidies, yarn price stabilization, and Mid Manair reservoir rehabilitation settlements."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2736",
+    "stateName": "Telangana",
+    "districtName": "Rajanna Sircilla",
+    "assemblyConstituencyCode": "AC-TG-29",
+    "assemblyConstituencyName": "Sircilla",
+    "crimeRate": "152.2 per 100k",
+    "crimeRatePerLakh": 152.2,
+    "literacyRate": 72.8,
+    "literacyRatePercentage": 72.8,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 207,
+    "regionalInsight": {
+      "title": "Sircilla Civic Context",
+      "historicalFact": "Renowned as the 'Textile City' of Telangana, celebrated for powerlooms, handloom weaving cooperatives, and the sacred Sri Raja Rajeshwara Swamy Temple at Vemulawada.",
+      "currentChallenge": "Key civic challenges include powerloom modernization subsidies, yarn price stabilization, and Mid Manair reservoir rehabilitation settlements."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2737",
+    "stateName": "Telangana",
+    "districtName": "Karimnagar",
+    "assemblyConstituencyCode": "AC-TG-30",
+    "assemblyConstituencyName": "Manakondur (SC)",
+    "crimeRate": "199.3 per 100k",
+    "crimeRatePerLakh": 199.3,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 268,
+    "regionalInsight": {
+      "title": "Manakondur (SC) Civic Context",
+      "historicalFact": "Historically known as Sabbinadu along the Godavari, world-renowned for exquisite silver filigree (Tarkashi) craftsmanship and granary production under the Lower Manair Dam.",
+      "currentChallenge": "Civic challenges include Manair riverfront beautification, granary mandi modernization, and industrial effluent control."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2738",
+    "stateName": "Telangana",
+    "districtName": "Karimnagar",
+    "assemblyConstituencyCode": "AC-TG-31",
+    "assemblyConstituencyName": "Huzurabad",
+    "crimeRate": "199.3 per 100k",
+    "crimeRatePerLakh": 199.3,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 268,
+    "regionalInsight": {
+      "title": "Huzurabad Civic Context",
+      "historicalFact": "Historically known as Sabbinadu along the Godavari, world-renowned for exquisite silver filigree (Tarkashi) craftsmanship and granary production under the Lower Manair Dam.",
+      "currentChallenge": "Civic challenges include Manair riverfront beautification, granary mandi modernization, and industrial effluent control."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2739",
+    "stateName": "Telangana",
+    "districtName": "Karimnagar",
+    "assemblyConstituencyCode": "AC-TG-32",
+    "assemblyConstituencyName": "Husnabad",
+    "crimeRate": "199.3 per 100k",
+    "crimeRatePerLakh": 199.3,
+    "literacyRate": 80.6,
+    "literacyRatePercentage": 80.6,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 268,
+    "regionalInsight": {
+      "title": "Husnabad Civic Context",
+      "historicalFact": "Historically known as Sabbinadu along the Godavari, world-renowned for exquisite silver filigree (Tarkashi) craftsmanship and granary production under the Lower Manair Dam.",
+      "currentChallenge": "Civic challenges include Manair riverfront beautification, granary mandi modernization, and industrial effluent control."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2740",
+    "stateName": "Telangana",
+    "districtName": "Siddipet",
+    "assemblyConstituencyCode": "AC-TG-33",
+    "assemblyConstituencyName": "Siddipet",
+    "crimeRate": "270.5 per 100k",
+    "crimeRatePerLakh": 270.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 202,
+    "regionalInsight": {
+      "title": "Siddipet Civic Context",
+      "historicalFact": "Known for the historic Komuravelli Mallanna temple and celebrated as a model green governance township with innovative underground drainage and urban lakes.",
+      "currentChallenge": "Public priorities include Ranganayaka Sagar canal distribution maintenance, expanding cottage textile weaving, and rural sports complexes."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2741",
+    "stateName": "Telangana",
+    "districtName": "Medak",
+    "assemblyConstituencyCode": "AC-TG-34",
+    "assemblyConstituencyName": "Medak",
+    "crimeRate": "180.6 per 100k",
+    "crimeRatePerLakh": 180.6,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Medak Civic Context",
+      "historicalFact": "Historic seat of Medak Fort built by the Kakatiyas and the magnificent 1924 Gothic-style Medak Cathedral, one of the largest churches in Asia.",
+      "currentChallenge": "Key public focus includes Haldi Vagu river rejuvenation, rural agro-warehouses, and drinking water supply to drought-prone mandals."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2742",
+    "stateName": "Telangana",
+    "districtName": "Sangareddy",
+    "assemblyConstituencyCode": "AC-TG-35",
+    "assemblyConstituencyName": "Narayankhed",
+    "crimeRate": "231.6 per 100k",
+    "crimeRatePerLakh": 231.6,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Narayankhed Civic Context",
+      "historicalFact": "Strategic industrial and academic district home to IIT Hyderabad and major pharmaceutical and defense manufacturing public sector units.",
+      "currentChallenge": "Civic focus involves industrial pollution containment in the Patancheru belt, rural road widening, and drinking water grid expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2743",
+    "stateName": "Telangana",
+    "districtName": "Sangareddy",
+    "assemblyConstituencyCode": "AC-TG-36",
+    "assemblyConstituencyName": "Andole (SC)",
+    "crimeRate": "231.6 per 100k",
+    "crimeRatePerLakh": 231.6,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Andole (SC) Civic Context",
+      "historicalFact": "Strategic industrial and academic district home to IIT Hyderabad and major pharmaceutical and defense manufacturing public sector units.",
+      "currentChallenge": "Civic focus involves industrial pollution containment in the Patancheru belt, rural road widening, and drinking water grid expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2744",
+    "stateName": "Telangana",
+    "districtName": "Medak",
+    "assemblyConstituencyCode": "AC-TG-37",
+    "assemblyConstituencyName": "Narsapur",
+    "crimeRate": "180.6 per 100k",
+    "crimeRatePerLakh": 180.6,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 242,
+    "regionalInsight": {
+      "title": "Narsapur Civic Context",
+      "historicalFact": "Historic seat of Medak Fort built by the Kakatiyas and the magnificent 1924 Gothic-style Medak Cathedral, one of the largest churches in Asia.",
+      "currentChallenge": "Key public focus includes Haldi Vagu river rejuvenation, rural agro-warehouses, and drinking water supply to drought-prone mandals."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2745",
+    "stateName": "Telangana",
+    "districtName": "Sangareddy",
+    "assemblyConstituencyCode": "AC-TG-38",
+    "assemblyConstituencyName": "Zahirabad (SC)",
+    "crimeRate": "231.6 per 100k",
+    "crimeRatePerLakh": 231.6,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Zahirabad (SC) Civic Context",
+      "historicalFact": "Strategic industrial and academic district home to IIT Hyderabad and major pharmaceutical and defense manufacturing public sector units.",
+      "currentChallenge": "Civic focus involves industrial pollution containment in the Patancheru belt, rural road widening, and drinking water grid expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2746",
+    "stateName": "Telangana",
+    "districtName": "Sangareddy",
+    "assemblyConstituencyCode": "AC-TG-39",
+    "assemblyConstituencyName": "Sangareddy",
+    "crimeRate": "231.6 per 100k",
+    "crimeRatePerLakh": 231.6,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Sangareddy Civic Context",
+      "historicalFact": "Strategic industrial and academic district home to IIT Hyderabad and major pharmaceutical and defense manufacturing public sector units.",
+      "currentChallenge": "Civic focus involves industrial pollution containment in the Patancheru belt, rural road widening, and drinking water grid expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2747",
+    "stateName": "Telangana",
+    "districtName": "Sangareddy",
+    "assemblyConstituencyCode": "AC-TG-40",
+    "assemblyConstituencyName": "Patancheru",
+    "crimeRate": "231.6 per 100k",
+    "crimeRatePerLakh": 231.6,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 347,
+    "regionalInsight": {
+      "title": "Patancheru Civic Context",
+      "historicalFact": "Strategic industrial and academic district home to IIT Hyderabad and major pharmaceutical and defense manufacturing public sector units.",
+      "currentChallenge": "Civic focus involves industrial pollution containment in the Patancheru belt, rural road widening, and drinking water grid expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2748",
+    "stateName": "Telangana",
+    "districtName": "Siddipet",
+    "assemblyConstituencyCode": "AC-TG-41",
+    "assemblyConstituencyName": "Dubbak",
+    "crimeRate": "270.5 per 100k",
+    "crimeRatePerLakh": 270.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 202,
+    "regionalInsight": {
+      "title": "Dubbak Civic Context",
+      "historicalFact": "Known for the historic Komuravelli Mallanna temple and celebrated as a model green governance township with innovative underground drainage and urban lakes.",
+      "currentChallenge": "Public priorities include Ranganayaka Sagar canal distribution maintenance, expanding cottage textile weaving, and rural sports complexes."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2749",
+    "stateName": "Telangana",
+    "districtName": "Siddipet",
+    "assemblyConstituencyCode": "AC-TG-42",
+    "assemblyConstituencyName": "Gajwel",
+    "crimeRate": "270.5 per 100k",
+    "crimeRatePerLakh": 270.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 202,
+    "regionalInsight": {
+      "title": "Gajwel Civic Context",
+      "historicalFact": "Known for the historic Komuravelli Mallanna temple and celebrated as a model green governance township with innovative underground drainage and urban lakes.",
+      "currentChallenge": "Public priorities include Ranganayaka Sagar canal distribution maintenance, expanding cottage textile weaving, and rural sports complexes."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2750",
+    "stateName": "Telangana",
+    "districtName": "Medchal-Malkajgiri",
+    "assemblyConstituencyCode": "AC-TG-43",
+    "assemblyConstituencyName": "Medchal",
+    "crimeRate": "181.8 per 100k",
+    "crimeRatePerLakh": 181.8,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 267,
+    "regionalInsight": {
+      "title": "Medchal Civic Context",
+      "historicalFact": "Rapidly expanding northern urban gateway of Hyderabad, hosting premier research institutes (BITS Pilani, NIPER) and major industrial and logistics corridors.",
+      "currentChallenge": "Major public needs include peripheral ring road decongestion, drinking water supply from the Godavari grid, and municipal solid waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2751",
+    "stateName": "Telangana",
+    "districtName": "Medchal-Malkajgiri",
+    "assemblyConstituencyCode": "AC-TG-44",
+    "assemblyConstituencyName": "Malkajgiri",
+    "crimeRate": "181.8 per 100k",
+    "crimeRatePerLakh": 181.8,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 267,
+    "regionalInsight": {
+      "title": "Malkajgiri Civic Context",
+      "historicalFact": "Rapidly expanding northern urban gateway of Hyderabad, hosting premier research institutes (BITS Pilani, NIPER) and major industrial and logistics corridors.",
+      "currentChallenge": "Major public needs include peripheral ring road decongestion, drinking water supply from the Godavari grid, and municipal solid waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2752",
+    "stateName": "Telangana",
+    "districtName": "Medchal-Malkajgiri",
+    "assemblyConstituencyCode": "AC-TG-45",
+    "assemblyConstituencyName": "Quthbullapur",
+    "crimeRate": "181.8 per 100k",
+    "crimeRatePerLakh": 181.8,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 267,
+    "regionalInsight": {
+      "title": "Quthbullapur Civic Context",
+      "historicalFact": "Rapidly expanding northern urban gateway of Hyderabad, hosting premier research institutes (BITS Pilani, NIPER) and major industrial and logistics corridors.",
+      "currentChallenge": "Major public needs include peripheral ring road decongestion, drinking water supply from the Godavari grid, and municipal solid waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2753",
+    "stateName": "Telangana",
+    "districtName": "Medchal-Malkajgiri",
+    "assemblyConstituencyCode": "AC-TG-46",
+    "assemblyConstituencyName": "Kukatpally",
+    "crimeRate": "181.8 per 100k",
+    "crimeRatePerLakh": 181.8,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 267,
+    "regionalInsight": {
+      "title": "Kukatpally Civic Context",
+      "historicalFact": "Rapidly expanding northern urban gateway of Hyderabad, hosting premier research institutes (BITS Pilani, NIPER) and major industrial and logistics corridors.",
+      "currentChallenge": "Major public needs include peripheral ring road decongestion, drinking water supply from the Godavari grid, and municipal solid waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2754",
+    "stateName": "Telangana",
+    "districtName": "Medchal-Malkajgiri",
+    "assemblyConstituencyCode": "AC-TG-47",
+    "assemblyConstituencyName": "Uppal",
+    "crimeRate": "181.8 per 100k",
+    "crimeRatePerLakh": 181.8,
+    "literacyRate": 83.5,
+    "literacyRatePercentage": 83.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 267,
+    "regionalInsight": {
+      "title": "Uppal Civic Context",
+      "historicalFact": "Rapidly expanding northern urban gateway of Hyderabad, hosting premier research institutes (BITS Pilani, NIPER) and major industrial and logistics corridors.",
+      "currentChallenge": "Major public needs include peripheral ring road decongestion, drinking water supply from the Godavari grid, and municipal solid waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2755",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-48",
+    "assemblyConstituencyName": "Ibrahimpatnam",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Ibrahimpatnam Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2756",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-49",
+    "assemblyConstituencyName": "Lal Bahadur Nagar",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Lal Bahadur Nagar Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2757",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-50",
+    "assemblyConstituencyName": "Maheshwaram",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Maheshwaram Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2758",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-51",
+    "assemblyConstituencyName": "Rajendranagar",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Rajendranagar Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2759",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-52",
+    "assemblyConstituencyName": "Serilingampally",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Serilingampally Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2760",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-53",
+    "assemblyConstituencyName": "Chevella (SC)",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Chevella (SC) Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2761",
+    "stateName": "Telangana",
+    "districtName": "Vikarabad",
+    "assemblyConstituencyCode": "AC-TG-54",
+    "assemblyConstituencyName": "Pargi",
+    "crimeRate": "171.8 per 100k",
+    "crimeRatePerLakh": 171.8,
+    "literacyRate": 75.2,
+    "literacyRatePercentage": 75.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 339,
+    "regionalInsight": {
+      "title": "Pargi Civic Context",
+      "historicalFact": "Nestled in the Ananthagiri Hills, the birthplace of the Musi river, celebrated as a serene eco-tourism and medicinal plant hub with premier sanitarium facilities.",
+      "currentChallenge": "Public priorities include Ananthagiri hill biodiversity preservation, Musi headwater protection, and road widening from Hyderabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2762",
+    "stateName": "Telangana",
+    "districtName": "Vikarabad",
+    "assemblyConstituencyCode": "AC-TG-55",
+    "assemblyConstituencyName": "Vikarabad (SC)",
+    "crimeRate": "171.8 per 100k",
+    "crimeRatePerLakh": 171.8,
+    "literacyRate": 75.2,
+    "literacyRatePercentage": 75.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 339,
+    "regionalInsight": {
+      "title": "Vikarabad (SC) Civic Context",
+      "historicalFact": "Nestled in the Ananthagiri Hills, the birthplace of the Musi river, celebrated as a serene eco-tourism and medicinal plant hub with premier sanitarium facilities.",
+      "currentChallenge": "Public priorities include Ananthagiri hill biodiversity preservation, Musi headwater protection, and road widening from Hyderabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2763",
+    "stateName": "Telangana",
+    "districtName": "Vikarabad",
+    "assemblyConstituencyCode": "AC-TG-56",
+    "assemblyConstituencyName": "Tandur",
+    "crimeRate": "171.8 per 100k",
+    "crimeRatePerLakh": 171.8,
+    "literacyRate": 75.2,
+    "literacyRatePercentage": 75.2,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 339,
+    "regionalInsight": {
+      "title": "Tandur Civic Context",
+      "historicalFact": "Nestled in the Ananthagiri Hills, the birthplace of the Musi river, celebrated as a serene eco-tourism and medicinal plant hub with premier sanitarium facilities.",
+      "currentChallenge": "Public priorities include Ananthagiri hill biodiversity preservation, Musi headwater protection, and road widening from Hyderabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2764",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-57",
+    "assemblyConstituencyName": "Musheerabad",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Musheerabad Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2765",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-58",
+    "assemblyConstituencyName": "Malakpet",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Malakpet Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2766",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-59",
+    "assemblyConstituencyName": "Amberpet",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Amberpet Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2767",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-60",
+    "assemblyConstituencyName": "Khairatabad",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Khairatabad Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2768",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-61",
+    "assemblyConstituencyName": "Jubilee Hills",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Jubilee Hills Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2769",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-62",
+    "assemblyConstituencyName": "Sanathnagar",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Sanathnagar Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2770",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-63",
+    "assemblyConstituencyName": "Nampally",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Nampally Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2771",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-64",
+    "assemblyConstituencyName": "Karwan",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Karwan Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2772",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-65",
+    "assemblyConstituencyName": "Goshamahal",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Goshamahal Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2773",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-66",
+    "assemblyConstituencyName": "Charminar",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Charminar Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2774",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-67",
+    "assemblyConstituencyName": "Chandrayangutta",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Chandrayangutta Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2775",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-68",
+    "assemblyConstituencyName": "Yakutpura",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Yakutpura Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2776",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-69",
+    "assemblyConstituencyName": "Bahadurpura",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Bahadurpura Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2777",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-70",
+    "assemblyConstituencyName": "Secunderabad",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Secunderabad Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2778",
+    "stateName": "Telangana",
+    "districtName": "Hyderabad",
+    "assemblyConstituencyCode": "AC-TG-71",
+    "assemblyConstituencyName": "Secunderabad Cantt (SC)",
+    "crimeRate": "142.0 per 100k",
+    "crimeRatePerLakh": 142.0,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 225,
+    "regionalInsight": {
+      "title": "Secunderabad Cantt (SC) Civic Context",
+      "historicalFact": "Founded in 1591 by Muhammad Quli Qutb Shah around the iconic Charminar, the historic City of Pearls is now India's global IT hub, Genome Valley biopharma capital, and culinary epicenter.",
+      "currentChallenge": "Critical civic tasks center on Musi river rejuvenation, expanding Hyderabad Metro Phase II, and stormwater drainage modernization to prevent urban inundation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2779",
+    "stateName": "Telangana",
+    "districtName": "Mahabubnagar",
+    "assemblyConstituencyCode": "AC-TG-72",
+    "assemblyConstituencyName": "Kodangal",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Kodangal Civic Context",
+      "historicalFact": "Historically known as Palamoor, home to the legendary 800-year-old Pillalamarri banyan tree and the confluence of the Krishna and Tungabhadra rivers.",
+      "currentChallenge": "Critical civic tasks involve Koilsagar and Jurala canal network repairs, drinking water distribution, and reversing migrant labor distress through local agro-industries."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2780",
+    "stateName": "Telangana",
+    "districtName": "Narayanpet",
+    "assemblyConstituencyCode": "AC-TG-73",
+    "assemblyConstituencyName": "Narayanpet",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 291,
+    "regionalInsight": {
+      "title": "Narayanpet Civic Context",
+      "historicalFact": "World-renowned for traditional Narayanpet handloom sarees with silver and gold zari borders, carrying centuries-old weaving traditions from the Maratha era.",
+      "currentChallenge": "Civic priorities include weaver cluster modernization, artisan credit guarantees, and drinking water supply under Koilsagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2781",
+    "stateName": "Telangana",
+    "districtName": "Mahabubnagar",
+    "assemblyConstituencyCode": "AC-TG-74",
+    "assemblyConstituencyName": "Mahbubnagar",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Mahbubnagar Civic Context",
+      "historicalFact": "Historically known as Palamoor, home to the legendary 800-year-old Pillalamarri banyan tree and the confluence of the Krishna and Tungabhadra rivers.",
+      "currentChallenge": "Critical civic tasks involve Koilsagar and Jurala canal network repairs, drinking water distribution, and reversing migrant labor distress through local agro-industries."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2782",
+    "stateName": "Telangana",
+    "districtName": "Mahabubnagar",
+    "assemblyConstituencyCode": "AC-TG-75",
+    "assemblyConstituencyName": "Jadcherla",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Jadcherla Civic Context",
+      "historicalFact": "Historically known as Palamoor, home to the legendary 800-year-old Pillalamarri banyan tree and the confluence of the Krishna and Tungabhadra rivers.",
+      "currentChallenge": "Critical civic tasks involve Koilsagar and Jurala canal network repairs, drinking water distribution, and reversing migrant labor distress through local agro-industries."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2783",
+    "stateName": "Telangana",
+    "districtName": "Mahabubnagar",
+    "assemblyConstituencyCode": "AC-TG-76",
+    "assemblyConstituencyName": "Devarkadra",
+    "crimeRate": "273.8 per 100k",
+    "crimeRatePerLakh": 273.8,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 290,
+    "regionalInsight": {
+      "title": "Devarkadra Civic Context",
+      "historicalFact": "Historically known as Palamoor, home to the legendary 800-year-old Pillalamarri banyan tree and the confluence of the Krishna and Tungabhadra rivers.",
+      "currentChallenge": "Critical civic tasks involve Koilsagar and Jurala canal network repairs, drinking water distribution, and reversing migrant labor distress through local agro-industries."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2784",
+    "stateName": "Telangana",
+    "districtName": "Narayanpet",
+    "assemblyConstituencyCode": "AC-TG-77",
+    "assemblyConstituencyName": "Makthal",
+    "crimeRate": "196.1 per 100k",
+    "crimeRatePerLakh": 196.1,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 291,
+    "regionalInsight": {
+      "title": "Makthal Civic Context",
+      "historicalFact": "World-renowned for traditional Narayanpet handloom sarees with silver and gold zari borders, carrying centuries-old weaving traditions from the Maratha era.",
+      "currentChallenge": "Civic priorities include weaver cluster modernization, artisan credit guarantees, and drinking water supply under Koilsagar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2785",
+    "stateName": "Telangana",
+    "districtName": "Wanaparthy",
+    "assemblyConstituencyCode": "AC-TG-78",
+    "assemblyConstituencyName": "Wanaparthy",
+    "crimeRate": "177.8 per 100k",
+    "crimeRatePerLakh": 177.8,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 208,
+    "regionalInsight": {
+      "title": "Wanaparthy Civic Context",
+      "historicalFact": "Historic principality ruled by the Wanaparthy Samsthanam, known for its royal palace (now polytechnic institute) and ancient tank irrigation network.",
+      "currentChallenge": "Key civic challenges include Sarala Sagar siphon system maintenance, drought-resilient seed distribution, and rural healthcare clinics."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2786",
+    "stateName": "Telangana",
+    "districtName": "Jogulamba Gadwal",
+    "assemblyConstituencyCode": "AC-TG-79",
+    "assemblyConstituencyName": "Gadwal",
+    "crimeRate": "190.2 per 100k",
+    "crimeRatePerLakh": 190.2,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Gadwal Civic Context",
+      "historicalFact": "Home to the revered Jogulamba temple (one of the 18 Maha Shakti Peethas) at Alampur at the confluence of Krishna and Tungabhadra, famed for Gadwal handloom silk sarees.",
+      "currentChallenge": "Key challenges include weaver loan access, flood protection bunds along Tungabhadra, and drinking water reach."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2787",
+    "stateName": "Telangana",
+    "districtName": "Jogulamba Gadwal",
+    "assemblyConstituencyCode": "AC-TG-80",
+    "assemblyConstituencyName": "Alampur (SC)",
+    "crimeRate": "190.2 per 100k",
+    "crimeRatePerLakh": 190.2,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Alampur (SC) Civic Context",
+      "historicalFact": "Home to the revered Jogulamba temple (one of the 18 Maha Shakti Peethas) at Alampur at the confluence of Krishna and Tungabhadra, famed for Gadwal handloom silk sarees.",
+      "currentChallenge": "Key challenges include weaver loan access, flood protection bunds along Tungabhadra, and drinking water reach."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2788",
+    "stateName": "Telangana",
+    "districtName": "Nagarkurnool",
+    "assemblyConstituencyCode": "AC-TG-81",
+    "assemblyConstituencyName": "Nagarkurnool",
+    "crimeRate": "173.3 per 100k",
+    "crimeRatePerLakh": 173.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Nagarkurnool Civic Context",
+      "historicalFact": "Heart of the Nallamala forest range, home to indigenous Chenchu tribes, Amrabad Tiger Reserve, and the Srisailam left bank hydel station.",
+      "currentChallenge": "Critical tasks involve wildlife corridor protection, water pipeline reach to Chenchu thandas, and rural road safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2789",
+    "stateName": "Telangana",
+    "districtName": "Nagarkurnool",
+    "assemblyConstituencyCode": "AC-TG-82",
+    "assemblyConstituencyName": "Achampet (SC)",
+    "crimeRate": "173.3 per 100k",
+    "crimeRatePerLakh": 173.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Achampet (SC) Civic Context",
+      "historicalFact": "Heart of the Nallamala forest range, home to indigenous Chenchu tribes, Amrabad Tiger Reserve, and the Srisailam left bank hydel station.",
+      "currentChallenge": "Critical tasks involve wildlife corridor protection, water pipeline reach to Chenchu thandas, and rural road safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2790",
+    "stateName": "Telangana",
+    "districtName": "Nagarkurnool",
+    "assemblyConstituencyCode": "AC-TG-83",
+    "assemblyConstituencyName": "Kalwakurthy",
+    "crimeRate": "173.3 per 100k",
+    "crimeRatePerLakh": 173.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Kalwakurthy Civic Context",
+      "historicalFact": "Heart of the Nallamala forest range, home to indigenous Chenchu tribes, Amrabad Tiger Reserve, and the Srisailam left bank hydel station.",
+      "currentChallenge": "Critical tasks involve wildlife corridor protection, water pipeline reach to Chenchu thandas, and rural road safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2791",
+    "stateName": "Telangana",
+    "districtName": "Ranga Reddy",
+    "assemblyConstituencyCode": "AC-TG-84",
+    "assemblyConstituencyName": "Shadnagar",
+    "crimeRate": "220.1 per 100k",
+    "crimeRatePerLakh": 220.1,
+    "literacyRate": 85.1,
+    "literacyRatePercentage": 85.1,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 266,
+    "regionalInsight": {
+      "title": "Shadnagar Civic Context",
+      "historicalFact": "Named after the freedom fighter K.V. Ranga Reddy, it encompasses Hyderabad's premier financial district, HITEC City, Shamshabad International Airport, and hardware parks.",
+      "currentChallenge": "Civic priorities focus on balancing rapid real estate expansion with lake conservation (Gandipet & Himayatsagar), public bus transit, and underground drainage."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2792",
+    "stateName": "Telangana",
+    "districtName": "Nagarkurnool",
+    "assemblyConstituencyCode": "AC-TG-85",
+    "assemblyConstituencyName": "Kollapur",
+    "crimeRate": "173.3 per 100k",
+    "crimeRatePerLakh": 173.3,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Kollapur Civic Context",
+      "historicalFact": "Heart of the Nallamala forest range, home to indigenous Chenchu tribes, Amrabad Tiger Reserve, and the Srisailam left bank hydel station.",
+      "currentChallenge": "Critical tasks involve wildlife corridor protection, water pipeline reach to Chenchu thandas, and rural road safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2793",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-86",
+    "assemblyConstituencyName": "Devarakonda (ST)",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Devarakonda (ST) Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2794",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-87",
+    "assemblyConstituencyName": "Nagarjuna Sagar",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Nagarjuna Sagar Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2795",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-88",
+    "assemblyConstituencyName": "Miryalaguda",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Miryalaguda Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2796",
+    "stateName": "Telangana",
+    "districtName": "Suryapet",
+    "assemblyConstituencyCode": "AC-TG-89",
+    "assemblyConstituencyName": "Huzurnagar",
+    "crimeRate": "257.0 per 100k",
+    "crimeRatePerLakh": 257.0,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 154,
+    "regionalInsight": {
+      "title": "Huzurnagar Civic Context",
+      "historicalFact": "Important commercial and educational crossway between Hyderabad and Vijayawada, famous for the historic Pillalamarri temples and Durgamma temple.",
+      "currentChallenge": "Civic needs include Musi and Krishna canal distributary repairs, highway pedestrian crossings, and grain market facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2797",
+    "stateName": "Telangana",
+    "districtName": "Suryapet",
+    "assemblyConstituencyCode": "AC-TG-90",
+    "assemblyConstituencyName": "Kodad",
+    "crimeRate": "257.0 per 100k",
+    "crimeRatePerLakh": 257.0,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 154,
+    "regionalInsight": {
+      "title": "Kodad Civic Context",
+      "historicalFact": "Important commercial and educational crossway between Hyderabad and Vijayawada, famous for the historic Pillalamarri temples and Durgamma temple.",
+      "currentChallenge": "Civic needs include Musi and Krishna canal distributary repairs, highway pedestrian crossings, and grain market facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2798",
+    "stateName": "Telangana",
+    "districtName": "Suryapet",
+    "assemblyConstituencyCode": "AC-TG-91",
+    "assemblyConstituencyName": "Suryapet",
+    "crimeRate": "257.0 per 100k",
+    "crimeRatePerLakh": 257.0,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 154,
+    "regionalInsight": {
+      "title": "Suryapet Civic Context",
+      "historicalFact": "Important commercial and educational crossway between Hyderabad and Vijayawada, famous for the historic Pillalamarri temples and Durgamma temple.",
+      "currentChallenge": "Civic needs include Musi and Krishna canal distributary repairs, highway pedestrian crossings, and grain market facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2799",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-92",
+    "assemblyConstituencyName": "Nalgonda",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Nalgonda Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2800",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-93",
+    "assemblyConstituencyName": "Munugode",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Munugode Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2801",
+    "stateName": "Telangana",
+    "districtName": "Yadadri Bhuvanagiri",
+    "assemblyConstituencyCode": "AC-TG-94",
+    "assemblyConstituencyName": "Bhongir",
+    "crimeRate": "215.7 per 100k",
+    "crimeRatePerLakh": 215.7,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 311,
+    "regionalInsight": {
+      "title": "Bhongir Civic Context",
+      "historicalFact": "Famous for the magnificent renovated hill shrine of Sri Lakshmi Narasimha Swamy at Yadagirigutta and the monolithic 12th-century Bhuvanagiri Fort built by the Western Chalukyas.",
+      "currentChallenge": "Civic priorities involve pilgrim transport amenities, heritage conservation around the fort, and drinking water grid distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2802",
+    "stateName": "Telangana",
+    "districtName": "Nalgonda",
+    "assemblyConstituencyCode": "AC-TG-95",
+    "assemblyConstituencyName": "Nakrekal (SC)",
+    "crimeRate": "223.2 per 100k",
+    "crimeRatePerLakh": 223.2,
+    "literacyRate": 81.6,
+    "literacyRatePercentage": 81.6,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 217,
+    "regionalInsight": {
+      "title": "Nakrekal (SC) Civic Context",
+      "historicalFact": "Land of the historic Telangana Armed Struggle and Nagarjuna Sagar Dam, celebrated for ancient Buddhist monastic remains and archaeological monuments.",
+      "currentChallenge": "Major civic tasks include eradicating tail-end fluoride contamination through Mission Bhagiratha, canal lining maintenance, and solar farm integration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2803",
+    "stateName": "Telangana",
+    "districtName": "Suryapet",
+    "assemblyConstituencyCode": "AC-TG-96",
+    "assemblyConstituencyName": "Thungathurthi (SC)",
+    "crimeRate": "257.0 per 100k",
+    "crimeRatePerLakh": 257.0,
+    "literacyRate": 80.7,
+    "literacyRatePercentage": 80.7,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 154,
+    "regionalInsight": {
+      "title": "Thungathurthi (SC) Civic Context",
+      "historicalFact": "Important commercial and educational crossway between Hyderabad and Vijayawada, famous for the historic Pillalamarri temples and Durgamma temple.",
+      "currentChallenge": "Civic needs include Musi and Krishna canal distributary repairs, highway pedestrian crossings, and grain market facilities."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2804",
+    "stateName": "Telangana",
+    "districtName": "Yadadri Bhuvanagiri",
+    "assemblyConstituencyCode": "AC-TG-97",
+    "assemblyConstituencyName": "Alair",
+    "crimeRate": "215.7 per 100k",
+    "crimeRatePerLakh": 215.7,
+    "literacyRate": 84.7,
+    "literacyRatePercentage": 84.7,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 311,
+    "regionalInsight": {
+      "title": "Alair Civic Context",
+      "historicalFact": "Famous for the magnificent renovated hill shrine of Sri Lakshmi Narasimha Swamy at Yadagirigutta and the monolithic 12th-century Bhuvanagiri Fort built by the Western Chalukyas.",
+      "currentChallenge": "Civic priorities involve pilgrim transport amenities, heritage conservation around the fort, and drinking water grid distribution."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2805",
+    "stateName": "Telangana",
+    "districtName": "Jangaon",
+    "assemblyConstituencyCode": "AC-TG-98",
+    "assemblyConstituencyName": "Jangaon",
+    "crimeRate": "149.5 per 100k",
+    "crimeRatePerLakh": 149.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Jangaon Civic Context",
+      "historicalFact": "Historic center of the 1946 Telangana peasant rebellion (Chityala Ailamma's struggle) and ancient Jain and Shaivite stone sculptures.",
+      "currentChallenge": "Primary public needs involve tank rejuvenation under Mission Kakatiya, rural women dairy cooperatives, and drinking water supply."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2806",
+    "stateName": "Telangana",
+    "districtName": "Jangaon",
+    "assemblyConstituencyCode": "AC-TG-99",
+    "assemblyConstituencyName": "Ghanpur Station (SC)",
+    "crimeRate": "149.5 per 100k",
+    "crimeRatePerLakh": 149.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Ghanpur Station (SC) Civic Context",
+      "historicalFact": "Historic center of the 1946 Telangana peasant rebellion (Chityala Ailamma's struggle) and ancient Jain and Shaivite stone sculptures.",
+      "currentChallenge": "Primary public needs involve tank rejuvenation under Mission Kakatiya, rural women dairy cooperatives, and drinking water supply."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2807",
+    "stateName": "Telangana",
+    "districtName": "Jangaon",
+    "assemblyConstituencyCode": "AC-TG-100",
+    "assemblyConstituencyName": "Palakurthi",
+    "crimeRate": "149.5 per 100k",
+    "crimeRatePerLakh": 149.5,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 338,
+    "regionalInsight": {
+      "title": "Palakurthi Civic Context",
+      "historicalFact": "Historic center of the 1946 Telangana peasant rebellion (Chityala Ailamma's struggle) and ancient Jain and Shaivite stone sculptures.",
+      "currentChallenge": "Primary public needs involve tank rejuvenation under Mission Kakatiya, rural women dairy cooperatives, and drinking water supply."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2808",
+    "stateName": "Telangana",
+    "districtName": "Mahabubabad",
+    "assemblyConstituencyCode": "AC-TG-101",
+    "assemblyConstituencyName": "Dornakal (ST)",
+    "crimeRate": "230.7 per 100k",
+    "crimeRatePerLakh": 230.7,
+    "literacyRate": 77.0,
+    "literacyRatePercentage": 77.0,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Dornakal (ST) Civic Context",
+      "historicalFact": "Rich in Lambada and Koya tribal culture, home to ancient rock paintings and the historical Bayyaram iron ore and stone inscription sites.",
+      "currentChallenge": "Civic needs include Bayyaram mining infrastructure development, railway overbridges, and tribal education hostel upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2809",
+    "stateName": "Telangana",
+    "districtName": "Mahabubabad",
+    "assemblyConstituencyCode": "AC-TG-102",
+    "assemblyConstituencyName": "Mahabubabad (ST)",
+    "crimeRate": "230.7 per 100k",
+    "crimeRatePerLakh": 230.7,
+    "literacyRate": 77.0,
+    "literacyRatePercentage": 77.0,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Mahabubabad (ST) Civic Context",
+      "historicalFact": "Rich in Lambada and Koya tribal culture, home to ancient rock paintings and the historical Bayyaram iron ore and stone inscription sites.",
+      "currentChallenge": "Civic needs include Bayyaram mining infrastructure development, railway overbridges, and tribal education hostel upgrades."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2810",
+    "stateName": "Telangana",
+    "districtName": "Warangal",
+    "assemblyConstituencyCode": "AC-TG-103",
+    "assemblyConstituencyName": "Narsampet",
+    "crimeRate": "229.8 per 100k",
+    "crimeRatePerLakh": 229.8,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 279,
+    "regionalInsight": {
+      "title": "Narsampet Civic Context",
+      "historicalFact": "Historic capital of the Kakatiya dynasty, famous for the massive Warangal Fort stone gateways (Kakatiya Kala Thoranam) and the UNESCO World Heritage Ramappa Temple nearby.",
+      "currentChallenge": "Key developmental needs involve textile park (Kakatiya Mega Textile Park) logistics, Bhadrakali lake preservation, and ring road bypass construction."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2811",
+    "stateName": "Telangana",
+    "districtName": "Warangal",
+    "assemblyConstituencyCode": "AC-TG-104",
+    "assemblyConstituencyName": "Parkal",
+    "crimeRate": "229.8 per 100k",
+    "crimeRatePerLakh": 229.8,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 279,
+    "regionalInsight": {
+      "title": "Parkal Civic Context",
+      "historicalFact": "Historic capital of the Kakatiya dynasty, famous for the massive Warangal Fort stone gateways (Kakatiya Kala Thoranam) and the UNESCO World Heritage Ramappa Temple nearby.",
+      "currentChallenge": "Key developmental needs involve textile park (Kakatiya Mega Textile Park) logistics, Bhadrakali lake preservation, and ring road bypass construction."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2812",
+    "stateName": "Telangana",
+    "districtName": "Hanumakonda",
+    "assemblyConstituencyCode": "AC-TG-105",
+    "assemblyConstituencyName": "Warangal West",
+    "crimeRate": "225.2 per 100k",
+    "crimeRatePerLakh": 225.2,
+    "literacyRate": 81.2,
+    "literacyRatePercentage": 81.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 337,
+    "regionalInsight": {
+      "title": "Warangal West Civic Context",
+      "historicalFact": "Heart of the medieval Kakatiya Empire, celebrated for the 1000 Pillar Temple, Padmakshi temple, and NIT Warangal, India's first Regional Engineering College.",
+      "currentChallenge": "Major civic tasks include urban stormwater drainage revamp, heritage tourism zoning, and university research cluster expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2813",
+    "stateName": "Telangana",
+    "districtName": "Hanumakonda",
+    "assemblyConstituencyCode": "AC-TG-106",
+    "assemblyConstituencyName": "Warangal East",
+    "crimeRate": "225.2 per 100k",
+    "crimeRatePerLakh": 225.2,
+    "literacyRate": 81.2,
+    "literacyRatePercentage": 81.2,
+    "hospitalsCount": 32,
+    "govtSchoolsCount": 337,
+    "regionalInsight": {
+      "title": "Warangal East Civic Context",
+      "historicalFact": "Heart of the medieval Kakatiya Empire, celebrated for the 1000 Pillar Temple, Padmakshi temple, and NIT Warangal, India's first Regional Engineering College.",
+      "currentChallenge": "Major civic tasks include urban stormwater drainage revamp, heritage tourism zoning, and university research cluster expansion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2814",
+    "stateName": "Telangana",
+    "districtName": "Warangal",
+    "assemblyConstituencyCode": "AC-TG-107",
+    "assemblyConstituencyName": "Waradhanapet (SC)",
+    "crimeRate": "229.8 per 100k",
+    "crimeRatePerLakh": 229.8,
+    "literacyRate": 79.8,
+    "literacyRatePercentage": 79.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 279,
+    "regionalInsight": {
+      "title": "Waradhanapet (SC) Civic Context",
+      "historicalFact": "Historic capital of the Kakatiya dynasty, famous for the massive Warangal Fort stone gateways (Kakatiya Kala Thoranam) and the UNESCO World Heritage Ramappa Temple nearby.",
+      "currentChallenge": "Key developmental needs involve textile park (Kakatiya Mega Textile Park) logistics, Bhadrakali lake preservation, and ring road bypass construction."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2815",
+    "stateName": "Telangana",
+    "districtName": "Jayashankar Bhupalpally",
+    "assemblyConstituencyCode": "AC-TG-108",
+    "assemblyConstituencyName": "Bhupalpalle",
+    "crimeRate": "184.5 per 100k",
+    "crimeRatePerLakh": 184.5,
+    "literacyRate": 80.2,
+    "literacyRatePercentage": 80.2,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 275,
+    "regionalInsight": {
+      "title": "Bhupalpalle Civic Context",
+      "historicalFact": "Named after Professor K. Jayashankar, rich in coal reserves, pristine teak forests, and ancient Kakatiya temples at Ghanpur.",
+      "currentChallenge": "Major priorities include opencast coal mine dust mitigation, forest village solar micro-grids, and tribal maternal healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2816",
+    "stateName": "Telangana",
+    "districtName": "Mulugu",
+    "assemblyConstituencyCode": "AC-TG-109",
+    "assemblyConstituencyName": "Mulug (ST)",
+    "crimeRate": "208.3 per 100k",
+    "crimeRatePerLakh": 208.3,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 272,
+    "regionalInsight": {
+      "title": "Mulug (ST) Civic Context",
+      "historicalFact": "Home to the sacred biennial Medaram Sammakka Saralamma Jatara—Asia's largest tribal pilgrimage—and the UNESCO World Heritage Ramappa Temple.",
+      "currentChallenge": "Public priorities include eco-tourism regulation around Laknavaram lake, tribal forest rights documentation, and primary health clinics in dense forest thandas."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2817",
+    "stateName": "Telangana",
+    "districtName": "Bhadradri Kothagudem",
+    "assemblyConstituencyCode": "AC-TG-110",
+    "assemblyConstituencyName": "Pinapaka (ST)",
+    "crimeRate": "259.9 per 100k",
+    "crimeRatePerLakh": 259.9,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Pinapaka (ST) Civic Context",
+      "historicalFact": "Forest and mineral rich district hosting the sacred Sri Sita Ramachandra Swamy temple at Bhadrachalam along the Godavari and the Singareni Collieries coal mines.",
+      "currentChallenge": "Major civic priorities include Godavari river monsoon flood mitigation in Bhadrachalam, tribal healthcare access, and mine-area environmental remediation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2818",
+    "stateName": "Telangana",
+    "districtName": "Bhadradri Kothagudem",
+    "assemblyConstituencyCode": "AC-TG-111",
+    "assemblyConstituencyName": "Yellandu (ST)",
+    "crimeRate": "259.9 per 100k",
+    "crimeRatePerLakh": 259.9,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Yellandu (ST) Civic Context",
+      "historicalFact": "Forest and mineral rich district hosting the sacred Sri Sita Ramachandra Swamy temple at Bhadrachalam along the Godavari and the Singareni Collieries coal mines.",
+      "currentChallenge": "Major civic priorities include Godavari river monsoon flood mitigation in Bhadrachalam, tribal healthcare access, and mine-area environmental remediation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2819",
+    "stateName": "Telangana",
+    "districtName": "Khammam",
+    "assemblyConstituencyCode": "AC-TG-112",
+    "assemblyConstituencyName": "Khammam",
+    "crimeRate": "198.3 per 100k",
+    "crimeRatePerLakh": 198.3,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 171,
+    "regionalInsight": {
+      "title": "Khammam Civic Context",
+      "historicalFact": "Historic threshold of the Deccan featuring the 1000-year-old Khammam Fort atop Stambhadri hill, rich in coal reserves, granite quarries, and chilli cultivation.",
+      "currentChallenge": "Key public focus includes Munneru river flood embankment construction, modern chilli mandi cold storage, and granite dust suppression."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2820",
+    "stateName": "Telangana",
+    "districtName": "Khammam",
+    "assemblyConstituencyCode": "AC-TG-113",
+    "assemblyConstituencyName": "Palair",
+    "crimeRate": "198.3 per 100k",
+    "crimeRatePerLakh": 198.3,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 171,
+    "regionalInsight": {
+      "title": "Palair Civic Context",
+      "historicalFact": "Historic threshold of the Deccan featuring the 1000-year-old Khammam Fort atop Stambhadri hill, rich in coal reserves, granite quarries, and chilli cultivation.",
+      "currentChallenge": "Key public focus includes Munneru river flood embankment construction, modern chilli mandi cold storage, and granite dust suppression."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2821",
+    "stateName": "Telangana",
+    "districtName": "Khammam",
+    "assemblyConstituencyCode": "AC-TG-114",
+    "assemblyConstituencyName": "Madhira (SC)",
+    "crimeRate": "198.3 per 100k",
+    "crimeRatePerLakh": 198.3,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 171,
+    "regionalInsight": {
+      "title": "Madhira (SC) Civic Context",
+      "historicalFact": "Historic threshold of the Deccan featuring the 1000-year-old Khammam Fort atop Stambhadri hill, rich in coal reserves, granite quarries, and chilli cultivation.",
+      "currentChallenge": "Key public focus includes Munneru river flood embankment construction, modern chilli mandi cold storage, and granite dust suppression."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2822",
+    "stateName": "Telangana",
+    "districtName": "Khammam",
+    "assemblyConstituencyCode": "AC-TG-115",
+    "assemblyConstituencyName": "Wyra (ST)",
+    "crimeRate": "198.3 per 100k",
+    "crimeRatePerLakh": 198.3,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 171,
+    "regionalInsight": {
+      "title": "Wyra (ST) Civic Context",
+      "historicalFact": "Historic threshold of the Deccan featuring the 1000-year-old Khammam Fort atop Stambhadri hill, rich in coal reserves, granite quarries, and chilli cultivation.",
+      "currentChallenge": "Key public focus includes Munneru river flood embankment construction, modern chilli mandi cold storage, and granite dust suppression."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2823",
+    "stateName": "Telangana",
+    "districtName": "Khammam",
+    "assemblyConstituencyCode": "AC-TG-116",
+    "assemblyConstituencyName": "Sathupalli (SC)",
+    "crimeRate": "198.3 per 100k",
+    "crimeRatePerLakh": 198.3,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 171,
+    "regionalInsight": {
+      "title": "Sathupalli (SC) Civic Context",
+      "historicalFact": "Historic threshold of the Deccan featuring the 1000-year-old Khammam Fort atop Stambhadri hill, rich in coal reserves, granite quarries, and chilli cultivation.",
+      "currentChallenge": "Key public focus includes Munneru river flood embankment construction, modern chilli mandi cold storage, and granite dust suppression."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2824",
+    "stateName": "Telangana",
+    "districtName": "Bhadradri Kothagudem",
+    "assemblyConstituencyCode": "AC-TG-117",
+    "assemblyConstituencyName": "Kothagudem",
+    "crimeRate": "259.9 per 100k",
+    "crimeRatePerLakh": 259.9,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Kothagudem Civic Context",
+      "historicalFact": "Forest and mineral rich district hosting the sacred Sri Sita Ramachandra Swamy temple at Bhadrachalam along the Godavari and the Singareni Collieries coal mines.",
+      "currentChallenge": "Major civic priorities include Godavari river monsoon flood mitigation in Bhadrachalam, tribal healthcare access, and mine-area environmental remediation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2825",
+    "stateName": "Telangana",
+    "districtName": "Bhadradri Kothagudem",
+    "assemblyConstituencyCode": "AC-TG-118",
+    "assemblyConstituencyName": "Aswaraopeta (ST)",
+    "crimeRate": "259.9 per 100k",
+    "crimeRatePerLakh": 259.9,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Aswaraopeta (ST) Civic Context",
+      "historicalFact": "Forest and mineral rich district hosting the sacred Sri Sita Ramachandra Swamy temple at Bhadrachalam along the Godavari and the Singareni Collieries coal mines.",
+      "currentChallenge": "Major civic priorities include Godavari river monsoon flood mitigation in Bhadrachalam, tribal healthcare access, and mine-area environmental remediation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_te_2826",
+    "stateName": "Telangana",
+    "districtName": "Bhadradri Kothagudem",
+    "assemblyConstituencyCode": "AC-TG-119",
+    "assemblyConstituencyName": "Bhadrachalam (ST)",
+    "crimeRate": "259.9 per 100k",
+    "crimeRatePerLakh": 259.9,
+    "literacyRate": 86.1,
+    "literacyRatePercentage": 86.1,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Bhadrachalam (ST) Civic Context",
+      "historicalFact": "Forest and mineral rich district hosting the sacred Sri Sita Ramachandra Swamy temple at Bhadrachalam along the Godavari and the Singareni Collieries coal mines.",
+      "currentChallenge": "Major civic priorities include Godavari river monsoon flood mitigation in Bhadrachalam, tribal healthcare access, and mine-area environmental remediation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

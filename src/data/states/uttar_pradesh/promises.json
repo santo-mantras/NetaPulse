@@ -18948,5 +18948,105 @@
     "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Mainpuri.",
     "status": "In Progress",
     "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2917_prom_1",
+    "title": "Mukhyamantri Kanya Sumangala Financial Security",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Direct grant of ₹25,000 across 6 stages from birth to higher education for girl children",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Varanasi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2917_prom_2",
+    "title": "Expressway & Industrial Corridor Network Expansion",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Connect all divisional headquarters with 4/6-lane expressway corridors and defense node",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Varanasi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2917_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Varanasi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2917_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Varanasi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Varanasi",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Varanasi.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2917_prom_5",
+    "title": "Smart Govt School Digital Labs in Varanasi (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Varanasi (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Varanasi.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2919_prom_1",
+    "title": "Mukhyamantri Kanya Sumangala Financial Security",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Direct grant of ₹25,000 across 6 stages from birth to higher education for girl children",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Lucknow.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2919_prom_2",
+    "title": "Expressway & Industrial Corridor Network Expansion",
+    "tier": "state_manifesto",
+    "category": "State Policy",
+    "declaredInManifesto": "Connect all divisional headquarters with 4/6-lane expressway corridors and defense node",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Lucknow.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2919_prom_3",
+    "title": "Ayushman Bharat Universal Senior Coverage (70+)",
+    "tier": "national_manifesto",
+    "category": "National Policy",
+    "declaredInManifesto": "Free health insurance coverage of up to ₹5 Lakh per year for all senior citizens aged 70+",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Lucknow.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2919_prom_4",
+    "title": "24/7 Piped Drinking Water Grid in Lucknow (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "100% tap water household connections under civic modernization in Lucknow",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Lucknow.",
+    "status": "Fulfilled",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
+  },
+  {
+    "id": "ut_2919_prom_5",
+    "title": "Smart Govt School Digital Labs in Lucknow (Lok Sabha)",
+    "tier": "constituency_promise",
+    "category": "Local Development",
+    "declaredInManifesto": "Upgrade secondary school STEM labs and smart boards across Lucknow (Lok Sabha)",
+    "verifiedOutcome": "Ground audit confirms active execution and departmental budget release in Lucknow.",
+    "status": "In Progress",
+    "sourceCitation": "Official Performance Review (Uttar Pradesh)"
   }
 ]

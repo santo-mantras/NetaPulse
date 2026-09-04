@@ -46,6 +46,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 interface CandidateDossierProps {
     candidate: CandidateProfile;
+    allCandidates?: CandidateProfile[];
     promises: CampaignPromise[];
     news: NewsReport[];
     location: LocationHierarchy;
@@ -54,6 +55,7 @@ interface CandidateDossierProps {
 
 export const CandidateDossier: React.FC<CandidateDossierProps> = ({
     candidate,
+    allCandidates = [],
     promises,
     news,
     location,
@@ -130,7 +132,11 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                     <div className="flex-1 text-center sm:text-left w-full">
                         <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2 mb-2">
                             <span className={`text-xs font-bold px-3 py-1 rounded-full border shadow-sm flex items-center gap-1.5 ${
-                                candidate.role.toLowerCase().includes('deputy chief minister') || candidate.role.toLowerCase().includes('deputy cm')
+                                candidate.role.toLowerCase().includes('prime minister')
+                                    ? 'bg-amber-500/30 text-amber-100 border-amber-400/60 shadow-amber-500/20 font-extrabold ring-1 ring-amber-400/40'
+                                    : candidate.role.toLowerCase().includes('union')
+                                    ? 'bg-purple-500/30 text-purple-200 border-purple-400/50 shadow-purple-500/10'
+                                    : candidate.role.toLowerCase().includes('deputy chief minister') || candidate.role.toLowerCase().includes('deputy cm')
                                     ? 'bg-indigo-500/30 text-indigo-200 border-indigo-400/40 shadow-indigo-500/10'
                                     : candidate.role.toLowerCase().includes('chief minister') && !candidate.role.toLowerCase().includes('former')
                                     ? 'bg-amber-500/30 text-amber-200 border-amber-400/40 shadow-amber-500/10' 
@@ -163,6 +169,15 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             <span className="bg-emerald-500/30 text-emerald-200 text-xs font-semibold px-2.5 py-0.5 rounded-full border border-emerald-400/30">
                                 Term {candidate.termsServed}
                             </span>
+                            {candidate.gender && (
+                                <span className={`text-xs font-semibold px-2.5 py-0.5 rounded-full border flex items-center gap-1 ${
+                                    candidate.gender === 'Female'
+                                        ? 'bg-fuchsia-500/20 text-fuchsia-200 border-fuchsia-400/40'
+                                        : 'bg-cyan-500/20 text-cyan-200 border-cyan-400/40'
+                                }`}>
+                                    {candidate.gender === 'Female' ? '♀ Female' : '♂ Male'}
+                                </span>
+                            )}
                         </div>
                         <h1 className="text-2xl font-bold tracking-tight">{candidate.name}</h1>
                         <p className="text-sm text-slate-300 flex items-center justify-center sm:justify-start gap-1 mt-1">
@@ -1572,10 +1587,148 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
             { "party": "Bharatiya Janata Party", "seats": 48, "pct": 68.6 },
             { "party": "Aam Aadmi Party", "seats": 22, "pct": 31.4 }
         ]
+    },
+    "Haryana": {
+        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹11.20 Lakh Cr",
+        "perCapitaIncomeINR": "₹3,25,759",
+        "fiscalHealth": "2.8% GSDP (FRBM Compliant)",
+        "socialProgressIndex": "57.68 (Tier 2 - High)",
+        "historicalFact": "The sacred soil of Kurukshetra where the Bhagavad Gita was expounded, serving as the crucible of Vedic ethos and modern India's agrarian powerhouse and automotive industrial corridor.",
+        "totalAssembly": 90,
+        "totalLokSabha": 10,
+        "totalDistricts": 22,
+        "majorityMark": 46,
+        "currentRuler": "Bharatiya Janata Party",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Indian National Lok Dal": "#16a34a",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 53.3 },
+            { "party": "Indian National Congress", "seats": 37, "pct": 41.1 },
+            { "party": "Indian National Lok Dal", "seats": 2, "pct": 2.2 },
+            { "party": "Others / Independents", "seats": 3, "pct": 3.3 }
+        ]
+    },
+    "Telangana": {
+        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "deputyChiefMinisters": [
+            { "name": "Mallu Bhatti Vikramarka", "party": "INC" }
+        ],
+        "gsdpINR": "₹14.00 Lakh Cr",
+        "perCapitaIncomeINR": "₹3,43,297",
+        "fiscalHealth": "2.9% GSDP (FRBM Compliant)",
+        "socialProgressIndex": "53.41 (Tier 4 - Middle)",
+        "historicalFact": "Historic heart of the Deccan plateau, famed for the Golconda Diamond Sultanate and Kakatiya architecture, today powering India's premier biotechnology (Genome Valley) and software hubs.",
+        "totalAssembly": 119,
+        "totalLokSabha": 17,
+        "totalDistricts": 33,
+        "majorityMark": 60,
+        "currentRuler": "Indian National Congress",
+        "partyColors": {
+            "Indian National Congress": "#06b6d4",
+            "Bharat Rashtra Samithi": "#ec4899",
+            "Bharatiya Janata Party": "#f97316",
+            "AIMIM": "#15803d",
+            "Communist Party of India": "#dc2626"
+        },
+        "seatTally": [
+            { "party": "Indian National Congress", "seats": 64, "pct": 53.8 },
+            { "party": "Bharat Rashtra Samithi", "seats": 39, "pct": 32.8 },
+            { "party": "Bharatiya Janata Party", "seats": 8, "pct": 6.7 },
+            { "party": "AIMIM", "seats": 7, "pct": 5.9 },
+            { "party": "Communist Party of India", "seats": 1, "pct": 0.8 }
+        ]
+    },
+    "Jammu & Kashmir": {
+        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" },
+        "deputyChiefMinisters": [
+            { "name": "Surinder Kumar Choudhary", "party": "JKNC" }
+        ],
+        "gsdpINR": "₹2.45 Lakh Cr",
+        "perCapitaIncomeINR": "₹1,43,500",
+        "fiscalHealth": "3.1% GSDP (Central Grants Support)",
+        "socialProgressIndex": "54.12 (Tier 3 - Upper Middle)",
+        "historicalFact": "The crown of the Himalayas and cradle of Kashmiri Shaivism and Sufi Rishism, celebrated worldwide for saffron cultivation, handicraft artistry, and the serene Dal Lake.",
+        "totalAssembly": 90,
+        "totalLokSabha": 5,
+        "totalDistricts": 20,
+        "majorityMark": 46,
+        "currentRuler": "JKNC-INC Alliance",
+        "partyColors": {
+            "Jammu & Kashmir National Conference": "#dc2626",
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Jammu & Kashmir People's Democratic Party": "#16a34a",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Jammu & Kashmir National Conference", "seats": 42, "pct": 46.7 },
+            { "party": "Bharatiya Janata Party", "seats": 29, "pct": 32.2 },
+            { "party": "Indian National Congress", "seats": 6, "pct": 6.7 },
+            { "party": "Jammu & Kashmir People's Democratic Party", "seats": 3, "pct": 3.3 },
+            { "party": "Others / Independents", "seats": 10, "pct": 11.1 }
+        ]
     }
 };
 
                             const currStateInfo: StateProfileData = mockStateProfiles[candidate.state] || stateStats[candidate.state] || stateStats["Maharashtra"];
+
+                            // Demographic & Representation Metrics Calculation
+                            const stateMlas = allCandidates.filter(c => c.state === candidate.state && c.role === 'MLA');
+                            const relevantCands = stateMlas.length > 0 ? stateMlas : allCandidates.filter(c => c.state === candidate.state);
+
+                            const totalReps = relevantCands.length || currStateInfo.totalAssembly;
+                            const womenCount = relevantCands.filter(c => c.gender === 'Female').length;
+                            const womenPct = totalReps > 0 ? Math.round((womenCount / totalReps) * 1000) / 10 : 0;
+
+                            const cleanCount = relevantCands.filter(c => (c.criminalCasesCount || 0) === 0).length;
+                            const cleanPct = totalReps > 0 ? Math.round((cleanCount / totalReps) * 1000) / 10 : 0;
+                            const casesCount = Math.max(0, totalReps - cleanCount);
+                            const casesPct = Math.round((100 - cleanPct) * 10) / 10;
+
+                            const higherEduCount = relevantCands.filter(c => {
+                                const e = (c.education || '').toLowerCase();
+                                return e.includes('post graduate') || e.includes('doctorate') || e.includes('phd') || e.includes('mbbs') || e.includes('professional') || e.includes('llb') || e.includes('law');
+                            }).length;
+                            const gradCount = relevantCands.filter(c => {
+                                const e = (c.education || '').toLowerCase();
+                                return (e.includes('graduate') || e.includes('bachelor')) && !e.includes('post');
+                            }).length;
+                            const higherEduPct = totalReps > 0 ? Math.round((higherEduCount / totalReps) * 100) : 0;
+                            const gradPct = totalReps > 0 ? Math.round((gradCount / totalReps) * 100) : 0;
+                            const schoolPct = Math.max(0, 100 - higherEduPct - gradPct);
+
+                            const isUT10Percent = candidate.state === 'Delhi' || candidate.state === 'Jammu & Kashmir';
+                            const maxCabinetPct = isUT10Percent ? 10 : 15;
+                            const maxMinistersAllowed = candidate.state === 'Delhi' 
+                                ? 7 
+                                : (candidate.state === 'Jammu & Kashmir' ? 9 : Math.max(12, Math.floor(currStateInfo.totalAssembly * 0.15)));
+
+                            const stateCabinetSizes: Record<string, number> = {
+                                "Delhi": 7,
+                                "Maharashtra": 34,
+                                "Uttar Pradesh": 54,
+                                "Tamil Nadu": 34,
+                                "Karnataka": 34,
+                                "West Bengal": 43,
+                                "Gujarat": 17,
+                                "Rajasthan": 25,
+                                "Kerala": 21,
+                                "Punjab": 16,
+                                "Bihar": 31,
+                                "Assam": 16,
+                                "Chhattisgarh": 12,
+                                "Goa": 12,
+                                "Haryana": 13,
+                                "Telangana": 18,
+                                "Jammu & Kashmir": 9
+                            };
+                            const actualMinisters = stateCabinetSizes[candidate.state] || Math.min(maxMinistersAllowed, 24);
 
                             return (
                                 <div className="space-y-6">
@@ -1735,7 +1888,125 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         </div>
                                     </div>
 
-                                    {/* 5. Assembly Party Seat Share Breakdown */}
+                                    {/* 5. Demographic & Legislative Representation Analytics */}
+                                    <div className="space-y-3">
+                                        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1">
+                                            <div className="flex items-center gap-2">
+                                                <Users className="w-4 h-4 text-indigo-600 dark:text-indigo-400" />
+                                                <h3 className="font-extrabold text-sm text-slate-900 dark:text-white uppercase tracking-wider">
+                                                    Demographic & Governance Representation ({candidate.state === 'Delhi' ? 'Delhi (UT)' : candidate.state})
+                                                </h3>
+                                            </div>
+                                            <span className="text-[11px] font-medium text-slate-500 dark:text-slate-400">
+                                                Audited Vidhan Sabha Representation Metrics
+                                            </span>
+                                        </div>
+
+                                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
+                                            {/* Card A: Gender Ratio & Women Representation */}
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex flex-col justify-between">
+                                                <div>
+                                                    <div className="flex items-center justify-between mb-1.5">
+                                                        <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Women MLAs</span>
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-fuchsia-50 dark:bg-fuchsia-950/40 text-fuchsia-600 dark:text-fuchsia-400 border border-fuchsia-200 dark:border-fuchsia-800">
+                                                            {womenPct}% Assembly
+                                                        </span>
+                                                    </div>
+                                                    <div className="flex items-baseline gap-1 mt-1">
+                                                        <span className="text-2xl font-black text-slate-900 dark:text-white">{womenCount}</span>
+                                                        <span className="text-xs text-slate-500 font-medium">/ {totalReps} MLAs</span>
+                                                    </div>
+                                                    <div className="w-full bg-slate-100 dark:bg-slate-700 h-2 rounded-full overflow-hidden mt-3 mb-1.5">
+                                                        <div 
+                                                            className="bg-gradient-to-r from-fuchsia-500 to-pink-500 h-full rounded-full transition-all duration-500" 
+                                                            style={{ width: `${Math.min(100, (womenPct / 33) * 100)}%` }}
+                                                        />
+                                                    </div>
+                                                </div>
+                                                <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-2 font-medium flex items-center justify-between">
+                                                    <span>33% Nari Shakti Goal:</span>
+                                                    <strong className="text-fuchsia-600 dark:text-fuchsia-400">{Math.round((womenPct / 33) * 100)}% of Target</strong>
+                                                </p>
+                                            </div>
+
+                                            {/* Card B: Criminal Affidavits Distribution */}
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex flex-col justify-between">
+                                                <div>
+                                                    <div className="flex items-center justify-between mb-1.5">
+                                                        <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Criminal Affidavits</span>
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-emerald-50 dark:bg-emerald-950/40 text-emerald-600 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800">
+                                                            {cleanPct}% Clean
+                                                        </span>
+                                                    </div>
+                                                    <div className="flex items-baseline gap-1 mt-1">
+                                                        <span className="text-2xl font-black text-emerald-600 dark:text-emerald-400">{cleanCount}</span>
+                                                        <span className="text-xs text-slate-500 font-medium">Zero Case MLAs</span>
+                                                    </div>
+                                                    <div className="w-full bg-slate-100 dark:bg-slate-700 h-2 rounded-full overflow-hidden flex mt-3 mb-1.5">
+                                                        <div className="bg-emerald-500 h-full" style={{ width: `${cleanPct}%` }} />
+                                                        <div className="bg-amber-500 h-full" style={{ width: `${casesPct}%` }} />
+                                                    </div>
+                                                </div>
+                                                <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-2 font-medium flex items-center justify-between">
+                                                    <span>Active Cases:</span>
+                                                    <strong className="text-amber-600 dark:text-amber-400">{casesCount} MLAs ({casesPct}%)</strong>
+                                                </p>
+                                            </div>
+
+                                            {/* Card C: Legislative Educational Credentials */}
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex flex-col justify-between">
+                                                <div>
+                                                    <div className="flex items-center justify-between mb-1.5">
+                                                        <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Education Level</span>
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-50 dark:bg-blue-950/40 text-blue-600 dark:text-blue-400 border border-blue-200 dark:border-blue-800">
+                                                            {higherEduPct + gradPct}% Degree
+                                                        </span>
+                                                    </div>
+                                                    <div className="flex items-baseline gap-1 mt-1">
+                                                        <span className="text-2xl font-black text-blue-600 dark:text-blue-400">{higherEduPct}%</span>
+                                                        <span className="text-xs text-slate-500 font-medium">Postgraduate/Pro</span>
+                                                    </div>
+                                                    <div className="w-full bg-slate-100 dark:bg-slate-700 h-2 rounded-full overflow-hidden flex mt-3 mb-1.5">
+                                                        <div className="bg-indigo-600 h-full" style={{ width: `${higherEduPct}%` }} />
+                                                        <div className="bg-blue-400 h-full" style={{ width: `${gradPct}%` }} />
+                                                        <div className="bg-slate-400 h-full" style={{ width: `${schoolPct}%` }} />
+                                                    </div>
+                                                </div>
+                                                <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-2 font-medium flex items-center justify-between">
+                                                    <span>Grad: <strong>{gradPct}%</strong></span>
+                                                    <span>School/Other: <strong>{schoolPct}%</strong></span>
+                                                </p>
+                                            </div>
+
+                                            {/* Card D: Minister Count & 15% Constitutional Ceiling */}
+                                            <div className="p-4 bg-white dark:bg-slate-800/90 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex flex-col justify-between">
+                                                <div>
+                                                    <div className="flex items-center justify-between mb-1.5">
+                                                        <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Cabinet Strength</span>
+                                                        <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-indigo-50 dark:bg-indigo-950/40 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800">
+                                                            {candidate.state === 'Delhi' ? `Art. 239AA (${maxCabinetPct}%)` : (candidate.state === 'Jammu & Kashmir' ? `J&K Reorg Act (${maxCabinetPct}%)` : `Art. 164(1A) (${maxCabinetPct}%)`)}
+                                                        </span>
+                                                    </div>
+                                                    <div className="flex items-baseline gap-1 mt-1">
+                                                        <span className="text-2xl font-black text-indigo-600 dark:text-indigo-400">{actualMinisters}</span>
+                                                        <span className="text-xs text-slate-500 font-medium">/ max {maxMinistersAllowed} ministers</span>
+                                                    </div>
+                                                    <div className="w-full bg-slate-100 dark:bg-slate-700 h-2 rounded-full overflow-hidden mt-3 mb-1.5">
+                                                        <div 
+                                                            className="bg-indigo-600 h-full rounded-full transition-all duration-500" 
+                                                            style={{ width: `${Math.min(100, (actualMinisters / maxMinistersAllowed) * 100)}%` }}
+                                                        />
+                                                    </div>
+                                                </div>
+                                                <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-2 font-medium flex items-center justify-between">
+                                                    <span>Ceiling Status:</span>
+                                                    <strong className="text-emerald-600 dark:text-emerald-400">Compliant ({Math.round((actualMinisters/currStateInfo.totalAssembly)*100)}% of House)</strong>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    {/* 6. Assembly Party Seat Share Breakdown */}
                                     <div className="p-5 bg-white dark:bg-slate-800/60 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">
                                         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 dark:border-slate-700 pb-3 mb-4">
                                             <div className="flex items-center gap-2">
