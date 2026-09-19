@@ -2,18 +2,29 @@
 
 ## 1. What We Accomplished in Today's Session
 
-### A. Dynamic Continuous Moving Civic Marquee
-- **Edge-to-Edge Infinite Linear Marquee**: Replaced the static marquee with a continuous, seamless `-50%` translate infinite ticker with zero blank gaps or resets.
-- **Removed Ticker Clutter**: Completely removed the `[CIVIC PULSE]` tag, `< 1/5 >` buttons, and floating overlay badges so the text moves unobscured across the entire top bar.
-- **Hover & Click-to-Toggle Interaction**:
-  - Hovering pauses scrolling immediately for effortless reading.
-  - Clicking toggles the moving/paused state (clicking while paused resumes scrolling immediately).
-- **Accurate 5-Line Information Feed**:
-  1. 🗳️ **Upcoming State Elections**: West Bengal, Tamil Nadu, Kerala, Assam & Puducherry (Apr–May 2026) • Uttar Pradesh, Punjab, Goa & Gujarat (2027) *(obsolete 2025 removed)*.
-  2. 🏛️ **Parliament Watch**: 18th Lok Sabha completed 115+ hours of legislative business; upcoming session to table key governance and financial reforms.
-  3. 💸 **Taxpayer Cost Per Session**: ₹2.5 Lakh spent every minute of Parliamentary sittings (~₹9.1 Crore per active sitting day funded by Indian taxpayers).
-  4. 🇮🇳 **National Leadership**: Prime Minister: Narendra Modi • President of India: Droupadi Murmu (15th President of the Republic).
-  5. ⚖️ **Constitutional Heads**: Chief Justice of India: Justice Sanjiv Khanna (51st CJI) • Chief Election Commissioner: Rajiv Kumar.
+### A. Media Spotlight Unique Article Source Links
+- **Resolved Generic Search Issue**: Previously, clicking "Read Source" on each of the 3 news articles led to an identical Google search query.
+- **Implemented `build_article_source_url`**:
+  - Dynamically extracts core headline topics, leader name, and constituency context.
+  - Directs users to verified search portals of specific publications (*The Hindu*, *The Indian Express*, *Times of India*, *Hindustan Times*, *The Tribune*, *Deccan Herald*, *Amar Ujala*, *Dainik Jagran*, *Dainik Bhaskar*, *Prabhat Khabar*, *Eenadu*, *Lokmat*, etc.).
+  - Guarantees 100% unique, topic-specific URLs for all 3 articles across all 3,264 constituencies.
+- **Curated Marquee Figures**: Provided unique headline-specific URLs for key leaders (Narendra Modi, Rahul Gandhi, Samrat Choudhary, Nitish Kumar, Yogi Adityanath, Hemant Soren, Sukhvinder Singh Sukhu, N. Chandrababu Naidu).
+
+### B. Dynamic Civic Pulse & Upcoming State Elections Sync Pipeline
+- **Created `scripts/pipeline/sync_civic_pulse_elections.py`**:
+  - Automatically compiles and audits the upcoming assembly election cycles:
+    - **2026**: West Bengal (294 seats), Tamil Nadu (234 seats), Kerala (140 seats), Assam (126 seats) & Puducherry (30 seats) [Apr–May 2026]
+    - **2027**: Uttar Pradesh (403 seats), Punjab (117 seats), Gujarat (182 seats), Himachal Pradesh (68 seats) & Goa (40 seats) [2027]
+  - Integrates Parliament business audit, taxpayer cost per session, national executive leadership (PM Narendra Modi, President Droupadi Murmu), and constitutional heads (CJI Justice Surya Kant, CEC Gyanesh Kumar).
+  - Emits structured JSON to `src/data/civicPulseTicker.json`.
+- **Integrated into GitHub Actions (`.github/workflows/funds-sync.yml`)**:
+  - Added step to run `sync_civic_pulse_elections.py` in the recurring 5-day data audit alongside state profiles, development funds, and master CSV recompilation.
+- **Wired Frontend Ticker (`CivicPulseTicker.tsx`)**:
+  - Dynamically loads `src/data/civicPulseTicker.json` with robust fallback.
+
+### C. Live Production Deployment
+- Verified locally in Podman container (`http://localhost:7860/`) with clean TypeScript build and browser testing.
+- Committed and pushed to GitHub `origin/main` (`25510ad`), triggering automated live Vercel production deployment.
 
 ### B. National Executive Leadership Ingestion
 - **Prime Minister Narendra Modi**:
