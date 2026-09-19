@@ -1,0 +1,2482 @@
+[
+  {
+    "id": "pu_3233",
+    "name": "V. Vaithilingam",
+    "role": "Member of Parliament (Lok Sabha)",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/v_vaithilingam.jpg",
+    "constituencyName": "Puducherry (Lok Sabha)",
+    "state": "Puducherry",
+    "attendancePercentage": 95,
+    "attendanceBody": "Parliament (Lok Sabha)",
+    "questionsAsked": 96,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
+    "fundUtilizationPercentage": 96.4,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 48200000,
+    "ladFundUnspentINR": 1800000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Puducherry (Lok Sabha) Parliamentary Sector Connectivity & Road Works",
+        "percentage": 35,
+        "allocatedINR": 16870000,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Drinking Water Infrastructure & Jal Jeevan Grid",
+        "percentage": 25,
+        "allocatedINR": 12050000,
+        "status": "Completed"
+      },
+      {
+        "category": "District Civil Hospital Diagnostic & Medical Equipment",
+        "percentage": 20,
+        "allocatedINR": 9640000,
+        "status": "Completed"
+      },
+      {
+        "category": "Government Higher Secondary Digital Labs & Skill Centers",
+        "percentage": 20,
+        "allocatedINR": 9640000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 68000000,
+    "declaredLiabilitiesINR": 4500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Puducherry (Lok Sabha).",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "V. Vaithilingam is the Member of Parliament representing Puducherry and former Chief Minister.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Lok Sabha Secretariat Records & Hansard",
+      "questionsSource": "Parliament of India Lok Sabha Question Records",
+      "fundSource": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal"
+    }
+  },
+  {
+    "id": "pu_3234",
+    "name": "N. Rangasamy",
+    "role": "Chief Minister of Puducherry",
+    "gender": "Male",
+    "party": "All India N.R. Congress",
+    "photoUrl": "/assets/candidates/n_rangasamy.jpg",
+    "constituencyName": "Thattanchavady",
+    "state": "Puducherry",
+    "attendancePercentage": 97,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 88,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 96.8,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24200000,
+    "ladFundUnspentINR": 800000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Thattanchavady Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8470000,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 6050000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4840000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4840000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 38000000,
+    "declaredLiabilitiesINR": 0,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate (LLB)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Thattanchavady.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "N. Rangasamy is the Chief Minister of the Union Territory of Puducherry and founder of AINRC.",
+    "partyHistory": [
+      {
+        "party": "All India N.R. Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/AINRC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3235",
+    "name": "A. Namassivayam",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mannadipet",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mannadipet Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mannadipet.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "A. Namassivayam is the elected MLA representing Mannadipet, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3236",
+    "name": "P. Angalane",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Thirubuvanai",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Thirubuvanai Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Thirubuvanai.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "P. Angalane is the elected MLA representing Thirubuvanai, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3237",
+    "name": "A. K. Saravanankumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Oussudu",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Oussudu Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Oussudu.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "A. K. Saravanankumar is the elected MLA representing Oussudu, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3238",
+    "name": "C. Djeacoumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mangalam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mangalam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mangalam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "C. Djeacoumar is the elected MLA representing Mangalam, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3239",
+    "name": "R. Siva",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Villianur",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Villianur Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Villianur.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "R. Siva is the elected MLA representing Villianur, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3240",
+    "name": "M. Sivasankar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ozhukarai",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Ozhukarai Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 57,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ozhukarai.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "M. Sivasankar is the elected MLA representing Ozhukarai, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3241",
+    "name": "S. Ramesh",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "All India N.R. Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kadirkamam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kadirkamam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kadirkamam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "S. Ramesh is the elected MLA representing Kadirkamam, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "All India N.R. Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/AINRC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3242",
+    "name": "A. K. D. Arumugam",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Indira Nagar",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Indira Nagar Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Indira Nagar.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "A. K. D. Arumugam is the elected MLA representing Indira Nagar, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3243",
+    "name": "A. Johnkumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kamaraj Nagar",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kamaraj Nagar Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kamaraj Nagar.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "A. Johnkumar is the elected MLA representing Kamaraj Nagar, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3244",
+    "name": "M. Vaithianathan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Lawspet",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Lawspet Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Lawspet.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "M. Vaithianathan is the elected MLA representing Lawspet, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3245",
+    "name": "Kalyanasundaram",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kalapet",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kalapet Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 39,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kalapet.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "Kalyanasundaram is the elected MLA representing Kalapet, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3246",
+    "name": "J. Prakash Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Muthialpet",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Muthialpet Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Muthialpet.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "J. Prakash Kumar is the elected MLA representing Muthialpet, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3247",
+    "name": "K. Lakshminarayanan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Raj Bhavan",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Raj Bhavan Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Raj Bhavan.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "K. Lakshminarayanan is the elected MLA representing Raj Bhavan, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3248",
+    "name": "Annibal Kennedy",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Oupalam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Oupalam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Oupalam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "Annibal Kennedy is the elected MLA representing Oupalam, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3249",
+    "name": "G. Nehru Kuppusamy",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Orleampeth",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Orleampeth Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 49,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Orleampeth.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "G. Nehru Kuppusamy is the elected MLA representing Orleampeth, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3250",
+    "name": "Richards Johnkumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nellithope",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nellithope Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nellithope.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "Richards Johnkumar is the elected MLA representing Nellithope, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3251",
+    "name": "L. Sambath",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mudaliarpet",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mudaliarpet Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mudaliarpet.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "L. Sambath is the elected MLA representing Mudaliarpet, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3252",
+    "name": "R. Baskar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ariankuppam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Ariankuppam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ariankuppam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "R. Baskar is the elected MLA representing Ariankuppam, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3253",
+    "name": "Embalam R. Selvam",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Manavely",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Manavely Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Manavely.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "Embalam R. Selvam is the elected MLA representing Manavely, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3254",
+    "name": "U. Lakshmikandhan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Embalam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 19,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Embalam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Embalam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "U. Lakshmikandhan is the elected MLA representing Embalam, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3255",
+    "name": "P. Rajavelu",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nettapakkam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nettapakkam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nettapakkam.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "P. Rajavelu is the elected MLA representing Nettapakkam, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3256",
+    "name": "R. Senthilkumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bahour",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Bahour Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Puducherry Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bahour.",
+    "politicalFact": "Elected representative serving the citizens of Puducherry, Puducherry.",
+    "bio": "R. Senthilkumar is the elected MLA representing Bahour, Puducherry, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3257",
+    "name": "Chandira Priyanga",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "All India N.R. Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nedungadu",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nedungadu Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Karaikal Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nedungadu.",
+    "politicalFact": "Elected representative serving the citizens of Karaikal, Puducherry.",
+    "bio": "Chandira Priyanga is the elected MLA representing Nedungadu, Karaikal, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "All India N.R. Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/AINRC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3258",
+    "name": "P. R. Siva",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Thirunallar",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Thirunallar Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Karaikal Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Thirunallar.",
+    "politicalFact": "Elected representative serving the citizens of Karaikal, Puducherry.",
+    "bio": "P. R. Siva is the elected MLA representing Thirunallar, Karaikal, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3259",
+    "name": "P. R. N. Thirumurugan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Karaikal North",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Karaikal North Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Karaikal Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Karaikal North.",
+    "politicalFact": "Elected representative serving the citizens of Karaikal, Puducherry.",
+    "bio": "P. R. N. Thirumurugan is the elected MLA representing Karaikal North, Karaikal, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3260",
+    "name": "A. M. H. Nazeem",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Karaikal South",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Karaikal South Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Karaikal Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Karaikal South.",
+    "politicalFact": "Elected representative serving the citizens of Karaikal, Puducherry.",
+    "bio": "A. M. H. Nazeem is the elected MLA representing Karaikal South, Karaikal, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3261",
+    "name": "V. M. C. S. Raja",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Dravida Munnetra Kazhagam",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Neravy T R Pattinam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Neravy T R Pattinam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Karaikal Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Neravy T R Pattinam.",
+    "politicalFact": "Elected representative serving the citizens of Karaikal, Puducherry.",
+    "bio": "V. M. C. S. Raja is the elected MLA representing Neravy T R Pattinam, Karaikal, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Dravida Munnetra Kazhagam",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/DMK.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3262",
+    "name": "75.29%",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mahe",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mahe Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mahe Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 49,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mahe.",
+    "politicalFact": "Elected representative serving the citizens of Mahe, Puducherry.",
+    "bio": "75.29% is the elected MLA representing Mahe, Mahe, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "pu_3263",
+    "name": "92.31%",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Yanam",
+    "state": "Puducherry",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 38,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Puducherry MLA Local Area Development Scheme (MLALADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Puducherry Local Administration Department",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Yanam Coastal Ward Drainage & Paver Block Roads",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Yanam Overhead Water Tank & Desalinated Water Lines",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Urban Primary Health Center Diagnostics",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solar Street Lighting & Anganwadi Renovation",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Yanam.",
+    "politicalFact": "Elected representative serving the citizens of Yanam, Puducherry.",
+    "bio": "92.31% is the elected MLA representing Yanam, Yanam, Puducherry.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Puducherry Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Puducherry Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]

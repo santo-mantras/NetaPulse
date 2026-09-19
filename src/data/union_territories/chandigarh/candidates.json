@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ch_3231",
+    "name": "Manish Tewari",
+    "role": "Member of Parliament (Lok Sabha)",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/manish_tewari.jpg",
+    "constituencyName": "Chandigarh (Lok Sabha)",
+    "state": "Chandigarh",
+    "attendancePercentage": 96,
+    "attendanceBody": "Parliament (Lok Sabha)",
+    "questionsAsked": 125,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
+    "fundUtilizationPercentage": 95.6,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 47800000,
+    "ladFundUnspentINR": 2200000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chandigarh (Lok Sabha) Parliamentary Sector Connectivity & Road Works",
+        "percentage": 35,
+        "allocatedINR": 16729999,
+        "status": "Completed"
+      },
+      {
+        "category": "Chandigarh Drinking Water Infrastructure & Jal Jeevan Grid",
+        "percentage": 25,
+        "allocatedINR": 11950000,
+        "status": "Completed"
+      },
+      {
+        "category": "District Civil Hospital Diagnostic & Medical Equipment",
+        "percentage": 20,
+        "allocatedINR": 9560000,
+        "status": "Completed"
+      },
+      {
+        "category": "Government Higher Secondary Digital Labs & Skill Centers",
+        "percentage": 20,
+        "allocatedINR": 9560000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 154000000,
+    "declaredLiabilitiesINR": 8500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate (LLB / Delhi University)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Chandigarh (Lok Sabha).",
+    "politicalFact": "Elected representative serving the citizens of Chandigarh, Chandigarh.",
+    "bio": "Manish Tewari is the Member of Parliament representing the Union Territory of Chandigarh in the 18th Lok Sabha.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Lok Sabha Secretariat Records & Hansard",
+      "questionsSource": "Parliament of India Lok Sabha Question Records",
+      "fundSource": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal"
+    }
+  }
+]

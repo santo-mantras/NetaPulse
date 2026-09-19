@@ -17,6 +17,19 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
             .sort((a, b) => a.localeCompare(b));
     }, [locations]);
 
+    const UNION_TERRITORIES_SET = useMemo(() => new Set([
+        "Delhi", "Jammu & Kashmir", "Ladakh", "Chandigarh", "Puducherry",
+        "Andaman and Nicobar Islands", "Dadra and Nagar Haveli and Daman and Diu", "Lakshadweep"
+    ]), []);
+
+    const regularStates = useMemo(() => {
+        return states.filter(s => !UNION_TERRITORIES_SET.has(s));
+    }, [states, UNION_TERRITORIES_SET]);
+
+    const unionTerritories = useMemo(() => {
+        return states.filter(s => UNION_TERRITORIES_SET.has(s));
+    }, [states, UNION_TERRITORIES_SET]);
+
     // Default initial selection: Assam Chief Minister Himanta Biswa Sarma (Jalukbari, Kamrup Metropolitan)
     // Ensures first impression has authentic leader profile with verified portrait
     const defaultState = 'Assam';
@@ -38,18 +51,10 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
     const [suggestions, setSuggestions] = useState<CandidateProfile[]>([]);
     const [showSuggestions, setShowSuggestions] = useState(false);
 
-    // Available top parties derived dynamically
-    const topParties = useMemo(() => {
-        const counts: Record<string, number> = {};
-        candidates.forEach(c => {
-            if (c.party) {
-                counts[c.party] = (counts[c.party] || 0) + 1;
-            }
-        });
-        return Object.entries(counts)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 10)
-            .map(([party]) => party);
+    // All available political parties derived dynamically from dataset
+    const allParties = useMemo(() => {
+        return Array.from(new Set(candidates.map(c => c.party).filter(Boolean)))
+            .sort((a, b) => a.localeCompare(b));
     }, [candidates]);
 
     const activeFiltersCount = useMemo(() => {
@@ -288,19 +293,86 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                 </button>
             </div>
             
+            {/* Legislative Chamber Switcher Tabs */}
+            <div className="flex flex-wrap items-center justify-between gap-3 mb-5 p-2 bg-slate-100 dark:bg-slate-800/70 rounded-xl border border-slate-200 dark:border-slate-700/80">
+                <div className="flex items-center gap-2">
+                    <span className="text-[11px] font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider pl-1">
+                        Chamber:
+                    </span>
+                    <div className="flex items-center bg-white dark:bg-slate-900 p-0.5 rounded-lg border border-slate-200 dark:border-slate-700 text-xs shadow-xs">
+                        <button
+                            type="button"
+                            onClick={() => {
+                                setRoleFilter('ALL');
+                                applyFilters(searchQuery, genderFilter, partyFilter, casesFilter, 'ALL');
+                            }}
+                            className={`px-3 py-1.5 rounded-md font-bold transition-all flex items-center gap-1.5 ${
+                                roleFilter === 'ALL'
+                                    ? 'bg-blue-600 text-white shadow-xs'
+                                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                            }`}
+                        >
+                            <span>🌐</span> All Leaders
+                        </button>
+                        <button
+                            type="button"
+                            onClick={() => {
+                                setRoleFilter('MLA');
+                                applyFilters(searchQuery, genderFilter, partyFilter, casesFilter, 'MLA');
+                            }}
+                            className={`px-3 py-1.5 rounded-md font-bold transition-all flex items-center gap-1.5 ${
+                                roleFilter === 'MLA'
+                                    ? 'bg-blue-600 text-white shadow-xs'
+                                    : 'text-slate-600 dark:text-slate-400 hover:text-blue-600'
+                            }`}
+                        >
+                            <span>🏛️</span> Vidhan Sabha (MLAs)
+                        </button>
+                        <button
+                            type="button"
+                            onClick={() => {
+                                setRoleFilter('MP');
+                                applyFilters(searchQuery, genderFilter, partyFilter, casesFilter, 'MP');
+                            }}
+                            className={`px-3 py-1.5 rounded-md font-bold transition-all flex items-center gap-1.5 ${
+                                roleFilter === 'MP'
+                                    ? 'bg-emerald-600 text-white shadow-xs'
+                                    : 'text-slate-600 dark:text-slate-400 hover:text-emerald-600'
+                            }`}
+                        >
+                            <span>🇮🇳</span> Lok Sabha (MPs)
+                        </button>
+                    </div>
+                </div>
+
+                <div className="text-[11px] font-semibold text-slate-500 dark:text-slate-400 flex items-center gap-1.5 pr-1">
+                    <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+                    <span>18 States &amp; 5 Union Territories Live</span>
+                </div>
+            </div>
+            
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                 <div className="flex flex-col gap-1.5">
-                    <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider">State / UT</label>
+                    <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider">State / Union Territory</label>
                     <select 
                         value={selectedState} 
                         onChange={(e) => handleStateChange(e.target.value)}
-                        className="bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 text-slate-900 dark:text-slate-100 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 transition-colors outline-none"
+                        className="bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 text-slate-900 dark:text-slate-100 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 transition-colors outline-none font-medium"
                     >
-                        {states.map(s => (
-                            <option key={s} value={s}>
-                                {s === 'Delhi' ? 'Delhi (UT)' : s}
-                            </option>
-                        ))}
+                        <optgroup label="── 🏛️ States (18) ──" className="font-bold text-slate-900 dark:text-slate-200">
+                            {regularStates.map(s => (
+                                <option key={s} value={s} className="font-normal text-slate-800 dark:text-slate-100">
+                                    {s}
+                                </option>
+                            ))}
+                        </optgroup>
+                        <optgroup label="── 🇮🇳 Union Territories (5) ──" className="font-bold text-blue-700 dark:text-blue-300">
+                            {unionTerritories.map(s => (
+                                <option key={s} value={s} className="font-normal text-slate-800 dark:text-slate-100">
+                                    {s} (UT)
+                                </option>
+                            ))}
+                        </optgroup>
                     </select>
                 </div>
 
@@ -419,8 +491,8 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
                                     : 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300'
                             }`}
                         >
-                            <option value="ALL">All Parties</option>
-                            {topParties.map(p => (
+                            <option value="ALL">All Parties ({allParties.length})</option>
+                            {allParties.map(p => (
                                 <option key={p} value={p}>{p}</option>
                             ))}
                         </select>

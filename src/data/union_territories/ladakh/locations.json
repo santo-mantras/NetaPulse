@@ -1,0 +1,26 @@
+[
+  {
+    "id": "loc_la_3232",
+    "stateName": "Ladakh",
+    "districtName": "Leh & Kargil",
+    "assemblyConstituencyCode": "PC-LA-01",
+    "assemblyConstituencyName": "Ladakh (Lok Sabha)",
+    "crimeRate": "267.2 per 100k",
+    "crimeRatePerLakh": 267.2,
+    "literacyRate": 77.1,
+    "literacyRatePercentage": 77.1,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 157,
+    "regionalInsight": {
+      "title": "Ladakh (Lok Sabha) Civic Context",
+      "historicalFact": "Leh & Kargil is a high-altitude trans-Himalayan crossroads in Ladakh, renowned for ancient Tibetan Buddhist gompas, rugged snow-bound valleys, Pashmina goat herding, and the historic Silk Route trade.",
+      "currentChallenge": "Key developmental priorities center on winter road connectivity via Himalayan tunnels, solar-powered insulated water supply, and high-altitude emergency healthcare in Ladakh (Lok Sabha)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

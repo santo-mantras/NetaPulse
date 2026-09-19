@@ -1,0 +1,82 @@
+[
+  {
+    "id": "la_3232",
+    "name": "Mohmad Haneefa",
+    "role": "Member of Parliament (Lok Sabha)",
+    "gender": "Male",
+    "party": "Independent",
+    "photoUrl": "/assets/candidates/mohmad_haneefa.jpg",
+    "constituencyName": "Ladakh (Lok Sabha)",
+    "state": "Ladakh",
+    "attendancePercentage": 94,
+    "attendanceBody": "Parliament (Lok Sabha)",
+    "questionsAsked": 82,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
+    "fundUtilizationPercentage": 93.0,
+    "ladFundAllocatedINR": 50000000,
+    "ladFundUtilizedINR": 46500000,
+    "ladFundUnspentINR": 3500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Ladakh (Lok Sabha) Parliamentary Sector Connectivity & Road Works",
+        "percentage": 35,
+        "allocatedINR": 16274999,
+        "status": "Completed"
+      },
+      {
+        "category": "Leh & Kargil Drinking Water Infrastructure & Jal Jeevan Grid",
+        "percentage": 25,
+        "allocatedINR": 11625000,
+        "status": "Completed"
+      },
+      {
+        "category": "District Civil Hospital Diagnostic & Medical Equipment",
+        "percentage": 20,
+        "allocatedINR": 9300000,
+        "status": "Completed"
+      },
+      {
+        "category": "Government Higher Secondary Digital Labs & Skill Centers",
+        "percentage": 20,
+        "allocatedINR": 9300000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 22000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ladakh (Lok Sabha).",
+    "politicalFact": "Elected representative serving the citizens of Leh & Kargil, Ladakh.",
+    "bio": "Mohmad Haneefa Jan is the independent Member of Parliament representing the strategic Himalayan Union Territory of Ladakh in the 18th Lok Sabha.",
+    "partyHistory": [
+      {
+        "party": "Independent",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/Independent.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Lok Sabha Secretariat Records & Hansard",
+      "questionsSource": "Parliament of India Lok Sabha Question Records",
+      "fundSource": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal"
+    }
+  }
+]

@@ -1,24 +1,27 @@
 import React, { useState } from 'react';
+import tickerData from '../data/civicPulseTicker.json';
 
 interface TickerItem {
     id: number;
     icon: string;
     category: string;
     text: string;
+    status?: string;
+    lastVerified?: string;
 }
 
-const TICKER_ITEMS: TickerItem[] = [
+const FALLBACK_ITEMS: TickerItem[] = [
     {
         id: 1,
         icon: '🗳️',
         category: 'UPCOMING STATE ELECTIONS',
-        text: 'West Bengal, Tamil Nadu, Kerala, Assam & Puducherry (Apr–May 2026) • Uttar Pradesh, Punjab, Goa & Gujarat (2027)'
+        text: 'West Bengal, Tamil Nadu, Kerala, Assam & Puducherry (Apr–May 2026) • Uttar Pradesh, Punjab, Goa, Gujarat & Himachal Pradesh (2027)'
     },
     {
         id: 2,
         icon: '🏛️',
         category: 'PARLIAMENT WATCH',
-        text: '18th Lok Sabha completed 115+ hours of legislative business; upcoming session to table key governance and financial reforms'
+        text: '18th Lok Sabha completed 115+ hours of legislative business; upcoming session to table key governance, digitisation and financial reforms'
     },
     {
         id: 3,
@@ -36,9 +39,13 @@ const TICKER_ITEMS: TickerItem[] = [
         id: 5,
         icon: '⚖️',
         category: 'ECI & CJI CHIEF HEADS',
-        text: 'Chief Justice of India: Justice Sanjiv Khanna (51st CJI) • Chief Election Commissioner: Rajiv Kumar'
+        text: 'Chief Justice of India: Justice Surya Kant (53rd CJI) • Chief Election Commissioner: Shri Gyanesh Kumar'
     }
 ];
+
+const TICKER_ITEMS: TickerItem[] = (tickerData && Array.isArray((tickerData as any).items) && (tickerData as any).items.length > 0)
+    ? (tickerData as any).items
+    : FALLBACK_ITEMS;
 
 export const CivicPulseTicker: React.FC = () => {
     const [isManualPaused, setIsManualPaused] = useState(false);

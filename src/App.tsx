@@ -122,8 +122,9 @@ function App() {
               <h1 className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-purple-600 to-indigo-700 dark:from-blue-400 dark:via-purple-400 dark:to-indigo-400 bg-[length:200%_auto] animate-gradient tracking-tight group-hover:opacity-90 transition-opacity">
                 NetaPulse
               </h1>
-              <p className="text-[10px] sm:text-xs font-bold text-slate-500 dark:text-slate-400 tracking-wide mt-0.5" title="Satyānna pramaditavyam - Do not deviate from the truth.">
-                सत्यान्न प्रमदितव्यम्
+              <p className="text-[10px] sm:text-xs font-bold text-slate-600 dark:text-slate-300 tracking-wide mt-0.5 flex items-center gap-1.5" title="Taittiriya Upanishad 1.11.1">
+                <span className="text-blue-600 dark:text-blue-400 font-extrabold">सत्यान्न प्रमदितव्यम्</span>
+                <span className="hidden md:inline text-slate-400 dark:text-slate-500 font-medium">• "Never swerve from the truth" (Taittiriya Upanishad)</span>
               </p>
             </div>
           </a>
@@ -184,8 +185,21 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="mt-20 border-t border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 backdrop-blur-md py-8">
-        <div className="max-w-6xl mx-auto px-4 text-center space-y-4">
+      <footer className="mt-20 border-t border-slate-200 dark:border-slate-800 bg-white/60 dark:bg-slate-900/60 backdrop-blur-md py-10">
+        <div className="max-w-6xl mx-auto px-4 text-center space-y-6">
+          {/* Sanskrit Motto Card with Meaning & Source */}
+          <div className="inline-flex flex-col items-center justify-center p-4 sm:px-8 bg-gradient-to-r from-blue-50 via-indigo-50/50 to-purple-50 dark:from-slate-800/80 dark:via-blue-950/30 dark:to-slate-800/80 rounded-2xl border border-blue-200/60 dark:border-blue-800/40 shadow-xs max-w-2xl mx-auto">
+            <span className="text-lg sm:text-xl font-extrabold text-blue-900 dark:text-blue-200 tracking-wide font-serif">
+              "सत्यान्न प्रमदितव्यम्"
+            </span>
+            <span className="text-xs sm:text-sm font-semibold text-slate-700 dark:text-slate-300 mt-1 italic">
+              "Never swerve from the truth."
+            </span>
+            <span className="text-[11px] font-bold text-slate-500 dark:text-slate-400 tracking-wider uppercase mt-1">
+              — Taittiriya Upanishad (तैत्तिरीय उपनिषद्, 1.11.1)
+            </span>
+          </div>
+
           <p className="text-xs text-slate-500 dark:text-slate-400 font-medium max-w-3xl mx-auto leading-relaxed">
             Disclaimer: All data is aggregated from open public domains including the Election Commission of India (ECI), PRS Legislative Research, and mainstream media outlets. NetaPulse does not alter primary affidavit data.
           </p>

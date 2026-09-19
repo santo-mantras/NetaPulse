@@ -11,7 +11,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -47,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -91,15 +91,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -127,7 +127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -177,9 +177,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 51,
+    "worksCompletedCount": 47,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -207,7 +207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -257,8 +257,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -287,7 +287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -331,14 +331,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -367,7 +367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -411,14 +411,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
+    "worksRecommendedCount": 52,
+    "worksCompletedCount": 48,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -447,7 +447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -491,14 +491,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -527,7 +527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -571,14 +571,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -607,7 +607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -651,15 +651,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -687,7 +687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -731,7 +731,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -767,7 +767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -811,7 +811,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -847,7 +847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -897,9 +897,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -927,7 +927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -971,15 +971,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1007,7 +1007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1051,15 +1051,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1087,7 +1087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1131,15 +1131,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1167,7 +1167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1211,15 +1211,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1247,7 +1247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1291,14 +1291,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -1327,7 +1327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1377,9 +1377,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 52,
+    "worksCompletedCount": 48,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1407,7 +1407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1451,15 +1451,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1487,7 +1487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1531,15 +1531,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1567,7 +1567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1617,8 +1617,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -1647,7 +1647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1697,9 +1697,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1727,7 +1727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1777,9 +1777,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1807,7 +1807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1851,15 +1851,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -1887,7 +1887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1931,14 +1931,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -1967,7 +1967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2011,15 +2011,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 51,
+    "worksCompletedCount": 47,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2047,7 +2047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2091,15 +2091,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2127,7 +2127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2171,15 +2171,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2207,7 +2207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2251,15 +2251,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2287,7 +2287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2331,14 +2331,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -2367,7 +2367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2411,14 +2411,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
+    "worksRecommendedCount": 51,
+    "worksCompletedCount": 47,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -2447,7 +2447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2491,14 +2491,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -2527,7 +2527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2571,15 +2571,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 52,
+    "worksCompletedCount": 48,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2607,7 +2607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2651,15 +2651,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2687,7 +2687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2731,15 +2731,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2767,7 +2767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2811,15 +2811,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -2847,7 +2847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2897,8 +2897,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -2927,7 +2927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2971,15 +2971,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -3007,7 +3007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3051,14 +3051,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3087,7 +3087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3137,8 +3137,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3211,14 +3211,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3247,7 +3247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3297,9 +3297,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 52,
+    "worksCompletedCount": 48,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -3327,7 +3327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 235000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3371,14 +3371,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3407,7 +3407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3451,7 +3451,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -3487,7 +3487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3537,9 +3537,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -3567,7 +3567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3611,14 +3611,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3647,7 +3647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3691,15 +3691,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -3727,7 +3727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3771,14 +3771,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3807,7 +3807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3857,8 +3857,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -3887,7 +3887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3931,15 +3931,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -3967,7 +3967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4011,15 +4011,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -4047,7 +4047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4091,15 +4091,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
+    "worksRecommendedCount": 47,
     "worksCompletedCount": 43,
-    "worksPendingCount": 3,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -4127,7 +4127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4171,14 +4171,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4207,7 +4207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4251,15 +4251,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -4287,7 +4287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4337,9 +4337,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -4367,7 +4367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4411,7 +4411,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
@@ -4447,7 +4447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4491,14 +4491,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4527,7 +4527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4571,14 +4571,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4607,7 +4607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4651,14 +4651,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4687,7 +4687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4731,14 +4731,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4767,7 +4767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4811,14 +4811,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4847,7 +4847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4891,14 +4891,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -4927,7 +4927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4971,14 +4971,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5007,7 +5007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5051,14 +5051,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5087,7 +5087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5131,15 +5131,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -5167,7 +5167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5211,14 +5211,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5247,7 +5247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5291,14 +5291,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5327,7 +5327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5377,9 +5377,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -5407,7 +5407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5457,8 +5457,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5487,7 +5487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5531,15 +5531,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -5567,7 +5567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5611,14 +5611,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5647,7 +5647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5697,8 +5697,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -5727,7 +5727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 300000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5807,7 +5807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5851,15 +5851,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -5887,7 +5887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5937,9 +5937,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -5967,7 +5967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6011,15 +6011,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -6047,7 +6047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6091,14 +6091,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6127,7 +6127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6171,15 +6171,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -6207,7 +6207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6251,14 +6251,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6287,7 +6287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6331,15 +6331,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 51,
+    "worksCompletedCount": 47,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -6367,7 +6367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6411,15 +6411,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -6447,7 +6447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6491,15 +6491,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -6527,7 +6527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6571,14 +6571,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6607,7 +6607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6651,14 +6651,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
+    "worksRecommendedCount": 51,
+    "worksCompletedCount": 47,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6687,7 +6687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6731,14 +6731,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6767,7 +6767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6811,14 +6811,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6847,7 +6847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6897,8 +6897,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -6927,7 +6927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -6971,14 +6971,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7007,7 +7007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7051,14 +7051,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7087,7 +7087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7131,14 +7131,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7167,7 +7167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7217,8 +7217,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 43,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7247,7 +7247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7291,15 +7291,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 52,
+    "worksCompletedCount": 48,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -7327,7 +7327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7377,9 +7377,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -7407,7 +7407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7451,15 +7451,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -7531,15 +7531,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -7567,7 +7567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7611,14 +7611,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7647,7 +7647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7691,14 +7691,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7727,7 +7727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7771,14 +7771,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7807,7 +7807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7851,15 +7851,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -7887,7 +7887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -7931,14 +7931,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -7967,7 +7967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8011,15 +8011,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 50,
-    "worksCompletedCount": 46,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8047,7 +8047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8091,15 +8091,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8127,7 +8127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8171,14 +8171,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -8207,7 +8207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8251,15 +8251,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 49,
-    "worksCompletedCount": 45,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8287,7 +8287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8331,14 +8331,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -8411,14 +8411,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -8447,7 +8447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8491,15 +8491,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8527,7 +8527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8577,9 +8577,9 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8607,7 +8607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8651,15 +8651,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8687,7 +8687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8731,15 +8731,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 51,
-    "worksCompletedCount": 47,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -8767,7 +8767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8811,14 +8811,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -8847,7 +8847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8891,14 +8891,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 52,
-    "worksCompletedCount": 48,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
     "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -8927,7 +8927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -8971,15 +8971,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 50,
+    "worksCompletedCount": 46,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -9007,7 +9007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9051,14 +9051,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -9087,7 +9087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9131,14 +9131,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -9167,7 +9167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9211,15 +9211,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 49,
+    "worksCompletedCount": 45,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
       {
@@ -9247,7 +9247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9291,14 +9291,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -9327,7 +9327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9371,14 +9371,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -9407,7 +9407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -9451,14 +9451,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 78,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Telangana Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Telangana Planning Department & District Collectorates Development Cell",
     "ladFundCategoryBreakdown": [
@@ -9487,7 +9487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 72000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="46" fill="#eab308" stroke="#ca8a04" stroke-width="3"/>
+  <!-- Jug Symbol -->
+  <path d="M 40 30 L 60 30 L 65 50 Q 70 75 50 78 Q 30 75 35 50 Z" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+  <path d="M 35 45 C 20 45 20 65 35 65" fill="none" stroke="#1e293b" stroke-width="3"/>
+  <text x="50" y="90" font-size="10" font-weight="900" fill="#1e293b" text-anchor="middle" font-family="Arial, sans-serif">AINRC</text>
+</svg>

@@ -5830,5 +5830,29 @@
       "hospitalsSource": "National Health Mission (NHM) District Health Directory",
       "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
     }
+  },
+  {
+    "id": "loc_bi_3264",
+    "stateName": "Bihar",
+    "districtName": "Patna",
+    "assemblyConstituencyCode": "MLC-BR-01",
+    "assemblyConstituencyName": "Bihar Legislative Council (Patna)",
+    "crimeRate": "198.7 per 100k",
+    "crimeRatePerLakh": 198.7,
+    "literacyRate": 78.6,
+    "literacyRatePercentage": 78.6,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 277,
+    "regionalInsight": {
+      "title": "Bihar Legislative Council (Patna) Civic Context",
+      "historicalFact": "Ancient Pataliputra, imperial capital of the Maurya and Gupta empires, now the administrative and educational hub of Bihar.",
+      "currentChallenge": "Major civic challenges center on storm water drainage along the low-lying southern bypass, Patna Metro construction speed, and riverfront beautification."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
   }
 ]

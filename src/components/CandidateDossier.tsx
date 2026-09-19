@@ -66,6 +66,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
     const [activeTooltip, setActiveTooltip] = useState<string | null>(null);
     const [isFlipped, setIsFlipped] = useState(false);
     const [factIndex, setFactIndex] = useState(0);
+    const isMP = (candidate.role || '').toUpperCase().includes('MP') || (candidate.role || '').toLowerCase().includes('lok sabha') || (candidate.role || '').toLowerCase().includes('parliament') || (candidate.role || '').toLowerCase().includes('prime minister');
     const [factsList] = useState(() => {
         const arr = [
             "The first general elections in India (1951-52) took 4 months to complete, with 173 million voters.",
@@ -180,8 +181,17 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                             )}
                         </div>
                         <h1 className="text-2xl font-bold tracking-tight">{candidate.name}</h1>
-                        <p className="text-sm text-slate-300 flex items-center justify-center sm:justify-start gap-1 mt-1">
-                            <Building2 className="w-4 h-4" /> {candidate.constituencyName}
+                        <p className="text-sm text-slate-300 flex flex-wrap items-center justify-center sm:justify-start gap-2 mt-1">
+                            <span className="flex items-center gap-1"><Building2 className="w-4 h-4" /> {candidate.constituencyName}</span>
+                            {candidate.attendanceBody === "Parliament (Lok Sabha)" ? (
+                                <span className="bg-emerald-500/25 text-emerald-300 text-[10px] font-bold px-2 py-0.5 rounded-full border border-emerald-400/40 tracking-wider uppercase">
+                                    🇮🇳 Lok Sabha (MP)
+                                </span>
+                            ) : (
+                                <span className="bg-blue-500/25 text-blue-300 text-[10px] font-bold px-2 py-0.5 rounded-full border border-blue-400/40 tracking-wider uppercase">
+                                    🏛️ Vidhan Sabha (MLA)
+                                </span>
+                            )}
                         </p>
                         <p className="text-xs text-slate-400 flex items-center justify-center sm:justify-start gap-1 mt-1 mb-2">
                             <GraduationCap className="w-4 h-4" /> {candidate.education}
@@ -506,8 +516,8 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                             <div className="w-full bg-slate-200 dark:bg-slate-700 rounded-full h-2.5 overflow-hidden relative">
                                                 <div 
                                                     className="absolute top-0 bottom-0 border-r-2 border-slate-900/60 dark:border-white/60 z-10" 
-                                                    style={{ left: `${candidate.role === 'MP' ? 68 : 78}%` }}
-                                                    title={`${candidate.role === 'MP' ? 'National MP Benchmark: 68%' : 'State MLA Benchmark: 78%'}`}
+                                                    style={{ left: `${isMP ? 68 : 78}%` }}
+                                                    title={`${isMP ? 'National MP Benchmark: 68%' : 'State MLA Benchmark: 78%'}`}
                                                 />
                                                 <motion.div 
                                                     initial={{ width: 0 }} 
@@ -523,7 +533,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                 </motion.div>
                                             </div>
                                             <div className="flex justify-between items-center text-[10px] text-slate-500 mt-1">
-                                                <span>{candidate.role === 'MP' ? 'National Avg: 68%' : 'State Avg: 78%'}</span>
+                                                <span>{isMP ? 'National MP Avg: 68%' : 'State MLA Avg: 78%'}</span>
                                                 <span className={(candidate.fundUtilizationPercentage || 0) < 40 ? 'text-rose-600 font-semibold' : 'text-emerald-600 font-medium'}>
                                                     {(candidate.fundUtilizationPercentage || 0) < 40 ? 'Critical Underutilization' : 'Active Disbursement'}
                                                 </span>
@@ -880,25 +890,49 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                     </div>
                                 ) : (
                                     <div className="p-6 bg-gradient-to-br from-blue-50/70 via-indigo-50/40 to-slate-50 dark:from-slate-800/80 dark:via-indigo-950/20 dark:to-slate-900 rounded-2xl border border-blue-200/80 dark:border-blue-900/50 shadow-sm relative overflow-hidden group">
-                                        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-blue-200/60 dark:border-slate-700 pb-3 mb-5">
-                                            <div className="flex items-center gap-2.5">
-                                                <div className="w-9 h-9 rounded-xl bg-blue-600 dark:bg-blue-500 flex items-center justify-center text-white shadow">
-                                                    <Coins className="w-5 h-5 animate-pulse" />
+                                        {/* Scheme Identification & Segregation Banner */}
+                                        <div className="mb-5 p-4 rounded-xl border shadow-xs transition-all bg-white dark:bg-slate-900/90 border-slate-200 dark:border-slate-800">
+                                            <div className="flex flex-col md:flex-row md:items-center justify-between gap-3">
+                                                <div className="flex items-start gap-3">
+                                                    <div className={`w-10 h-10 rounded-xl flex items-center justify-center shrink-0 shadow text-white ${
+                                                        isMP ? 'bg-gradient-to-tr from-blue-600 to-indigo-600' : 'bg-gradient-to-tr from-emerald-600 to-teal-600'
+                                                    }`}>
+                                                        <Landmark className="w-5 h-5" />
+                                                    </div>
+                                                    <div>
+                                                        <div className="flex flex-wrap items-center gap-2 mb-1">
+                                                            <span className={`text-[10px] font-black px-2 py-0.5 rounded tracking-wider uppercase ${
+                                                                isMP ? 'bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 border border-blue-300 dark:border-blue-800'
+                                                                     : 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800'
+                                                            }`}>
+                                                                {isMP ? 'CENTRAL GOVERNMENT SCHEME (MoSPI)' : `STATE GOVERNMENT SCHEME (${candidate.state.toUpperCase()})`}
+                                                            </span>
+                                                            <span className="text-xs font-semibold text-slate-500 dark:text-slate-400">
+                                                                {isMP ? '• Parliamentary Constituency Fund' : '• Legislative Assembly Segment Fund'}
+                                                            </span>
+                                                        </div>
+                                                        <h3 className="font-extrabold text-base text-slate-900 dark:text-white leading-tight">
+                                                            {candidate.fundSchemeName || (isMP ? 'Members of Parliament Local Area Development Scheme (MPLADS)' : `${candidate.state} Vidhayak Nidhi (MLA-LADS)`)}
+                                                        </h3>
+                                                        <p className="text-xs text-slate-600 dark:text-slate-300 mt-1 leading-relaxed">
+                                                            {isMP 
+                                                                ? `Jurisdictional Scope: Multi-assembly Parliamentary segment (${candidate.constituencyName}, ~18-22 Lakh citizens). Statutory entitlement: ₹5.00 Cr annually / ₹25.00 Cr 5-year term.`
+                                                                : `Jurisdictional Scope: Grassroots Assembly Constituency (${candidate.constituencyName}, ~2.5-4.5 Lakh citizens). Annual budget sanctioned under ${candidate.state} state rules.`
+                                                            }
+                                                        </p>
+                                                    </div>
                                                 </div>
-                                                <div>
-                                                    <h3 className="font-extrabold text-base text-slate-900 dark:text-white flex items-center gap-2">
-                                                        {candidate.role === 'MP' ? 'MPLADS Fund Audit' : 'MLA Local Area Development (Vidhayak Nidhi) Audit'}
-                                                    </h3>
-                                                    <p className="text-xs text-slate-500 dark:text-slate-400">
-                                                        {candidate.fundSchemeName || (candidate.role === 'MP' ? 'Members of Parliament Local Area Development Scheme' : 'State Legislative Assembly Constituency Fund')}
-                                                    </p>
+                                                <div className="flex md:flex-col items-center md:items-end justify-between md:justify-center shrink-0 pt-2 md:pt-0 border-t md:border-t-0 border-slate-100 dark:border-slate-800">
+                                                    <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs">
+                                                        <span className={`w-2 h-2 rounded-full ${candidate.fundUtilizationPercentage && candidate.fundUtilizationPercentage < 40 ? 'bg-rose-500 animate-ping' : 'bg-emerald-500 animate-ping'}`} />
+                                                        <span className="font-bold text-slate-700 dark:text-slate-200">
+                                                            {isMP ? 'Audited via MoSPI e-SAKSHI' : `Audited via ${candidate.state} Planning Dept`}
+                                                        </span>
+                                                    </div>
+                                                    <span className="text-[10px] text-slate-400 mt-1 font-mono">
+                                                        {isMP ? 'Portal: esakshi.mospi.gov.in' : 'District Planning Committee'}
+                                                    </span>
                                                 </div>
-                                            </div>
-                                            <div className="flex items-center gap-1.5 self-start sm:self-auto bg-white dark:bg-slate-800 px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-xs">
-                                                <span className={`w-2 h-2 rounded-full ${candidate.fundUtilizationPercentage && candidate.fundUtilizationPercentage < 40 ? 'bg-rose-500 animate-ping' : 'bg-emerald-500 animate-ping'}`} />
-                                                <span className="font-bold text-slate-700 dark:text-slate-300">
-                                                    {candidate.role === 'MP' ? 'Audited by MoSPI & PRS' : 'Audited by State Planning Dept'}
-                                                </span>
                                             </div>
                                         </div>
 
@@ -910,7 +944,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                     {formatINR(candidate.ladFundAllocatedINR || 0)}
                                                 </p>
                                                 <p className="text-[11px] text-slate-400 mt-1">
-                                                    {candidate.role === 'MP' ? 'Parliamentary Term Allocation' : 'State Annual Legislative Sanction'}
+                                                    {isMP ? 'Central Term Allocation (MPLADS)' : 'State Annual Sanction (MLA-LADS)'}
                                                 </p>
                                             </div>
                                             <div className="p-4 bg-white dark:bg-slate-800/90 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-sm">
@@ -941,7 +975,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                             ? 'bg-rose-50 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 border-rose-200 dark:border-rose-800'
                                                             : 'bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800'
                                                     }`}>
-                                                        {(candidate.fundUtilizationPercentage || 0) < 40 ? 'Critical Low Spend' : (candidate.role === 'MP' ? 'National Avg: 68%' : 'State Benchmark: 78%')}
+                                                        {(candidate.fundUtilizationPercentage || 0) < 40 ? 'Critical Low Spend' : (isMP ? 'National MP Benchmark: 68%' : 'State MLA Benchmark: 78%')}
                                                     </span>
                                                 </div>
                                             </div>
@@ -1062,16 +1096,58 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                                 <p className="text-sm text-emerald-600 dark:text-emerald-400 font-medium">Clean Record.<br/>No pending criminal cases declared in ECI affidavit.</p>
                                             </div>
                                         ) : (
-                                            <div className="space-y-3 relative z-10">
-                                                {candidate.criminalCasesDetails.map((item, idx) => (
-                                                    <div key={idx} className="p-4 bg-white dark:bg-slate-900 rounded-lg border border-rose-200 dark:border-rose-900/50 shadow-sm">
-                                                        <p className="font-bold text-rose-600 dark:text-rose-400 text-sm mb-2">{item.charges}</p>
-                                                        <div className="flex justify-between items-center text-xs">
-                                                            <span className="text-slate-500 font-mono bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded">Case: {item.caseNumber}</span>
-                                                            <span className="font-bold text-amber-600 dark:text-amber-500 bg-amber-50 dark:bg-amber-900/30 px-2 py-1 rounded">{item.status}</span>
+                                            <div className="relative z-10">
+                                                <div className="flex justify-between items-center mb-3 text-xs text-slate-500">
+                                                    <span className="font-bold text-slate-700 dark:text-slate-300">
+                                                        Showing all {candidate.criminalCasesDetails.length} declared case records
+                                                    </span>
+                                                    <span className="font-mono text-[10px] bg-slate-100 dark:bg-slate-800 px-2 py-0.5 rounded">
+                                                        Max Limit: 20
+                                                    </span>
+                                                </div>
+                                                <div className="max-h-[500px] overflow-y-auto space-y-3 pr-1">
+                                                    {candidate.criminalCasesDetails.map((item, idx) => (
+                                                        <div key={idx} className="p-3.5 bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 shadow-xs transition-all">
+                                                            <div className="flex flex-wrap items-center justify-between gap-1.5 mb-1.5">
+                                                                <div className="flex items-center gap-1.5">
+                                                                    <span className="text-[10px] font-black px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 font-mono">
+                                                                        #{idx + 1}
+                                                                    </span>
+                                                                    <span className="text-[11px] font-mono font-bold text-slate-700 dark:text-slate-300 bg-slate-100 dark:bg-slate-800/80 px-2 py-0.5 rounded border border-slate-200 dark:border-slate-700">
+                                                                        {item.caseNumber}
+                                                                    </span>
+                                                                </div>
+                                                                <span className={`text-[10px] font-extrabold px-2 py-0.5 rounded border ${
+                                                                    (item.status || '').toLowerCase().includes('stay') 
+                                                                        ? 'bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800'
+                                                                        : (item.status || '').toLowerCase().includes('bail')
+                                                                        ? 'bg-amber-50 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 border-amber-200 dark:border-amber-800'
+                                                                        : 'bg-rose-50 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 border-rose-200 dark:border-rose-800'
+                                                                }`}>
+                                                                    {item.status}
+                                                                </span>
+                                                            </div>
+                                                            <p className="font-bold text-slate-900 dark:text-slate-100 text-xs mb-1.5 leading-snug">
+                                                                {item.charges}
+                                                            </p>
+                                                            <div className="flex flex-wrap items-center justify-between gap-2 pt-1.5 border-t border-slate-100 dark:border-slate-800/80 text-[11px] text-slate-500 dark:text-slate-400">
+                                                                {item.court && (
+                                                                    <span className="flex items-center gap-1">
+                                                                        <Landmark className="w-3 h-3 text-slate-400 shrink-0" /> {item.court}
+                                                                    </span>
+                                                                )}
+                                                                {item.category && (
+                                                                    <span className="text-[9px] font-semibold text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-950/50 px-1.5 py-0.5 rounded">
+                                                                        {item.category}
+                                                                    </span>
+                                                                )}
+                                                            </div>
                                                         </div>
-                                                    </div>
-                                                ))}
+                                                    ))}
+                                                </div>
+                                                <p className="text-[10px] text-slate-400 mt-3 italic">
+                                                    * Self-declared in ECI Form 26 nomination affidavit. Framing of charges or registration of cases does not imply judicial conviction.
+                                                </p>
                                             </div>
                                         )}
                                     </div>
@@ -1120,8 +1196,15 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         <div className="absolute inset-0 bg-gradient-to-r from-transparent via-slate-200/50 dark:via-white/5 to-transparent animate-shimmer" />
                                         <div className="relative z-10">
                                             <div className="flex justify-between items-center mb-3">
-                                                <span className="text-[10px] font-extrabold text-white bg-slate-800 dark:bg-slate-700 px-2.5 py-1 rounded-full uppercase tracking-wider">{item.publisher}</span>
-                                                <span className="text-xs font-medium text-slate-500">{item.publishedDate}</span>
+                                                <div className="flex flex-wrap items-center gap-2">
+                                                    <span className="text-[10px] font-extrabold text-white bg-slate-800 dark:bg-slate-700 px-2.5 py-1 rounded-full uppercase tracking-wider">{item.publisher}</span>
+                                                    {item.category && (
+                                                        <span className="text-[10px] font-semibold text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-950/60 px-2 py-0.5 rounded border border-blue-200 dark:border-blue-900/40">
+                                                            {item.category}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                                <span className="text-xs font-medium text-slate-500 font-mono">{item.publishedDate}</span>
                                             </div>
                                             <h4 className="font-bold text-base mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{item.title}</h4>
                                             <p className="text-sm text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">{item.summary}</p>
@@ -1147,7 +1230,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                         {/* Tab 5: State Analysis */}
                         {activeTab === 'seats' && (() => {
                             interface StateProfileData {
-                                chiefMinister: { name: string; party: string; logoUrl?: string };
+                                chiefMinister: { name: string; party: string; logoUrl?: string; photoUrl?: string };
                                 deputyChiefMinisters: Array<{ name: string; party: string }>;
                                 gsdpINR: string;
                                 perCapitaIncomeINR: string;
@@ -1165,7 +1248,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
 
                             const stateStats: Record<string, StateProfileData> = {
     "Maharashtra": {
-        "chiefMinister": { "name": "Devendra Fadnavis", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Devendra Fadnavis", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/devendra_fadnavis.jpg" },
         "deputyChiefMinisters": [
             { "name": "Eknath Shinde", "party": "Shiv Sena" },
             { "name": "Sunetra Pawar", "party": "NCP" }
@@ -1197,7 +1280,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Bihar": {
-        "chiefMinister": { "name": "Samrat Choudhary", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Samrat Choudhary", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/samrat_choudhary.jpg" },
         "deputyChiefMinisters": [
             { "name": "Bijendra Prasad Yadav", "party": "JD(U)" },
             { "name": "Vijay Kumar Chaudhary", "party": "JD(U)" }
@@ -1236,7 +1319,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "West Bengal": {
-        "chiefMinister": { "name": "Suvendu Adhikari", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Suvendu Adhikari", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/suvendu_adhikari.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹18.84 Lakh Cr",
         "perCapitaIncomeINR": "₹1,41,373",
@@ -1263,7 +1346,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Karnataka": {
-        "chiefMinister": { "name": "D. K. Shivakumar", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "D. K. Shivakumar", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/ka_dk_shivakumar.jpg" },
         "deputyChiefMinisters": [
             { "name": "G. Parameshwara", "party": "INC" }
         ],
@@ -1291,7 +1374,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Tamil Nadu": {
-        "chiefMinister": { "name": "C. Joseph Vijay", "party": "TVK", "logoUrl": "/assets/parties/TVK.svg" },
+        "chiefMinister": { "name": "C. Joseph Vijay", "party": "TVK", "logoUrl": "/assets/parties/TVK.svg" , "photoUrl": "/assets/candidates/c_joseph_vijay.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹31.55 Lakh Cr",
         "perCapitaIncomeINR": "₹3,15,220",
@@ -1320,7 +1403,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Kerala": {
-        "chiefMinister": { "name": "V. D. Satheesan", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "V. D. Satheesan", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/v__d__satheesan.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.30 Lakh Cr",
         "perCapitaIncomeINR": "₹2,76,825",
@@ -1349,7 +1432,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Uttar Pradesh": {
-        "chiefMinister": { "name": "Yogi Adityanath", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Yogi Adityanath", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/yogi_adityanath.jpg" },
         "deputyChiefMinisters": [
             { "name": "Keshav Prasad Maurya", "party": "BJP" },
             { "name": "Brajesh Pathak", "party": "BJP" }
@@ -1381,7 +1464,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Gujarat": {
-        "chiefMinister": { "name": "Bhupendrabhai Patel", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Bhupendrabhai Patel", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhupendrabhai_patel.jpg" },
         "deputyChiefMinisters": [
             { "name": "Harsh Sanghavi", "party": "BJP" }
         ],
@@ -1411,7 +1494,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Rajasthan": {
-        "chiefMinister": { "name": "Bhajan Lal Sharma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Bhajan Lal Sharma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhajan_lal_sharma.jpg" },
         "deputyChiefMinisters": [
             { "name": "Diya Kumari", "party": "BJP" },
             { "name": "Prem Chand Bairwa", "party": "BJP" }
@@ -1446,7 +1529,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Punjab": {
-        "chiefMinister": { "name": "Bhagwant Mann", "party": "AAP", "logoUrl": "/assets/parties/AAP.svg" },
+        "chiefMinister": { "name": "Bhagwant Mann", "party": "AAP", "logoUrl": "/assets/parties/AAP.svg" , "photoUrl": "/assets/candidates/bhagwant_mann.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹7.41 Lakh Cr",
         "perCapitaIncomeINR": "₹1,95,419",
@@ -1474,7 +1557,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Assam": {
-        "chiefMinister": { "name": "Himanta Biswa Sarma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Himanta Biswa Sarma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/himanta_biswa_sarma.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹5.70 Lakh Cr",
         "perCapitaIncomeINR": "₹1,21,460",
@@ -1509,7 +1592,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Chhattisgarh": {
-        "chiefMinister": { "name": "Vishnu Deo Sai", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Vishnu Deo Sai", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/vishnu_deo_sai.jpg" },
         "deputyChiefMinisters": [
             { "name": "Arun Sao", "party": "BJP" },
             { "name": "Vijay Sharma", "party": "BJP" }
@@ -1537,7 +1620,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Goa": {
-        "chiefMinister": { "name": "Pramod Sawant", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Pramod Sawant", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/pramod_sawant.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹1.06 Lakh Cr",
         "perCapitaIncomeINR": "₹5,44,042",
@@ -1565,7 +1648,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Delhi": {
-        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/rekha_gupta.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.07 Lakh Cr",
         "perCapitaIncomeINR": "₹4,61,910",
@@ -1589,7 +1672,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Haryana": {
-        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/nayab_singh_saini.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.20 Lakh Cr",
         "perCapitaIncomeINR": "₹3,25,759",
@@ -1615,7 +1698,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Telangana": {
-        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/a_revanth_reddy.jpg" },
         "deputyChiefMinisters": [
             { "name": "Mallu Bhatti Vikramarka", "party": "INC" }
         ],
@@ -1645,7 +1728,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
         ]
     },
     "Jammu & Kashmir": {
-        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" },
+        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" , "photoUrl": "/assets/candidates/omar_abdullah.jpg" },
         "deputyChiefMinisters": [
             { "name": "Surinder Kumar Choudhary", "party": "JKNC" }
         ],
@@ -1756,8 +1839,17 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                         {/* Chief Minister Card */}
                                         <div className="p-4 bg-white dark:bg-slate-800/80 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm flex items-center justify-between">
                                             <div className="flex items-center gap-3.5">
-                                                <div className="w-12 h-12 rounded-full bg-gradient-to-tr from-amber-500 to-orange-500 text-white flex items-center justify-center shrink-0 shadow-md">
-                                                    <Crown className="w-6 h-6" />
+                                                <div className="w-12 h-12 rounded-full overflow-hidden bg-gradient-to-tr from-amber-500 to-orange-500 text-white flex items-center justify-center shrink-0 shadow-md border-2 border-amber-400/40">
+                                                    {currStateInfo.chiefMinister.photoUrl ? (
+                                                        <img 
+                                                            src={currStateInfo.chiefMinister.photoUrl} 
+                                                            alt={currStateInfo.chiefMinister.name} 
+                                                            className="w-full h-full object-cover"
+                                                            onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }}
+                                                        />
+                                                    ) : (
+                                                        <Crown className="w-6 h-6" />
+                                                    )}
                                                 </div>
                                                 <div>
                                                     <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Chief Minister</span>

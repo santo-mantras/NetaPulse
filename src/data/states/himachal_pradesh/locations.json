@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "loc_hi_2994",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Chamba",
+    "assemblyConstituencyCode": "AC-HP-01",
+    "assemblyConstituencyName": "Churah (SC)",
+    "crimeRate": "178.3 per 100k",
+    "crimeRatePerLakh": 178.3,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Churah (SC) Civic Context",
+      "historicalFact": "Chamba is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Churah (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_2995",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Chamba",
+    "assemblyConstituencyCode": "AC-HP-03",
+    "assemblyConstituencyName": "Chamba",
+    "crimeRate": "178.3 per 100k",
+    "crimeRatePerLakh": 178.3,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 23,
+    "govtSchoolsCount": 293,
+    "regionalInsight": {
+      "title": "Chamba Civic Context",
+      "historicalFact": "Chamba is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Chamba."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_2996",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-11",
+    "assemblyConstituencyName": "Dharamshala",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Dharamshala Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_2997",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-18",
+    "assemblyConstituencyName": "Nagrota",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Nagrota Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_2998",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-29",
+    "assemblyConstituencyName": "Seraj",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Seraj Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_2999",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-33",
+    "assemblyConstituencyName": "Mandi",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Mandi Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3000",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Hamirpur",
+    "assemblyConstituencyCode": "AC-HP-40",
+    "assemblyConstituencyName": "Nadaun",
+    "crimeRate": "164.2 per 100k",
+    "crimeRatePerLakh": 164.2,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Nadaun Civic Context",
+      "historicalFact": "Hamirpur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Nadaun."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3001",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Una",
+    "assemblyConstituencyCode": "AC-HP-44",
+    "assemblyConstituencyName": "Haroli",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Haroli Civic Context",
+      "historicalFact": "Una is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Haroli."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3002",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Solan",
+    "assemblyConstituencyCode": "AC-HP-53",
+    "assemblyConstituencyName": "Solan (SC)",
+    "crimeRate": "199.2 per 100k",
+    "crimeRatePerLakh": 199.2,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Solan (SC) Civic Context",
+      "historicalFact": "Solan is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Solan (SC)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3003",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-63",
+    "assemblyConstituencyName": "Shimla Urban",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Shimla Urban Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3004",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-64",
+    "assemblyConstituencyName": "Shimla Rural",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Shimla Rural Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3005",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kinnaur",
+    "assemblyConstituencyCode": "AC-HP-68",
+    "assemblyConstituencyName": "Kinnaur (ST)",
+    "crimeRate": "195.3 per 100k",
+    "crimeRatePerLakh": 195.3,
+    "literacyRate": 87.6,
+    "literacyRatePercentage": 87.6,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 316,
+    "regionalInsight": {
+      "title": "Kinnaur (ST) Civic Context",
+      "historicalFact": "Kinnaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Kinnaur (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3006",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-13",
+    "assemblyConstituencyName": "Nurpur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Nurpur Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3007",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-14",
+    "assemblyConstituencyName": "Indora",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Indora Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3008",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-15",
+    "assemblyConstituencyName": "Fatehpur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Fatehpur Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3009",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-16",
+    "assemblyConstituencyName": "Jawali",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Jawali Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3010",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-17",
+    "assemblyConstituencyName": "Jwalamukhi",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Jwalamukhi Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3011",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-18",
+    "assemblyConstituencyName": "Jaisinghpur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Jaisinghpur Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3012",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-19",
+    "assemblyConstituencyName": "Sullah",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Sullah Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3013",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-20",
+    "assemblyConstituencyName": "Palampur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Palampur Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3014",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-21",
+    "assemblyConstituencyName": "Baijnath",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Baijnath Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3015",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kangra",
+    "assemblyConstituencyCode": "AC-HP-22",
+    "assemblyConstituencyName": "Shahpur",
+    "crimeRate": "183.4 per 100k",
+    "crimeRatePerLakh": 183.4,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 244,
+    "regionalInsight": {
+      "title": "Shahpur Civic Context",
+      "historicalFact": "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+      "currentChallenge": "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3016",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-23",
+    "assemblyConstituencyName": "Karsog",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Karsog Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3017",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-24",
+    "assemblyConstituencyName": "Sundernagar",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Sundernagar Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3018",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-25",
+    "assemblyConstituencyName": "Nachan",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Nachan Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3019",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-26",
+    "assemblyConstituencyName": "Darang",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Darang Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3020",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-27",
+    "assemblyConstituencyName": "Jogindernagar",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Jogindernagar Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3021",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-28",
+    "assemblyConstituencyName": "Dharampur",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Dharampur Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3022",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-29",
+    "assemblyConstituencyName": "Balh",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Balh Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3023",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Mandi",
+    "assemblyConstituencyCode": "AC-HP-30",
+    "assemblyConstituencyName": "Sarkaghat",
+    "crimeRate": "163.5 per 100k",
+    "crimeRatePerLakh": 163.5,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 204,
+    "regionalInsight": {
+      "title": "Sarkaghat Civic Context",
+      "historicalFact": "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+      "currentChallenge": "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3024",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kullu",
+    "assemblyConstituencyCode": "AC-HP-31",
+    "assemblyConstituencyName": "Manali",
+    "crimeRate": "259.4 per 100k",
+    "crimeRatePerLakh": 259.4,
+    "literacyRate": 86.6,
+    "literacyRatePercentage": 86.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Manali Civic Context",
+      "historicalFact": "Revered as the Valley of Gods (Dev Bhumi), home to the world-famous week-long International Kullu Dussehra, Great Himalayan National Park, and apple orchards.",
+      "currentChallenge": "Major civic priorities include Beas riverbank flood protection, regulated waste management in tourist clusters (Manali), and high-altitude emergency healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3025",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kullu",
+    "assemblyConstituencyCode": "AC-HP-32",
+    "assemblyConstituencyName": "Kullu",
+    "crimeRate": "259.4 per 100k",
+    "crimeRatePerLakh": 259.4,
+    "literacyRate": 86.6,
+    "literacyRatePercentage": 86.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Kullu Civic Context",
+      "historicalFact": "Revered as the Valley of Gods (Dev Bhumi), home to the world-famous week-long International Kullu Dussehra, Great Himalayan National Park, and apple orchards.",
+      "currentChallenge": "Major civic priorities include Beas riverbank flood protection, regulated waste management in tourist clusters (Manali), and high-altitude emergency healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3026",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kullu",
+    "assemblyConstituencyCode": "AC-HP-33",
+    "assemblyConstituencyName": "Banjar",
+    "crimeRate": "259.4 per 100k",
+    "crimeRatePerLakh": 259.4,
+    "literacyRate": 86.6,
+    "literacyRatePercentage": 86.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Banjar Civic Context",
+      "historicalFact": "Revered as the Valley of Gods (Dev Bhumi), home to the world-famous week-long International Kullu Dussehra, Great Himalayan National Park, and apple orchards.",
+      "currentChallenge": "Major civic priorities include Beas riverbank flood protection, regulated waste management in tourist clusters (Manali), and high-altitude emergency healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3027",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Kullu",
+    "assemblyConstituencyCode": "AC-HP-34",
+    "assemblyConstituencyName": "Anni",
+    "crimeRate": "259.4 per 100k",
+    "crimeRatePerLakh": 259.4,
+    "literacyRate": 86.6,
+    "literacyRatePercentage": 86.6,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 330,
+    "regionalInsight": {
+      "title": "Anni Civic Context",
+      "historicalFact": "Revered as the Valley of Gods (Dev Bhumi), home to the world-famous week-long International Kullu Dussehra, Great Himalayan National Park, and apple orchards.",
+      "currentChallenge": "Major civic priorities include Beas riverbank flood protection, regulated waste management in tourist clusters (Manali), and high-altitude emergency healthcare."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3028",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Lahaul and Spiti",
+    "assemblyConstituencyCode": "AC-HP-35",
+    "assemblyConstituencyName": "Lahaul and Spiti",
+    "crimeRate": "256.0 per 100k",
+    "crimeRatePerLakh": 256.0,
+    "literacyRate": 81.7,
+    "literacyRatePercentage": 81.7,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 192,
+    "regionalInsight": {
+      "title": "Lahaul and Spiti Civic Context",
+      "historicalFact": "Lahaul and Spiti is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Lahaul and Spiti."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3029",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Hamirpur",
+    "assemblyConstituencyCode": "AC-HP-36",
+    "assemblyConstituencyName": "Barsar",
+    "crimeRate": "164.2 per 100k",
+    "crimeRatePerLakh": 164.2,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Barsar Civic Context",
+      "historicalFact": "Hamirpur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Barsar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3030",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Hamirpur",
+    "assemblyConstituencyCode": "AC-HP-37",
+    "assemblyConstituencyName": "Hamirpur",
+    "crimeRate": "164.2 per 100k",
+    "crimeRatePerLakh": 164.2,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Hamirpur Civic Context",
+      "historicalFact": "Hamirpur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Hamirpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3031",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Hamirpur",
+    "assemblyConstituencyCode": "AC-HP-38",
+    "assemblyConstituencyName": "Bhoranj",
+    "crimeRate": "164.2 per 100k",
+    "crimeRatePerLakh": 164.2,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Bhoranj Civic Context",
+      "historicalFact": "Hamirpur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Bhoranj."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3032",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Hamirpur",
+    "assemblyConstituencyCode": "AC-HP-39",
+    "assemblyConstituencyName": "Sujanpur",
+    "crimeRate": "164.2 per 100k",
+    "crimeRatePerLakh": 164.2,
+    "literacyRate": 80.9,
+    "literacyRatePercentage": 80.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Sujanpur Civic Context",
+      "historicalFact": "Hamirpur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Sujanpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3033",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Una",
+    "assemblyConstituencyCode": "AC-HP-40",
+    "assemblyConstituencyName": "Chintpurni",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Chintpurni Civic Context",
+      "historicalFact": "Una is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Chintpurni."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3034",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Una",
+    "assemblyConstituencyCode": "AC-HP-41",
+    "assemblyConstituencyName": "Gagret",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Gagret Civic Context",
+      "historicalFact": "Una is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Gagret."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3035",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Una",
+    "assemblyConstituencyCode": "AC-HP-42",
+    "assemblyConstituencyName": "Una",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Una Civic Context",
+      "historicalFact": "Una is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Una."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3036",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Una",
+    "assemblyConstituencyCode": "AC-HP-43",
+    "assemblyConstituencyName": "Kutlehar",
+    "crimeRate": "266.5 per 100k",
+    "crimeRatePerLakh": 266.5,
+    "literacyRate": 85.6,
+    "literacyRatePercentage": 85.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 184,
+    "regionalInsight": {
+      "title": "Kutlehar Civic Context",
+      "historicalFact": "Una is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Kutlehar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3037",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-HP-44",
+    "assemblyConstituencyName": "Jhanduta",
+    "crimeRate": "266.3 per 100k",
+    "crimeRatePerLakh": 266.3,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 357,
+    "regionalInsight": {
+      "title": "Jhanduta Civic Context",
+      "historicalFact": "Bilaspur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Jhanduta."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3038",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-HP-45",
+    "assemblyConstituencyName": "Ghumarwin",
+    "crimeRate": "266.3 per 100k",
+    "crimeRatePerLakh": 266.3,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 357,
+    "regionalInsight": {
+      "title": "Ghumarwin Civic Context",
+      "historicalFact": "Bilaspur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Ghumarwin."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3039",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-HP-46",
+    "assemblyConstituencyName": "Bilaspur",
+    "crimeRate": "266.3 per 100k",
+    "crimeRatePerLakh": 266.3,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 357,
+    "regionalInsight": {
+      "title": "Bilaspur Civic Context",
+      "historicalFact": "Bilaspur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Bilaspur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3040",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Bilaspur",
+    "assemblyConstituencyCode": "AC-HP-47",
+    "assemblyConstituencyName": "Sri Naina Deviji",
+    "crimeRate": "266.3 per 100k",
+    "crimeRatePerLakh": 266.3,
+    "literacyRate": 78.5,
+    "literacyRatePercentage": 78.5,
+    "hospitalsCount": 43,
+    "govtSchoolsCount": 357,
+    "regionalInsight": {
+      "title": "Sri Naina Deviji Civic Context",
+      "historicalFact": "Bilaspur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Sri Naina Deviji."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3041",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Solan",
+    "assemblyConstituencyCode": "AC-HP-48",
+    "assemblyConstituencyName": "Arki",
+    "crimeRate": "199.2 per 100k",
+    "crimeRatePerLakh": 199.2,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Arki Civic Context",
+      "historicalFact": "Solan is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Arki."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3042",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Solan",
+    "assemblyConstituencyCode": "AC-HP-49",
+    "assemblyConstituencyName": "Nalagarh",
+    "crimeRate": "199.2 per 100k",
+    "crimeRatePerLakh": 199.2,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Nalagarh Civic Context",
+      "historicalFact": "Solan is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Nalagarh."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3043",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Solan",
+    "assemblyConstituencyCode": "AC-HP-50",
+    "assemblyConstituencyName": "Doon",
+    "crimeRate": "199.2 per 100k",
+    "crimeRatePerLakh": 199.2,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Doon Civic Context",
+      "historicalFact": "Solan is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Doon."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3044",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Solan",
+    "assemblyConstituencyCode": "AC-HP-51",
+    "assemblyConstituencyName": "Kasauli",
+    "crimeRate": "199.2 per 100k",
+    "crimeRatePerLakh": 199.2,
+    "literacyRate": 79.7,
+    "literacyRatePercentage": 79.7,
+    "hospitalsCount": 36,
+    "govtSchoolsCount": 270,
+    "regionalInsight": {
+      "title": "Kasauli Civic Context",
+      "historicalFact": "Solan is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Kasauli."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3045",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Sirmaur",
+    "assemblyConstituencyCode": "AC-HP-52",
+    "assemblyConstituencyName": "Pachhad",
+    "crimeRate": "156.5 per 100k",
+    "crimeRatePerLakh": 156.5,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Pachhad Civic Context",
+      "historicalFact": "Sirmaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Pachhad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3046",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Sirmaur",
+    "assemblyConstituencyCode": "AC-HP-53",
+    "assemblyConstituencyName": "Nahan",
+    "crimeRate": "156.5 per 100k",
+    "crimeRatePerLakh": 156.5,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Nahan Civic Context",
+      "historicalFact": "Sirmaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Nahan."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3047",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Sirmaur",
+    "assemblyConstituencyCode": "AC-HP-54",
+    "assemblyConstituencyName": "Sri Renukaji",
+    "crimeRate": "156.5 per 100k",
+    "crimeRatePerLakh": 156.5,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Sri Renukaji Civic Context",
+      "historicalFact": "Sirmaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Sri Renukaji."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3048",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Sirmaur",
+    "assemblyConstituencyCode": "AC-HP-55",
+    "assemblyConstituencyName": "Paonta Sahib",
+    "crimeRate": "156.5 per 100k",
+    "crimeRatePerLakh": 156.5,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Paonta Sahib Civic Context",
+      "historicalFact": "Sirmaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Paonta Sahib."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3049",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Sirmaur",
+    "assemblyConstituencyCode": "AC-HP-56",
+    "assemblyConstituencyName": "Shillai",
+    "crimeRate": "156.5 per 100k",
+    "crimeRatePerLakh": 156.5,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 263,
+    "regionalInsight": {
+      "title": "Shillai Civic Context",
+      "historicalFact": "Sirmaur is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+      "currentChallenge": "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in Shillai."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3050",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-57",
+    "assemblyConstituencyName": "Chopal",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Chopal Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3051",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-58",
+    "assemblyConstituencyName": "Theog",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Theog Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3052",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-59",
+    "assemblyConstituencyName": "Kasumpti",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Kasumpti Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3053",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-60",
+    "assemblyConstituencyName": "Jubbal-Kotkhai",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Jubbal-Kotkhai Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3054",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-61",
+    "assemblyConstituencyName": "Rampur",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Rampur Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_hi_3055",
+    "stateName": "Himachal Pradesh",
+    "districtName": "Shimla",
+    "assemblyConstituencyCode": "AC-HP-62",
+    "assemblyConstituencyName": "Rohru",
+    "crimeRate": "264.7 per 100k",
+    "crimeRatePerLakh": 264.7,
+    "literacyRate": 79.9,
+    "literacyRatePercentage": 79.9,
+    "hospitalsCount": 45,
+    "govtSchoolsCount": 214,
+    "regionalInsight": {
+      "title": "Rohru Civic Context",
+      "historicalFact": "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+      "currentChallenge": "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

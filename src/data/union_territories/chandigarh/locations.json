@@ -1,0 +1,26 @@
+[
+  {
+    "id": "loc_ch_3231",
+    "stateName": "Chandigarh",
+    "districtName": "Chandigarh",
+    "assemblyConstituencyCode": "PC-CH-01",
+    "assemblyConstituencyName": "Chandigarh (Lok Sabha)",
+    "crimeRate": "260.7 per 100k",
+    "crimeRatePerLakh": 260.7,
+    "literacyRate": 86.5,
+    "literacyRatePercentage": 86.5,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 311,
+    "regionalInsight": {
+      "title": "Chandigarh (Lok Sabha) Civic Context",
+      "historicalFact": "India's first planned city post-independence designed by Swiss-French architect Le Corbusier, internationally celebrated for the Capitol Complex, Rock Garden, and Sukhna Lake.",
+      "currentChallenge": "Major civic priorities include peak-hour traffic decongestion at entry roundabouts, 24/7 smart water metering, and solid waste processing at Dadumajra."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

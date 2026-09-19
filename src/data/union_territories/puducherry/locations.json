@@ -1,0 +1,746 @@
+[
+  {
+    "id": "loc_pu_3233",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "PC-PY-01",
+    "assemblyConstituencyName": "Puducherry (Lok Sabha)",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Puducherry (Lok Sabha) Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3234",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-09",
+    "assemblyConstituencyName": "Thattanchavady",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Thattanchavady Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3235",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-02",
+    "assemblyConstituencyName": "Mannadipet",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Mannadipet Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3236",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-03",
+    "assemblyConstituencyName": "Thirubuvanai",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Thirubuvanai Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3237",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-04",
+    "assemblyConstituencyName": "Oussudu",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Oussudu Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3238",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-05",
+    "assemblyConstituencyName": "Mangalam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Mangalam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3239",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-06",
+    "assemblyConstituencyName": "Villianur",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Villianur Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3240",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-07",
+    "assemblyConstituencyName": "Ozhukarai",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Ozhukarai Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3241",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-08",
+    "assemblyConstituencyName": "Kadirkamam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Kadirkamam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3242",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-09",
+    "assemblyConstituencyName": "Indira Nagar",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Indira Nagar Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3243",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-10",
+    "assemblyConstituencyName": "Kamaraj Nagar",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Kamaraj Nagar Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3244",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-11",
+    "assemblyConstituencyName": "Lawspet",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Lawspet Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3245",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-12",
+    "assemblyConstituencyName": "Kalapet",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Kalapet Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3246",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-13",
+    "assemblyConstituencyName": "Muthialpet",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Muthialpet Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3247",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-14",
+    "assemblyConstituencyName": "Raj Bhavan",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Raj Bhavan Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3248",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-15",
+    "assemblyConstituencyName": "Oupalam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Oupalam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3249",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-16",
+    "assemblyConstituencyName": "Orleampeth",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Orleampeth Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3250",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-17",
+    "assemblyConstituencyName": "Nellithope",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Nellithope Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3251",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-18",
+    "assemblyConstituencyName": "Mudaliarpet",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Mudaliarpet Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3252",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-19",
+    "assemblyConstituencyName": "Ariankuppam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Ariankuppam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3253",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-20",
+    "assemblyConstituencyName": "Manavely",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Manavely Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3254",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-21",
+    "assemblyConstituencyName": "Embalam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Embalam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3255",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-22",
+    "assemblyConstituencyName": "Nettapakkam",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Nettapakkam Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3256",
+    "stateName": "Puducherry",
+    "districtName": "Puducherry",
+    "assemblyConstituencyCode": "AC-PY-23",
+    "assemblyConstituencyName": "Bahour",
+    "crimeRate": "259.6 per 100k",
+    "crimeRatePerLakh": 259.6,
+    "literacyRate": 72.2,
+    "literacyRatePercentage": 72.2,
+    "hospitalsCount": 28,
+    "govtSchoolsCount": 306,
+    "regionalInsight": {
+      "title": "Bahour Civic Context",
+      "historicalFact": "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+      "currentChallenge": "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3257",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "assemblyConstituencyCode": "AC-PY-24",
+    "assemblyConstituencyName": "Nedungadu",
+    "crimeRate": "222.0 per 100k",
+    "crimeRatePerLakh": 222.0,
+    "literacyRate": 84.5,
+    "literacyRatePercentage": 84.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Nedungadu Civic Context",
+      "historicalFact": "Karaikal is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Nedungadu."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3258",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "assemblyConstituencyCode": "AC-PY-25",
+    "assemblyConstituencyName": "Thirunallar",
+    "crimeRate": "222.0 per 100k",
+    "crimeRatePerLakh": 222.0,
+    "literacyRate": 84.5,
+    "literacyRatePercentage": 84.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Thirunallar Civic Context",
+      "historicalFact": "Karaikal is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Thirunallar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3259",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "assemblyConstituencyCode": "AC-PY-26",
+    "assemblyConstituencyName": "Karaikal North",
+    "crimeRate": "222.0 per 100k",
+    "crimeRatePerLakh": 222.0,
+    "literacyRate": 84.5,
+    "literacyRatePercentage": 84.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Karaikal North Civic Context",
+      "historicalFact": "Karaikal is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Karaikal North."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3260",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "assemblyConstituencyCode": "AC-PY-27",
+    "assemblyConstituencyName": "Karaikal South",
+    "crimeRate": "222.0 per 100k",
+    "crimeRatePerLakh": 222.0,
+    "literacyRate": 84.5,
+    "literacyRatePercentage": 84.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Karaikal South Civic Context",
+      "historicalFact": "Karaikal is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Karaikal South."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3261",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "assemblyConstituencyCode": "AC-PY-28",
+    "assemblyConstituencyName": "Neravy T R Pattinam",
+    "crimeRate": "222.0 per 100k",
+    "crimeRatePerLakh": 222.0,
+    "literacyRate": 84.5,
+    "literacyRatePercentage": 84.5,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Neravy T R Pattinam Civic Context",
+      "historicalFact": "Karaikal is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Neravy T R Pattinam."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3262",
+    "stateName": "Puducherry",
+    "districtName": "Mahe",
+    "assemblyConstituencyCode": "AC-PY-29",
+    "assemblyConstituencyName": "Mahe",
+    "crimeRate": "236.7 per 100k",
+    "crimeRatePerLakh": 236.7,
+    "literacyRate": 80.8,
+    "literacyRatePercentage": 80.8,
+    "hospitalsCount": 20,
+    "govtSchoolsCount": 173,
+    "regionalInsight": {
+      "title": "Mahe Civic Context",
+      "historicalFact": "Mahe is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Mahe."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_pu_3263",
+    "stateName": "Puducherry",
+    "districtName": "Yanam",
+    "assemblyConstituencyCode": "AC-PY-30",
+    "assemblyConstituencyName": "Yanam",
+    "crimeRate": "169.1 per 100k",
+    "crimeRatePerLakh": 169.1,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 48,
+    "govtSchoolsCount": 218,
+    "regionalInsight": {
+      "title": "Yanam Civic Context",
+      "historicalFact": "Yanam is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+      "currentChallenge": "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in Yanam."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

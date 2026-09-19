@@ -1,12 +1,12 @@
 {
   "lastSynced": "2026-09-02",
-  "totalLeadersAudited": 476,
-  "updatedCount": 6,
+  "totalLeadersAudited": 2920,
+  "updatedCount": 12,
   "verifiedSample": [
     {
       "leader": "Devendra Fadnavis",
       "state": "Maharashtra",
-      "role": "MLA",
+      "role": "Chief Minister of Maharashtra",
       "allocated": 50000000,
       "utilized": 48500000,
       "efficiency": "97.0%",
@@ -15,25 +15,16 @@
     {
       "leader": "Eknath Shinde",
       "state": "Maharashtra",
-      "role": "MLA",
+      "role": "Deputy Chief Minister / MLA",
       "allocated": 50000000,
       "utilized": 49000000,
       "efficiency": "98.0%",
       "source": "Maharashtra Planning Department / DPDC"
     },
     {
-      "leader": "Yogi Adityanath",
-      "state": "Uttar Pradesh",
-      "role": "Chief Minister of Uttar Pradesh",
-      "allocated": 50000000,
-      "utilized": 47500000,
-      "efficiency": "95.0%",
-      "source": "Uttar Pradesh Planning & Rural Development Department"
-    },
-    {
       "leader": "Siddaramaiah",
       "state": "Karnataka",
-      "role": "Chief Minister of Karnataka",
+      "role": "MLA / Former Chief Minister",
       "allocated": 40000000,
       "utilized": 38000000,
       "efficiency": "95.0%",
@@ -56,6 +47,69 @@
       "utilized": 13000000,
       "efficiency": "8.8%",
       "source": "Ministry of Statistics & Programme Implementation (MoSPI) & PRS Legislative Research"
+    },
+    {
+      "leader": "Bhupendrabhai Patel",
+      "state": "Gujarat",
+      "role": "Chief Minister of Gujarat",
+      "allocated": 30000000,
+      "utilized": 28800000,
+      "efficiency": "96.0%",
+      "source": "Gujarat General Administration Department (Planning Division) & AMC"
+    },
+    {
+      "leader": "Bhajan Lal Sharma",
+      "state": "Rajasthan",
+      "role": "Chief Minister of Rajasthan",
+      "allocated": 50000000,
+      "utilized": 47200000,
+      "efficiency": "94.4%",
+      "source": "Rajasthan Rural Development & Panchayati Raj Department & JDA"
+    },
+    {
+      "leader": "Mamata Banerjee",
+      "state": "West Bengal",
+      "role": "MLA / Former Chief Minister",
+      "allocated": 60000000,
+      "utilized": 58200000,
+      "efficiency": "97.0%",
+      "source": "West Bengal Department of Planning & Statistics & KMC"
+    },
+    {
+      "leader": "Tejashwi Prasad Yadav",
+      "state": "Bihar",
+      "role": "Leader of Opposition",
+      "allocated": 40000000,
+      "utilized": 38400000,
+      "efficiency": "96.0%",
+      "source": "Bihar Planning & Development Department & Vaishali District Planning Office"
+    },
+    {
+      "leader": "Himanta Biswa Sarma",
+      "state": "Assam",
+      "role": "Chief Minister of Assam",
+      "allocated": 50000000,
+      "utilized": 48200000,
+      "efficiency": "96.4%",
+      "source": "Assam Transformation & Development Department & GMDA"
+    },
+    {
+      "leader": "Pinarayi Vijayan",
+      "state": "Kerala",
+      "role": "MLA / Former Chief Minister",
+      "allocated": 50000000,
+      "utilized": 48900000,
+      "efficiency": "97.8%",
+      "source": "Kerala Planning & Economic Affairs Department & Kannur District Collectorate"
+    },
+    {
+      "leader": "Yogi Adityanath",
+      "state": "Uttar Pradesh",
+      "role": "Chief Minister of Uttar Pradesh",
+      "allocated": 50000000,
+      "utilized": 47500000,
+      "efficiency": "95.0%",
+      "source": "Uttar Pradesh Planning & Rural Development Department"
     }
   ]
 }

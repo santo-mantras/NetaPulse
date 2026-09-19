@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "loc_jh_2921",
+    "stateName": "Jharkhand",
+    "districtName": "Sahebganj",
+    "assemblyConstituencyCode": "AC-JH-01",
+    "assemblyConstituencyName": "Rajmahal",
+    "crimeRate": "155.3 per 100k",
+    "crimeRatePerLakh": 155.3,
+    "literacyRate": 83.1,
+    "literacyRatePercentage": 83.1,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 345,
+    "regionalInsight": {
+      "title": "Rajmahal Civic Context",
+      "historicalFact": "Sahebganj is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Rajmahal."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2922",
+    "stateName": "Jharkhand",
+    "districtName": "Sahebganj",
+    "assemblyConstituencyCode": "AC-JH-02",
+    "assemblyConstituencyName": "Borio (ST)",
+    "crimeRate": "155.3 per 100k",
+    "crimeRatePerLakh": 155.3,
+    "literacyRate": 83.1,
+    "literacyRatePercentage": 83.1,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 345,
+    "regionalInsight": {
+      "title": "Borio (ST) Civic Context",
+      "historicalFact": "Sahebganj is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Borio (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2923",
+    "stateName": "Jharkhand",
+    "districtName": "Sahebganj",
+    "assemblyConstituencyCode": "AC-JH-03",
+    "assemblyConstituencyName": "Barhait (ST)",
+    "crimeRate": "155.3 per 100k",
+    "crimeRatePerLakh": 155.3,
+    "literacyRate": 83.1,
+    "literacyRatePercentage": 83.1,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 345,
+    "regionalInsight": {
+      "title": "Barhait (ST) Civic Context",
+      "historicalFact": "Sahebganj is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Barhait (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2924",
+    "stateName": "Jharkhand",
+    "districtName": "Pakur",
+    "assemblyConstituencyCode": "AC-JH-04",
+    "assemblyConstituencyName": "Litipara (ST)",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 75.0,
+    "literacyRatePercentage": 75.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Litipara (ST) Civic Context",
+      "historicalFact": "Pakur is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Litipara (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2925",
+    "stateName": "Jharkhand",
+    "districtName": "Pakur",
+    "assemblyConstituencyCode": "AC-JH-05",
+    "assemblyConstituencyName": "Pakur",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 75.0,
+    "literacyRatePercentage": 75.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Pakur Civic Context",
+      "historicalFact": "Pakur is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Pakur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2926",
+    "stateName": "Jharkhand",
+    "districtName": "Pakur",
+    "assemblyConstituencyCode": "AC-JH-06",
+    "assemblyConstituencyName": "Maheshpur (ST)",
+    "crimeRate": "237.8 per 100k",
+    "crimeRatePerLakh": 237.8,
+    "literacyRate": 75.0,
+    "literacyRatePercentage": 75.0,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Maheshpur (ST) Civic Context",
+      "historicalFact": "Pakur is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Maheshpur (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2927",
+    "stateName": "Jharkhand",
+    "districtName": "Dumka",
+    "assemblyConstituencyCode": "AC-JH-07",
+    "assemblyConstituencyName": "Sikaripara (ST)",
+    "crimeRate": "228.3 per 100k",
+    "crimeRatePerLakh": 228.3,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Sikaripara (ST) Civic Context",
+      "historicalFact": "Dumka is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Sikaripara (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2928",
+    "stateName": "Jharkhand",
+    "districtName": "Dumka",
+    "assemblyConstituencyCode": "AC-JH-08",
+    "assemblyConstituencyName": "Dumka (ST)",
+    "crimeRate": "228.3 per 100k",
+    "crimeRatePerLakh": 228.3,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Dumka (ST) Civic Context",
+      "historicalFact": "Dumka is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Dumka (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2929",
+    "stateName": "Jharkhand",
+    "districtName": "Dumka",
+    "assemblyConstituencyCode": "AC-JH-09",
+    "assemblyConstituencyName": "Jama (ST)",
+    "crimeRate": "228.3 per 100k",
+    "crimeRatePerLakh": 228.3,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Jama (ST) Civic Context",
+      "historicalFact": "Dumka is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Jama (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2930",
+    "stateName": "Jharkhand",
+    "districtName": "Dumka",
+    "assemblyConstituencyCode": "AC-JH-10",
+    "assemblyConstituencyName": "Jarmundi",
+    "crimeRate": "228.3 per 100k",
+    "crimeRatePerLakh": 228.3,
+    "literacyRate": 80.0,
+    "literacyRatePercentage": 80.0,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Jarmundi Civic Context",
+      "historicalFact": "Dumka is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Jarmundi."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2931",
+    "stateName": "Jharkhand",
+    "districtName": "Deoghar",
+    "assemblyConstituencyCode": "AC-JH-11",
+    "assemblyConstituencyName": "Madhupur",
+    "crimeRate": "268.9 per 100k",
+    "crimeRatePerLakh": 268.9,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 310,
+    "regionalInsight": {
+      "title": "Madhupur Civic Context",
+      "historicalFact": "Home to the sacred Baba Baidyanath Jyotirlinga Dham, one of India's 51 Shakti Peethas, hosting millions of pilgrims during the sacred Shravani Mela.",
+      "currentChallenge": "Key civic priorities include crowd-management urban corridors, 24/7 pilgrim sanitization amenities, and solid waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2932",
+    "stateName": "Jharkhand",
+    "districtName": "Deoghar",
+    "assemblyConstituencyCode": "AC-JH-12",
+    "assemblyConstituencyName": "Sarath",
+    "crimeRate": "268.9 per 100k",
+    "crimeRatePerLakh": 268.9,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 310,
+    "regionalInsight": {
+      "title": "Sarath Civic Context",
+      "historicalFact": "Home to the sacred Baba Baidyanath Jyotirlinga Dham, one of India's 51 Shakti Peethas, hosting millions of pilgrims during the sacred Shravani Mela.",
+      "currentChallenge": "Key civic priorities include crowd-management urban corridors, 24/7 pilgrim sanitization amenities, and solid waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2933",
+    "stateName": "Jharkhand",
+    "districtName": "Deoghar",
+    "assemblyConstituencyCode": "AC-JH-13",
+    "assemblyConstituencyName": "Deoghar (SC)",
+    "crimeRate": "268.9 per 100k",
+    "crimeRatePerLakh": 268.9,
+    "literacyRate": 83.9,
+    "literacyRatePercentage": 83.9,
+    "hospitalsCount": 18,
+    "govtSchoolsCount": 310,
+    "regionalInsight": {
+      "title": "Deoghar (SC) Civic Context",
+      "historicalFact": "Home to the sacred Baba Baidyanath Jyotirlinga Dham, one of India's 51 Shakti Peethas, hosting millions of pilgrims during the sacred Shravani Mela.",
+      "currentChallenge": "Key civic priorities include crowd-management urban corridors, 24/7 pilgrim sanitization amenities, and solid waste processing."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2934",
+    "stateName": "Jharkhand",
+    "districtName": "Godda",
+    "assemblyConstituencyCode": "AC-JH-14",
+    "assemblyConstituencyName": "Poreyahat",
+    "crimeRate": "166.6 per 100k",
+    "crimeRatePerLakh": 166.6,
+    "literacyRate": 83.4,
+    "literacyRatePercentage": 83.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Poreyahat Civic Context",
+      "historicalFact": "Godda is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Poreyahat."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2935",
+    "stateName": "Jharkhand",
+    "districtName": "Godda",
+    "assemblyConstituencyCode": "AC-JH-15",
+    "assemblyConstituencyName": "Godda",
+    "crimeRate": "166.6 per 100k",
+    "crimeRatePerLakh": 166.6,
+    "literacyRate": 83.4,
+    "literacyRatePercentage": 83.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Godda Civic Context",
+      "historicalFact": "Godda is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Godda."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2936",
+    "stateName": "Jharkhand",
+    "districtName": "Godda",
+    "assemblyConstituencyCode": "AC-JH-16",
+    "assemblyConstituencyName": "Mahagama",
+    "crimeRate": "166.6 per 100k",
+    "crimeRatePerLakh": 166.6,
+    "literacyRate": 83.4,
+    "literacyRatePercentage": 83.4,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 260,
+    "regionalInsight": {
+      "title": "Mahagama Civic Context",
+      "historicalFact": "Godda is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Mahagama."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2937",
+    "stateName": "Jharkhand",
+    "districtName": "Koderma",
+    "assemblyConstituencyCode": "AC-JH-17",
+    "assemblyConstituencyName": "Koderma",
+    "crimeRate": "142.5 per 100k",
+    "crimeRatePerLakh": 142.5,
+    "literacyRate": 87.6,
+    "literacyRatePercentage": 87.6,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 146,
+    "regionalInsight": {
+      "title": "Koderma Civic Context",
+      "historicalFact": "Koderma is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Koderma."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2938",
+    "stateName": "Jharkhand",
+    "districtName": "Chatra",
+    "assemblyConstituencyCode": "AC-JH-18",
+    "assemblyConstituencyName": "Barhi",
+    "crimeRate": "243.2 per 100k",
+    "crimeRatePerLakh": 243.2,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Barhi Civic Context",
+      "historicalFact": "Chatra is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Barhi."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2939",
+    "stateName": "Jharkhand",
+    "districtName": "Hazaribagh",
+    "assemblyConstituencyCode": "AC-JH-19",
+    "assemblyConstituencyName": "Barkagaon",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Barkagaon Civic Context",
+      "historicalFact": "Hazaribagh is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Barkagaon."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2940",
+    "stateName": "Jharkhand",
+    "districtName": "Ramgarh",
+    "assemblyConstituencyCode": "AC-JH-20",
+    "assemblyConstituencyName": "Ramgarh",
+    "crimeRate": "203.8 per 100k",
+    "crimeRatePerLakh": 203.8,
+    "literacyRate": 75.9,
+    "literacyRatePercentage": 75.9,
+    "hospitalsCount": 47,
+    "govtSchoolsCount": 307,
+    "regionalInsight": {
+      "title": "Ramgarh Civic Context",
+      "historicalFact": "Ramgarh is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Ramgarh."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2941",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-28",
+    "assemblyConstituencyName": "Dhanwar",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Dhanwar Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Dhanwar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2942",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-31",
+    "assemblyConstituencyName": "Gandey",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Gandey Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Gandey."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2943",
+    "stateName": "Jharkhand",
+    "districtName": "Bokaro",
+    "assemblyConstituencyCode": "AC-JH-36",
+    "assemblyConstituencyName": "Bokaro",
+    "crimeRate": "251.7 per 100k",
+    "crimeRatePerLakh": 251.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Bokaro Civic Context",
+      "historicalFact": "Home to Bokaro Steel City, one of India's largest integrated steel plants set up with Soviet collaboration, and the scenic Garga Dam basin.",
+      "currentChallenge": "Primary developmental needs include industrial effluent treatment, expanding town civic amenities to rural peripheral blocks, and vocational training for youth."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2944",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-40",
+    "assemblyConstituencyName": "Dhanbad",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Dhanbad Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2945",
+    "stateName": "Jharkhand",
+    "districtName": "Saraikela Kharsawan",
+    "assemblyConstituencyCode": "AC-JH-51",
+    "assemblyConstituencyName": "Seraikella (ST)",
+    "crimeRate": "255.0 per 100k",
+    "crimeRatePerLakh": 255.0,
+    "literacyRate": 77.6,
+    "literacyRatePercentage": 77.6,
+    "hospitalsCount": 35,
+    "govtSchoolsCount": 206,
+    "regionalInsight": {
+      "title": "Seraikella (ST) Civic Context",
+      "historicalFact": "Saraikela Kharsawan is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Seraikella (ST)."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2946",
+    "stateName": "Jharkhand",
+    "districtName": "Ranchi",
+    "assemblyConstituencyCode": "AC-JH-61",
+    "assemblyConstituencyName": "Silli",
+    "crimeRate": "185.6 per 100k",
+    "crimeRatePerLakh": 185.6,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 302,
+    "regionalInsight": {
+      "title": "Silli Civic Context",
+      "historicalFact": "Ranchi, the capital of Jharkhand located on the southern Chota Nagpur plateau, is known as the City of Waterfalls (Hundru, Dassam, Jonha) and the homeland of tribal freedom fighter Bhagwan Birsa Munda.",
+      "currentChallenge": "Key civic priorities include urban traffic decongestion, Subarnarekha river rejuvenation, and drinking water supply coverage across peri-urban wards."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2947",
+    "stateName": "Jharkhand",
+    "districtName": "Ranchi",
+    "assemblyConstituencyCode": "AC-JH-63",
+    "assemblyConstituencyName": "Ranchi",
+    "crimeRate": "185.6 per 100k",
+    "crimeRatePerLakh": 185.6,
+    "literacyRate": 79.2,
+    "literacyRatePercentage": 79.2,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 302,
+    "regionalInsight": {
+      "title": "Ranchi Civic Context",
+      "historicalFact": "Ranchi, the capital of Jharkhand located on the southern Chota Nagpur plateau, is known as the City of Waterfalls (Hundru, Dassam, Jonha) and the homeland of tribal freedom fighter Bhagwan Birsa Munda.",
+      "currentChallenge": "Key civic priorities include urban traffic decongestion, Subarnarekha river rejuvenation, and drinking water supply coverage across peri-urban wards."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2948",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-28",
+    "assemblyConstituencyName": "Baharagora",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Baharagora Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2949",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-29",
+    "assemblyConstituencyName": "Ghatsila",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Ghatsila Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2950",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-30",
+    "assemblyConstituencyName": "Potka",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Potka Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2951",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-31",
+    "assemblyConstituencyName": "Jugsalai",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Jugsalai Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2952",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-32",
+    "assemblyConstituencyName": "Jamshedpur East",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Jamshedpur East Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2953",
+    "stateName": "Jharkhand",
+    "districtName": "East Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-33",
+    "assemblyConstituencyName": "Jamshedpur West",
+    "crimeRate": "230.9 per 100k",
+    "crimeRatePerLakh": 230.9,
+    "literacyRate": 76.3,
+    "literacyRatePercentage": 76.3,
+    "hospitalsCount": 19,
+    "govtSchoolsCount": 160,
+    "regionalInsight": {
+      "title": "Jamshedpur West Civic Context",
+      "historicalFact": "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+      "currentChallenge": "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2954",
+    "stateName": "Jharkhand",
+    "districtName": "West Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-34",
+    "assemblyConstituencyName": "Chaibasa",
+    "crimeRate": "257.6 per 100k",
+    "crimeRatePerLakh": 257.6,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Chaibasa Civic Context",
+      "historicalFact": "West Singhbhum is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Chaibasa."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2955",
+    "stateName": "Jharkhand",
+    "districtName": "West Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-35",
+    "assemblyConstituencyName": "Majhgaon",
+    "crimeRate": "257.6 per 100k",
+    "crimeRatePerLakh": 257.6,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Majhgaon Civic Context",
+      "historicalFact": "West Singhbhum is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Majhgaon."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2956",
+    "stateName": "Jharkhand",
+    "districtName": "West Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-36",
+    "assemblyConstituencyName": "Jaganathpur",
+    "crimeRate": "257.6 per 100k",
+    "crimeRatePerLakh": 257.6,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Jaganathpur Civic Context",
+      "historicalFact": "West Singhbhum is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Jaganathpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2957",
+    "stateName": "Jharkhand",
+    "districtName": "West Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-37",
+    "assemblyConstituencyName": "Manoharpur",
+    "crimeRate": "257.6 per 100k",
+    "crimeRatePerLakh": 257.6,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Manoharpur Civic Context",
+      "historicalFact": "West Singhbhum is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Manoharpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2958",
+    "stateName": "Jharkhand",
+    "districtName": "West Singhbhum",
+    "assemblyConstituencyCode": "AC-JH-38",
+    "assemblyConstituencyName": "Chakradharpur",
+    "crimeRate": "257.6 per 100k",
+    "crimeRatePerLakh": 257.6,
+    "literacyRate": 78.4,
+    "literacyRatePercentage": 78.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 177,
+    "regionalInsight": {
+      "title": "Chakradharpur Civic Context",
+      "historicalFact": "West Singhbhum is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Chakradharpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2959",
+    "stateName": "Jharkhand",
+    "districtName": "Khunti",
+    "assemblyConstituencyCode": "AC-JH-39",
+    "assemblyConstituencyName": "Khunti",
+    "crimeRate": "256.9 per 100k",
+    "crimeRatePerLakh": 256.9,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Khunti Civic Context",
+      "historicalFact": "Khunti is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Khunti."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2960",
+    "stateName": "Jharkhand",
+    "districtName": "Khunti",
+    "assemblyConstituencyCode": "AC-JH-40",
+    "assemblyConstituencyName": "Torpa",
+    "crimeRate": "256.9 per 100k",
+    "crimeRatePerLakh": 256.9,
+    "literacyRate": 76.9,
+    "literacyRatePercentage": 76.9,
+    "hospitalsCount": 39,
+    "govtSchoolsCount": 280,
+    "regionalInsight": {
+      "title": "Torpa Civic Context",
+      "historicalFact": "Khunti is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Torpa."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2961",
+    "stateName": "Jharkhand",
+    "districtName": "Gumla",
+    "assemblyConstituencyCode": "AC-JH-41",
+    "assemblyConstituencyName": "Gumla",
+    "crimeRate": "259.5 per 100k",
+    "crimeRatePerLakh": 259.5,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 215,
+    "regionalInsight": {
+      "title": "Gumla Civic Context",
+      "historicalFact": "Gumla is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Gumla."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2962",
+    "stateName": "Jharkhand",
+    "districtName": "Gumla",
+    "assemblyConstituencyCode": "AC-JH-42",
+    "assemblyConstituencyName": "Bishunpur",
+    "crimeRate": "259.5 per 100k",
+    "crimeRatePerLakh": 259.5,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 215,
+    "regionalInsight": {
+      "title": "Bishunpur Civic Context",
+      "historicalFact": "Gumla is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Bishunpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2963",
+    "stateName": "Jharkhand",
+    "districtName": "Gumla",
+    "assemblyConstituencyCode": "AC-JH-43",
+    "assemblyConstituencyName": "Sisai",
+    "crimeRate": "259.5 per 100k",
+    "crimeRatePerLakh": 259.5,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 30,
+    "govtSchoolsCount": 215,
+    "regionalInsight": {
+      "title": "Sisai Civic Context",
+      "historicalFact": "Gumla is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Sisai."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2964",
+    "stateName": "Jharkhand",
+    "districtName": "Simdega",
+    "assemblyConstituencyCode": "AC-JH-44",
+    "assemblyConstituencyName": "Simdega",
+    "crimeRate": "170.1 per 100k",
+    "crimeRatePerLakh": 170.1,
+    "literacyRate": 86.0,
+    "literacyRatePercentage": 86.0,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Simdega Civic Context",
+      "historicalFact": "Simdega is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Simdega."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2965",
+    "stateName": "Jharkhand",
+    "districtName": "Simdega",
+    "assemblyConstituencyCode": "AC-JH-45",
+    "assemblyConstituencyName": "Kolebira",
+    "crimeRate": "170.1 per 100k",
+    "crimeRatePerLakh": 170.1,
+    "literacyRate": 86.0,
+    "literacyRatePercentage": 86.0,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 326,
+    "regionalInsight": {
+      "title": "Kolebira Civic Context",
+      "historicalFact": "Simdega is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Kolebira."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2966",
+    "stateName": "Jharkhand",
+    "districtName": "Lohardaga",
+    "assemblyConstituencyCode": "AC-JH-46",
+    "assemblyConstituencyName": "Lohardaga",
+    "crimeRate": "148.4 per 100k",
+    "crimeRatePerLakh": 148.4,
+    "literacyRate": 72.3,
+    "literacyRatePercentage": 72.3,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 319,
+    "regionalInsight": {
+      "title": "Lohardaga Civic Context",
+      "historicalFact": "Lohardaga is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Lohardaga."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2967",
+    "stateName": "Jharkhand",
+    "districtName": "Palamu",
+    "assemblyConstituencyCode": "AC-JH-47",
+    "assemblyConstituencyName": "Daltonganj",
+    "crimeRate": "204.2 per 100k",
+    "crimeRatePerLakh": 204.2,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Daltonganj Civic Context",
+      "historicalFact": "Palamu is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Daltonganj."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2968",
+    "stateName": "Jharkhand",
+    "districtName": "Palamu",
+    "assemblyConstituencyCode": "AC-JH-48",
+    "assemblyConstituencyName": "Bishrampur",
+    "crimeRate": "204.2 per 100k",
+    "crimeRatePerLakh": 204.2,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Bishrampur Civic Context",
+      "historicalFact": "Palamu is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Bishrampur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2969",
+    "stateName": "Jharkhand",
+    "districtName": "Palamu",
+    "assemblyConstituencyCode": "AC-JH-49",
+    "assemblyConstituencyName": "Chhatarpur",
+    "crimeRate": "204.2 per 100k",
+    "crimeRatePerLakh": 204.2,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Chhatarpur Civic Context",
+      "historicalFact": "Palamu is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Chhatarpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2970",
+    "stateName": "Jharkhand",
+    "districtName": "Palamu",
+    "assemblyConstituencyCode": "AC-JH-50",
+    "assemblyConstituencyName": "Hussainabad",
+    "crimeRate": "204.2 per 100k",
+    "crimeRatePerLakh": 204.2,
+    "literacyRate": 73.7,
+    "literacyRatePercentage": 73.7,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 235,
+    "regionalInsight": {
+      "title": "Hussainabad Civic Context",
+      "historicalFact": "Palamu is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Hussainabad."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2971",
+    "stateName": "Jharkhand",
+    "districtName": "Garhwa",
+    "assemblyConstituencyCode": "AC-JH-51",
+    "assemblyConstituencyName": "Garhwa",
+    "crimeRate": "202.0 per 100k",
+    "crimeRatePerLakh": 202.0,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Garhwa Civic Context",
+      "historicalFact": "Garhwa is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Garhwa."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2972",
+    "stateName": "Jharkhand",
+    "districtName": "Garhwa",
+    "assemblyConstituencyCode": "AC-JH-52",
+    "assemblyConstituencyName": "Bhawanathpur",
+    "crimeRate": "202.0 per 100k",
+    "crimeRatePerLakh": 202.0,
+    "literacyRate": 73.0,
+    "literacyRatePercentage": 73.0,
+    "hospitalsCount": 44,
+    "govtSchoolsCount": 232,
+    "regionalInsight": {
+      "title": "Bhawanathpur Civic Context",
+      "historicalFact": "Garhwa is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Bhawanathpur."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2973",
+    "stateName": "Jharkhand",
+    "districtName": "Latehar",
+    "assemblyConstituencyCode": "AC-JH-53",
+    "assemblyConstituencyName": "Latehar",
+    "crimeRate": "168.3 per 100k",
+    "crimeRatePerLakh": 168.3,
+    "literacyRate": 83.1,
+    "literacyRatePercentage": 83.1,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 167,
+    "regionalInsight": {
+      "title": "Latehar Civic Context",
+      "historicalFact": "Latehar is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Latehar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2974",
+    "stateName": "Jharkhand",
+    "districtName": "Latehar",
+    "assemblyConstituencyCode": "AC-JH-54",
+    "assemblyConstituencyName": "Manika",
+    "crimeRate": "168.3 per 100k",
+    "crimeRatePerLakh": 168.3,
+    "literacyRate": 83.1,
+    "literacyRatePercentage": 83.1,
+    "hospitalsCount": 41,
+    "govtSchoolsCount": 167,
+    "regionalInsight": {
+      "title": "Manika Civic Context",
+      "historicalFact": "Latehar is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Manika."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2975",
+    "stateName": "Jharkhand",
+    "districtName": "Hazaribagh",
+    "assemblyConstituencyCode": "AC-JH-55",
+    "assemblyConstituencyName": "Hazaribagh",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Hazaribagh Civic Context",
+      "historicalFact": "Hazaribagh is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Hazaribagh."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2976",
+    "stateName": "Jharkhand",
+    "districtName": "Hazaribagh",
+    "assemblyConstituencyCode": "AC-JH-56",
+    "assemblyConstituencyName": "Barkatha",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Barkatha Civic Context",
+      "historicalFact": "Hazaribagh is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Barkatha."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2977",
+    "stateName": "Jharkhand",
+    "districtName": "Hazaribagh",
+    "assemblyConstituencyCode": "AC-JH-57",
+    "assemblyConstituencyName": "Mandu",
+    "crimeRate": "170.5 per 100k",
+    "crimeRatePerLakh": 170.5,
+    "literacyRate": 76.1,
+    "literacyRatePercentage": 76.1,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 262,
+    "regionalInsight": {
+      "title": "Mandu Civic Context",
+      "historicalFact": "Hazaribagh is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Mandu."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2978",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-58",
+    "assemblyConstituencyName": "Giridih",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Giridih Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Giridih."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2979",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-59",
+    "assemblyConstituencyName": "Dumri",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Dumri Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Dumri."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2980",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-60",
+    "assemblyConstituencyName": "Bagodar",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Bagodar Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Bagodar."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2981",
+    "stateName": "Jharkhand",
+    "districtName": "Giridih",
+    "assemblyConstituencyCode": "AC-JH-61",
+    "assemblyConstituencyName": "Jamua",
+    "crimeRate": "166.5 per 100k",
+    "crimeRatePerLakh": 166.5,
+    "literacyRate": 77.8,
+    "literacyRatePercentage": 77.8,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 219,
+    "regionalInsight": {
+      "title": "Jamua Civic Context",
+      "historicalFact": "Giridih is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Jamua."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2982",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-62",
+    "assemblyConstituencyName": "Sindri",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Sindri Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2983",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-63",
+    "assemblyConstituencyName": "Nirsa",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Nirsa Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2984",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-64",
+    "assemblyConstituencyName": "Jharia",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Jharia Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2985",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-65",
+    "assemblyConstituencyName": "Tundi",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Tundi Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2986",
+    "stateName": "Jharkhand",
+    "districtName": "Dhanbad",
+    "assemblyConstituencyCode": "AC-JH-66",
+    "assemblyConstituencyName": "Baghmara",
+    "crimeRate": "159.5 per 100k",
+    "crimeRatePerLakh": 159.5,
+    "literacyRate": 84.8,
+    "literacyRatePercentage": 84.8,
+    "hospitalsCount": 33,
+    "govtSchoolsCount": 288,
+    "regionalInsight": {
+      "title": "Baghmara Civic Context",
+      "historicalFact": "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+      "currentChallenge": "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2987",
+    "stateName": "Jharkhand",
+    "districtName": "Bokaro",
+    "assemblyConstituencyCode": "AC-JH-67",
+    "assemblyConstituencyName": "Chandankiyari",
+    "crimeRate": "251.7 per 100k",
+    "crimeRatePerLakh": 251.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Chandankiyari Civic Context",
+      "historicalFact": "Home to Bokaro Steel City, one of India's largest integrated steel plants set up with Soviet collaboration, and the scenic Garga Dam basin.",
+      "currentChallenge": "Primary developmental needs include industrial effluent treatment, expanding town civic amenities to rural peripheral blocks, and vocational training for youth."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2988",
+    "stateName": "Jharkhand",
+    "districtName": "Bokaro",
+    "assemblyConstituencyCode": "AC-JH-68",
+    "assemblyConstituencyName": "Bermo",
+    "crimeRate": "251.7 per 100k",
+    "crimeRatePerLakh": 251.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Bermo Civic Context",
+      "historicalFact": "Home to Bokaro Steel City, one of India's largest integrated steel plants set up with Soviet collaboration, and the scenic Garga Dam basin.",
+      "currentChallenge": "Primary developmental needs include industrial effluent treatment, expanding town civic amenities to rural peripheral blocks, and vocational training for youth."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2989",
+    "stateName": "Jharkhand",
+    "districtName": "Bokaro",
+    "assemblyConstituencyCode": "AC-JH-69",
+    "assemblyConstituencyName": "Gomia",
+    "crimeRate": "251.7 per 100k",
+    "crimeRatePerLakh": 251.7,
+    "literacyRate": 76.0,
+    "literacyRatePercentage": 76.0,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 318,
+    "regionalInsight": {
+      "title": "Gomia Civic Context",
+      "historicalFact": "Home to Bokaro Steel City, one of India's largest integrated steel plants set up with Soviet collaboration, and the scenic Garga Dam basin.",
+      "currentChallenge": "Primary developmental needs include industrial effluent treatment, expanding town civic amenities to rural peripheral blocks, and vocational training for youth."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2990",
+    "stateName": "Jharkhand",
+    "districtName": "Chatra",
+    "assemblyConstituencyCode": "AC-JH-70",
+    "assemblyConstituencyName": "Chatra",
+    "crimeRate": "243.2 per 100k",
+    "crimeRatePerLakh": 243.2,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Chatra Civic Context",
+      "historicalFact": "Chatra is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Chatra."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2991",
+    "stateName": "Jharkhand",
+    "districtName": "Chatra",
+    "assemblyConstituencyCode": "AC-JH-71",
+    "assemblyConstituencyName": "Simaria",
+    "crimeRate": "243.2 per 100k",
+    "crimeRatePerLakh": 243.2,
+    "literacyRate": 79.3,
+    "literacyRatePercentage": 79.3,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 258,
+    "regionalInsight": {
+      "title": "Simaria Civic Context",
+      "historicalFact": "Chatra is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Simaria."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2992",
+    "stateName": "Jharkhand",
+    "districtName": "Jamtara",
+    "assemblyConstituencyCode": "AC-JH-72",
+    "assemblyConstituencyName": "Jamtara",
+    "crimeRate": "215.3 per 100k",
+    "crimeRatePerLakh": 215.3,
+    "literacyRate": 84.6,
+    "literacyRatePercentage": 84.6,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 140,
+    "regionalInsight": {
+      "title": "Jamtara Civic Context",
+      "historicalFact": "Jamtara is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Jamtara."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_jh_2993",
+    "stateName": "Jharkhand",
+    "districtName": "Jamtara",
+    "assemblyConstituencyCode": "AC-JH-73",
+    "assemblyConstituencyName": "Nala",
+    "crimeRate": "215.3 per 100k",
+    "crimeRatePerLakh": 215.3,
+    "literacyRate": 84.6,
+    "literacyRatePercentage": 84.6,
+    "hospitalsCount": 38,
+    "govtSchoolsCount": 140,
+    "regionalInsight": {
+      "title": "Nala Civic Context",
+      "historicalFact": "Jamtara is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+      "currentChallenge": "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in Nala."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]

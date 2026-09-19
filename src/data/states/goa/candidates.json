@@ -11,15 +11,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 16,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -47,7 +47,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -91,15 +91,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -127,7 +127,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -171,15 +171,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -207,7 +207,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -257,9 +257,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -287,7 +287,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -331,15 +331,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -367,7 +367,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -411,15 +411,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -491,14 +491,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 29,
     "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -527,7 +527,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -571,7 +571,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.8,
     "ladFundAllocatedINR": 25000000,
@@ -607,7 +607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -657,9 +657,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -687,7 +687,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -737,9 +737,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -767,7 +767,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -847,7 +847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -891,15 +891,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 12,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -927,7 +927,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -971,15 +971,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1007,7 +1007,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1051,15 +1051,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1087,7 +1087,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1131,15 +1131,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1167,7 +1167,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1211,14 +1211,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 19,
     "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1247,7 +1247,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1291,7 +1291,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.4,
     "ladFundAllocatedINR": 25000000,
@@ -1327,7 +1327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1371,14 +1371,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 30,
     "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1407,7 +1407,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1451,15 +1451,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 17,
-    "worksCompletedCount": 14,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1487,7 +1487,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1537,9 +1537,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1567,7 +1567,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1611,15 +1611,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 7,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1647,7 +1647,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1691,15 +1691,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 6,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1727,7 +1727,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1771,15 +1771,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 22,
-    "worksCompletedCount": 18,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -1807,7 +1807,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1857,8 +1857,8 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 18,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 13,
     "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1887,7 +1887,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -1931,14 +1931,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 19,
-    "worksCompletedCount": 16,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 17,
     "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -1967,7 +1967,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2011,15 +2011,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2047,7 +2047,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2091,14 +2091,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 33,
     "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2127,7 +2127,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2171,14 +2171,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 23,
-    "worksCompletedCount": 19,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
     "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2207,7 +2207,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2257,8 +2257,8 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 15,
+    "worksRecommendedCount": 21,
+    "worksCompletedCount": 18,
     "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2287,7 +2287,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2331,15 +2331,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 16,
-    "worksCompletedCount": 13,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2447,7 +2447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2491,15 +2491,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2527,7 +2527,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2577,9 +2577,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 27,
-    "worksCompletedCount": 23,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2607,7 +2607,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2651,14 +2651,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 25,
     "worksPendingCount": 5,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2687,7 +2687,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2731,15 +2731,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 24,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 7,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2767,7 +2767,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2811,14 +2811,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 21,
-    "worksCompletedCount": 18,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 12,
     "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
@@ -2847,7 +2847,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -2897,9 +2897,9 @@
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 6,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -2927,7 +2927,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -3007,7 +3007,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -3051,15 +3051,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 18,
-    "worksCompletedCount": 15,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3087,7 +3087,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,
@@ -3131,15 +3131,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 55,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Goa Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.0,
     "ladFundAllocatedINR": 25000000,
     "ladFundUtilizedINR": 21500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Goa Planning & Rural Development Department (Audited Annual Release)",
     "ladFundCategoryBreakdown": [
       {
@@ -3167,7 +3167,7 @@
         "status": "Completed"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 5500000,
     "criminalCasesCount": 0,

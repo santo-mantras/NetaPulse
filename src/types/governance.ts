@@ -67,6 +67,8 @@ export interface CandidateProfile {
         charges: string;
         caseNumber: string;
         status: string;
+        court?: string;
+        category?: string;
     }[];
     education: string;
     affidavitPdfUrl: string;
@@ -101,11 +103,11 @@ export interface CampaignPromise {
 
 export interface NewsReport {
     id: string;
-    publisher: 'The Hindu' | 'Times of India' | 'Indian Express' | 'Mint' | 'Other';
+    publisher: string;
     title: string;
     summary: string;
     url: string;
     publishedDate: string;
-    category: 'Asset Growth' | 'Court Case' | 'Sting/Investigation' | 'Local Activity';
-    verificationStatus: 'Cross-Referenced with Affidavit' | 'Under Review' | 'Media Report';
+    category?: string;
+    verificationStatus?: string;
 }

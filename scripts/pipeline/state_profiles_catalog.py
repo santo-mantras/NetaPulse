@@ -7,7 +7,7 @@ Enables automated periodic updates via GitHub Actions workflow.
 
 STATE_PROFILES = {
     "Maharashtra": {
-        "chiefMinister": { "name": "Devendra Fadnavis", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Devendra Fadnavis", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/devendra_fadnavis.jpg" },
         "deputyChiefMinisters": [
             { "name": "Eknath Shinde", "party": "Shiv Sena" },
             { "name": "Sunetra Pawar", "party": "NCP" }
@@ -39,10 +39,10 @@ STATE_PROFILES = {
         ]
     },
     "Bihar": {
-        "chiefMinister": { "name": "Samrat Choudhary", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Samrat Choudhary", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg", "photoUrl": "/assets/candidates/samrat_choudhary.jpg" },
         "deputyChiefMinisters": [
-            { "name": "Bijendra Prasad Yadav", "party": "JD(U)" },
-            { "name": "Vijay Kumar Chaudhary", "party": "JD(U)" }
+            { "name": "Vijay Kumar Chaudhary", "party": "JD(U)" },
+            { "name": "Bijendra Prasad Yadav", "party": "JD(U)" }
         ],
         "gsdpINR": "₹8.58 Lakh Cr",
         "perCapitaIncomeINR": "₹59,637",
@@ -78,7 +78,7 @@ STATE_PROFILES = {
         ]
     },
     "West Bengal": {
-        "chiefMinister": { "name": "Suvendu Adhikari", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Suvendu Adhikari", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/suvendu_adhikari.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹18.84 Lakh Cr",
         "perCapitaIncomeINR": "₹1,41,373",
@@ -105,7 +105,7 @@ STATE_PROFILES = {
         ]
     },
     "Karnataka": {
-        "chiefMinister": { "name": "D. K. Shivakumar", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "D. K. Shivakumar", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/ka_dk_shivakumar.jpg" },
         "deputyChiefMinisters": [
             { "name": "G. Parameshwara", "party": "INC" }
         ],
@@ -133,7 +133,7 @@ STATE_PROFILES = {
         ]
     },
     "Tamil Nadu": {
-        "chiefMinister": { "name": "C. Joseph Vijay", "party": "TVK", "logoUrl": "/assets/parties/TVK.svg" },
+        "chiefMinister": { "name": "C. Joseph Vijay", "party": "TVK", "logoUrl": "/assets/parties/TVK.svg" , "photoUrl": "/assets/candidates/c_joseph_vijay.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹31.55 Lakh Cr",
         "perCapitaIncomeINR": "₹3,15,220",
@@ -162,7 +162,7 @@ STATE_PROFILES = {
         ]
     },
     "Kerala": {
-        "chiefMinister": { "name": "V. D. Satheesan", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "V. D. Satheesan", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/v__d__satheesan.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.30 Lakh Cr",
         "perCapitaIncomeINR": "₹2,76,825",
@@ -191,7 +191,7 @@ STATE_PROFILES = {
         ]
     },
     "Uttar Pradesh": {
-        "chiefMinister": { "name": "Yogi Adityanath", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Yogi Adityanath", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/yogi_adityanath.jpg" },
         "deputyChiefMinisters": [
             { "name": "Keshav Prasad Maurya", "party": "BJP" },
             { "name": "Brajesh Pathak", "party": "BJP" }
@@ -223,7 +223,7 @@ STATE_PROFILES = {
         ]
     },
     "Gujarat": {
-        "chiefMinister": { "name": "Bhupendrabhai Patel", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Bhupendrabhai Patel", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhupendrabhai_patel.jpg" },
         "deputyChiefMinisters": [
             { "name": "Harsh Sanghavi", "party": "BJP" }
         ],
@@ -253,7 +253,7 @@ STATE_PROFILES = {
         ]
     },
     "Rajasthan": {
-        "chiefMinister": { "name": "Bhajan Lal Sharma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Bhajan Lal Sharma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhajan_lal_sharma.jpg" },
         "deputyChiefMinisters": [
             { "name": "Diya Kumari", "party": "BJP" },
             { "name": "Prem Chand Bairwa", "party": "BJP" }
@@ -288,7 +288,7 @@ STATE_PROFILES = {
         ]
     },
     "Punjab": {
-        "chiefMinister": { "name": "Bhagwant Mann", "party": "AAP", "logoUrl": "/assets/parties/AAP.svg" },
+        "chiefMinister": { "name": "Bhagwant Mann", "party": "AAP", "logoUrl": "/assets/parties/AAP.svg" , "photoUrl": "/assets/candidates/bhagwant_mann.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹7.41 Lakh Cr",
         "perCapitaIncomeINR": "₹1,95,419",
@@ -316,7 +316,7 @@ STATE_PROFILES = {
         ]
     },
     "Assam": {
-        "chiefMinister": { "name": "Himanta Biswa Sarma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Himanta Biswa Sarma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/himanta_biswa_sarma.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹5.70 Lakh Cr",
         "perCapitaIncomeINR": "₹1,21,460",
@@ -351,7 +351,7 @@ STATE_PROFILES = {
         ]
     },
     "Chhattisgarh": {
-        "chiefMinister": { "name": "Vishnu Deo Sai", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Vishnu Deo Sai", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/vishnu_deo_sai.jpg" },
         "deputyChiefMinisters": [
             { "name": "Arun Sao", "party": "BJP" },
             { "name": "Vijay Sharma", "party": "BJP" }
@@ -379,7 +379,7 @@ STATE_PROFILES = {
         ]
     },
     "Goa": {
-        "chiefMinister": { "name": "Pramod Sawant", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Pramod Sawant", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/pramod_sawant.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹1.06 Lakh Cr",
         "perCapitaIncomeINR": "₹5,44,042",
@@ -407,7 +407,7 @@ STATE_PROFILES = {
         ]
     },
     "Delhi": {
-        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/rekha_gupta.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.07 Lakh Cr",
         "perCapitaIncomeINR": "₹4,61,910",
@@ -431,7 +431,7 @@ STATE_PROFILES = {
         ]
     },
     "Haryana": {
-        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" },
+        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/nayab_singh_saini.jpg" },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.20 Lakh Cr",
         "perCapitaIncomeINR": "₹3,25,759",
@@ -457,7 +457,7 @@ STATE_PROFILES = {
         ]
     },
     "Telangana": {
-        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" },
+        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/a_revanth_reddy.jpg" },
         "deputyChiefMinisters": [
             { "name": "Mallu Bhatti Vikramarka", "party": "INC" }
         ],
@@ -487,7 +487,7 @@ STATE_PROFILES = {
         ]
     },
     "Jammu & Kashmir": {
-        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" },
+        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" , "photoUrl": "/assets/candidates/omar_abdullah.jpg" },
         "deputyChiefMinisters": [
             { "name": "Surinder Kumar Choudhary", "party": "JKNC" }
         ],
@@ -514,6 +514,163 @@ STATE_PROFILES = {
             { "party": "Indian National Congress", "seats": 6, "pct": 6.7 },
             { "party": "Jammu & Kashmir People's Democratic Party", "seats": 3, "pct": 3.3 },
             { "party": "Others / Independents", "seats": 10, "pct": 11.1 }
+        ]
+    },
+    "Jharkhand": {
+        "chiefMinister": { "name": "Hemant Soren", "party": "JMM", "logoUrl": "/assets/parties/JMM.svg" , "photoUrl": "/assets/candidates/hemant_soren.jpg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹4.23 Lakh Cr",
+        "perCapitaIncomeINR": "₹98,500",
+        "fiscalHealth": "2.8% GSDP (Under Control)",
+        "socialProgressIndex": "43.95 (Tier 6 - Lowest Tier)",
+        "historicalFact": "Carved out of southern Bihar in 2000, Jharkhand is the legendary land of tribal heroes Bhagwan Birsa Munda, Tilka Manjhi, and Sido-Kanhu, possessing over 40% of India's mineral reserves.",
+        "totalAssembly": 81,
+        "totalLokSabha": 14,
+        "totalDistricts": 24,
+        "majorityMark": 41,
+        "currentRuler": "INDIA Alliance (JMM-INC-RJD-CPI-ML)",
+        "partyColors": {
+            "Jharkhand Mukti Morcha": "#16a34a",
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "AJSU Party": "#fbbf24",
+            "Rashtriya Janata Dal": "#22c55e",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Jharkhand Mukti Morcha", "seats": 34, "pct": 42.0 },
+            { "party": "Bharatiya Janata Party", "seats": 21, "pct": 25.9 },
+            { "party": "Indian National Congress", "seats": 16, "pct": 19.8 },
+            { "party": "Rashtriya Janata Dal", "seats": 4, "pct": 4.9 },
+            { "party": "CPI (ML) Liberation", "seats": 2, "pct": 2.5 },
+            { "party": "AJSU Party", "seats": 1, "pct": 1.2 },
+            { "party": "Others / Independents", "seats": 3, "pct": 3.7 }
+        ]
+    },
+    "Himachal Pradesh": {
+        "chiefMinister": { "name": "Sukhvinder Singh Sukhu", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/sukhvinder_singh_sukhu.jpg" },
+        "deputyChiefMinisters": [
+            { "name": "Mukesh Agnihotri", "party": "INC" }
+        ],
+        "gsdpINR": "₹2.14 Lakh Cr",
+        "perCapitaIncomeINR": "₹2,35,000",
+        "fiscalHealth": "3.2% GSDP (Hill State Grant Support)",
+        "socialProgressIndex": "63.28 (Tier 2 - High Social Progress)",
+        "historicalFact": "Revered as Dev Bhumi (Abode of Gods), Himachal Pradesh was granted full statehood in 1971, pioneering mountain hydro-power generation, world-famous apple horticulture, and top literacy standards.",
+        "totalAssembly": 68,
+        "totalLokSabha": 4,
+        "totalDistricts": 12,
+        "majorityMark": 35,
+        "currentRuler": "Indian National Congress",
+        "partyColors": {
+            "Indian National Congress": "#06b6d4",
+            "Bharatiya Janata Party": "#f97316",
+            "Independents / Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Indian National Congress", "seats": 40, "pct": 58.8 },
+            { "party": "Bharatiya Janata Party", "seats": 25, "pct": 36.8 },
+            { "party": "Independents / Others", "seats": 3, "pct": 4.4 }
+        ]
+    },
+    "Andhra Pradesh": {
+        "chiefMinister": { "name": "N. Chandrababu Naidu", "party": "TDP", "logoUrl": "/assets/parties/TDP.svg" , "photoUrl": "/assets/candidates/chandrababu_naidu.jpg" },
+        "deputyChiefMinisters": [
+            { "name": "Pawan Kalyan", "party": "JSP" }
+        ],
+        "gsdpINR": "₹14.50 Lakh Cr",
+        "perCapitaIncomeINR": "₹2,42,000",
+        "fiscalHealth": "3.1% GSDP (Development Focus)",
+        "socialProgressIndex": "53.60 (Tier 4 - Lower Middle)",
+        "historicalFact": "First state formed on a linguistic basis in 1953, Andhra Pradesh is the rice bowl of India with India's second longest coastline (974 km) and the sacred Tirumala Venkateswara shrine.",
+        "totalAssembly": 175,
+        "totalLokSabha": 25,
+        "totalDistricts": 26,
+        "majorityMark": 88,
+        "currentRuler": "NDA (TDP-JSP-BJP Alliance)",
+        "partyColors": {
+            "Telugu Desam Party": "#eab308",
+            "Jana Sena Party": "#dc2626",
+            "Bharatiya Janata Party": "#f97316",
+            "YSR Congress Party": "#3b82f6",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            { "party": "Telugu Desam Party", "seats": 135, "pct": 77.1 },
+            { "party": "Jana Sena Party", "seats": 21, "pct": 12.0 },
+            { "party": "Bharatiya Janata Party", "seats": 8, "pct": 4.6 },
+            { "party": "YSR Congress Party", "seats": 11, "pct": 6.3 }
+        ]
+    },
+    "Chandigarh": {
+        "chiefMinister": { "name": "Manish Tewari (MP)", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/manish_tewari.jpg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹0.65 Lakh Cr",
+        "perCapitaIncomeINR": "₹3,92,000",
+        "fiscalHealth": "Balanced (UT Central Allocation)",
+        "socialProgressIndex": "62.40 (Tier 2 - High Social Progress)",
+        "historicalFact": "Conceived by Jawaharlal Nehru and master-planned by Swiss-French architect Le Corbusier in 1952, Chandigarh is India's first planned modernist city and joint capital of Punjab & Haryana.",
+        "totalAssembly": 0,
+        "totalLokSabha": 1,
+        "totalDistricts": 1,
+        "majorityMark": 1,
+        "currentRuler": "Union Territory Administration",
+        "partyColors": {
+            "Indian National Congress": "#06b6d4",
+            "Bharatiya Janata Party": "#f97316"
+        },
+        "seatTally": [
+            { "party": "Indian National Congress", "seats": 1, "pct": 100.0 }
+        ]
+    },
+    "Ladakh": {
+        "chiefMinister": { "name": "Mohmad Haneefa (MP)", "party": "Independent", "logoUrl": "/assets/parties/Independent.svg" , "photoUrl": "/assets/candidates/mohmad_haneefa.jpg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹0.12 Lakh Cr",
+        "perCapitaIncomeINR": "₹1,85,000",
+        "fiscalHealth": "Special Central Development Assistance",
+        "socialProgressIndex": "52.80 (Tier 4 - Lower Middle)",
+        "historicalFact": "The high-altitude Land of High Passes on the ancient Silk Route, celebrated for centuries-old Buddhist gompas, Pangong Tso, and rare Changthangi Pashmina goats.",
+        "totalAssembly": 0,
+        "totalLokSabha": 1,
+        "totalDistricts": 2,
+        "majorityMark": 1,
+        "currentRuler": "Union Territory Administration",
+        "partyColors": {
+            "Independent": "#64748b",
+            "Indian National Congress": "#06b6d4",
+            "Bharatiya Janata Party": "#f97316"
+        },
+        "seatTally": [
+            { "party": "Independent", "seats": 1, "pct": 100.0 }
+        ]
+    },
+    "Puducherry": {
+        "chiefMinister": { "name": "N. Rangasamy", "party": "AINRC", "logoUrl": "/assets/parties/AINRC.svg" , "photoUrl": "/assets/candidates/n_rangasamy.jpg" },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹0.48 Lakh Cr",
+        "perCapitaIncomeINR": "₹2,60,000",
+        "fiscalHealth": "2.9% GSDP (Central Support)",
+        "socialProgressIndex": "65.99 (Tier 1 - Highest Tier)",
+        "historicalFact": "A former French colonial territory integrating Pondicherry, Karaikal, Mahe, and Yanam, renowned for Sri Aurobindo Ashram, Auroville, and seaside French promenade architecture.",
+        "totalAssembly": 30,
+        "totalLokSabha": 1,
+        "totalDistricts": 4,
+        "majorityMark": 16,
+        "currentRuler": "NDA (AINRC-BJP Alliance)",
+        "partyColors": {
+            "All India N.R. Congress": "#eab308",
+            "Bharatiya Janata Party": "#f97316",
+            "Dravida Munnetra Kazhagam": "#dc2626",
+            "Indian National Congress": "#06b6d4",
+            "Others / Independents": "#64748b"
+        },
+        "seatTally": [
+            { "party": "All India N.R. Congress", "seats": 10, "pct": 33.3 },
+            { "party": "Bharatiya Janata Party", "seats": 6, "pct": 20.0 },
+            { "party": "Dravida Munnetra Kazhagam", "seats": 6, "pct": 20.0 },
+            { "party": "Indian National Congress", "seats": 2, "pct": 6.7 },
+            { "party": "Others / Independents", "seats": 6, "pct": 20.0 }
         ]
     }
 }

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-09-19T15:15:48.629479",
+    "pipeline": "GitHub Actions Civic Pulse Sync",
+    "totalItems": 5
+  },
+  "items": [
+    {
+      "id": 1,
+      "icon": "🗳️",
+      "category": "UPCOMING STATE ELECTIONS",
+      "text": "West Bengal (294), Tamil Nadu (234), Kerala (140), Assam (126) & Puducherry (30) [Apr–May 2026] • Uttar Pradesh (403), Punjab (117), Gujarat (182), Himachal Pradesh (68) & Goa (40) [2027]",
+      "status": "Official ECI Schedule Horizon",
+      "lastVerified": "2026-09-19"
+    },
+    {
+      "id": 2,
+      "icon": "🏛️",
+      "category": "PARLIAMENT WATCH",
+      "text": "18th Lok Sabha completed 115+ hours of legislative business; upcoming session to table key governance, digitisation and financial reforms",
+      "status": "PRS Legislative Research Audit",
+      "lastVerified": "2026-09-19"
+    },
+    {
+      "id": 3,
+      "icon": "💸",
+      "category": "TAXPAYER COST PER SESSION",
+      "text": "₹2.5 Lakh spent every minute of Parliamentary sittings (~₹9.1 Crore per active sitting day funded by Indian taxpayers)",
+      "status": "Ministry of Parliamentary Affairs Review",
+      "lastVerified": "2026-09-19"
+    },
+    {
+      "id": 4,
+      "icon": "🇮🇳",
+      "category": "CURRENT PM & PRESIDENT",
+      "text": "Prime Minister: Narendra Modi • President of India: Droupadi Murmu (15th President of the Republic)",
+      "status": "Government of India Directory",
+      "lastVerified": "2026-09-19"
+    },
+    {
+      "id": 5,
+      "icon": "⚖️",
+      "category": "ECI & CJI CHIEF HEADS",
+      "text": "Chief Justice of India: Justice Surya Kant (53rd CJI) • Chief Election Commissioner: Shri Gyanesh Kumar",
+      "status": "Supreme Court & ECI Secretariat Gazette",
+      "lastVerified": "2026-09-19"
+    }
+  ]
+}

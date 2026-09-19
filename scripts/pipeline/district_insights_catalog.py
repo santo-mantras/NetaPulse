@@ -560,6 +560,82 @@ DISTRICT_SPECIFIC_INSIGHTS = {
     ("Telangana", "Yadadri Bhuvanagiri"): (
         "Famous for the magnificent renovated hill shrine of Sri Lakshmi Narasimha Swamy at Yadagirigutta and the monolithic 12th-century Bhuvanagiri Fort built by the Western Chalukyas.",
         "Civic priorities involve pilgrim transport amenities, heritage conservation around the fort, and drinking water grid distribution."
+    ),
+
+    # Jharkhand
+    ("Jharkhand", "Ranchi"): (
+        "Ranchi, the capital of Jharkhand located on the southern Chota Nagpur plateau, is known as the City of Waterfalls (Hundru, Dassam, Jonha) and the homeland of tribal freedom fighter Bhagwan Birsa Munda.",
+        "Key civic priorities include urban traffic decongestion, Subarnarekha river rejuvenation, and drinking water supply coverage across peri-urban wards."
+    ),
+    ("Jharkhand", "East Singhbhum"): (
+        "Anchored by Jamshedpur (Tatanagar), India's first planned industrial city founded by Jamsetji Tata in 1919, famous for steel manufacturing and lush Jubilee Park.",
+        "Major civic focus areas include municipal water supply expansion to peripheral settlements, industrial emission monitoring, and rural tribal road durability."
+    ),
+    ("Jharkhand", "Dhanbad"): (
+        "Globally known as the Coal Capital of India, home to the premier Indian Institute of Technology (ISM) and major coking coal seams under Bharat Coking Coal Limited (BCCL).",
+        "Critical public issues center on underground mine fire control in Jharia, subsidence rehabilitation, and air quality dust mitigation along mining transit corridors."
+    ),
+    ("Jharkhand", "Bokaro"): (
+        "Home to Bokaro Steel City, one of India's largest integrated steel plants set up with Soviet collaboration, and the scenic Garga Dam basin.",
+        "Primary developmental needs include industrial effluent treatment, expanding town civic amenities to rural peripheral blocks, and vocational training for youth."
+    ),
+    ("Jharkhand", "Deoghar"): (
+        "Home to the sacred Baba Baidyanath Jyotirlinga Dham, one of India's 51 Shakti Peethas, hosting millions of pilgrims during the sacred Shravani Mela.",
+        "Key civic priorities include crowd-management urban corridors, 24/7 pilgrim sanitization amenities, and solid waste processing."
+    ),
+
+    # Himachal Pradesh
+    ("Himachal Pradesh", "Shimla"): (
+        "Shimla was the summer capital of British India, celebrated for its colonial Victorian Mall Road, historic Ridge, Jakhoo Temple, and the UNESCO Kalka-Shimla Toy Train.",
+        "Primary civic challenges include mountain slope stabilization against monsoon landslips, winter water freezing management, and tourist vehicle parking infrastructure."
+    ),
+    ("Himachal Pradesh", "Kangra"): (
+        "Rich in ancient history with the Kangra Fort, sacred Brajeshwari Devi temple, Baijnath Shiva temple, and Dharamshala/McLeod Ganj, seat of His Holiness the Dalai Lama.",
+        "Key public focus areas include rural road widening along tea garden belts, slope drainage to prevent cloudburst damages, and eco-tourism waste processing."
+    ),
+    ("Himachal Pradesh", "Mandi"): (
+        "Known as the Varanasi of the Hills (Chhoti Kashi) for its 81 ancient stone Shiva temples situated along the banks of the mighty Beas river.",
+        "Critical developmental priorities center on flood embankment reinforcement along the Beas, rural health sub-center modern equipment, and apple farm transit links."
+    ),
+    ("Himachal Pradesh", "Kullu"): (
+        "Revered as the Valley of Gods (Dev Bhumi), home to the world-famous week-long International Kullu Dussehra, Great Himalayan National Park, and apple orchards.",
+        "Major civic priorities include Beas riverbank flood protection, regulated waste management in tourist clusters (Manali), and high-altitude emergency healthcare."
+    ),
+
+    # Andhra Pradesh
+    ("Andhra Pradesh", "Visakhapatnam"): (
+        "The City of Destiny and eastern naval headquarters of India, housing a natural deep-water sea port, steel plant, petroleum refineries, and IT corridors along the scenic beach road.",
+        "Critical civic focus includes urban stormwater drain expansion, beach road cyclone protection embankments, and industrial corridor pollution monitoring."
+    ),
+    ("Andhra Pradesh", "Krishna"): (
+        "Encompassing historic Machilipatnam port and the fertile Krishna river delta, renowned for Kalamkari hand-block printing and rich paddy harvests.",
+        "Key public priorities include delta drainage canal desilting, sea embankment reinforcement against cyclonic surges, and rural drinking water purification."
+    ),
+    ("Andhra Pradesh", "Guntur"): (
+        "A world-renowned commercial trade hub for Asia's largest red chili market, tobacco processing, and proximity to the Amaravati capital region.",
+        "Major civic focus areas include agricultural cold storage logistics, urban bypass decongestion, and upgrading municipal drainage infrastructure."
+    ),
+    ("Andhra Pradesh", "Tirupati"): (
+        "Home to the sacred Tirumala Venkateswara Temple, one of the world's most visited pilgrimage centers, and a premier educational hub with IIT and IISER institutes.",
+        "Primary civic priorities involve pilgrim transit crowd logistics, Swarnamukhi river basin recharge, and peripheral urban sewage treatment plants."
+    ),
+
+    # Union Territories
+    ("Chandigarh", "Chandigarh"): (
+        "India's first planned city post-independence designed by Swiss-French architect Le Corbusier, internationally celebrated for the Capitol Complex, Rock Garden, and Sukhna Lake.",
+        "Major civic priorities include peak-hour traffic decongestion at entry roundabouts, 24/7 smart water metering, and solid waste processing at Dadumajra."
+    ),
+    ("Ladakh", "Leh"): (
+        "Historic capital of the Himalayan Kingdom of Ladakh situated at 3,500 meters altitude, known for Leh Palace, Shanti Stupa, Thiksey Monastery, and high mountain passes.",
+        "Critical developmental focus includes solar-powered insulated drinking water lines to prevent winter freeze, eco-friendly solid waste management, and snow clearance."
+    ),
+    ("Ladakh", "Kargil"): (
+        "A strategic high-altitude Himalayan crossroads on the banks of the Suru River, famous for Pashmina wool trade, Suru Valley glaciers, and apricot orchards.",
+        "Key civic priorities include all-weather tunnel connectivity (Zojila), winter heating infrastructure for schools, and high-altitude emergency trauma care."
+    ),
+    ("Puducherry", "Puducherry"): (
+        "Historic French colonial trading enclave featuring the Goubert Avenue beachfront, Sri Aurobindo Ashram, French Institute of Pondicherry, and tree-lined French Quarter streets.",
+        "Civic priorities center on coastal erosion defense, drainage network modernization to eliminate monsoon waterlogging, and heritage preservation zoning."
     )
 
 }
@@ -635,7 +711,30 @@ STATE_REGIONAL_ARCHETYPES = {
         "{district} holds profound geographical and cultural heritage in Jammu & Kashmir, set amidst majestic Himalayan valleys, traditional artisanal crafts, and resilient mountain communities.",
         "Critical development priorities center on winter road maintenance, high-altitude drinking water pipelines, and rural healthcare access in {c_name}."
     ),
-
+    "Jharkhand": (
+        "{district} is a pivotal mineral and tribal heartland of Jharkhand, enriched by ancient Chota Nagpur plateau culture, dense Sal forests, and historic Santhal and Munda tribal movements.",
+        "Primary developmental priorities include tribal hamlet tap water delivery under Jal Jeevan Mission, sustainable mining environment safeguards, and rural health center staffing in {c_name}."
+    ),
+    "Himachal Pradesh": (
+        "{district} is an idyllic Himalayan sanctuary in Himachal Pradesh, celebrated for apple orchards, sacred deodar forests, traditional Kath Kuni architecture, and vibrant hill festivals.",
+        "Critical public issues include climate-resilient road connectivity along landslide-prone valley corridors, cold-weather potable water supply, and eco-tourism waste regulation in {c_name}."
+    ),
+    "Andhra Pradesh": (
+        "{district} is a cornerstone of Andhra Pradesh's fertile coastal and Rayalaseema agrarian heritage, famed for historic temple towns, Krishna-Godavari delta irrigation, and growing tech industrial parks.",
+        "Major civic priorities include canal tail-end water distribution, urban stormwater drainage modernization, and primary healthcare network upgrades in {c_name}."
+    ),
+    "Chandigarh": (
+        "Chandigarh is India's premier planned modern metropolis, designed by Le Corbusier, internationally celebrated for its open-hand monument, Capitol Complex (UNESCO), and sector grid architecture.",
+        "Primary civic focus centers on peripheral traffic decongestion, sector-level solid waste segregation, and 24/7 smart water metering across {c_name}."
+    ),
+    "Ladakh": (
+        "{district} is a high-altitude trans-Himalayan crossroads in Ladakh, renowned for ancient Tibetan Buddhist gompas, rugged snow-bound valleys, Pashmina goat herding, and the historic Silk Route trade.",
+        "Key developmental priorities center on winter road connectivity via Himalayan tunnels, solar-powered insulated water supply, and high-altitude emergency healthcare in {c_name}."
+    ),
+    "Puducherry": (
+        "{district} is a historic coastal enclave of Puducherry, distinguished by French colonial promenade architecture, Tamil heritage quarters, Auroville's universal township, and peaceful seaside fishing hamlets.",
+        "Key civic focus areas include coastal erosion abatement, stormwater drainage desilting to prevent monsoon waterlogging, and heritage preservation in {c_name}."
+    )
 }
 
 def get_district_civic_insight(state: str, district: str, c_name: str):

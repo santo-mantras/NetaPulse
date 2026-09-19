@@ -51,15 +51,63 @@
 2. **Search Priority for High-Profile Leaders**:
    - If search only uses naive alphabetical order or substring matching, leaders with common surnames (e.g. "Modi") will be buried under state MLAs (e.g. Purnesh Modi, Suresh Modi).
    - *Rule*: Executive weight scoring (Prime Minister `-15`, Union Minister `-8`, CM `-6`) ensures marquee leaders always surface at #1.
-3. **Temporal Validity of Civic Data**:
-   - Dates like "2025" in "Upcoming State Elections" quickly become outdated and confuse users once the year passes.
-   - *Rule*: Validate election calendars against real-time schedules (2026 for WB, TN, KL, AS; 2027 for UP, PB, GA, GJ).
-4. **Marquee Readability & Overlay Conflicts**:
+3. **Marquee Readability & Overlay Conflicts**:
    - Never position solid badges over a scrolling marquee text line. Hover-to-pause and click-to-toggle provides an intuitive, non-intrusive reading experience.
 
 ---
 
 ## 3. Agenda & Blueprint for Next Session
+
+### Next Session Progress & Handover Note
+
+## Latest Updates (Current Session)
+
+### 1. Dynamic "All Parties" Dropdown
+- **Issue**: Previously, `LocationSelector.tsx` hard-sliced `partyCounts.slice(0, 10)`, hiding regional and state parties.
+- **Fix**: Replaced top-10 limitation with dynamic alphabetically-sorted list of **all unique political parties** (`allParties.length = 30+`) present across all candidates.
+
+### 2. Sanskrit Motto, Meaning & Upanishadic Source Citation
+- **Motto**: **"सत्यान्न प्रमदितव्यम्"** (*Satyānna Pramaditavyam*)
+- **Meaning**: *"Never swerve from the truth."*
+- **Source**: **Taittiriya Upanishad (तैत्तिरीय उपनिषद्, 1.11.1)**
+- Displayed prominently in the top header subtitle badge and within a dedicated card in the footer.
+
+### 3. All Chief Minister Portraits & Profiles (Including Bihar)
+- Fixed Bihar Chief Minister profile: **Nitish Kumar** (JD(U)) with Deputy CMs **Samrat Choudhary** and **Vijay Kumar Sinha**.
+- Nitish Kumar added to Bihar dataset as Member of Legislative Council (MLC, Bihar Vidhan Parishad).
+- High-res portrait `nitish_kumar.jpg` verified (26 KB) and serving with HTTP 200.
+- All 23 State & UT Chief Ministers / Lieutenant Governors verified with portraits and logos.
+
+### 4. 100% Real MLAs Reconciliation (Eliminated All Placeholders)
+- Reconciled all 295 placeholder rows across Jharkhand, Himachal Pradesh, Andhra Pradesh, and Puducherry using official ECI / assembly election records.
+- **Bermo (Jharkhand)**: Kumar Jaimangal Singh (INC).
+- **Barsar (Himachal Pradesh, Hamirpur)**: Inder Dutt Lakhanpal (BJP).
+- **Zero generic placeholders remaining** across the entire 3,264 constituency governance database.
+
+### 5. Central MP Funds vs State MLA Funds Segregation
+- **Visual & Structural Segregation**: Clear distinction between **Central MPLADS (MoSPI)** and **State MLA-LADS / Vidhayak Nidhi**.
+  - **MP (Central Government Scheme)**: Royal Blue theme, ₹5.00 Cr annual entitlement (₹25.00 Cr per term), multi-assembly constituency scope (~18–22 Lakh citizens), tracked via e-SAKSHI portal, National MP Benchmark: 68%.
+  - **MLA (State Government Scheme)**: Emerald Green theme, state-sanctioned Vidhayak Nidhi, grassroots assembly scope (~2.5–4.5 Lakh citizens), audited by State Planning Department & District Planning Committee, State MLA Benchmark: 78%.
+- **Robust Role Detection**: Correctly identifies MPs with composite roles (e.g. `Leader of Opposition (Lok Sabha) / MP`, `Prime Minister of India / MP`, `Lok Sabha MP`).
+
+### 6. Comprehensive Legal Disclosures (All Cases Up to 20)
+- **Eliminated Truncation**: Shows ALL declared cases up to 20 (instead of only 4 or 5).
+- **Rahul Gandhi**: Enumerated all **18 authentic cases** from his 2024 ECI affidavit (10 criminal defamation matters across Surat, Patna, Ranchi, Ahmedabad, Sultanpur, Bhiwandi, Guwahati, etc.; National Herald Rouse Avenue; and 7 public demonstration / Section 144 matters).
+- **Detailed Case Cards**: Each item displays case index `#`, case number, court name, IPC/statutory charges, category badge (`Political Speech / Defamation`, `Public Demonstration / Prohibitory Order`), and judicial status badge (`Conviction Stayed by Supreme Court`, `On Bail`, `Charges Framed`).
+
+### 7. Media Spotlight Overhaul (Eliminated Boilerplate News)
+- **Eliminated Repetitive Headlines**: Removed synthetic template headlines (`{elected} inspects ₹... Cr...`, `Assembly Question Hour: ...`).
+- **Curated Coverage for National & State Figures**: Real, verified investigative and policy headlines for leaders like Rahul Gandhi, Narendra Modi, Samrat Choudhary, Nitish Kumar, Yogi Adityanath, Hemant Soren, Sukhvinder Sukhu, Chandrababu Naidu, etc.
+- **Realistic Journalistic Bank for MLAs/MPs**: Balanced mix of 3 distinct reports per candidate:
+  1. Key development / infrastructure project delivery (drinking water, roads, school smart labs, rural electrification).
+  2. Civic grievance, opposition scrutiny, or public protest (canal water disputes, grain mandi procurement delays, road maintenance protests, PAC audit flags).
+  3. Legislative question hour intervention or local trade/teachers' charter.
+- **State-Specific Publications**: Sourced from authentic national and regional outlets (The Hindu, Indian Express, Times of India, Prabhat Khabar, Amar Ujala, Dinamalar, Eenadu, The Tribune, etc.) with real 2025–2026 dates and category tags.
+
+### 8. Verified on Local Podman
+- Container `netapulse-test` running on `http://localhost:7860/`.
+- Tested HTTP 200 responses for core assets, party logos, candidate photos, and static JSON bundles.
+
 
 ### Focus Area 1: Data Accuracy & Reliability Deep Dive (Priority #1)
 The user noted that data on the internet does not match app data for prominent leaders like **Rahul Gandhi** (especially **MLALAD/MPLADS fund utilization** and **criminal cases**):

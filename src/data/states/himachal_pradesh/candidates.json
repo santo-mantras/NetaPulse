@@ -1,0 +1,4962 @@
+[
+  {
+    "id": "hi_2994",
+    "name": "Hans Raj",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Churah (SC)",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 52,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23500000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Churah (SC) Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8224999,
+        "status": "Completed"
+      },
+      {
+        "category": "Chamba Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4700000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 32000000,
+    "declaredLiabilitiesINR": 2100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Doctorate (Ph.D)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Churah (SC).",
+    "politicalFact": "Elected representative serving the citizens of Chamba, Himachal Pradesh.",
+    "bio": "Dr. Hans Raj represents Churah in Chamba district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_2995",
+    "name": "Neeraj Nayar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chamba",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 44,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.4,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23100000,
+    "ladFundUnspentINR": 1900000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chamba Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8084999,
+        "status": "Completed"
+      },
+      {
+        "category": "Chamba Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5775000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4620000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4620000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 41000000,
+    "declaredLiabilitiesINR": 3200000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Chamba.",
+    "politicalFact": "Elected representative serving the citizens of Chamba, Himachal Pradesh.",
+    "bio": "Neeraj Nayar represents the historic hill town of Chamba.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_2996",
+    "name": "Sudhir Sharma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 65,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 96.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24000000,
+    "ladFundUnspentINR": 1000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dharamshala Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8400000,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6000000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4800000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4800000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 52000000,
+    "declaredLiabilitiesINR": 4800000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Dharamshala.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Sudhir Sharma represents the international tourism and smart hill city of Dharamshala.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_2997",
+    "name": "R.S. Bali",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nagrota",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 95.2,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23800000,
+    "ladFundUnspentINR": 1200000,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nagrota Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8329999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5950000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4760000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4760000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 65000000,
+    "declaredLiabilitiesINR": 6100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nagrota.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "R.S. Bali represents Nagrota Bagwan in Kangra district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_2998",
+    "name": "Jairam Thakur",
+    "role": "Leader of Opposition / Former CM",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/jairam_thakur.jpg",
+    "constituencyName": "Seraj",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 120,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 98.4,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24600000,
+    "ladFundUnspentINR": 400000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Seraj Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8610000,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6150000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4920000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4920000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 68000000,
+    "declaredLiabilitiesINR": 0,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate (MA)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 6,
+    "funFact": "Active representative participating in key development debates for Seraj.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Jairam Thakur is the 6th Chief Minister of Himachal Pradesh and current Leader of the Opposition.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_2999",
+    "name": "Anil Sharma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mandi",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 62,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 95.6,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23900000,
+    "ladFundUnspentINR": 1100000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Mandi Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8364999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5975000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4780000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4780000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 59000000,
+    "declaredLiabilitiesINR": 3900000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Mandi.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Anil Sharma represents the commercial and cultural heart of Mandi district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3000",
+    "name": "Sukhvinder Singh Sukhu",
+    "role": "Chief Minister of Himachal Pradesh",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/sukhvinder_singh_sukhu.jpg",
+    "constituencyName": "Nadaun",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 105,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 99.2,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24800000,
+    "ladFundUnspentINR": 200000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nadaun Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8680000,
+        "status": "Completed"
+      },
+      {
+        "category": "Hamirpur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6200000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4960000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4960000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 82000000,
+    "declaredLiabilitiesINR": 1500000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate (MA, LLB)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Nadaun.",
+    "politicalFact": "Elected representative serving the citizens of Hamirpur, Himachal Pradesh.",
+    "bio": "Sukhvinder Singh Sukhu is the 7th Chief Minister of Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3001",
+    "name": "Mukesh Agnihotri",
+    "role": "Deputy Chief Minister of Himachal Pradesh",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/mukesh_agnihotri.jpg",
+    "constituencyName": "Haroli",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 98,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 98.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24500000,
+    "ladFundUnspentINR": 500000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haroli Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8575000,
+        "status": "Completed"
+      },
+      {
+        "category": "Una Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6125000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4900000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4900000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 74000000,
+    "declaredLiabilitiesINR": 2200000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate (Public Relations & Law)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 5,
+    "funFact": "Active representative participating in key development debates for Haroli.",
+    "politicalFact": "Elected representative serving the citizens of Una, Himachal Pradesh.",
+    "bio": "Mukesh Agnihotri is the 1st Deputy Chief Minister of Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3002",
+    "name": "Dhani Ram Shandil",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Solan (SC)",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 58,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 96.4,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24100000,
+    "ladFundUnspentINR": 900000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Solan (SC) Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8435000,
+        "status": "Completed"
+      },
+      {
+        "category": "Solan Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6025000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4820000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4820000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 48000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Doctorate (Ph.D / Retd. Col)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Solan (SC).",
+    "politicalFact": "Elected representative serving the citizens of Solan, Himachal Pradesh.",
+    "bio": "Col. Dr. Dhani Ram Shandil is an esteemed military veteran and senior cabinet minister representing Solan.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3003",
+    "name": "Harish Janartha",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shimla Urban",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 60,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 95.6,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23900000,
+    "ladFundUnspentINR": 1100000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Shimla Urban Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8364999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5975000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4780000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4780000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 46000000,
+    "declaredLiabilitiesINR": 2900000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Shimla Urban.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Harish Janartha represents the historic state capital constituency of Shimla Urban.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3004",
+    "name": "Vikramaditya Singh",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/candidates/vikramaditya_singh.jpg",
+    "constituencyName": "Shimla Rural",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 72,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 97.6,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 24400000,
+    "ladFundUnspentINR": 600000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Shimla Rural Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8540000,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 6100000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4880000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4880000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 91000000,
+    "declaredLiabilitiesINR": 4200000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate (MA History)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Shimla Rural.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Vikramaditya Singh is a prominent youth cabinet minister representing Shimla Rural.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3005",
+    "name": "Jagat Singh Negi",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kinnaur (ST)",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 94.8,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23700000,
+    "ladFundUnspentINR": 1300000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kinnaur (ST) Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8294999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kinnaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5925000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4740000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4740000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 38000000,
+    "declaredLiabilitiesINR": 1800000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate (LLB)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Kinnaur (ST).",
+    "politicalFact": "Elected representative serving the citizens of Kinnaur, Himachal Pradesh.",
+    "bio": "Jagat Singh Negi represents the high-altitude tribal border constituency of Kinnaur.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3006",
+    "name": "Ranbir Singh",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nurpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nurpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nurpur.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Ranbir Singh is the elected MLA representing Nurpur, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3007",
+    "name": "Malender Rajan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Indora",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Indora Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Indora.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Malender Rajan is the elected MLA representing Indora, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3008",
+    "name": "Bhawani Singh Pathania",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Fatehpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Fatehpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Fatehpur.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Bhawani Singh Pathania is the elected MLA representing Fatehpur, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3009",
+    "name": "Chander Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jawali",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jawali Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jawali.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Chander Kumar is the elected MLA representing Jawali, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3010",
+    "name": "Sanjay Rattan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jwalamukhi",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jwalamukhi Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jwalamukhi.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Sanjay Rattan is the elected MLA representing Jwalamukhi, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3011",
+    "name": "Yadvinder Goma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jaisinghpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jaisinghpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jaisinghpur.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Yadvinder Goma is the elected MLA representing Jaisinghpur, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3012",
+    "name": "Vipin Singh Parmar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sullah",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sullah Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sullah.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Vipin Singh Parmar is the elected MLA representing Sullah, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3013",
+    "name": "Ashish Butail",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Palampur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Palampur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Palampur.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Ashish Butail is the elected MLA representing Palampur, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3014",
+    "name": "Kishori Lal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Baijnath",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Baijnath Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Baijnath.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Kishori Lal is the elected MLA representing Baijnath, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3015",
+    "name": "Kewal Singh Pathania",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shahpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Shahpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kangra Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Shahpur.",
+    "politicalFact": "Elected representative serving the citizens of Kangra, Himachal Pradesh.",
+    "bio": "Kewal Singh Pathania is the elected MLA representing Shahpur, Kangra, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3016",
+    "name": "Deepraj Kapoor",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Karsog",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Karsog Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Karsog.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Deepraj Kapoor is the elected MLA representing Karsog, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3017",
+    "name": "Rakesh Jamwal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sundernagar",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sundernagar Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sundernagar.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Rakesh Jamwal is the elected MLA representing Sundernagar, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3018",
+    "name": "Vinod Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nachan",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nachan Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nachan.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Vinod Kumar is the elected MLA representing Nachan, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3019",
+    "name": "Puran Chand Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Darang",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Darang Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Darang.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Puran Chand Thakur is the elected MLA representing Darang, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3020",
+    "name": "Prakash Rana",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jogindernagar",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jogindernagar Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jogindernagar.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Prakash Rana is the elected MLA representing Jogindernagar, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3021",
+    "name": "Chander Shekhar Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dharampur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dharampur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 47,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dharampur.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Chander Shekhar Thakur is the elected MLA representing Dharampur, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3022",
+    "name": "Inder Singh  Gandhi",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Balh",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Balh Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Balh.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Inder Singh  Gandhi is the elected MLA representing Balh, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3023",
+    "name": "Dalip Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sarkaghat",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sarkaghat Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Mandi Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sarkaghat.",
+    "politicalFact": "Elected representative serving the citizens of Mandi, Himachal Pradesh.",
+    "bio": "Dalip Thakur is the elected MLA representing Sarkaghat, Mandi, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3024",
+    "name": "Bhuvneshwar Gaur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Manali",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Manali Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kullu Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Manali.",
+    "politicalFact": "Elected representative serving the citizens of Kullu, Himachal Pradesh.",
+    "bio": "Bhuvneshwar Gaur is the elected MLA representing Manali, Kullu, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3025",
+    "name": "Sunder Singh Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kullu",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kullu Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kullu Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kullu.",
+    "politicalFact": "Elected representative serving the citizens of Kullu, Himachal Pradesh.",
+    "bio": "Sunder Singh Thakur is the elected MLA representing Kullu, Kullu, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3026",
+    "name": "Surender Shourie",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Banjar",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Banjar Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kullu Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Banjar.",
+    "politicalFact": "Elected representative serving the citizens of Kullu, Himachal Pradesh.",
+    "bio": "Surender Shourie is the elected MLA representing Banjar, Kullu, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3027",
+    "name": "Lokender Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Anni",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Anni Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Kullu Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Anni.",
+    "politicalFact": "Elected representative serving the citizens of Kullu, Himachal Pradesh.",
+    "bio": "Lokender Kumar is the elected MLA representing Anni, Kullu, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3028",
+    "name": "Ravi Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Lahaul and Spiti",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Lahaul and Spiti Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Lahaul and Spiti Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 40,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Lahaul and Spiti.",
+    "politicalFact": "Elected representative serving the citizens of Lahaul and Spiti, Himachal Pradesh.",
+    "bio": "Ravi Thakur is the elected MLA representing Lahaul and Spiti, Lahaul and Spiti, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3029",
+    "name": "Inder Dutt Lakhanpal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Barsar",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Barsar Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Hamirpur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Barsar.",
+    "politicalFact": "Elected representative serving the citizens of Hamirpur, Himachal Pradesh.",
+    "bio": "Inder Dutt Lakhanpal is the elected MLA representing Barsar, Hamirpur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3030",
+    "name": "Ashish Sharma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Hamirpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Hamirpur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Hamirpur.",
+    "politicalFact": "Elected representative serving the citizens of Hamirpur, Himachal Pradesh.",
+    "bio": "Ashish Sharma is the elected MLA representing Hamirpur, Hamirpur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3031",
+    "name": "Suresh Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhoranj",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Bhoranj Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Hamirpur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 24,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bhoranj.",
+    "politicalFact": "Elected representative serving the citizens of Hamirpur, Himachal Pradesh.",
+    "bio": "Suresh Kumar is the elected MLA representing Bhoranj, Hamirpur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3032",
+    "name": "Rajinder Rana",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sujanpur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sujanpur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Hamirpur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 26,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sujanpur.",
+    "politicalFact": "Elected representative serving the citizens of Hamirpur, Himachal Pradesh.",
+    "bio": "Rajinder Rana is the elected MLA representing Sujanpur, Hamirpur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3033",
+    "name": "Sudarshan Singh Babloo",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chintpurni",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chintpurni Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Una Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Chintpurni.",
+    "politicalFact": "Elected representative serving the citizens of Una, Himachal Pradesh.",
+    "bio": "Sudarshan Singh Babloo is the elected MLA representing Chintpurni, Una, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3034",
+    "name": "Chaitanya Sharma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Gagret",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Gagret Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Una Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 47,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Gagret.",
+    "politicalFact": "Elected representative serving the citizens of Una, Himachal Pradesh.",
+    "bio": "Chaitanya Sharma is the elected MLA representing Gagret, Una, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3035",
+    "name": "Satpal Singh Satti",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Una",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Una Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Una Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Una.",
+    "politicalFact": "Elected representative serving the citizens of Una, Himachal Pradesh.",
+    "bio": "Satpal Singh Satti is the elected MLA representing Una, Una, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3036",
+    "name": "Davinder Kumar Bhutto",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kutlehar",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kutlehar Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Una Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kutlehar.",
+    "politicalFact": "Elected representative serving the citizens of Una, Himachal Pradesh.",
+    "bio": "Davinder Kumar Bhutto is the elected MLA representing Kutlehar, Una, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3037",
+    "name": "Jeet Ram Katwal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jhanduta",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jhanduta Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Bilaspur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 41,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jhanduta.",
+    "politicalFact": "Elected representative serving the citizens of Bilaspur, Himachal Pradesh.",
+    "bio": "Jeet Ram Katwal is the elected MLA representing Jhanduta, Bilaspur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3038",
+    "name": "Rajesh Dharmani",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ghumarwin",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Ghumarwin Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Bilaspur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ghumarwin.",
+    "politicalFact": "Elected representative serving the citizens of Bilaspur, Himachal Pradesh.",
+    "bio": "Rajesh Dharmani is the elected MLA representing Ghumarwin, Bilaspur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3039",
+    "name": "Trilok Jamwal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bilaspur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Bilaspur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Bilaspur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bilaspur.",
+    "politicalFact": "Elected representative serving the citizens of Bilaspur, Himachal Pradesh.",
+    "bio": "Trilok Jamwal is the elected MLA representing Bilaspur, Bilaspur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3040",
+    "name": "Randhir Sharma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sri Naina Deviji",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sri Naina Deviji Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Bilaspur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sri Naina Deviji.",
+    "politicalFact": "Elected representative serving the citizens of Bilaspur, Himachal Pradesh.",
+    "bio": "Randhir Sharma is the elected MLA representing Sri Naina Deviji, Bilaspur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3041",
+    "name": "Sanjay Awasthy",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Arki",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Arki Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Solan Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Arki.",
+    "politicalFact": "Elected representative serving the citizens of Solan, Himachal Pradesh.",
+    "bio": "Sanjay Awasthy is the elected MLA representing Arki, Solan, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3042",
+    "name": "K.L. Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nalagarh",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nalagarh Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Solan Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nalagarh.",
+    "politicalFact": "Elected representative serving the citizens of Solan, Himachal Pradesh.",
+    "bio": "K.L. Thakur is the elected MLA representing Nalagarh, Solan, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3043",
+    "name": "Ram Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Doon",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Doon Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Solan Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Doon.",
+    "politicalFact": "Elected representative serving the citizens of Solan, Himachal Pradesh.",
+    "bio": "Ram Kumar is the elected MLA representing Doon, Solan, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3044",
+    "name": "Vinod Kumar Sultanpuri",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kasauli",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kasauli Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Solan Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kasauli.",
+    "politicalFact": "Elected representative serving the citizens of Solan, Himachal Pradesh.",
+    "bio": "Vinod Kumar Sultanpuri is the elected MLA representing Kasauli, Solan, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3045",
+    "name": "Reena Kashyap",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pachhad",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pachhad Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sirmaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pachhad.",
+    "politicalFact": "Elected representative serving the citizens of Sirmaur, Himachal Pradesh.",
+    "bio": "Reena Kashyap is the elected MLA representing Pachhad, Sirmaur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3046",
+    "name": "Ajay Solanki",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nahan",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nahan Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sirmaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nahan.",
+    "politicalFact": "Elected representative serving the citizens of Sirmaur, Himachal Pradesh.",
+    "bio": "Ajay Solanki is the elected MLA representing Nahan, Sirmaur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3047",
+    "name": "Vinay Kumar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sri Renukaji",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Sri Renukaji Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sirmaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sri Renukaji.",
+    "politicalFact": "Elected representative serving the citizens of Sirmaur, Himachal Pradesh.",
+    "bio": "Vinay Kumar is the elected MLA representing Sri Renukaji, Sirmaur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3048",
+    "name": "Sukh Ram Chaudhary",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Paonta Sahib",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Paonta Sahib Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sirmaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Paonta Sahib.",
+    "politicalFact": "Elected representative serving the citizens of Sirmaur, Himachal Pradesh.",
+    "bio": "Sukh Ram Chaudhary is the elected MLA representing Paonta Sahib, Sirmaur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3049",
+    "name": "Harshwardhan Chauhan",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Shillai",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Shillai Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Sirmaur Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 60,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Shillai.",
+    "politicalFact": "Elected representative serving the citizens of Sirmaur, Himachal Pradesh.",
+    "bio": "Harshwardhan Chauhan is the elected MLA representing Shillai, Sirmaur, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3050",
+    "name": "Balbir Singh Verma",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chopal",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chopal Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Chopal.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Balbir Singh Verma is the elected MLA representing Chopal, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3051",
+    "name": "Kuldeep Singh Rathore",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Theog",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Theog Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Theog.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Kuldeep Singh Rathore is the elected MLA representing Theog, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3052",
+    "name": "Anirudh Singh",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kasumpti",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Kasumpti Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kasumpti.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Anirudh Singh is the elected MLA representing Kasumpti, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3053",
+    "name": "Rohit Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jubbal-Kotkhai",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Jubbal-Kotkhai Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 39,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jubbal-Kotkhai.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Rohit Thakur is the elected MLA representing Jubbal-Kotkhai, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3054",
+    "name": "Chander Shekhar Thakur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rampur",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Rampur Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 57,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rampur.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Chander Shekhar Thakur is the elected MLA representing Rampur, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "hi_3055",
+    "name": "Mohan Lal Brakta",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rohru",
+    "state": "Himachal Pradesh",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Himachal Pradesh Vidhayak Kshetra Vikas Nidhi (VKVN)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 25000000,
+    "ladFundUtilizedINR": 23000000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Himachal Pradesh Planning Department & District Rural Development Agency",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Rohru Hill Valley Roads & Retaining Wall Reinforcements",
+        "percentage": 35,
+        "allocatedINR": 8049999,
+        "status": "Completed"
+      },
+      {
+        "category": "Shimla Cold-Weather Water Supply Pipelines & Storage",
+        "percentage": 25,
+        "allocatedINR": 5750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Community Health Center Oxygen & Diagnostic Aid",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Govt High School Smart Science Labs",
+        "percentage": 20,
+        "allocatedINR": 4600000,
+        "status": "Under Implementation"
+      }
+    ],
+    "debatesParticipated": 56,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 2000000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rohru.",
+    "politicalFact": "Elected representative serving the citizens of Shimla, Himachal Pradesh.",
+    "bio": "Mohan Lal Brakta is the elected MLA representing Rohru, Shimla, Himachal Pradesh.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Himachal Pradesh Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Himachal Pradesh Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]
