@@ -135,30 +135,36 @@ The user noted that data on the internet does not match app data for prominent l
    - Add clear source tags: *"Verified via ECI Form 26 (2024 General Elections) & MPLADS Public Dashboard"*.
 
 ### Focus Area 2: Ingest Remaining States & Union Territories
-Expand from 17 states/UTs to complete India-wide coverage:
+We have successfully ingested and verified:
+- **States Fully Ingested**: Uttar Pradesh, Maharashtra, Bihar, West Bengal, Tamil Nadu, Karnataka, Gujarat, Rajasthan, Andhra Pradesh (175 ACs), Telangana, Kerala, Punjab, Jharkhand (81 ACs), Assam, Chhattisgarh, Haryana, Himachal Pradesh (68 ACs), Goa.
+- **UTs Ingested**: Delhi, Jammu & Kashmir, Ladakh, Puducherry, Chandigarh.
+
+**Remaining Targets for Next Session** (adhering strictly to today's verified standards):
 - **Major States**:
   - Odisha (147 ACs)
-  - Andhra Pradesh (175 ACs)
   - Madhya Pradesh (230 ACs)
-  - Jharkhand (81 ACs)
-  - Himachal Pradesh (68 ACs)
   - Uttarakhand (70 ACs)
 - **Northeast States**:
   - Tripura (60 ACs), Meghalaya (60 ACs), Nagaland (60 ACs), Manipur (60 ACs), Mizoram (40 ACs), Arunachal Pradesh (60 ACs), Sikkim (32 ACs).
-- **Union Territories**:
-  - Chandigarh (1 PC), Ladakh (1 PC), Puducherry (30 ACs), Andaman & Nicobar, Dadra & Nagar Haveli / Daman & Diu, Lakshadweep.
+- **Island UTs**:
+  - Andaman & Nicobar (1 PC), Dadra & Nagar Haveli / Daman & Diu (2 PCs), Lakshadweep (1 PC).
 
 ### Focus Area 3: Pre-Ingestion Checklist for Each State
-To guarantee zero defects when adding new states:
-- [ ] Verify each executive leader (CM, Deputy CM, LoP) has an authentic high-resolution portrait.
-- [ ] Confirm party symbols match official party affiliations (no Independent fallback when official SVG exists).
-- [ ] Verify district civic insights have realistic local facts and specific challenges.
-- [ ] Run automated compiler validation (`npm run build`) before showing to user.
+To maintain the high standards established today:
+- [ ] Central MPLADS (₹5 Cr/yr) vs State MLA-LADS visual & data segregation.
+- [ ] Sworn ECI Form 26 legal disclosures (up to 20 declared cases with court jurisdiction, charges, and status).
+- [ ] Unique article-specific source verification URLs for all 3 media spotlight articles.
+- [ ] Authentic Chief Minister high-res portrait & official party vector logos.
+- [ ] State Sanskrit motto, authentic translation, and sacred scriptural source.
+- [ ] Distinct district civic insights, historical milestones, and governance challenges.
+- [ ] Automated headless compiler validation (`npm run build`) with zero TypeScript errors.
 
 ---
 
 ## 4. Current Repository State
 - **Branch**: `main`
-- **Latest Commit**: `e81d5b0`
+- **Latest Commit**: `162987e` (pushed to `origin/main` on GitHub)
 - **Working Tree**: Clean (all changes committed and pushed to remote)
-- **Local Dev Server**: Stopped / Closed
+- **Local Container / Preview Server**: Safely stopped and closed
+- **Production Status**: Live on Vercel Edge (`https://neta-pulse.vercel.app`)
+
