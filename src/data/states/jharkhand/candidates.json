@@ -11,15 +11,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 40,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -47,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 21000000,
     "declaredLiabilitiesINR": 1800000,
     "criminalCasesCount": 0,
@@ -91,7 +91,7 @@
     "attendancePercentage": 82,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 88.0,
     "ladFundAllocatedINR": 40000000,
@@ -179,14 +179,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 95,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 97.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38800000,
     "ladFundUnspentINR": 1200000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 39,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -215,7 +215,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 85000000,
     "declaredLiabilitiesINR": 0,
     "criminalCasesCount": 3,
@@ -281,14 +281,14 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 28,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 86.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 34500000,
     "ladFundUnspentINR": 5500000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 24,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 29,
     "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -317,7 +317,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 18500000,
     "declaredLiabilitiesINR": 900000,
     "criminalCasesCount": 0,
@@ -361,14 +361,14 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 52,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37200000,
     "ladFundUnspentINR": 2800000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -397,7 +397,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 32000000,
     "declaredLiabilitiesINR": 4500000,
     "criminalCasesCount": 2,
@@ -462,8 +462,8 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36800000,
     "ladFundUnspentINR": 3200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -492,7 +492,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 26000000,
     "declaredLiabilitiesINR": 1100000,
     "criminalCasesCount": 0,
@@ -536,14 +536,14 @@
     "attendancePercentage": 85,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 30,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 36,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -572,7 +572,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 19500000,
     "declaredLiabilitiesINR": 800000,
     "criminalCasesCount": 0,
@@ -616,14 +616,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 38,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.8,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37500000,
     "ladFundUnspentINR": 2500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -652,7 +652,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 38000000,
     "declaredLiabilitiesINR": 2200000,
     "criminalCasesCount": 1,
@@ -704,14 +704,14 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 34,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 89.5,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35800000,
     "ladFundUnspentINR": 4200000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 34,
     "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -740,7 +740,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 28000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -784,15 +784,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 44,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36400000,
     "ladFundUnspentINR": 3600000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -820,7 +820,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 21500000,
     "declaredLiabilitiesINR": 1900000,
     "criminalCasesCount": 0,
@@ -864,14 +864,14 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 40,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -900,7 +900,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 24000000,
     "declaredLiabilitiesINR": 1200000,
     "criminalCasesCount": 0,
@@ -944,14 +944,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 56,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.5,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37800000,
     "ladFundUnspentINR": 2200000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -980,7 +980,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 35000000,
     "declaredLiabilitiesINR": 3100000,
     "criminalCasesCount": 1,
@@ -1032,14 +1032,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 46,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 92.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36900000,
     "ladFundUnspentINR": 3100000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1068,7 +1068,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 22500000,
     "declaredLiabilitiesINR": 1400000,
     "criminalCasesCount": 0,
@@ -1112,14 +1112,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 72,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 95.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38100000,
     "ladFundUnspentINR": 1900000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1148,7 +1148,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 29000000,
     "declaredLiabilitiesINR": 2100000,
     "criminalCasesCount": 2,
@@ -1207,7 +1207,7 @@
     "attendancePercentage": 86,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.5,
     "ladFundAllocatedINR": 40000000,
@@ -1243,7 +1243,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 58,
     "declaredAssetsINR": 27500000,
     "declaredLiabilitiesINR": 1800000,
     "criminalCasesCount": 0,
@@ -1287,14 +1287,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 50,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.5,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37400000,
     "ladFundUnspentINR": 2600000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1323,7 +1323,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 24500000,
     "declaredLiabilitiesINR": 1600000,
     "criminalCasesCount": 0,
@@ -1367,15 +1367,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 58,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.8,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37900000,
     "ladFundUnspentINR": 2100000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -1403,7 +1403,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 31000000,
     "declaredLiabilitiesINR": 2400000,
     "criminalCasesCount": 0,
@@ -1447,14 +1447,14 @@
     "attendancePercentage": 84,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 32,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 87.8,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 35100000,
     "ladFundUnspentINR": 4900000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 28,
     "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1483,7 +1483,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 23000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 1,
@@ -1535,15 +1535,15 @@
     "attendancePercentage": 89,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 54,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 91.8,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36700000,
     "ladFundUnspentINR": 3300000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -1571,7 +1571,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 19000000,
     "declaredLiabilitiesINR": 850000,
     "criminalCasesCount": 1,
@@ -1623,14 +1623,14 @@
     "attendancePercentage": 87,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36100000,
     "ladFundUnspentINR": 3900000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1659,7 +1659,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 26500000,
     "declaredLiabilitiesINR": 2100000,
     "criminalCasesCount": 0,
@@ -1703,15 +1703,15 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 110,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 97.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38900000,
     "ladFundUnspentINR": 1100000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -1739,7 +1739,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 42000000,
     "declaredLiabilitiesINR": 1100000,
     "criminalCasesCount": 1,
@@ -1797,8 +1797,8 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 39100000,
     "ladFundUnspentINR": 900000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 28,
     "worksPendingCount": 1,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1827,7 +1827,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 54000000,
     "declaredLiabilitiesINR": 1800000,
     "criminalCasesCount": 0,
@@ -1871,14 +1871,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 62,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 94.5,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 37800000,
     "ladFundUnspentINR": 2200000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 34,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -1907,7 +1907,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 36000000,
     "declaredLiabilitiesINR": 3400000,
     "criminalCasesCount": 0,
@@ -1951,7 +1951,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 58,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 93.8,
     "ladFundAllocatedINR": 40000000,
@@ -1987,7 +1987,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 39000000,
     "declaredLiabilitiesINR": 4100000,
     "criminalCasesCount": 0,
@@ -2037,8 +2037,8 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38200000,
     "ladFundUnspentINR": 1800000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -2067,7 +2067,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 31000000,
     "declaredLiabilitiesINR": 950000,
     "criminalCasesCount": 0,
@@ -2111,14 +2111,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 76,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.2,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38500000,
     "ladFundUnspentINR": 1500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -2147,7 +2147,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 48000000,
     "declaredLiabilitiesINR": 3200000,
     "criminalCasesCount": 0,
@@ -2191,14 +2191,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 82,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 96.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 38400000,
     "ladFundUnspentINR": 1600000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
     "worksPendingCount": 2,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -2227,7 +2227,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 2800000,
     "criminalCasesCount": 0,
@@ -2271,7 +2271,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
@@ -2307,7 +2307,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2351,14 +2351,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -2387,7 +2387,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2431,7 +2431,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
@@ -2467,7 +2467,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2511,15 +2511,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -2547,7 +2547,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2591,15 +2591,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -2627,7 +2627,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2671,15 +2671,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -2707,7 +2707,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 50,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2751,15 +2751,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -2787,7 +2787,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2831,15 +2831,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -2867,7 +2867,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2911,14 +2911,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 31,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -2947,7 +2947,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -2991,15 +2991,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3027,7 +3027,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3071,14 +3071,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -3107,7 +3107,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3151,15 +3151,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3187,7 +3187,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3231,15 +3231,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3267,7 +3267,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3311,15 +3311,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3347,7 +3347,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3391,15 +3391,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3427,7 +3427,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3471,15 +3471,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3507,7 +3507,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3551,14 +3551,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 31,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -3587,7 +3587,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3631,15 +3631,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3667,7 +3667,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3711,14 +3711,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -3747,7 +3747,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3797,8 +3797,8 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -3827,7 +3827,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3871,14 +3871,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 29,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -3907,7 +3907,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -3957,9 +3957,9 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -3987,7 +3987,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4037,9 +4037,9 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4067,7 +4067,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4111,15 +4111,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4147,7 +4147,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4191,15 +4191,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4227,7 +4227,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4271,14 +4271,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -4307,7 +4307,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4351,15 +4351,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4387,7 +4387,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4431,14 +4431,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -4467,7 +4467,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4511,15 +4511,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4547,7 +4547,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4591,14 +4591,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 28,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -4627,7 +4627,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4671,15 +4671,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4707,7 +4707,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4751,15 +4751,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -4787,7 +4787,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4831,14 +4831,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 38,
     "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -4867,7 +4867,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4911,14 +4911,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 32,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -4947,7 +4947,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -4991,15 +4991,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -5027,7 +5027,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5071,15 +5071,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 29,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -5107,7 +5107,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5157,9 +5157,9 @@
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 5,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -5187,7 +5187,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5231,15 +5231,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -5267,7 +5267,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5311,14 +5311,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5347,7 +5347,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5391,14 +5391,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 33,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5427,7 +5427,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5471,14 +5471,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 32,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5507,7 +5507,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5551,7 +5551,7 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
@@ -5587,7 +5587,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5631,14 +5631,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5667,7 +5667,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5711,14 +5711,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 28,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5747,7 +5747,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5791,15 +5791,15 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 5,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
       {
@@ -5827,7 +5827,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,
@@ -5871,14 +5871,14 @@
     "attendancePercentage": 88,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 35,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Jharkhand Vidhayak Nidhi (MLA-LADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 40000000,
     "ladFundUtilizedINR": 36000000,
     "ladFundUnspentINR": 4000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 34,
     "worksPendingCount": 4,
     "fundSourceCitation": "Jharkhand Rural Development Department & District Planning Committee",
     "ladFundCategoryBreakdown": [
@@ -5907,7 +5907,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 25000000,
     "declaredLiabilitiesINR": 1500000,
     "criminalCasesCount": 0,

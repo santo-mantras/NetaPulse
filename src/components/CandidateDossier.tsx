@@ -1237,6 +1237,7 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                 fiscalHealth: string;
                                 socialProgressIndex: string;
                                 historicalFact: string;
+                                sanskritMotto?: { shloka: string; meaning: string; source: string; };
                                 totalAssembly: number;
                                 totalLokSabha: number;
                                 totalDistricts: number;
@@ -1833,6 +1834,36 @@ export const CandidateDossier: React.FC<CandidateDossierProps> = ({
                                             </div>
                                         </div>
                                     </div>
+
+                                    {/* Sanskrit Motto Card */}
+                                    {currStateInfo.sanskritMotto && (
+                                        <div className="p-4 bg-white dark:bg-slate-900/90 rounded-2xl border border-amber-200 dark:border-amber-500/30 border-l-4 border-l-amber-500 shadow-sm relative overflow-hidden">
+                                            <div className="flex items-start sm:items-center gap-3.5 relative z-10">
+                                                <div className="w-10 h-10 rounded-xl bg-amber-50 dark:bg-amber-500/20 border border-amber-300 dark:border-amber-400/30 flex items-center justify-center text-amber-700 dark:text-amber-400 shrink-0 shadow-xs">
+                                                    <Sparkles className="w-5 h-5 text-amber-600 dark:text-amber-400" />
+                                                </div>
+                                                <div className="flex-1 min-w-0">
+                                                    <div className="flex items-center gap-2 flex-wrap">
+                                                        <span className="px-2 py-0.5 rounded-md text-[10px] uppercase tracking-wider font-extrabold bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 border border-amber-300/70 dark:border-amber-700/50">
+                                                            State Civilizational Motto (आदर्श वाक्य)
+                                                        </span>
+                                                        <span className="text-slate-400 dark:text-slate-500 text-xs">•</span>
+                                                        <span className="text-xs font-bold text-slate-700 dark:text-slate-300">
+                                                            {currStateInfo.sanskritMotto.source}
+                                                        </span>
+                                                    </div>
+                                                    <div className="mt-1.5 flex flex-col sm:flex-row sm:items-baseline gap-1 sm:gap-3">
+                                                        <span className="text-lg sm:text-xl font-black text-slate-950 dark:text-amber-100 tracking-wide font-serif">
+                                                            "{currStateInfo.sanskritMotto.shloka}"
+                                                        </span>
+                                                        <span className="text-xs sm:text-sm font-semibold text-slate-700 dark:text-slate-300 italic">
+                                                            — {currStateInfo.sanskritMotto.meaning}
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    )}
 
                                     {/* 2. State Executive Leadership (CM & Deputy CM) */}
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">

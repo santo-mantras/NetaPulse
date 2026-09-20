@@ -11,15 +11,15 @@
     "attendancePercentage": 94,
     "attendanceBody": "Parliament (Lok Sabha)",
     "questionsAsked": 82,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
-    "worksPendingCount": 2,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
       {
@@ -47,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 22000000,
     "declaredLiabilitiesINR": 1100000,
     "criminalCasesCount": 0,

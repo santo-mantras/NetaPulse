@@ -1,16 +1,28 @@
 """
 NetaPulse State Profiles Catalog
 Maintains verified state governance profiles including Chief Ministers, Deputy Chief Ministers,
-Macroeconomic Indicators (GSDP, Per Capita), Fiscal Health, Social Progress Index, and Historical Legacies.
+Macroeconomic Indicators (GSDP, Per Capita), Fiscal Health, Social Progress Index, Historical Legacies,
+and Civilizational Sanskrit Mottos with authentic scriptural citations.
 Enables automated periodic updates via GitHub Actions workflow.
 """
 
 STATE_PROFILES = {
     "Maharashtra": {
-        "chiefMinister": { "name": "Devendra Fadnavis", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/devendra_fadnavis.jpg" },
+        "chiefMinister": {
+            "name": "Devendra Fadnavis",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/devendra_fadnavis.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Eknath Shinde", "party": "Shiv Sena" },
-            { "name": "Sunetra Pawar", "party": "NCP" }
+            {
+                "name": "Eknath Shinde",
+                "party": "Shiv Sena"
+            },
+            {
+                "name": "Sunetra Pawar",
+                "party": "NCP"
+            }
         ],
         "gsdpINR": "₹42.67 Lakh Cr",
         "perCapitaIncomeINR": "₹2,52,389",
@@ -31,18 +43,54 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 105, "pct": 36.5 },
-            { "party": "Shiv Sena", "seats": 56, "pct": 19.4 },
-            { "party": "Nationalist Congress Party", "seats": 54, "pct": 18.8 },
-            { "party": "Indian National Congress", "seats": 44, "pct": 15.3 },
-            { "party": "Shiv Sena (UBT) & Others", "seats": 29, "pct": 10.0 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 105,
+                "pct": 36.5
+            },
+            {
+                "party": "Shiv Sena",
+                "seats": 56,
+                "pct": 19.4
+            },
+            {
+                "party": "Nationalist Congress Party",
+                "seats": 54,
+                "pct": 18.8
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 44,
+                "pct": 15.3
+            },
+            {
+                "party": "Shiv Sena (UBT) & Others",
+                "seats": 29,
+                "pct": 10.0
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "यतो धर्मस्ततो जयः",
+            "meaning": "Where there is righteousness, there is victory.",
+            "source": "Mahābhārata (भीष्मपर्व 23.43)"
+        }
     },
     "Bihar": {
-        "chiefMinister": { "name": "Samrat Choudhary", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg", "photoUrl": "/assets/candidates/samrat_choudhary.jpg" },
+        "chiefMinister": {
+            "name": "Samrat Choudhary",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/samrat_choudhary.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Vijay Kumar Chaudhary", "party": "JD(U)" },
-            { "name": "Bijendra Prasad Yadav", "party": "JD(U)" }
+            {
+                "name": "Vijay Kumar Chaudhary",
+                "party": "JD(U)"
+            },
+            {
+                "name": "Bijendra Prasad Yadav",
+                "party": "JD(U)"
+            }
         ],
         "gsdpINR": "₹8.58 Lakh Cr",
         "perCapitaIncomeINR": "₹59,637",
@@ -66,19 +114,65 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Rashtriya Janata Dal", "seats": 75, "pct": 30.9 },
-            { "party": "Bharatiya Janata Party", "seats": 74, "pct": 30.5 },
-            { "party": "Janata Dal (United)", "seats": 43, "pct": 17.7 },
-            { "party": "Indian National Congress", "seats": 19, "pct": 7.8 },
-            { "party": "Communist Party of India (Marxist-Leninist) Liberation", "seats": 12, "pct": 4.9 },
-            { "party": "All India Majlis-e-Ittehadul Muslimeen", "seats": 5, "pct": 2.1 },
-            { "party": "Hindustani Awam Morcha (Secular)", "seats": 4, "pct": 1.6 },
-            { "party": "Vikassheel Insaan Party", "seats": 4, "pct": 1.6 },
-            { "party": "Others / Independents", "seats": 7, "pct": 2.9 }
-        ]
+            {
+                "party": "Rashtriya Janata Dal",
+                "seats": 75,
+                "pct": 30.9
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 74,
+                "pct": 30.5
+            },
+            {
+                "party": "Janata Dal (United)",
+                "seats": 43,
+                "pct": 17.7
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 19,
+                "pct": 7.8
+            },
+            {
+                "party": "Communist Party of India (Marxist-Leninist) Liberation",
+                "seats": 12,
+                "pct": 4.9
+            },
+            {
+                "party": "All India Majlis-e-Ittehadul Muslimeen",
+                "seats": 5,
+                "pct": 2.1
+            },
+            {
+                "party": "Hindustani Awam Morcha (Secular)",
+                "seats": 4,
+                "pct": 1.6
+            },
+            {
+                "party": "Vikassheel Insaan Party",
+                "seats": 4,
+                "pct": 1.6
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 7,
+                "pct": 2.9
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सत्यमेव जयते नानृतम्",
+            "meaning": "Truth alone triumphs, not falsehood.",
+            "source": "Mundaka Upanishad (मुण्डकोपनिषद् 3.1.6)"
+        }
     },
     "West Bengal": {
-        "chiefMinister": { "name": "Suvendu Adhikari", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/suvendu_adhikari.jpg" },
+        "chiefMinister": {
+            "name": "Suvendu Adhikari",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/suvendu_adhikari.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹18.84 Lakh Cr",
         "perCapitaIncomeINR": "₹1,41,373",
@@ -98,16 +192,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 150, "pct": 51.0 },
-            { "party": "All India Trinamool Congress", "seats": 140, "pct": 47.6 },
-            { "party": "Indian Secular Front", "seats": 2, "pct": 0.7 },
-            { "party": "Others / Independents", "seats": 2, "pct": 0.7 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 150,
+                "pct": 51.0
+            },
+            {
+                "party": "All India Trinamool Congress",
+                "seats": 140,
+                "pct": 47.6
+            },
+            {
+                "party": "Indian Secular Front",
+                "seats": 2,
+                "pct": 0.7
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 2,
+                "pct": 0.7
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "आत्मनो मोक्षार्थं जगद्धिताय च",
+            "meaning": "For one's own spiritual liberation and for the welfare of the world.",
+            "source": "Rigveda & Swami Vivekananda"
+        }
     },
     "Karnataka": {
-        "chiefMinister": { "name": "D. K. Shivakumar", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/ka_dk_shivakumar.jpg" },
+        "chiefMinister": {
+            "name": "D. K. Shivakumar",
+            "party": "INC",
+            "logoUrl": "/assets/parties/INC.svg",
+            "photoUrl": "/assets/candidates/ka_dk_shivakumar.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "G. Parameshwara", "party": "INC" }
+            {
+                "name": "G. Parameshwara",
+                "party": "INC"
+            }
         ],
         "gsdpINR": "₹25.62 Lakh Cr",
         "perCapitaIncomeINR": "₹3,32,926",
@@ -126,14 +249,40 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Indian National Congress", "seats": 135, "pct": 60.3 },
-            { "party": "Bharatiya Janata Party", "seats": 66, "pct": 29.5 },
-            { "party": "Janata Dal (Secular)", "seats": 19, "pct": 8.5 },
-            { "party": "Others / Independents", "seats": 4, "pct": 1.7 }
-        ]
+            {
+                "party": "Indian National Congress",
+                "seats": 135,
+                "pct": 60.3
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 66,
+                "pct": 29.5
+            },
+            {
+                "party": "Janata Dal (Secular)",
+                "seats": 19,
+                "pct": 8.5
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 4,
+                "pct": 1.7
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सर्वे भवन्तु सुखिनः",
+            "meaning": "May all living beings abide in happiness and well-being.",
+            "source": "Brihadaranyaka Upanishad (बृहदारण्यकोपनिषद्)"
+        }
     },
     "Tamil Nadu": {
-        "chiefMinister": { "name": "C. Joseph Vijay", "party": "TVK", "logoUrl": "/assets/parties/TVK.svg" , "photoUrl": "/assets/candidates/c_joseph_vijay.jpg" },
+        "chiefMinister": {
+            "name": "C. Joseph Vijay",
+            "party": "TVK",
+            "logoUrl": "/assets/parties/TVK.svg",
+            "photoUrl": "/assets/candidates/c_joseph_vijay.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹31.55 Lakh Cr",
         "perCapitaIncomeINR": "₹3,15,220",
@@ -154,15 +303,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Tamilaga Vettri Kazhagam", "seats": 120, "pct": 51.3 },
-            { "party": "Dravida Munnetra Kazhagam", "seats": 80, "pct": 34.2 },
-            { "party": "All India Anna Dravida Munnetra Kazhagam", "seats": 25, "pct": 10.7 },
-            { "party": "Indian National Congress", "seats": 5, "pct": 2.1 },
-            { "party": "Others", "seats": 4, "pct": 1.7 }
-        ]
+            {
+                "party": "Tamilaga Vettri Kazhagam",
+                "seats": 120,
+                "pct": 51.3
+            },
+            {
+                "party": "Dravida Munnetra Kazhagam",
+                "seats": 80,
+                "pct": 34.2
+            },
+            {
+                "party": "All India Anna Dravida Munnetra Kazhagam",
+                "seats": 25,
+                "pct": 10.7
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 5,
+                "pct": 2.1
+            },
+            {
+                "party": "Others",
+                "seats": 4,
+                "pct": 1.7
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "यादूं ऊरे यावरुं केळिर",
+            "meaning": "Every township is my home, and every soul is my kinsman.",
+            "source": "Purananuru (புறநானூறு 192, Kaniyan Pungundranar)"
+        }
     },
     "Kerala": {
-        "chiefMinister": { "name": "V. D. Satheesan", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/v__d__satheesan.jpg" },
+        "chiefMinister": {
+            "name": "V. D. Satheesan",
+            "party": "INC",
+            "logoUrl": "/assets/parties/INC.svg",
+            "photoUrl": "/assets/candidates/v__d__satheesan.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.30 Lakh Cr",
         "perCapitaIncomeINR": "₹2,76,825",
@@ -183,18 +362,54 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Indian National Congress", "seats": 55, "pct": 39.3 },
-            { "party": "Communist Party of India (Marxist)", "seats": 45, "pct": 32.1 },
-            { "party": "Indian Union Muslim League", "seats": 20, "pct": 14.3 },
-            { "party": "Communist Party of India", "seats": 10, "pct": 7.1 },
-            { "party": "Others / Independents", "seats": 10, "pct": 7.1 }
-        ]
+            {
+                "party": "Indian National Congress",
+                "seats": 55,
+                "pct": 39.3
+            },
+            {
+                "party": "Communist Party of India (Marxist)",
+                "seats": 45,
+                "pct": 32.1
+            },
+            {
+                "party": "Indian Union Muslim League",
+                "seats": 20,
+                "pct": 14.3
+            },
+            {
+                "party": "Communist Party of India",
+                "seats": 10,
+                "pct": 7.1
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 10,
+                "pct": 7.1
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "विद्ययाऽमृतमश्नुते",
+            "meaning": "Through knowledge and wisdom, one attains the immortal.",
+            "source": "Isha Upanishad (ईशोपनिषद् 11)"
+        }
     },
     "Uttar Pradesh": {
-        "chiefMinister": { "name": "Yogi Adityanath", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/yogi_adityanath.jpg" },
+        "chiefMinister": {
+            "name": "Yogi Adityanath",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/yogi_adityanath.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Keshav Prasad Maurya", "party": "BJP" },
-            { "name": "Brajesh Pathak", "party": "BJP" }
+            {
+                "name": "Keshav Prasad Maurya",
+                "party": "BJP"
+            },
+            {
+                "name": "Brajesh Pathak",
+                "party": "BJP"
+            }
         ],
         "gsdpINR": "₹27.50 Lakh Cr",
         "perCapitaIncomeINR": "₹95,200",
@@ -215,17 +430,50 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 255, "pct": 63.3 },
-            { "party": "Samajwadi Party", "seats": 111, "pct": 27.5 },
-            { "party": "Apna Dal (S)", "seats": 12, "pct": 3.0 },
-            { "party": "Rashtriya Lok Dal", "seats": 9, "pct": 2.2 },
-            { "party": "NISHAD Party & Others", "seats": 16, "pct": 4.0 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 255,
+                "pct": 63.3
+            },
+            {
+                "party": "Samajwadi Party",
+                "seats": 111,
+                "pct": 27.5
+            },
+            {
+                "party": "Apna Dal (S)",
+                "seats": 12,
+                "pct": 3.0
+            },
+            {
+                "party": "Rashtriya Lok Dal",
+                "seats": 9,
+                "pct": 2.2
+            },
+            {
+                "party": "NISHAD Party & Others",
+                "seats": 16,
+                "pct": 4.0
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "लोकाः समस्ताः सुखिनो भवन्तु",
+            "meaning": "May all beings throughout all worlds be happy and free from sorrow.",
+            "source": "Vedic Shanti Mantra"
+        }
     },
     "Gujarat": {
-        "chiefMinister": { "name": "Bhupendrabhai Patel", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhupendrabhai_patel.jpg" },
+        "chiefMinister": {
+            "name": "Bhupendrabhai Patel",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/bhupendrabhai_patel.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Harsh Sanghavi", "party": "BJP" }
+            {
+                "name": "Harsh Sanghavi",
+                "party": "BJP"
+            }
         ],
         "gsdpINR": "₹25.62 Lakh Cr",
         "perCapitaIncomeINR": "₹3,10,637",
@@ -245,18 +493,54 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 156, "pct": 85.7 },
-            { "party": "Indian National Congress", "seats": 17, "pct": 9.3 },
-            { "party": "Aam Aadmi Party", "seats": 5, "pct": 2.7 },
-            { "party": "Samajwadi Party", "seats": 1, "pct": 0.5 },
-            { "party": "Others / Independents", "seats": 3, "pct": 1.6 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 156,
+                "pct": 85.7
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 17,
+                "pct": 9.3
+            },
+            {
+                "party": "Aam Aadmi Party",
+                "seats": 5,
+                "pct": 2.7
+            },
+            {
+                "party": "Samajwadi Party",
+                "seats": 1,
+                "pct": 0.5
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 3,
+                "pct": 1.6
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "चरैवेति चरैवेति",
+            "meaning": "Keep moving forward, keep striving without pause.",
+            "source": "Aitareya Brahmana (ऐतरेय ब्राह्मण 7.15)"
+        }
     },
     "Rajasthan": {
-        "chiefMinister": { "name": "Bhajan Lal Sharma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/bhajan_lal_sharma.jpg" },
+        "chiefMinister": {
+            "name": "Bhajan Lal Sharma",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/bhajan_lal_sharma.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Diya Kumari", "party": "BJP" },
-            { "name": "Prem Chand Bairwa", "party": "BJP" }
+            {
+                "name": "Diya Kumari",
+                "party": "BJP"
+            },
+            {
+                "name": "Prem Chand Bairwa",
+                "party": "BJP"
+            }
         ],
         "gsdpINR": "₹15.28 Lakh Cr",
         "perCapitaIncomeINR": "₹1,61,289",
@@ -278,17 +562,55 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 115, "pct": 57.5 },
-            { "party": "Indian National Congress", "seats": 69, "pct": 34.5 },
-            { "party": "Bharat Adivasi Party", "seats": 3, "pct": 1.5 },
-            { "party": "Bahujan Samaj Party", "seats": 2, "pct": 1.0 },
-            { "party": "Rashtriya Loktantrik Party", "seats": 1, "pct": 0.5 },
-            { "party": "Rashtriya Lok Dal", "seats": 1, "pct": 0.5 },
-            { "party": "Others / Independents", "seats": 9, "pct": 4.5 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 115,
+                "pct": 57.5
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 69,
+                "pct": 34.5
+            },
+            {
+                "party": "Bharat Adivasi Party",
+                "seats": 3,
+                "pct": 1.5
+            },
+            {
+                "party": "Bahujan Samaj Party",
+                "seats": 2,
+                "pct": 1.0
+            },
+            {
+                "party": "Rashtriya Loktantrik Party",
+                "seats": 1,
+                "pct": 0.5
+            },
+            {
+                "party": "Rashtriya Lok Dal",
+                "seats": 1,
+                "pct": 0.5
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 9,
+                "pct": 4.5
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "वीरभोग्या वसुंधरा",
+            "meaning": "The glorious earth yields her treasures to the valorous and righteous.",
+            "source": "Sanskrit Subhashita (सुभाषित)"
+        }
     },
     "Punjab": {
-        "chiefMinister": { "name": "Bhagwant Mann", "party": "AAP", "logoUrl": "/assets/parties/AAP.svg" , "photoUrl": "/assets/candidates/bhagwant_mann.jpg" },
+        "chiefMinister": {
+            "name": "Bhagwant Mann",
+            "party": "AAP",
+            "logoUrl": "/assets/parties/AAP.svg",
+            "photoUrl": "/assets/candidates/bhagwant_mann.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹7.41 Lakh Cr",
         "perCapitaIncomeINR": "₹1,95,419",
@@ -308,15 +630,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Aam Aadmi Party", "seats": 92, "pct": 78.6 },
-            { "party": "Indian National Congress", "seats": 18, "pct": 15.4 },
-            { "party": "Shiromani Akali Dal", "seats": 3, "pct": 2.6 },
-            { "party": "Bharatiya Janata Party", "seats": 2, "pct": 1.7 },
-            { "party": "Others", "seats": 2, "pct": 1.7 }
-        ]
+            {
+                "party": "Aam Aadmi Party",
+                "seats": 92,
+                "pct": 78.6
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 18,
+                "pct": 15.4
+            },
+            {
+                "party": "Shiromani Akali Dal",
+                "seats": 3,
+                "pct": 2.6
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 2,
+                "pct": 1.7
+            },
+            {
+                "party": "Others",
+                "seats": 2,
+                "pct": 1.7
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "शुभ करमन ते कबहूं न टरों",
+            "meaning": "Grant me this boon: never to turn away from righteous and noble deeds.",
+            "source": "Sri Dasam Granth (Chandi Charitar)"
+        }
     },
     "Assam": {
-        "chiefMinister": { "name": "Himanta Biswa Sarma", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/himanta_biswa_sarma.jpg" },
+        "chiefMinister": {
+            "name": "Himanta Biswa Sarma",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/himanta_biswa_sarma.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹5.70 Lakh Cr",
         "perCapitaIncomeINR": "₹1,21,460",
@@ -340,21 +692,69 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 60, "pct": 47.6 },
-            { "party": "Indian National Congress", "seats": 29, "pct": 23.0 },
-            { "party": "All India United Democratic Front", "seats": 16, "pct": 12.7 },
-            { "party": "Asom Gana Parishad", "seats": 9, "pct": 7.1 },
-            { "party": "United People's Party Liberal", "seats": 6, "pct": 4.8 },
-            { "party": "Bodoland People's Front", "seats": 4, "pct": 3.2 },
-            { "party": "Communist Party of India (Marxist)", "seats": 1, "pct": 0.8 },
-            { "party": "Raijor Dal", "seats": 1, "pct": 0.8 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 60,
+                "pct": 47.6
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 29,
+                "pct": 23.0
+            },
+            {
+                "party": "All India United Democratic Front",
+                "seats": 16,
+                "pct": 12.7
+            },
+            {
+                "party": "Asom Gana Parishad",
+                "seats": 9,
+                "pct": 7.1
+            },
+            {
+                "party": "United People's Party Liberal",
+                "seats": 6,
+                "pct": 4.8
+            },
+            {
+                "party": "Bodoland People's Front",
+                "seats": 4,
+                "pct": 3.2
+            },
+            {
+                "party": "Communist Party of India (Marxist)",
+                "seats": 1,
+                "pct": 0.8
+            },
+            {
+                "party": "Raijor Dal",
+                "seats": 1,
+                "pct": 0.8
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सत्यमेव जयते",
+            "meaning": "Truth alone prevails.",
+            "source": "Mundaka Upanishad (मुण्डकोपनिषद् 3.1.6)"
+        }
     },
     "Chhattisgarh": {
-        "chiefMinister": { "name": "Vishnu Deo Sai", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/vishnu_deo_sai.jpg" },
+        "chiefMinister": {
+            "name": "Vishnu Deo Sai",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/vishnu_deo_sai.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Arun Sao", "party": "BJP" },
-            { "name": "Vijay Sharma", "party": "BJP" }
+            {
+                "name": "Arun Sao",
+                "party": "BJP"
+            },
+            {
+                "name": "Vijay Sharma",
+                "party": "BJP"
+            }
         ],
         "gsdpINR": "₹5.07 Lakh Cr",
         "perCapitaIncomeINR": "₹1,47,361",
@@ -373,13 +773,35 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 54, "pct": 60.0 },
-            { "party": "Indian National Congress", "seats": 35, "pct": 38.9 },
-            { "party": "Gondwana Gantantra Party", "seats": 1, "pct": 1.1 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 54,
+                "pct": 60.0
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 35,
+                "pct": 38.9
+            },
+            {
+                "party": "Gondwana Gantantra Party",
+                "seats": 1,
+                "pct": 1.1
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सन्तुष्टः सततं योगी",
+            "meaning": "Ever contented, steady of mind and dedicated in duty.",
+            "source": "Bhagavad Gita (श्रीमद्भगवद्गीता 12.14)"
+        }
     },
     "Goa": {
-        "chiefMinister": { "name": "Pramod Sawant", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/pramod_sawant.jpg" },
+        "chiefMinister": {
+            "name": "Pramod Sawant",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/pramod_sawant.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹1.06 Lakh Cr",
         "perCapitaIncomeINR": "₹5,44,042",
@@ -399,15 +821,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 20, "pct": 50.0 },
-            { "party": "Indian National Congress", "seats": 11, "pct": 27.5 },
-            { "party": "Aam Aadmi Party", "seats": 2, "pct": 5.0 },
-            { "party": "Maharashtrawadi Gomantak Party", "seats": 2, "pct": 5.0 },
-            { "party": "Others / Independents", "seats": 5, "pct": 12.5 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 20,
+                "pct": 50.0
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 11,
+                "pct": 27.5
+            },
+            {
+                "party": "Aam Aadmi Party",
+                "seats": 2,
+                "pct": 5.0
+            },
+            {
+                "party": "Maharashtrawadi Gomantak Party",
+                "seats": 2,
+                "pct": 5.0
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 5,
+                "pct": 12.5
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सर्वे भद्राणि पश्यन्तु मा कश्चिद् दुःखभाग्भवेत्",
+            "meaning": "May all perceive auspiciousness; may no one undergo suffering.",
+            "source": "Brihadaranyaka Upanishad"
+        }
     },
     "Delhi": {
-        "chiefMinister": { "name": "Rekha Gupta", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/rekha_gupta.jpg" },
+        "chiefMinister": {
+            "name": "Rekha Gupta",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/rekha_gupta.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.07 Lakh Cr",
         "perCapitaIncomeINR": "₹4,61,910",
@@ -426,12 +878,30 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 68.6 },
-            { "party": "Aam Aadmi Party", "seats": 22, "pct": 31.4 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 48,
+                "pct": 68.6
+            },
+            {
+                "party": "Aam Aadmi Party",
+                "seats": 22,
+                "pct": 31.4
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सत्यान्न प्रमदितव्यम्",
+            "meaning": "Never swerve from the truth.",
+            "source": "Taittiriya Upanishad (तैत्तिरीय उपनिषद् 1.11.1)"
+        }
     },
     "Haryana": {
-        "chiefMinister": { "name": "Nayab Singh Saini", "party": "BJP", "logoUrl": "/assets/parties/BJP.svg" , "photoUrl": "/assets/candidates/nayab_singh_saini.jpg" },
+        "chiefMinister": {
+            "name": "Nayab Singh Saini",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/nayab_singh_saini.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹11.20 Lakh Cr",
         "perCapitaIncomeINR": "₹3,25,759",
@@ -450,16 +920,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Bharatiya Janata Party", "seats": 48, "pct": 53.3 },
-            { "party": "Indian National Congress", "seats": 37, "pct": 41.1 },
-            { "party": "Indian National Lok Dal", "seats": 2, "pct": 2.2 },
-            { "party": "Others / Independents", "seats": 3, "pct": 3.3 }
-        ]
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 48,
+                "pct": 53.3
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 37,
+                "pct": 41.1
+            },
+            {
+                "party": "Indian National Lok Dal",
+                "seats": 2,
+                "pct": 2.2
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 3,
+                "pct": 3.3
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "योगः कर्मसु कौशलम्",
+            "meaning": "Yoga is excellence, integrity and skill in daily action.",
+            "source": "Bhagavad Gita (श्रीमद्भगवद्गीता 2.50)"
+        }
     },
     "Telangana": {
-        "chiefMinister": { "name": "A. Revanth Reddy", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/a_revanth_reddy.jpg" },
+        "chiefMinister": {
+            "name": "A. Revanth Reddy",
+            "party": "INC",
+            "logoUrl": "/assets/parties/INC.svg",
+            "photoUrl": "/assets/candidates/a_revanth_reddy.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Mallu Bhatti Vikramarka", "party": "INC" }
+            {
+                "name": "Mallu Bhatti Vikramarka",
+                "party": "INC"
+            }
         ],
         "gsdpINR": "₹14.00 Lakh Cr",
         "perCapitaIncomeINR": "₹3,43,297",
@@ -479,17 +978,50 @@ STATE_PROFILES = {
             "Communist Party of India": "#dc2626"
         },
         "seatTally": [
-            { "party": "Indian National Congress", "seats": 64, "pct": 53.8 },
-            { "party": "Bharat Rashtra Samithi", "seats": 39, "pct": 32.8 },
-            { "party": "Bharatiya Janata Party", "seats": 8, "pct": 6.7 },
-            { "party": "AIMIM", "seats": 7, "pct": 5.9 },
-            { "party": "Communist Party of India", "seats": 1, "pct": 0.8 }
-        ]
+            {
+                "party": "Indian National Congress",
+                "seats": 64,
+                "pct": 53.8
+            },
+            {
+                "party": "Bharat Rashtra Samithi",
+                "seats": 39,
+                "pct": 32.8
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 8,
+                "pct": 6.7
+            },
+            {
+                "party": "AIMIM",
+                "seats": 7,
+                "pct": 5.9
+            },
+            {
+                "party": "Communist Party of India",
+                "seats": 1,
+                "pct": 0.8
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः",
+            "meaning": "Prosperity and accomplishment attend the resolute and industrious lion among men.",
+            "source": "Hitopadesha (हितोपदेश)"
+        }
     },
     "Jammu & Kashmir": {
-        "chiefMinister": { "name": "Omar Abdullah", "party": "JKNC", "logoUrl": "/assets/parties/JKNC.svg" , "photoUrl": "/assets/candidates/omar_abdullah.jpg" },
+        "chiefMinister": {
+            "name": "Omar Abdullah",
+            "party": "JKNC",
+            "logoUrl": "/assets/parties/JKNC.svg",
+            "photoUrl": "/assets/candidates/omar_abdullah.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Surinder Kumar Choudhary", "party": "JKNC" }
+            {
+                "name": "Surinder Kumar Choudhary",
+                "party": "JKNC"
+            }
         ],
         "gsdpINR": "₹2.45 Lakh Cr",
         "perCapitaIncomeINR": "₹1,43,500",
@@ -509,15 +1041,45 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Jammu & Kashmir National Conference", "seats": 42, "pct": 46.7 },
-            { "party": "Bharatiya Janata Party", "seats": 29, "pct": 32.2 },
-            { "party": "Indian National Congress", "seats": 6, "pct": 6.7 },
-            { "party": "Jammu & Kashmir People's Democratic Party", "seats": 3, "pct": 3.3 },
-            { "party": "Others / Independents", "seats": 10, "pct": 11.1 }
-        ]
+            {
+                "party": "Jammu & Kashmir National Conference",
+                "seats": 42,
+                "pct": 46.7
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 29,
+                "pct": 32.2
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 6,
+                "pct": 6.7
+            },
+            {
+                "party": "Jammu & Kashmir People's Democratic Party",
+                "seats": 3,
+                "pct": 3.3
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 10,
+                "pct": 11.1
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "शमेव सुखम्",
+            "meaning": "Inner tranquility and harmony alone constitute supreme happiness.",
+            "source": "Yoga Vasistha (योगवासिष्ठ)"
+        }
     },
     "Jharkhand": {
-        "chiefMinister": { "name": "Hemant Soren", "party": "JMM", "logoUrl": "/assets/parties/JMM.svg" , "photoUrl": "/assets/candidates/hemant_soren.jpg" },
+        "chiefMinister": {
+            "name": "Hemant Soren",
+            "party": "JMM",
+            "logoUrl": "/assets/parties/JMM.svg",
+            "photoUrl": "/assets/candidates/hemant_soren.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹4.23 Lakh Cr",
         "perCapitaIncomeINR": "₹98,500",
@@ -538,19 +1100,60 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Jharkhand Mukti Morcha", "seats": 34, "pct": 42.0 },
-            { "party": "Bharatiya Janata Party", "seats": 21, "pct": 25.9 },
-            { "party": "Indian National Congress", "seats": 16, "pct": 19.8 },
-            { "party": "Rashtriya Janata Dal", "seats": 4, "pct": 4.9 },
-            { "party": "CPI (ML) Liberation", "seats": 2, "pct": 2.5 },
-            { "party": "AJSU Party", "seats": 1, "pct": 1.2 },
-            { "party": "Others / Independents", "seats": 3, "pct": 3.7 }
-        ]
+            {
+                "party": "Jharkhand Mukti Morcha",
+                "seats": 34,
+                "pct": 42.0
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 21,
+                "pct": 25.9
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 16,
+                "pct": 19.8
+            },
+            {
+                "party": "Rashtriya Janata Dal",
+                "seats": 4,
+                "pct": 4.9
+            },
+            {
+                "party": "CPI (ML) Liberation",
+                "seats": 2,
+                "pct": 2.5
+            },
+            {
+                "party": "AJSU Party",
+                "seats": 1,
+                "pct": 1.2
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 3,
+                "pct": 3.7
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "यद्भावं तद्भवति",
+            "meaning": "As is the purity of intent, so unfolds the reality.",
+            "source": "Brahma Bindu Upanishad"
+        }
     },
     "Himachal Pradesh": {
-        "chiefMinister": { "name": "Sukhvinder Singh Sukhu", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/sukhvinder_singh_sukhu.jpg" },
+        "chiefMinister": {
+            "name": "Sukhvinder Singh Sukhu",
+            "party": "INC",
+            "logoUrl": "/assets/parties/INC.svg",
+            "photoUrl": "/assets/candidates/sukhvinder_singh_sukhu.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Mukesh Agnihotri", "party": "INC" }
+            {
+                "name": "Mukesh Agnihotri",
+                "party": "INC"
+            }
         ],
         "gsdpINR": "₹2.14 Lakh Cr",
         "perCapitaIncomeINR": "₹2,35,000",
@@ -568,15 +1171,40 @@ STATE_PROFILES = {
             "Independents / Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Indian National Congress", "seats": 40, "pct": 58.8 },
-            { "party": "Bharatiya Janata Party", "seats": 25, "pct": 36.8 },
-            { "party": "Independents / Others", "seats": 3, "pct": 4.4 }
-        ]
+            {
+                "party": "Indian National Congress",
+                "seats": 40,
+                "pct": 58.8
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 25,
+                "pct": 36.8
+            },
+            {
+                "party": "Independents / Others",
+                "seats": 3,
+                "pct": 4.4
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "धैर्येण जयति सर्वम्",
+            "meaning": "Through steadfast patience and courage, all obstacles are conquered.",
+            "source": "Subhashita Ratna Bhandagara"
+        }
     },
     "Andhra Pradesh": {
-        "chiefMinister": { "name": "N. Chandrababu Naidu", "party": "TDP", "logoUrl": "/assets/parties/TDP.svg" , "photoUrl": "/assets/candidates/chandrababu_naidu.jpg" },
+        "chiefMinister": {
+            "name": "N. Chandrababu Naidu",
+            "party": "TDP",
+            "logoUrl": "/assets/parties/TDP.svg",
+            "photoUrl": "/assets/candidates/chandrababu_naidu.jpg"
+        },
         "deputyChiefMinisters": [
-            { "name": "Pawan Kalyan", "party": "JSP" }
+            {
+                "name": "Pawan Kalyan",
+                "party": "JSP"
+            }
         ],
         "gsdpINR": "₹14.50 Lakh Cr",
         "perCapitaIncomeINR": "₹2,42,000",
@@ -596,14 +1224,40 @@ STATE_PROFILES = {
             "Others": "#64748b"
         },
         "seatTally": [
-            { "party": "Telugu Desam Party", "seats": 135, "pct": 77.1 },
-            { "party": "Jana Sena Party", "seats": 21, "pct": 12.0 },
-            { "party": "Bharatiya Janata Party", "seats": 8, "pct": 4.6 },
-            { "party": "YSR Congress Party", "seats": 11, "pct": 6.3 }
-        ]
+            {
+                "party": "Telugu Desam Party",
+                "seats": 135,
+                "pct": 77.1
+            },
+            {
+                "party": "Jana Sena Party",
+                "seats": 21,
+                "pct": 12.0
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 8,
+                "pct": 4.6
+            },
+            {
+                "party": "YSR Congress Party",
+                "seats": 11,
+                "pct": 6.3
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "सत्यं वद धर्मं चर",
+            "meaning": "Speak the truth, practice righteousness.",
+            "source": "Taittiriya Upanishad (तैत्तिरीय उपनिषद् 1.11.1)"
+        }
     },
     "Chandigarh": {
-        "chiefMinister": { "name": "Manish Tewari (MP)", "party": "INC", "logoUrl": "/assets/parties/INC.svg" , "photoUrl": "/assets/candidates/manish_tewari.jpg" },
+        "chiefMinister": {
+            "name": "Manish Tewari (MP)",
+            "party": "INC",
+            "logoUrl": "/assets/parties/INC.svg",
+            "photoUrl": "/assets/candidates/manish_tewari.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹0.65 Lakh Cr",
         "perCapitaIncomeINR": "₹3,92,000",
@@ -620,11 +1274,25 @@ STATE_PROFILES = {
             "Bharatiya Janata Party": "#f97316"
         },
         "seatTally": [
-            { "party": "Indian National Congress", "seats": 1, "pct": 100.0 }
-        ]
+            {
+                "party": "Indian National Congress",
+                "seats": 1,
+                "pct": 100.0
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "उद्यमेन विना कार्यं न सिध्यति",
+            "meaning": "Without purposeful labor, no noble mission is accomplished.",
+            "source": "Panchatantra (पञ्चतन्त्र)"
+        }
     },
     "Ladakh": {
-        "chiefMinister": { "name": "Mohmad Haneefa (MP)", "party": "Independent", "logoUrl": "/assets/parties/Independent.svg" , "photoUrl": "/assets/candidates/mohmad_haneefa.jpg" },
+        "chiefMinister": {
+            "name": "Mohmad Haneefa (MP)",
+            "party": "Independent",
+            "logoUrl": "/assets/parties/Independent.svg",
+            "photoUrl": "/assets/candidates/mohmad_haneefa.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹0.12 Lakh Cr",
         "perCapitaIncomeINR": "₹1,85,000",
@@ -642,11 +1310,25 @@ STATE_PROFILES = {
             "Bharatiya Janata Party": "#f97316"
         },
         "seatTally": [
-            { "party": "Independent", "seats": 1, "pct": 100.0 }
-        ]
+            {
+                "party": "Independent",
+                "seats": 1,
+                "pct": 100.0
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "मैत्रीं भजते",
+            "meaning": "Cultivate universal friendship and compassion toward all living beings.",
+            "source": "Maitri Bhavana (वैदिक शान्ति मन्त्र)"
+        }
     },
     "Puducherry": {
-        "chiefMinister": { "name": "N. Rangasamy", "party": "AINRC", "logoUrl": "/assets/parties/AINRC.svg" , "photoUrl": "/assets/candidates/n_rangasamy.jpg" },
+        "chiefMinister": {
+            "name": "N. Rangasamy",
+            "party": "AINRC",
+            "logoUrl": "/assets/parties/AINRC.svg",
+            "photoUrl": "/assets/candidates/n_rangasamy.jpg"
+        },
         "deputyChiefMinisters": [],
         "gsdpINR": "₹0.48 Lakh Cr",
         "perCapitaIncomeINR": "₹2,60,000",
@@ -666,11 +1348,211 @@ STATE_PROFILES = {
             "Others / Independents": "#64748b"
         },
         "seatTally": [
-            { "party": "All India N.R. Congress", "seats": 10, "pct": 33.3 },
-            { "party": "Bharatiya Janata Party", "seats": 6, "pct": 20.0 },
-            { "party": "Dravida Munnetra Kazhagam", "seats": 6, "pct": 20.0 },
-            { "party": "Indian National Congress", "seats": 2, "pct": 6.7 },
-            { "party": "Others / Independents", "seats": 6, "pct": 20.0 }
+            {
+                "party": "All India N.R. Congress",
+                "seats": 10,
+                "pct": 33.3
+            },
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 6,
+                "pct": 20.0
+            },
+            {
+                "party": "Dravida Munnetra Kazhagam",
+                "seats": 6,
+                "pct": 20.0
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 2,
+                "pct": 6.7
+            },
+            {
+                "party": "Others / Independents",
+                "seats": 6,
+                "pct": 20.0
+            }
+        ],
+        "sanskritMotto": {
+            "shloka": "तमसो मा ज्योतिर्गमय",
+            "meaning": "Lead us from darkness into radiant light.",
+            "source": "Brihadaranyaka Upanishad (बृहदारण्यकोपनिषद् 1.3.28)"
+        }
+    },
+    "Odisha": {
+        "chiefMinister": {
+            "name": "Mohan Charan Majhi",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/mohan_charan_majhi.jpg"
+        },
+        "deputyChiefMinisters": [
+            {
+                "name": "Kanak Vardhan Singh Deo",
+                "party": "BJP"
+            },
+            {
+                "name": "Pravati Parida",
+                "party": "BJP"
+            }
+        ],
+        "gsdpINR": "₹8.53 Lakh Cr",
+        "perCapitaIncomeINR": "₹1,61,438",
+        "fiscalHealth": "2.9% GSDP (Revenue Surplus & FRBM Compliant)",
+        "socialProgressIndex": "52.80 (Tier 4 - Lower Middle)",
+        "historicalFact": "Ancient maritime empire of Kalinga, sacred home of Lord Jagannath, Konark Sun Temple, and national leader in mining resources and cyclone disaster resilience.",
+        "sanskritMotto": {
+            "shloka": "धर्मो रक्षति रक्षितः",
+            "meaning": "Dharma protects those who protect dharma.",
+            "source": "Manusmriti (मनुस्मृति 8.15) & Mahābhārata (वनपर्व 313.128)"
+        },
+        "totalAssembly": 147,
+        "totalLokSabha": 21,
+        "totalDistricts": 30,
+        "majorityMark": 74,
+        "currentRuler": "Bharatiya Janata Party (BJP)",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Biju Janata Dal": "#10b981",
+            "Indian National Congress": "#06b6d4",
+            "Communist Party of India (Marxist)": "#ef4444",
+            "Independent": "#64748b"
+        },
+        "seatTally": [
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 78,
+                "pct": 53.1
+            },
+            {
+                "party": "Biju Janata Dal",
+                "seats": 51,
+                "pct": 34.7
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 14,
+                "pct": 9.5
+            },
+            {
+                "party": "Communist Party of India (Marxist)",
+                "seats": 1,
+                "pct": 0.7
+            },
+            {
+                "party": "Independent",
+                "seats": 3,
+                "pct": 2.0
+            }
+        ]
+    },
+    "Madhya Pradesh": {
+        "chiefMinister": {
+            "name": "Dr. Mohan Yadav",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/mohan_yadav.jpg"
+        },
+        "deputyChiefMinisters": [
+            {
+                "name": "Jagdish Devda",
+                "party": "BJP"
+            },
+            {
+                "name": "Rajendra Shukla",
+                "party": "BJP"
+            }
+        ],
+        "gsdpINR": "₹13.87 Lakh Cr",
+        "perCapitaIncomeINR": "₹1,42,500",
+        "fiscalHealth": "3.3% GSDP (High Agricultural Expansion)",
+        "socialProgressIndex": "48.11 (Tier 5 - Low Social Progress)",
+        "historicalFact": "The heart of India, celebrated for UNESCO World Heritage sites at Sanchi and Khajuraho, ancient Ujjain Mahakal Jyotirlinga, and the nation's largest forest tract and tiger reserves.",
+        "sanskritMotto": {
+            "shloka": "वसुधैव कुटुम्बकम्",
+            "meaning": "The entire universe is one single family.",
+            "source": "Maha Upanishad (महोपनिषद् 6.71–73) & Hitopadesha"
+        },
+        "totalAssembly": 230,
+        "totalLokSabha": 29,
+        "totalDistricts": 53,
+        "majorityMark": 116,
+        "currentRuler": "Bharatiya Janata Party (BJP)",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Bharat Adivasi Party": "#10b981",
+            "Others": "#64748b"
+        },
+        "seatTally": [
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 163,
+                "pct": 70.9
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 66,
+                "pct": 28.7
+            },
+            {
+                "party": "Bharat Adivasi Party",
+                "seats": 1,
+                "pct": 0.4
+            }
+        ]
+    },
+    "Uttarakhand": {
+        "chiefMinister": {
+            "name": "Pushkar Singh Dhami",
+            "party": "BJP",
+            "logoUrl": "/assets/parties/BJP.svg",
+            "photoUrl": "/assets/candidates/pushkar_singh_dhami.jpg"
+        },
+        "deputyChiefMinisters": [],
+        "gsdpINR": "₹3.46 Lakh Cr",
+        "perCapitaIncomeINR": "₹2,33,000",
+        "fiscalHealth": "2.8% GSDP (Balanced Himalayan Debt Profile)",
+        "socialProgressIndex": "58.20 (Tier 3 - Upper Middle)",
+        "historicalFact": "Revered as Devbhoomi, sanctified by the Char Dham (Badrinath, Kedarnath, Gangotri, Yamunotri), source of the holy Ganga and Yamuna, and birthplace of the environmental Chipko movement.",
+        "sanskritMotto": {
+            "shloka": "उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः",
+            "meaning": "Endeavors are accomplished through persistent industry, not through idle wishing.",
+            "source": "Hitopadesha (हितोपदेश, Prastavika 36) & Panchatantra"
+        },
+        "totalAssembly": 70,
+        "totalLokSabha": 5,
+        "totalDistricts": 13,
+        "majorityMark": 36,
+        "currentRuler": "Bharatiya Janata Party (BJP)",
+        "partyColors": {
+            "Bharatiya Janata Party": "#f97316",
+            "Indian National Congress": "#06b6d4",
+            "Bahujan Samaj Party": "#3b82f6",
+            "Independent": "#64748b"
+        },
+        "seatTally": [
+            {
+                "party": "Bharatiya Janata Party",
+                "seats": 47,
+                "pct": 67.1
+            },
+            {
+                "party": "Indian National Congress",
+                "seats": 19,
+                "pct": 27.1
+            },
+            {
+                "party": "Bahujan Samaj Party",
+                "seats": 2,
+                "pct": 2.9
+            },
+            {
+                "party": "Independent",
+                "seats": 2,
+                "pct": 2.9
+            }
         ]
     }
 }

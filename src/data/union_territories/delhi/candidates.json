@@ -11,14 +11,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -47,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -91,14 +91,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -127,7 +127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -171,14 +171,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -207,7 +207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -257,8 +257,8 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -287,7 +287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -331,15 +331,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -367,7 +367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -411,15 +411,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -447,7 +447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -491,14 +491,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -527,7 +527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -571,15 +571,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -607,7 +607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -651,14 +651,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -687,7 +687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -731,7 +731,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -767,7 +767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -811,15 +811,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -847,7 +847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -891,14 +891,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -927,7 +927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -971,14 +971,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -1007,7 +1007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1051,7 +1051,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 94.0,
     "ladFundAllocatedINR": 100000000,
@@ -1087,7 +1087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 150000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1131,15 +1131,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1167,7 +1167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1211,15 +1211,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1247,7 +1247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1291,15 +1291,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1327,7 +1327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1371,7 +1371,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -1407,7 +1407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1457,9 +1457,9 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1487,7 +1487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1531,7 +1531,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 90.5,
     "ladFundAllocatedINR": 100000000,
@@ -1567,7 +1567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1611,14 +1611,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -1647,7 +1647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1697,8 +1697,8 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -1727,7 +1727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1771,15 +1771,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1807,7 +1807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1851,15 +1851,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1887,7 +1887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -1931,15 +1931,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -1967,7 +1967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2011,15 +2011,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2047,7 +2047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2091,7 +2091,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -2127,7 +2127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2177,8 +2177,8 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -2207,7 +2207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2251,15 +2251,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2287,7 +2287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2331,15 +2331,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2367,7 +2367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2411,15 +2411,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2447,7 +2447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2491,15 +2491,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2527,7 +2527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2571,15 +2571,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2607,7 +2607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2651,14 +2651,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -2687,7 +2687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2731,15 +2731,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2767,7 +2767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2811,14 +2811,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -2847,7 +2847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2891,15 +2891,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -2927,7 +2927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -2971,14 +2971,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -3007,7 +3007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3051,14 +3051,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "Parliament (Lok Sabha)",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
@@ -3087,7 +3087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3131,7 +3131,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -3167,7 +3167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3211,15 +3211,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3247,7 +3247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3297,8 +3297,8 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -3327,7 +3327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3371,7 +3371,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -3407,7 +3407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3451,14 +3451,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -3487,7 +3487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3531,15 +3531,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3567,7 +3567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3611,15 +3611,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3647,7 +3647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3691,14 +3691,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -3727,7 +3727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3771,15 +3771,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3807,7 +3807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 45,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3851,15 +3851,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3887,7 +3887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -3931,15 +3931,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -3967,7 +3967,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4011,7 +4011,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 91.8,
     "ladFundAllocatedINR": 100000000,
@@ -4047,7 +4047,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4091,7 +4091,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
@@ -4127,7 +4127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4171,14 +4171,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -4207,7 +4207,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 41,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4257,9 +4257,9 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -4287,7 +4287,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4331,14 +4331,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -4367,7 +4367,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4411,14 +4411,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -4447,7 +4447,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4491,7 +4491,7 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 93.2,
     "ladFundAllocatedINR": 100000000,
@@ -4527,7 +4527,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4577,9 +4577,9 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -4607,7 +4607,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4651,14 +4651,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -4687,7 +4687,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4737,9 +4737,9 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -4767,7 +4767,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4811,15 +4811,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -4847,7 +4847,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4891,15 +4891,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -4927,7 +4927,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -4971,15 +4971,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -5007,7 +5007,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5051,14 +5051,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -5087,7 +5087,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5131,15 +5131,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -5167,7 +5167,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5211,14 +5211,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -5247,7 +5247,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5291,15 +5291,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -5327,7 +5327,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5371,14 +5371,14 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 37,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -5407,7 +5407,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5457,8 +5457,8 @@
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
     "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
@@ -5487,7 +5487,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5531,15 +5531,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 74,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Delhi Vidhayak Nidhi (GNCTD Urban Dev)",
     "fundUtilizationPercentage": 92.5,
     "ladFundAllocatedINR": 100000000,
     "ladFundUtilizedINR": 92500000,
     "ladFundUnspentINR": 7500000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "GNCTD Urban Development Department & MCD Civil Works Audit",
     "ladFundCategoryBreakdown": [
       {
@@ -5567,7 +5567,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 65000000,
     "declaredLiabilitiesINR": 8500000,
     "criminalCasesCount": 0,
@@ -5611,14 +5611,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "Parliament (Lok Sabha)",
     "questionsAsked": 124,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
     "fundUtilizationPercentage": 95.6,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 47800000,
     "ladFundUnspentINR": 2200000,
-    "worksRecommendedCount": 24,
-    "worksCompletedCount": 22,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
     "worksPendingCount": 2,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
@@ -5647,7 +5647,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 280000000,
     "declaredLiabilitiesINR": 18000000,
     "criminalCasesCount": 0,
@@ -5691,14 +5691,14 @@
     "attendancePercentage": 96,
     "attendanceBody": "Parliament (Lok Sabha)",
     "questionsAsked": 88,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
     "fundUtilizationPercentage": 93.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 46500000,
     "ladFundUnspentINR": 3500000,
-    "worksRecommendedCount": 28,
-    "worksCompletedCount": 26,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
     "worksPendingCount": 2,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
@@ -5727,7 +5727,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 190000000,
     "declaredLiabilitiesINR": 5000000,
     "criminalCasesCount": 0,
@@ -5771,14 +5771,14 @@
     "attendancePercentage": 89,
     "attendanceBody": "Parliament (Lok Sabha)",
     "questionsAsked": 112,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Member of Parliament Local Area Development Scheme (MPLADS)",
     "fundUtilizationPercentage": 90.0,
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 45000000,
     "ladFundUnspentINR": 5000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 27,
     "worksPendingCount": 4,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
@@ -5807,7 +5807,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 155000000,
     "declaredLiabilitiesINR": 12000000,
     "criminalCasesCount": 0,
@@ -5857,8 +5857,8 @@
     "ladFundAllocatedINR": 50000000,
     "ladFundUtilizedINR": 48200000,
     "ladFundUnspentINR": 1800000,
-    "worksRecommendedCount": 26,
-    "worksCompletedCount": 25,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 26,
     "worksPendingCount": 1,
     "fundSourceCitation": "Ministry of Statistics & Programme Implementation (MoSPI) & e-SAKSHI Portal",
     "ladFundCategoryBreakdown": [
@@ -5887,7 +5887,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 110000000,
     "declaredLiabilitiesINR": 4000000,
     "criminalCasesCount": 0,

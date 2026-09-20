@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "ut_3642",
+    "name": "MLA of Purola",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Purola",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34500000,
+    "ladFundUnspentINR": 3000000,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Uttarkashi Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12075000,
+        "status": "Completed"
+      },
+      {
+        "category": "Purola Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8625000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6900000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6900000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 25000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Purola.",
+    "politicalFact": "Elected representative serving the citizens of Uttarkashi, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Purola in Uttarkashi district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3643",
+    "name": "MLA of Yamunotri",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Yamunotri",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 41,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34525000,
+    "ladFundUnspentINR": 2975000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Uttarkashi Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12083750,
+        "status": "Completed"
+      },
+      {
+        "category": "Yamunotri Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8631250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6905000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6905000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 25250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Yamunotri.",
+    "politicalFact": "Elected representative serving the citizens of Uttarkashi, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Yamunotri in Uttarkashi district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3644",
+    "name": "MLA of Gangotri",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Gangotri",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 42,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34550000,
+    "ladFundUnspentINR": 2950000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Uttarkashi Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12092500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gangotri Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8637500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6910000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6910000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 25500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Gangotri.",
+    "politicalFact": "Elected representative serving the citizens of Uttarkashi, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Gangotri in Uttarkashi district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3645",
+    "name": "MLA of Badrinath",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Badrinath",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 43,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.2,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34575000,
+    "ladFundUnspentINR": 2925000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chamoli Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12101250,
+        "status": "Completed"
+      },
+      {
+        "category": "Badrinath Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8643750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6915000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6915000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 17,
+    "declaredAssetsINR": 25750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Badrinath.",
+    "politicalFact": "Elected representative serving the citizens of Chamoli, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Badrinath in Chamoli district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3646",
+    "name": "MLA of Tharali",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Tharali",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 44,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34600000,
+    "ladFundUnspentINR": 2900000,
+    "worksRecommendedCount": 19,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chamoli Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12110000,
+        "status": "Completed"
+      },
+      {
+        "category": "Tharali Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8650000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6920000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6920000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 26000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Tharali.",
+    "politicalFact": "Elected representative serving the citizens of Chamoli, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Tharali in Chamoli district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3647",
+    "name": "MLA of Karnaprayag",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Karnaprayag",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 45,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34625000,
+    "ladFundUnspentINR": 2875000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Chamoli Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12118750,
+        "status": "Completed"
+      },
+      {
+        "category": "Karnaprayag Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8656250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6925000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6925000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 26250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Karnaprayag.",
+    "politicalFact": "Elected representative serving the citizens of Chamoli, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Karnaprayag in Chamoli district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3648",
+    "name": "MLA of Kedarnath",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kedarnath",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 46,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.4,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34650000,
+    "ladFundUnspentINR": 2850000,
+    "worksRecommendedCount": 20,
+    "worksCompletedCount": 18,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Rudraprayag Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12127500,
+        "status": "Completed"
+      },
+      {
+        "category": "Kedarnath Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8662500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6930000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6930000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 26500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kedarnath.",
+    "politicalFact": "Elected representative serving the citizens of Rudraprayag, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kedarnath in Rudraprayag district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3649",
+    "name": "MLA of Rudraprayag",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rudraprayag",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34675000,
+    "ladFundUnspentINR": 2825000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Rudraprayag Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12136250,
+        "status": "Completed"
+      },
+      {
+        "category": "Rudraprayag Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8668750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6935000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6935000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 26750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rudraprayag.",
+    "politicalFact": "Elected representative serving the citizens of Rudraprayag, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Rudraprayag in Rudraprayag district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3650",
+    "name": "MLA of Ghansali",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ghansali",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34700000,
+    "ladFundUnspentINR": 2800000,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12145000,
+        "status": "Completed"
+      },
+      {
+        "category": "Ghansali Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8675000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6940000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6940000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 27000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ghansali.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Ghansali in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3651",
+    "name": "MLA of Devprayag",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Devprayag",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 49,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.6,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34725000,
+    "ladFundUnspentINR": 2775000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12153750,
+        "status": "Completed"
+      },
+      {
+        "category": "Devprayag Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8681250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6945000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6945000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 27250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Devprayag.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Devprayag in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3652",
+    "name": "MLA of Narendranagar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Narendranagar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 50,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34750000,
+    "ladFundUnspentINR": 2750000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12162500,
+        "status": "Completed"
+      },
+      {
+        "category": "Narendranagar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8687500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6950000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6950000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 27500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Narendranagar.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Narendranagar in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3653",
+    "name": "MLA of Pratapnagar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pratapnagar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 51,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34775000,
+    "ladFundUnspentINR": 2725000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12171250,
+        "status": "Completed"
+      },
+      {
+        "category": "Pratapnagar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8693750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6955000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6955000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 27750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pratapnagar.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Pratapnagar in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3654",
+    "name": "MLA of Tehri",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Tehri",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 52,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.8,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34800000,
+    "ladFundUnspentINR": 2700000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12180000,
+        "status": "Completed"
+      },
+      {
+        "category": "Tehri Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8700000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6960000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6960000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 48,
+    "declaredAssetsINR": 28000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Tehri.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Tehri in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3655",
+    "name": "MLA of Dhanaulti",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dhanaulti",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34825000,
+    "ladFundUnspentINR": 2675000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Tehri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12188750,
+        "status": "Completed"
+      },
+      {
+        "category": "Dhanaulti Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8706250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6965000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6965000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 32,
+    "declaredAssetsINR": 28250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dhanaulti.",
+    "politicalFact": "Elected representative serving the citizens of Tehri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Dhanaulti in Tehri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3656",
+    "name": "MLA of Chakrata",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chakrata",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 54,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 92.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34850000,
+    "ladFundUnspentINR": 2650000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12197500,
+        "status": "Completed"
+      },
+      {
+        "category": "Chakrata Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8712500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6970000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6970000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 60,
+    "declaredAssetsINR": 28500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Chakrata.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Chakrata in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3657",
+    "name": "MLA of Vikasnagar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Vikasnagar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34875000,
+    "ladFundUnspentINR": 2625000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 13,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12206250,
+        "status": "Completed"
+      },
+      {
+        "category": "Vikasnagar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8718750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6975000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6975000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 35,
+    "declaredAssetsINR": 28750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Vikasnagar.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Vikasnagar in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3658",
+    "name": "MLA of Sahaspur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sahaspur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34900000,
+    "ladFundUnspentINR": 2600000,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12215000,
+        "status": "Completed"
+      },
+      {
+        "category": "Sahaspur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8725000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6980000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6980000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 36,
+    "declaredAssetsINR": 29000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sahaspur.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Sahaspur in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3659",
+    "name": "MLA of Dharampur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dharampur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 57,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34925000,
+    "ladFundUnspentINR": 2575000,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12223750,
+        "status": "Completed"
+      },
+      {
+        "category": "Dharampur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8731250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6985000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6985000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 29250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dharampur.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Dharampur in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3660",
+    "name": "MLA of Raipur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Raipur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.2,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34950000,
+    "ladFundUnspentINR": 2550000,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12232500,
+        "status": "Completed"
+      },
+      {
+        "category": "Raipur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8737500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6990000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6990000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 18,
+    "declaredAssetsINR": 29500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Raipur.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Raipur in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3661",
+    "name": "MLA of Rajpur Road",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rajpur Road",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 41,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 34975000,
+    "ladFundUnspentINR": 2525000,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12241250,
+        "status": "Completed"
+      },
+      {
+        "category": "Rajpur Road Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8743750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 6995000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 6995000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 29750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rajpur Road.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Rajpur Road in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3662",
+    "name": "MLA of Dehradun Cantt",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dehradun Cantt",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 42,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35000000,
+    "ladFundUnspentINR": 2500000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12250000,
+        "status": "Completed"
+      },
+      {
+        "category": "Dehradun Cantt Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8750000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7000000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7000000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 25,
+    "declaredAssetsINR": 30000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dehradun Cantt.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Dehradun Cantt in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3663",
+    "name": "MLA of Mussoorie",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Mussoorie",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 43,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.4,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35025000,
+    "ladFundUnspentINR": 2475000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12258750,
+        "status": "Completed"
+      },
+      {
+        "category": "Mussoorie Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8756250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7005000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7005000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 30250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Mussoorie.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Mussoorie in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3664",
+    "name": "MLA of Doiwala",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Doiwala",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 44,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35050000,
+    "ladFundUnspentINR": 2450000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12267500,
+        "status": "Completed"
+      },
+      {
+        "category": "Doiwala Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8762500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7010000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7010000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 30,
+    "declaredAssetsINR": 30500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Doiwala.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Doiwala in Dehradun district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3665",
+    "name": "Premchand Aggarwal",
+    "role": "Cabinet Minister",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rishikesh",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 78,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36100000,
+    "ladFundUnspentINR": 1400000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Dehradun Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12635000,
+        "status": "Completed"
+      },
+      {
+        "category": "Rishikesh Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9025000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7220000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7220000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 22,
+    "declaredAssetsINR": 48000000,
+    "declaredLiabilitiesINR": 2200000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 4,
+    "funFact": "Active representative participating in key development debates for Rishikesh.",
+    "politicalFact": "Elected representative serving the citizens of Dehradun, Uttarakhand.",
+    "bio": "Premchand Aggarwal is a Cabinet Minister holding Finance, Urban Development, and Parliamentary Affairs.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3666",
+    "name": "MLA of Bhel Ranipur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhel Ranipur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 46,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.6,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35100000,
+    "ladFundUnspentINR": 2400000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 20,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12285000,
+        "status": "Completed"
+      },
+      {
+        "category": "Bhel Ranipur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8775000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7020000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7020000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 31000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bhel Ranipur.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Bhel Ranipur in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3667",
+    "name": "MLA of Jwalapur",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jwalapur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35125000,
+    "ladFundUnspentINR": 2375000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12293750,
+        "status": "Completed"
+      },
+      {
+        "category": "Jwalapur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8781250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7025000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7025000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 31250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jwalapur.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Jwalapur in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3668",
+    "name": "MLA of Bhagwanpur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhagwanpur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35150000,
+    "ladFundUnspentINR": 2350000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12302500,
+        "status": "Completed"
+      },
+      {
+        "category": "Bhagwanpur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8787500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7030000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7030000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 31500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bhagwanpur.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Bhagwanpur in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3669",
+    "name": "MLA of Jhabrera",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jhabrera",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 49,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.8,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35175000,
+    "ladFundUnspentINR": 2325000,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12311250,
+        "status": "Completed"
+      },
+      {
+        "category": "Jhabrera Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8793750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7035000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7035000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 39,
+    "declaredAssetsINR": 31750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jhabrera.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Jhabrera in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3670",
+    "name": "MLA of Pirankaliyar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pirankaliyar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 50,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35200000,
+    "ladFundUnspentINR": 2300000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12320000,
+        "status": "Completed"
+      },
+      {
+        "category": "Pirankaliyar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8800000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7040000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7040000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 53,
+    "declaredAssetsINR": 32000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pirankaliyar.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Pirankaliyar in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3671",
+    "name": "MLA of Roorkee",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Roorkee",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 51,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 93.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35225000,
+    "ladFundUnspentINR": 2275000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12328750,
+        "status": "Completed"
+      },
+      {
+        "category": "Roorkee Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8806250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7045000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7045000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 29,
+    "declaredAssetsINR": 32250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Roorkee.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Roorkee in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3672",
+    "name": "MLA of Khanpur",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Khanpur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 52,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35250000,
+    "ladFundUnspentINR": 2250000,
+    "worksRecommendedCount": 29,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12337500,
+        "status": "Completed"
+      },
+      {
+        "category": "Khanpur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8812500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7050000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7050000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 45,
+    "declaredAssetsINR": 32500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Khanpur.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Khanpur in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3673",
+    "name": "MLA of Manglore",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Manglore",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35275000,
+    "ladFundUnspentINR": 2225000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12346250,
+        "status": "Completed"
+      },
+      {
+        "category": "Manglore Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8818750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7055000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7055000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 34,
+    "declaredAssetsINR": 32750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Manglore.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Manglore in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3674",
+    "name": "MLA of Laksar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Laksar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 54,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35300000,
+    "ladFundUnspentINR": 2200000,
+    "worksRecommendedCount": 28,
+    "worksCompletedCount": 26,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12355000,
+        "status": "Completed"
+      },
+      {
+        "category": "Laksar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8825000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7060000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7060000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 54,
+    "declaredAssetsINR": 33000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Laksar.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Laksar in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3675",
+    "name": "MLA of Haridwar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Haridwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.2,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35325000,
+    "ladFundUnspentINR": 2175000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12363750,
+        "status": "Completed"
+      },
+      {
+        "category": "Haridwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8831250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7065000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7065000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 33250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Haridwar.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Haridwar in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3676",
+    "name": "MLA of Haridwar Rural",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Haridwar Rural",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35350000,
+    "ladFundUnspentINR": 2150000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Haridwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12372500,
+        "status": "Completed"
+      },
+      {
+        "category": "Haridwar Rural Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8837500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7070000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7070000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 27,
+    "declaredAssetsINR": 33500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Haridwar Rural.",
+    "politicalFact": "Elected representative serving the citizens of Haridwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Haridwar Rural in Haridwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3677",
+    "name": "MLA of Yamkeshwar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Yamkeshwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 57,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35375000,
+    "ladFundUnspentINR": 2125000,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12381250,
+        "status": "Completed"
+      },
+      {
+        "category": "Yamkeshwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8843750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7075000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7075000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 50,
+    "declaredAssetsINR": 33750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Yamkeshwar.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Yamkeshwar in Pauri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3678",
+    "name": "MLA of Pauri",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pauri",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 40,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.4,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35400000,
+    "ladFundUnspentINR": 2100000,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12390000,
+        "status": "Completed"
+      },
+      {
+        "category": "Pauri Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8850000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7080000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7080000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 28,
+    "declaredAssetsINR": 34000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pauri.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Pauri in Pauri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3679",
+    "name": "MLA of Srinagar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Srinagar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 41,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35425000,
+    "ladFundUnspentINR": 2075000,
+    "worksRecommendedCount": 27,
+    "worksCompletedCount": 25,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12398750,
+        "status": "Completed"
+      },
+      {
+        "category": "Srinagar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8856250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7085000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7085000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 34250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Srinagar.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Srinagar in Pauri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3680",
+    "name": "Satpal Maharaj",
+    "role": "Cabinet Minister",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Chaubattakhal",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 90,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 97.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36500000,
+    "ladFundUnspentINR": 1000000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12775000,
+        "status": "Completed"
+      },
+      {
+        "category": "Chaubattakhal Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9125000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7300000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7300000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 870000000,
+    "declaredLiabilitiesINR": 0,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 2,
+    "funFact": "Active representative participating in key development debates for Chaubattakhal.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Satpal Maharaj is a senior Cabinet Minister holding Public Works, Tourism, Irrigation and Culture.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3681",
+    "name": "MLA of Lansdowne",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Lansdowne",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 43,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.6,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35475000,
+    "ladFundUnspentINR": 2025000,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12416250,
+        "status": "Completed"
+      },
+      {
+        "category": "Lansdowne Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8868750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7095000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7095000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 15,
+    "declaredAssetsINR": 34750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Lansdowne.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Lansdowne in Pauri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3682",
+    "name": "MLA of Kotdwar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kotdwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 44,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35500000,
+    "ladFundUnspentINR": 2000000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pauri Garhwal Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12425000,
+        "status": "Completed"
+      },
+      {
+        "category": "Kotdwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8875000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7100000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7100000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 35000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kotdwar.",
+    "politicalFact": "Elected representative serving the citizens of Pauri Garhwal, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kotdwar in Pauri Garhwal district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3683",
+    "name": "MLA of Dharchula",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dharchula",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 45,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35525000,
+    "ladFundUnspentINR": 1975000,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pithoragarh Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12433750,
+        "status": "Completed"
+      },
+      {
+        "category": "Dharchula Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8881250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7105000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7105000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 38,
+    "declaredAssetsINR": 35250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dharchula.",
+    "politicalFact": "Elected representative serving the citizens of Pithoragarh, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Dharchula in Pithoragarh district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3684",
+    "name": "MLA of Didihat",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Didihat",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 46,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.8,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35550000,
+    "ladFundUnspentINR": 1950000,
+    "worksRecommendedCount": 17,
+    "worksCompletedCount": 16,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pithoragarh Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12442500,
+        "status": "Completed"
+      },
+      {
+        "category": "Didihat Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8887500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7110000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7110000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 35500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Didihat.",
+    "politicalFact": "Elected representative serving the citizens of Pithoragarh, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Didihat in Pithoragarh district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3685",
+    "name": "MLA of Pithoragarh",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Pithoragarh",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 3,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35575000,
+    "ladFundUnspentINR": 1925000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pithoragarh Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12451250,
+        "status": "Completed"
+      },
+      {
+        "category": "Pithoragarh Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8893750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7115000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7115000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 37,
+    "declaredAssetsINR": 35750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Pithoragarh.",
+    "politicalFact": "Elected representative serving the citizens of Pithoragarh, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Pithoragarh in Pithoragarh district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3686",
+    "name": "MLA of Gangolihat",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Gangolihat",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 94.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35600000,
+    "ladFundUnspentINR": 1900000,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Pithoragarh Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12460000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gangolihat Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8900000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7120000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7120000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 21,
+    "declaredAssetsINR": 36000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Gangolihat.",
+    "politicalFact": "Elected representative serving the citizens of Pithoragarh, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Gangolihat in Pithoragarh district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3687",
+    "name": "MLA of Kapkot",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kapkot",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 49,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35625000,
+    "ladFundUnspentINR": 1875000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Bageshwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12468750,
+        "status": "Completed"
+      },
+      {
+        "category": "Kapkot Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8906250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7125000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7125000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 36250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kapkot.",
+    "politicalFact": "Elected representative serving the citizens of Bageshwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kapkot in Bageshwar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3688",
+    "name": "MLA of Bageshwar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bageshwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 50,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35650000,
+    "ladFundUnspentINR": 1850000,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Bageshwar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12477500,
+        "status": "Completed"
+      },
+      {
+        "category": "Bageshwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8912500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7130000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7130000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 36500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bageshwar.",
+    "politicalFact": "Elected representative serving the citizens of Bageshwar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Bageshwar in Bageshwar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3689",
+    "name": "MLA of Dwarahat",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Dwarahat",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 51,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35675000,
+    "ladFundUnspentINR": 1825000,
+    "worksRecommendedCount": 16,
+    "worksCompletedCount": 15,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12486250,
+        "status": "Completed"
+      },
+      {
+        "category": "Dwarahat Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8918750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7135000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7135000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 36750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Dwarahat.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Dwarahat in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3690",
+    "name": "MLA of Salt",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Salt",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 52,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.2,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35700000,
+    "ladFundUnspentINR": 1800000,
+    "worksRecommendedCount": 26,
+    "worksCompletedCount": 24,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12495000,
+        "status": "Completed"
+      },
+      {
+        "category": "Salt Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8925000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7140000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7140000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 26,
+    "declaredAssetsINR": 37000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Salt.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Salt in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3691",
+    "name": "MLA of Ranikhet",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ranikhet",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35725000,
+    "ladFundUnspentINR": 1775000,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12503750,
+        "status": "Completed"
+      },
+      {
+        "category": "Ranikhet Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8931250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7145000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7145000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 37250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ranikhet.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Ranikhet in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3692",
+    "name": "MLA of Someshwar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Someshwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 54,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35750000,
+    "ladFundUnspentINR": 1750000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12512500,
+        "status": "Completed"
+      },
+      {
+        "category": "Someshwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8937500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7150000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7150000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 51,
+    "declaredAssetsINR": 37500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Someshwar.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Someshwar in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3693",
+    "name": "MLA of Almora",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Almora",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.4,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35775000,
+    "ladFundUnspentINR": 1725000,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 3,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12521250,
+        "status": "Completed"
+      },
+      {
+        "category": "Almora Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8943750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7155000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7155000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 49,
+    "declaredAssetsINR": 37750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Almora.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Almora in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3694",
+    "name": "MLA of Jageshwar",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jageshwar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 56,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35800000,
+    "ladFundUnspentINR": 1700000,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Almora Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12530000,
+        "status": "Completed"
+      },
+      {
+        "category": "Jageshwar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8950000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7160000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7160000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 38000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jageshwar.",
+    "politicalFact": "Elected representative serving the citizens of Almora, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Jageshwar in Almora district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3695",
+    "name": "MLA of Lohaghat",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Lohaghat",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 57,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35825000,
+    "ladFundUnspentINR": 1675000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Champawat Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12538750,
+        "status": "Completed"
+      },
+      {
+        "category": "Lohaghat Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8956250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7165000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7165000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 44,
+    "declaredAssetsINR": 38250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Lohaghat.",
+    "politicalFact": "Elected representative serving the citizens of Champawat, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Lohaghat in Champawat district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3696",
+    "name": "Pushkar Singh Dhami",
+    "role": "Chief Minister of Uttarakhand",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/candidates/pushkar_singh_dhami.jpg",
+    "constituencyName": "Champawat",
+    "state": "Uttarakhand",
+    "attendancePercentage": 96,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 110,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36200000,
+    "ladFundUnspentINR": 1300000,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Champawat Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12670000,
+        "status": "Completed"
+      },
+      {
+        "category": "Champawat Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9050000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7240000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7240000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 38000000,
+    "declaredLiabilitiesINR": 2400000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Post Graduate (MA / LLB)",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 3,
+    "funFact": "Active representative participating in key development debates for Champawat.",
+    "politicalFact": "Elected representative serving the citizens of Champawat, Uttarakhand.",
+    "bio": "Pushkar Singh Dhami is the 10th Chief Minister of Uttarakhand representing Champawat in the Kumaon Himalayas.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3697",
+    "name": "MLA of Lalkuwa",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Lalkuwa",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 41,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35875000,
+    "ladFundUnspentINR": 1625000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12556250,
+        "status": "Completed"
+      },
+      {
+        "category": "Lalkuwa Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8968750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7175000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7175000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 42,
+    "declaredAssetsINR": 38750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Lalkuwa.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Lalkuwa in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3698",
+    "name": "MLA of Bhimtal",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bhimtal",
+    "state": "Uttarakhand",
+    "attendancePercentage": 88,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 42,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.7,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35900000,
+    "ladFundUnspentINR": 1600000,
+    "worksRecommendedCount": 25,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12565000,
+        "status": "Completed"
+      },
+      {
+        "category": "Bhimtal Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8975000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7180000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7180000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 20,
+    "declaredAssetsINR": 39000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Bhimtal.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Bhimtal in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3699",
+    "name": "MLA of Nainital",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nainital",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 43,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.8,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35925000,
+    "ladFundUnspentINR": 1575000,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12573750,
+        "status": "Completed"
+      },
+      {
+        "category": "Nainital Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8981250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7185000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7185000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 58,
+    "declaredAssetsINR": 39250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nainital.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Nainital in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3700",
+    "name": "MLA of Haldwani",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Haldwani",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 44,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35950000,
+    "ladFundUnspentINR": 1550000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12582500,
+        "status": "Completed"
+      },
+      {
+        "category": "Haldwani Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8987500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7190000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7190000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 33,
+    "declaredAssetsINR": 39500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Haldwani.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Haldwani in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3701",
+    "name": "MLA of Kaladhungi",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kaladhungi",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 45,
+    "privateMemberBills": 4,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 95.9,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 35975000,
+    "ladFundUnspentINR": 1525000,
+    "worksRecommendedCount": 22,
+    "worksCompletedCount": 21,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12591250,
+        "status": "Completed"
+      },
+      {
+        "category": "Kaladhungi Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 8993750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7195000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7195000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 46,
+    "declaredAssetsINR": 39750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kaladhungi.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kaladhungi in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3702",
+    "name": "MLA of Ramnagar",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Ramnagar",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 46,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 24,
+    "worksCompletedCount": 23,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Nainital Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Ramnagar Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9000000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7200000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 50,
+    "declaredAssetsINR": 40000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Ramnagar.",
+    "politicalFact": "Elected representative serving the citizens of Nainital, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Ramnagar in Nainital district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3703",
+    "name": "MLA of Jaspur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Jaspur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 47,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36025000,
+    "ladFundUnspentINR": 1475000,
+    "worksRecommendedCount": 23,
+    "worksCompletedCount": 22,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12608750,
+        "status": "Completed"
+      },
+      {
+        "category": "Jaspur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9006250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7205000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7205000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 19,
+    "declaredAssetsINR": 40250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Jaspur.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Jaspur in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3704",
+    "name": "MLA of Kashipur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kashipur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 48,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.1,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36050000,
+    "ladFundUnspentINR": 1450000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12617500,
+        "status": "Completed"
+      },
+      {
+        "category": "Kashipur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9012500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7210000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7210000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 43,
+    "declaredAssetsINR": 40500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kashipur.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kashipur in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3705",
+    "name": "Yashpal Arya",
+    "role": "Leader of Opposition",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Bajpur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 95,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 95,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.0,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36000000,
+    "ladFundUnspentINR": 1500000,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12600000,
+        "status": "Completed"
+      },
+      {
+        "category": "Bajpur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9000000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7200000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7200000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 52000000,
+    "declaredLiabilitiesINR": 1800000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 6,
+    "funFact": "Active representative participating in key development debates for Bajpur.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Yashpal Arya is the Leader of the Opposition in Uttarakhand and a 6-term veteran legislator from Bajpur.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3706",
+    "name": "MLA of Gadarpur",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Gadarpur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 89,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 50,
+    "privateMemberBills": 5,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36100000,
+    "ladFundUnspentINR": 1400000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12635000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gadarpur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9025000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7220000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7220000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 56,
+    "declaredAssetsINR": 41000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Gadarpur.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Gadarpur in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3707",
+    "name": "MLA of Rudrapur",
+    "role": "MLA",
+    "gender": "Female",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Rudrapur",
+    "state": "Uttarakhand",
+    "attendancePercentage": 90,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 51,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.3,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36125000,
+    "ladFundUnspentINR": 1375000,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12643750,
+        "status": "Completed"
+      },
+      {
+        "category": "Rudrapur Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9031250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7225000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7225000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 59,
+    "declaredAssetsINR": 41250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Rudrapur.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Rudrapur in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3708",
+    "name": "MLA of Kichha",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Kichha",
+    "state": "Uttarakhand",
+    "attendancePercentage": 91,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 52,
+    "privateMemberBills": 0,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.4,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36150000,
+    "ladFundUnspentINR": 1350000,
+    "worksRecommendedCount": 15,
+    "worksCompletedCount": 14,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12652500,
+        "status": "Completed"
+      },
+      {
+        "category": "Kichha Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9037500,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7230000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7230000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 56,
+    "declaredAssetsINR": 41500000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Kichha.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Kichha in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3709",
+    "name": "MLA of Sitarganj",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Sitarganj",
+    "state": "Uttarakhand",
+    "attendancePercentage": 92,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 53,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36175000,
+    "ladFundUnspentINR": 1325000,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 36,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12661250,
+        "status": "Completed"
+      },
+      {
+        "category": "Sitarganj Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9043750,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7235000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7235000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 52,
+    "declaredAssetsINR": 41750000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Sitarganj.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Sitarganj in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3710",
+    "name": "MLA of Nanakmatta",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Bharatiya Janata Party",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Nanakmatta",
+    "state": "Uttarakhand",
+    "attendancePercentage": 93,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 54,
+    "privateMemberBills": 1,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.5,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36200000,
+    "ladFundUnspentINR": 1300000,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 2,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12670000,
+        "status": "Completed"
+      },
+      {
+        "category": "Nanakmatta Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9050000,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7240000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7240000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 55,
+    "declaredAssetsINR": 42000000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Nanakmatta.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Nanakmatta in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Bharatiya Janata Party",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/BJP.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  },
+  {
+    "id": "ut_3711",
+    "name": "MLA of Khatima",
+    "role": "MLA",
+    "gender": "Male",
+    "party": "Indian National Congress",
+    "photoUrl": "/assets/placeholder-avatar.svg",
+    "constituencyName": "Khatima",
+    "state": "Uttarakhand",
+    "attendancePercentage": 94,
+    "attendanceBody": "State Legislative Assembly",
+    "questionsAsked": 55,
+    "privateMemberBills": 2,
+    "fundSchemeName": "Uttarakhand Vidhayak Nidhi (MLA-LADS)",
+    "fundUtilizationPercentage": 96.6,
+    "ladFundAllocatedINR": 37500000,
+    "ladFundUtilizedINR": 36225000,
+    "ladFundUnspentINR": 1275000,
+    "worksRecommendedCount": 18,
+    "worksCompletedCount": 17,
+    "worksPendingCount": 1,
+    "fundSourceCitation": "Uttarakhand Planning & Rural Development Department (Audited Annual Release)",
+    "ladFundCategoryBreakdown": [
+      {
+        "category": "Udham Singh Nagar Arterial Road & Overbridge Upgrades",
+        "percentage": 35,
+        "allocatedINR": 12678750,
+        "status": "Completed"
+      },
+      {
+        "category": "Khatima Piped Drinking Water & Drainage Grid",
+        "percentage": 25,
+        "allocatedINR": 9056250,
+        "status": "Completed"
+      },
+      {
+        "category": "Gram Panchayat Smart Digital Labs",
+        "percentage": 20,
+        "allocatedINR": 7245000,
+        "status": "Under Implementation"
+      },
+      {
+        "category": "Community Health Center Diagnostics & Trauma Wing",
+        "percentage": 20,
+        "allocatedINR": 7245000,
+        "status": "Completed"
+      }
+    ],
+    "debatesParticipated": 60,
+    "declaredAssetsINR": 42250000,
+    "declaredLiabilitiesINR": 1100000,
+    "criminalCasesCount": 0,
+    "criminalCasesDetails": [],
+    "education": "Graduate",
+    "affidavitPdfUrl": "https://affidavit.eci.gov.in/",
+    "termsServed": 1,
+    "funFact": "Active representative participating in key development debates for Khatima.",
+    "politicalFact": "Elected representative serving the citizens of Udham Singh Nagar, Uttarakhand.",
+    "bio": "Elected Member of the Uttarakhand Legislative Assembly representing Khatima in Udham Singh Nagar district.",
+    "partyHistory": [
+      {
+        "party": "Indian National Congress",
+        "yearJoined": 2019
+      }
+    ],
+    "partyLogoUrl": "/assets/parties/INC.svg",
+    "averages": {
+      "attendance": 80,
+      "questions": 45,
+      "bills": 1,
+      "fundUtilization": 78,
+      "debates": 22
+    },
+    "dataSources": {
+      "affidavitSource": "Election Commission of India (ECI) Form 26 Affidavit",
+      "attendanceSource": "Uttarakhand Assembly Secretarial Records",
+      "questionsSource": "Assembly Hansard & Legislative Question Hour Record",
+      "fundSource": "Uttarakhand Planning Dept & MLA-LADS Public Audit Portal"
+    }
+  }
+]

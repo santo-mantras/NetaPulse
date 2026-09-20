@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import type { LocationHierarchy, CandidateProfile } from '../types/governance';
 import { Search, MapPin, User, RotateCcw, X, Filter, ShieldCheck, AlertCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { mockStateProfiles } from '../data/dataAdapter';
 
 interface LocationSelectorProps {
     locations: LocationHierarchy[];
@@ -203,23 +204,87 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
         }
     }, [selectedState, selectedDistrict, selectedConstituency, locations, onLocationSelect]);
 
-    // Handle cascading resets with alphabetical order
+    // Helper to find the default leader (Chief Minister) for a given state or UT
+    const findStateDefaultLocation = (stateName: string): LocationHierarchy | null => {
+        const stateCandidates = candidates.filter(c => c.state === stateName);
+        if (stateCandidates.length === 0) return null;
+
+        let cmCandidate: CandidateProfile | undefined = undefined;
+
+        // 1. Look up Chief Minister name from state profile
+        const profileCmName = (mockStateProfiles as any)?.[stateName]?.chiefMinister?.name?.toLowerCase();
+        if (profileCmName) {
+            cmCandidate = stateCandidates.find(c => {
+                const cName = c.name.toLowerCase();
+                return cName === profileCmName || cName.includes(profileCmName) || profileCmName.includes(cName);
+            });
+        }
+
+        // 2. If not found, match role with "Chief Minister" (excluding former/deputy)
+        if (!cmCandidate) {
+            cmCandidate = stateCandidates.find(c => {
+                const role = (c.role || '').toLowerCase();
+                return role.includes('chief minister') && !role.includes('former') && !role.includes('deputy');
+            });
+        }
+
+        // 3. Fallback for UTs without CM (e.g. Chandigarh, Ladakh): find top MP or Prime Minister
+        if (!cmCandidate) {
+            cmCandidate = stateCandidates.find(c => {
+                const role = (c.role || '').toLowerCase();
+                return role.includes('prime minister') || role.includes('member of parliament') || role.includes('lok sabha');
+            });
+        }
+
+        // 4. Resolve location of the found leader
+        if (cmCandidate) {
+            const cName = cmCandidate.constituencyName?.toLowerCase() || '';
+            const cCode = (cmCandidate as any).constituencyCode?.toLowerCase() || '';
+
+            // Exact match
+            let loc = locations.find(l => 
+                l.stateName === stateName && 
+                (l.assemblyConstituencyName.toLowerCase() === cName || (cCode && l.assemblyConstituencyCode.toLowerCase() === cCode))
+            );
+
+            // Substring fallback
+            if (!loc && cName) {
+                loc = locations.find(l => 
+                    l.stateName === stateName && 
+                    (l.assemblyConstituencyName.toLowerCase().includes(cName) || cName.includes(l.assemblyConstituencyName.toLowerCase()))
+                );
+            }
+
+            if (loc) return loc;
+        }
+
+        return null;
+    };
+
+    // Handle cascading resets - defaults to Chief Minister for the selected state/UT
     const handleStateChange = (state: string) => {
         setSelectedState(state);
         setSearchQuery('');
         onSearch('');
         setShowSuggestions(false);
 
-        const newDistricts = Array.from(new Set(locations.filter(l => l.stateName === state).map(l => l.districtName)))
-            .sort((a, b) => a.localeCompare(b));
-        const firstDist = newDistricts[0] || '';
-        setSelectedDistrict(firstDist);
+        const defaultCmLoc = findStateDefaultLocation(state);
 
-        const newConst = locations
-            .filter(l => l.stateName === state && l.districtName === firstDist)
-            .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
-            .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
-        setSelectedConstituency(newConst[0] || '');
+        if (defaultCmLoc) {
+            setSelectedDistrict(defaultCmLoc.districtName);
+            setSelectedConstituency(`${defaultCmLoc.assemblyConstituencyCode} ${defaultCmLoc.assemblyConstituencyName}`);
+        } else {
+            const newDistricts = Array.from(new Set(locations.filter(l => l.stateName === state).map(l => l.districtName)))
+                .sort((a, b) => a.localeCompare(b));
+            const firstDist = newDistricts[0] || '';
+            setSelectedDistrict(firstDist);
+
+            const newConst = locations
+                .filter(l => l.stateName === state && l.districtName === firstDist)
+                .sort((a, b) => a.assemblyConstituencyName.localeCompare(b.assemblyConstituencyName))
+                .map(l => `${l.assemblyConstituencyCode} ${l.assemblyConstituencyName}`);
+            setSelectedConstituency(newConst[0] || '');
+        }
     };
 
     const handleDistrictChange = (dist: string) => {
@@ -347,26 +412,27 @@ export const LocationSelector: React.FC<LocationSelectorProps> = ({ locations, c
 
                 <div className="text-[11px] font-semibold text-slate-500 dark:text-slate-400 flex items-center gap-1.5 pr-1">
                     <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                    <span>18 States &amp; 5 Union Territories Live</span>
+                    <span>{regularStates.length} States &amp; {unionTerritories.length} Union Territories Live</span>
                 </div>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                 <div className="flex flex-col gap-1.5">
-                    <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider">State / Union Territory</label>
+                    <label htmlFor="state-select" className="text-xs font-semibold text-slate-500 uppercase tracking-wider">State / Union Territory</label>
                     <select 
+                        id="state-select"
                         value={selectedState} 
                         onChange={(e) => handleStateChange(e.target.value)}
                         className="bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-700 text-slate-900 dark:text-slate-100 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 transition-colors outline-none font-medium"
                     >
-                        <optgroup label="── 🏛️ States (18) ──" className="font-bold text-slate-900 dark:text-slate-200">
+                        <optgroup label={`── 🏛️ States (${regularStates.length}) ──`} className="font-bold text-slate-900 dark:text-slate-200">
                             {regularStates.map(s => (
                                 <option key={s} value={s} className="font-normal text-slate-800 dark:text-slate-100">
                                     {s}
                                 </option>
                             ))}
                         </optgroup>
-                        <optgroup label="── 🇮🇳 Union Territories (5) ──" className="font-bold text-blue-700 dark:text-blue-300">
+                        <optgroup label={`── 🇮🇳 Union Territories (${unionTerritories.length}) ──`} className="font-bold text-blue-700 dark:text-blue-300">
                             {unionTerritories.map(s => (
                                 <option key={s} value={s} className="font-normal text-slate-800 dark:text-slate-100">
                                     {s} (UT)

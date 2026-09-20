@@ -86,11 +86,16 @@ function App() {
     );
     
     if (locationCandidates.length > 0) {
-      primaryCandidate = locationCandidates[0];
+      // Prioritize Chief Minister if multiple candidates exist in the constituency
+      const cmCandidate = locationCandidates.find(c => {
+        const r = (c.role || '').toLowerCase();
+        return r.includes('chief minister') && !r.includes('former') && !r.includes('deputy');
+      });
+      primaryCandidate = cmCandidate || locationCandidates[0];
     }
     
     if (locationCandidates.length > 1) {
-      competitorCandidate = locationCandidates[1];
+      competitorCandidate = locationCandidates.find(c => c.id !== primaryCandidate?.id) || locationCandidates[1];
     } else if (primaryCandidate) {
       // Deterministically pick another candidate in the same state/district as a competitor fallback
       const otherCandidates = Object.values(mockCandidates).filter(c => c.id !== primaryCandidate!.id && c.state === primaryCandidate!.state);

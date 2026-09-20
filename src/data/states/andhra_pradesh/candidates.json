@@ -11,15 +11,15 @@
     "attendancePercentage": 92,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 48,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 95.0,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28500000,
     "ladFundUnspentINR": 1500000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -47,7 +47,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 38000000,
     "declaredLiabilitiesINR": 2100000,
     "criminalCasesCount": 0,
@@ -91,15 +91,15 @@
     "attendancePercentage": 96,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 92,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 97.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 29200000,
     "ladFundUnspentINR": 800000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 1,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 2,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -127,7 +127,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 164000000,
     "declaredLiabilitiesINR": 14000000,
     "criminalCasesCount": 1,
@@ -179,14 +179,14 @@
     "attendancePercentage": 95,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 88,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 98.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 29500000,
     "ladFundUnspentINR": 500000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 30,
     "worksPendingCount": 1,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -215,7 +215,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 540000000,
     "declaredLiabilitiesINR": 42000000,
     "criminalCasesCount": 0,
@@ -259,14 +259,14 @@
     "attendancePercentage": 93,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 75,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 96.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28900000,
     "ladFundUnspentINR": 1100000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 41,
     "worksPendingCount": 2,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -295,7 +295,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 510000000,
     "declaredLiabilitiesINR": 11000000,
     "criminalCasesCount": 8,
@@ -396,14 +396,14 @@
     "attendancePercentage": 98,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 140,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 99.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 29800000,
     "ladFundUnspentINR": 200000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 34,
     "worksPendingCount": 1,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -432,7 +432,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 668000000,
     "declaredLiabilitiesINR": 0,
     "criminalCasesCount": 1,
@@ -490,8 +490,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -520,7 +520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -564,15 +564,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -600,7 +600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -644,14 +644,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -680,7 +680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -724,15 +724,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -760,7 +760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -804,7 +804,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -840,7 +840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -884,14 +884,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -920,7 +920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -964,15 +964,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -1000,7 +1000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1044,14 +1044,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1080,7 +1080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1124,15 +1124,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -1160,7 +1160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1204,14 +1204,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1240,7 +1240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1284,14 +1284,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1320,7 +1320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1364,15 +1364,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -1400,7 +1400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1444,14 +1444,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1480,7 +1480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1524,14 +1524,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1560,7 +1560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1610,8 +1610,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1640,7 +1640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1684,7 +1684,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -1720,7 +1720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1764,7 +1764,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -1800,7 +1800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1844,14 +1844,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1880,7 +1880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -1924,14 +1924,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -1960,7 +1960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2004,14 +2004,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2040,7 +2040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2084,14 +2084,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2120,7 +2120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2164,7 +2164,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -2200,7 +2200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2244,15 +2244,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -2280,7 +2280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2324,15 +2324,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
+    "worksRecommendedCount": 45,
     "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -2360,7 +2360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2404,14 +2404,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2440,7 +2440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2490,8 +2490,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2520,7 +2520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2570,8 +2570,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2600,7 +2600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2644,15 +2644,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -2680,7 +2680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2724,15 +2724,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -2760,7 +2760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2804,15 +2804,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -2840,7 +2840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2890,8 +2890,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -2920,7 +2920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -2964,14 +2964,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3000,7 +3000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3050,9 +3050,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -3080,7 +3080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3124,14 +3124,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3160,7 +3160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 27,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3204,15 +3204,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -3284,15 +3284,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -3320,7 +3320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3364,14 +3364,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3400,7 +3400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3444,7 +3444,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -3480,7 +3480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3524,14 +3524,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3560,7 +3560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3610,8 +3610,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3640,7 +3640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3684,14 +3684,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3720,7 +3720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3764,15 +3764,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -3800,7 +3800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3844,14 +3844,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -3880,7 +3880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -3930,9 +3930,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -3960,7 +3960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4004,14 +4004,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4040,7 +4040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4084,14 +4084,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4120,7 +4120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4164,14 +4164,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4200,7 +4200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4244,14 +4244,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4280,7 +4280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4324,15 +4324,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -4360,7 +4360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4410,8 +4410,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4440,7 +4440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4484,14 +4484,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4520,7 +4520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4564,15 +4564,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -4600,7 +4600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 59,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4644,14 +4644,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4680,7 +4680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4724,15 +4724,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -4760,7 +4760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4804,14 +4804,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -4840,7 +4840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4884,15 +4884,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 45,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -4920,7 +4920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -4964,14 +4964,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5000,7 +5000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5044,14 +5044,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5080,7 +5080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5124,15 +5124,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -5160,7 +5160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5204,15 +5204,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -5240,7 +5240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 58,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5290,8 +5290,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5320,7 +5320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 55,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5364,14 +5364,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5400,7 +5400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5444,14 +5444,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5480,7 +5480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5530,8 +5530,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5560,7 +5560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 18,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5610,8 +5610,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5640,7 +5640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 15,
+    "debatesParticipated": 57,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5720,7 +5720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5764,14 +5764,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5800,7 +5800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 16,
+    "debatesParticipated": 18,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5844,14 +5844,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -5880,7 +5880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -5960,7 +5960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6004,15 +6004,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -6040,7 +6040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6084,14 +6084,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6120,7 +6120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6164,14 +6164,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6200,7 +6200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6244,15 +6244,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -6280,7 +6280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6324,14 +6324,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6360,7 +6360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6404,14 +6404,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6440,7 +6440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6484,14 +6484,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6520,7 +6520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6564,14 +6564,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6600,7 +6600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 20,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6644,14 +6644,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6680,7 +6680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 28,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6724,14 +6724,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -6760,7 +6760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6804,15 +6804,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -6840,7 +6840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6884,15 +6884,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -6920,7 +6920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -6964,15 +6964,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -7000,7 +7000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 43,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7044,14 +7044,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7080,7 +7080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7130,9 +7130,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -7160,7 +7160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 46,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7204,15 +7204,15 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -7240,7 +7240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7284,14 +7284,14 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7320,7 +7320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7364,7 +7364,7 @@
     "attendancePercentage": 91,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 45,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -7400,7 +7400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 56,
     "declaredAssetsINR": 45000000,
     "declaredLiabilitiesINR": 3000000,
     "criminalCasesCount": 0,
@@ -7444,14 +7444,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7480,7 +7480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 55,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7524,15 +7524,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -7560,7 +7560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 34,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7604,14 +7604,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7640,7 +7640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7684,7 +7684,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -7720,7 +7720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 56,
+    "debatesParticipated": 52,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7764,15 +7764,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
+    "worksRecommendedCount": 45,
     "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -7800,7 +7800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7850,8 +7850,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7880,7 +7880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 39,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -7924,14 +7924,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -7960,7 +7960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8010,8 +8010,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8040,7 +8040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 35,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8084,14 +8084,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8120,7 +8120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8164,14 +8164,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8200,7 +8200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8244,7 +8244,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -8280,7 +8280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8324,14 +8324,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8360,7 +8360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8404,14 +8404,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8440,7 +8440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 41,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8484,14 +8484,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
     "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8520,7 +8520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8564,15 +8564,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -8600,7 +8600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8644,15 +8644,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -8680,7 +8680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 44,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8724,14 +8724,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8760,7 +8760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 30,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8804,15 +8804,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -8840,7 +8840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 17,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8884,14 +8884,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -8920,7 +8920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -8970,9 +8970,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -9000,7 +9000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9044,14 +9044,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9080,7 +9080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9124,14 +9124,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9160,7 +9160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 25,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9210,9 +9210,9 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 33,
+    "worksCompletedCount": 30,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -9240,7 +9240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9284,15 +9284,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -9320,7 +9320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 39,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9364,7 +9364,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -9400,7 +9400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9444,14 +9444,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9480,7 +9480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 19,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9530,8 +9530,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9604,14 +9604,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9640,7 +9640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9684,15 +9684,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -9720,7 +9720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 33,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9764,14 +9764,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9800,7 +9800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 28,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9844,7 +9844,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -9880,7 +9880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -9924,14 +9924,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -9960,7 +9960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 50,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10004,15 +10004,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10040,7 +10040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 54,
+    "debatesParticipated": 30,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10084,15 +10084,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10120,7 +10120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10164,14 +10164,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10200,7 +10200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10244,15 +10244,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10280,7 +10280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 26,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10324,15 +10324,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10360,7 +10360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10404,14 +10404,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10440,7 +10440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10484,14 +10484,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10520,7 +10520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 21,
+    "debatesParticipated": 31,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10564,14 +10564,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10600,7 +10600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10644,15 +10644,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10680,7 +10680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10724,14 +10724,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10760,7 +10760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 36,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10804,14 +10804,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 43,
-    "worksCompletedCount": 40,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -10840,7 +10840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 53,
+    "debatesParticipated": 32,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10884,15 +10884,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -10920,7 +10920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -10964,14 +10964,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 35,
+    "worksCompletedCount": 32,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11000,7 +11000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11050,8 +11050,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11080,7 +11080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11124,7 +11124,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -11160,7 +11160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 29,
+    "debatesParticipated": 16,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11204,14 +11204,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11240,7 +11240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11284,14 +11284,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11320,7 +11320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 49,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11364,15 +11364,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -11400,7 +11400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 57,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11444,14 +11444,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 43,
+    "worksCompletedCount": 40,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11480,7 +11480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 23,
+    "debatesParticipated": 26,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11524,15 +11524,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 36,
+    "worksCompletedCount": 33,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -11560,7 +11560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 25,
+    "debatesParticipated": 48,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11610,8 +11610,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 40,
+    "worksCompletedCount": 37,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11684,14 +11684,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 32,
-    "worksCompletedCount": 29,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11720,7 +11720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 19,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11764,14 +11764,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 42,
-    "worksCompletedCount": 39,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11844,14 +11844,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -11880,7 +11880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 51,
+    "debatesParticipated": 54,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -11924,15 +11924,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 46,
+    "worksCompletedCount": 42,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -11960,7 +11960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 43,
+    "debatesParticipated": 15,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12004,14 +12004,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 33,
-    "worksCompletedCount": 30,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12040,7 +12040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 48,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12120,7 +12120,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 22,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12164,15 +12164,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 46,
-    "worksCompletedCount": 42,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -12200,7 +12200,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 32,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12244,14 +12244,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 41,
-    "worksCompletedCount": 38,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12280,7 +12280,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 29,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12324,14 +12324,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 32,
+    "worksCompletedCount": 29,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12360,7 +12360,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 20,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12404,14 +12404,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 40,
-    "worksCompletedCount": 37,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12440,7 +12440,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 27,
+    "debatesParticipated": 53,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12484,15 +12484,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -12520,7 +12520,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 24,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12564,15 +12564,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 35,
-    "worksCompletedCount": 32,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 48,
+    "worksCompletedCount": 44,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -12600,7 +12600,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 38,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12650,8 +12650,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12680,7 +12680,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 45,
+    "debatesParticipated": 37,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12724,15 +12724,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 47,
-    "worksCompletedCount": 43,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 31,
+    "worksCompletedCount": 28,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -12760,7 +12760,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 47,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12804,7 +12804,7 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
@@ -12840,7 +12840,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 33,
+    "debatesParticipated": 38,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12884,14 +12884,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -12920,7 +12920,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 52,
+    "debatesParticipated": 35,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -12964,14 +12964,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 3,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 36,
-    "worksCompletedCount": 33,
+    "worksRecommendedCount": 39,
+    "worksCompletedCount": 36,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13000,7 +13000,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13044,14 +13044,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 30,
-    "worksCompletedCount": 27,
+    "worksRecommendedCount": 38,
+    "worksCompletedCount": 35,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13080,7 +13080,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 31,
+    "debatesParticipated": 47,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13130,8 +13130,8 @@
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13160,7 +13160,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13204,14 +13204,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13240,7 +13240,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 21,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13284,14 +13284,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 34,
-    "worksCompletedCount": 31,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13320,7 +13320,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 37,
+    "debatesParticipated": 59,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13364,15 +13364,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 44,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 3,
+    "worksRecommendedCount": 47,
+    "worksCompletedCount": 43,
+    "worksPendingCount": 4,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -13400,7 +13400,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 34,
+    "debatesParticipated": 60,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13444,14 +13444,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 42,
+    "worksCompletedCount": 39,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13480,7 +13480,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 23,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13524,15 +13524,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -13560,7 +13560,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 60,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13604,14 +13604,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 5,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 31,
-    "worksCompletedCount": 28,
+    "worksRecommendedCount": 37,
+    "worksCompletedCount": 34,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13640,7 +13640,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 46,
+    "debatesParticipated": 51,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13684,14 +13684,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 2,
+    "privateMemberBills": 0,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 37,
-    "worksCompletedCount": 34,
+    "worksRecommendedCount": 44,
+    "worksCompletedCount": 41,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13720,7 +13720,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 40,
+    "debatesParticipated": 44,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13764,14 +13764,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 0,
+    "privateMemberBills": 1,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 38,
-    "worksCompletedCount": 35,
+    "worksRecommendedCount": 34,
+    "worksCompletedCount": 31,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13800,7 +13800,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 42,
+    "debatesParticipated": 17,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13844,14 +13844,14 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 3,
+    "privateMemberBills": 4,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 39,
-    "worksCompletedCount": 36,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
     "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
@@ -13880,7 +13880,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 36,
+    "debatesParticipated": 42,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -13924,15 +13924,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 4,
+    "privateMemberBills": 5,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 45,
-    "worksCompletedCount": 41,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 41,
+    "worksCompletedCount": 38,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -13960,7 +13960,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 22,
+    "debatesParticipated": 40,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,
@@ -14004,15 +14004,15 @@
     "attendancePercentage": 90,
     "attendanceBody": "State Legislative Assembly",
     "questionsAsked": 42,
-    "privateMemberBills": 1,
+    "privateMemberBills": 2,
     "fundSchemeName": "Andhra Pradesh Assembly Constituency Development Programme (ACDP)",
     "fundUtilizationPercentage": 93.3,
     "ladFundAllocatedINR": 30000000,
     "ladFundUtilizedINR": 28000000,
     "ladFundUnspentINR": 2000000,
-    "worksRecommendedCount": 48,
-    "worksCompletedCount": 44,
-    "worksPendingCount": 4,
+    "worksRecommendedCount": 30,
+    "worksCompletedCount": 27,
+    "worksPendingCount": 3,
     "fundSourceCitation": "Andhra Pradesh Planning Department & District Collectorate",
     "ladFundCategoryBreakdown": [
       {
@@ -14040,7 +14040,7 @@
         "status": "Under Implementation"
       }
     ],
-    "debatesParticipated": 24,
+    "debatesParticipated": 49,
     "declaredAssetsINR": 40000000,
     "declaredLiabilitiesINR": 2500000,
     "criminalCasesCount": 0,

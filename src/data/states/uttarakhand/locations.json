@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "loc_ut_3642",
+    "stateName": "Uttarakhand",
+    "districtName": "Uttarkashi",
+    "assemblyConstituencyCode": "AC-UK-01",
+    "assemblyConstituencyName": "Purola",
+    "crimeRate": "183.0 per 100k",
+    "crimeRatePerLakh": 183.0,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 314,
+    "regionalInsight": {
+      "title": "Purola Civic Context",
+      "historicalFact": "The 'Kashi of the North', housing sacred Gangotri and Yamunotri temples, Gaumukh glacier, and the Nehru Institute of Mountaineering (NIM).",
+      "currentChallenge": "Key challenges include slope protection along landslide-prone valley passes, winter freeze drinking water management, and high-altitude waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3643",
+    "stateName": "Uttarakhand",
+    "districtName": "Uttarkashi",
+    "assemblyConstituencyCode": "AC-UK-02",
+    "assemblyConstituencyName": "Yamunotri",
+    "crimeRate": "183.0 per 100k",
+    "crimeRatePerLakh": 183.0,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 314,
+    "regionalInsight": {
+      "title": "Yamunotri Civic Context",
+      "historicalFact": "The 'Kashi of the North', housing sacred Gangotri and Yamunotri temples, Gaumukh glacier, and the Nehru Institute of Mountaineering (NIM).",
+      "currentChallenge": "Key challenges include slope protection along landslide-prone valley passes, winter freeze drinking water management, and high-altitude waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3644",
+    "stateName": "Uttarakhand",
+    "districtName": "Uttarkashi",
+    "assemblyConstituencyCode": "AC-UK-03",
+    "assemblyConstituencyName": "Gangotri",
+    "crimeRate": "183.0 per 100k",
+    "crimeRatePerLakh": 183.0,
+    "literacyRate": 84.0,
+    "literacyRatePercentage": 84.0,
+    "hospitalsCount": 34,
+    "govtSchoolsCount": 314,
+    "regionalInsight": {
+      "title": "Gangotri Civic Context",
+      "historicalFact": "The 'Kashi of the North', housing sacred Gangotri and Yamunotri temples, Gaumukh glacier, and the Nehru Institute of Mountaineering (NIM).",
+      "currentChallenge": "Key challenges include slope protection along landslide-prone valley passes, winter freeze drinking water management, and high-altitude waste recycling."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3645",
+    "stateName": "Uttarakhand",
+    "districtName": "Chamoli",
+    "assemblyConstituencyCode": "AC-UK-04",
+    "assemblyConstituencyName": "Badrinath",
+    "crimeRate": "206.4 per 100k",
+    "crimeRatePerLakh": 206.4,
+    "literacyRate": 74.4,
+    "literacyRatePercentage": 74.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Badrinath Civic Context",
+      "historicalFact": "Home to the sacred Badrinath shrine, Valley of Flowers (UNESCO), Hemkund Sahib, and the historic birthplace of the grassroots Chipko environmental movement.",
+      "currentChallenge": "Primary challenges center on landslide stabilization along the Badrinath Char Dham all-weather highway, eco-sensitive waste regulation, and flash flood mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3646",
+    "stateName": "Uttarakhand",
+    "districtName": "Chamoli",
+    "assemblyConstituencyCode": "AC-UK-05",
+    "assemblyConstituencyName": "Tharali",
+    "crimeRate": "206.4 per 100k",
+    "crimeRatePerLakh": 206.4,
+    "literacyRate": 74.4,
+    "literacyRatePercentage": 74.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Tharali Civic Context",
+      "historicalFact": "Home to the sacred Badrinath shrine, Valley of Flowers (UNESCO), Hemkund Sahib, and the historic birthplace of the grassroots Chipko environmental movement.",
+      "currentChallenge": "Primary challenges center on landslide stabilization along the Badrinath Char Dham all-weather highway, eco-sensitive waste regulation, and flash flood mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3647",
+    "stateName": "Uttarakhand",
+    "districtName": "Chamoli",
+    "assemblyConstituencyCode": "AC-UK-06",
+    "assemblyConstituencyName": "Karnaprayag",
+    "crimeRate": "206.4 per 100k",
+    "crimeRatePerLakh": 206.4,
+    "literacyRate": 74.4,
+    "literacyRatePercentage": 74.4,
+    "hospitalsCount": 37,
+    "govtSchoolsCount": 298,
+    "regionalInsight": {
+      "title": "Karnaprayag Civic Context",
+      "historicalFact": "Home to the sacred Badrinath shrine, Valley of Flowers (UNESCO), Hemkund Sahib, and the historic birthplace of the grassroots Chipko environmental movement.",
+      "currentChallenge": "Primary challenges center on landslide stabilization along the Badrinath Char Dham all-weather highway, eco-sensitive waste regulation, and flash flood mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3648",
+    "stateName": "Uttarakhand",
+    "districtName": "Rudraprayag",
+    "assemblyConstituencyCode": "AC-UK-07",
+    "assemblyConstituencyName": "Kedarnath",
+    "crimeRate": "228.9 per 100k",
+    "crimeRatePerLakh": 228.9,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 247,
+    "regionalInsight": {
+      "title": "Kedarnath Civic Context",
+      "historicalFact": "Sacred confluence of Alaknanda and Mandakini rivers, home to the revered Kedarnath Jyotirlinga, Madhmaheshwar, and the Tungnath temple (highest Shiva shrine).",
+      "currentChallenge": "Critical challenges include climate-resilient reconstruction along the Kedarnath pilgrim trek, flood defense in Mandakini valley, and high-altitude emergency rescue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3649",
+    "stateName": "Uttarakhand",
+    "districtName": "Rudraprayag",
+    "assemblyConstituencyCode": "AC-UK-08",
+    "assemblyConstituencyName": "Rudraprayag",
+    "crimeRate": "228.9 per 100k",
+    "crimeRatePerLakh": 228.9,
+    "literacyRate": 85.4,
+    "literacyRatePercentage": 85.4,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 247,
+    "regionalInsight": {
+      "title": "Rudraprayag Civic Context",
+      "historicalFact": "Sacred confluence of Alaknanda and Mandakini rivers, home to the revered Kedarnath Jyotirlinga, Madhmaheshwar, and the Tungnath temple (highest Shiva shrine).",
+      "currentChallenge": "Critical challenges include climate-resilient reconstruction along the Kedarnath pilgrim trek, flood defense in Mandakini valley, and high-altitude emergency rescue."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3650",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-09",
+    "assemblyConstituencyName": "Ghansali",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Ghansali Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3651",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-10",
+    "assemblyConstituencyName": "Devprayag",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Devprayag Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3652",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-11",
+    "assemblyConstituencyName": "Narendranagar",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Narendranagar Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3653",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-12",
+    "assemblyConstituencyName": "Pratapnagar",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Pratapnagar Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3654",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-13",
+    "assemblyConstituencyName": "Tehri",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Tehri Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3655",
+    "stateName": "Uttarakhand",
+    "districtName": "Tehri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-14",
+    "assemblyConstituencyName": "Dhanaulti",
+    "crimeRate": "267.1 per 100k",
+    "crimeRatePerLakh": 267.1,
+    "literacyRate": 77.4,
+    "literacyRatePercentage": 77.4,
+    "hospitalsCount": 24,
+    "govtSchoolsCount": 328,
+    "regionalInsight": {
+      "title": "Dhanaulti Civic Context",
+      "historicalFact": "Home to the colossal Tehri Dam (Asia's highest rock-fill dam) and reservoir, the scenic hill station of Dhanaulti, and the ancient hilltop shrine of Surkanda Devi.",
+      "currentChallenge": "Major civic needs involve rehabilitation of dam-submerged communities, water supply to hill towns around the reservoir, and adventure tourism safety."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3656",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-15",
+    "assemblyConstituencyName": "Chakrata",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Chakrata Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3657",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-16",
+    "assemblyConstituencyName": "Vikasnagar",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Vikasnagar Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3658",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-17",
+    "assemblyConstituencyName": "Sahaspur",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Sahaspur Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3659",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-18",
+    "assemblyConstituencyName": "Dharampur",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Dharampur Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3660",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-19",
+    "assemblyConstituencyName": "Raipur",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Raipur Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3661",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-20",
+    "assemblyConstituencyName": "Rajpur Road",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Rajpur Road Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3662",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-21",
+    "assemblyConstituencyName": "Dehradun Cantt",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Dehradun Cantt Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3663",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-22",
+    "assemblyConstituencyName": "Mussoorie",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Mussoorie Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3664",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-23",
+    "assemblyConstituencyName": "Doiwala",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Doiwala Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3665",
+    "stateName": "Uttarakhand",
+    "districtName": "Dehradun",
+    "assemblyConstituencyCode": "AC-UK-24",
+    "assemblyConstituencyName": "Rishikesh",
+    "crimeRate": "279.7 per 100k",
+    "crimeRatePerLakh": 279.7,
+    "literacyRate": 78.8,
+    "literacyRatePercentage": 78.8,
+    "hospitalsCount": 29,
+    "govtSchoolsCount": 198,
+    "regionalInsight": {
+      "title": "Rishikesh Civic Context",
+      "historicalFact": "State capital nestled in the Doon Valley, housing premier national institutions (IMA, FRI, WII), Mussoorie hill resort, and the sacred Ganga gateway at Rishikesh.",
+      "currentChallenge": "Primary civic focus centers on urban traffic decongestion, stormwater drainage desilting to prevent monsoon waterlogging, and riverfront eco-restoration."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3666",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-25",
+    "assemblyConstituencyName": "Bhel Ranipur",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Bhel Ranipur Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3667",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-26",
+    "assemblyConstituencyName": "Jwalapur",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Jwalapur Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3668",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-27",
+    "assemblyConstituencyName": "Bhagwanpur",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Bhagwanpur Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3669",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-28",
+    "assemblyConstituencyName": "Jhabrera",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Jhabrera Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3670",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-29",
+    "assemblyConstituencyName": "Pirankaliyar",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Pirankaliyar Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3671",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-30",
+    "assemblyConstituencyName": "Roorkee",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Roorkee Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3672",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-31",
+    "assemblyConstituencyName": "Khanpur",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Khanpur Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3673",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-32",
+    "assemblyConstituencyName": "Manglore",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Manglore Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3674",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-33",
+    "assemblyConstituencyName": "Laksar",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Laksar Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3675",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-34",
+    "assemblyConstituencyName": "Haridwar",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Haridwar Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3676",
+    "stateName": "Uttarakhand",
+    "districtName": "Haridwar",
+    "assemblyConstituencyCode": "AC-UK-35",
+    "assemblyConstituencyName": "Haridwar Rural",
+    "crimeRate": "265.8 per 100k",
+    "crimeRatePerLakh": 265.8,
+    "literacyRate": 75.4,
+    "literacyRatePercentage": 75.4,
+    "hospitalsCount": 31,
+    "govtSchoolsCount": 300,
+    "regionalInsight": {
+      "title": "Haridwar Rural Civic Context",
+      "historicalFact": "One of India's seven sacred cities, where river Ganga enters the northern plains at Har Ki Pauri, and a booming industrial manufacturing hub at SIDCUL.",
+      "currentChallenge": "Major challenges include managing massive pilgrim gatherings during Kanwar and Kumbh, industrial wastewater monitoring, and urban traffic diversion."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3677",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-36",
+    "assemblyConstituencyName": "Yamkeshwar",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Yamkeshwar Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3678",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-37",
+    "assemblyConstituencyName": "Pauri",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Pauri Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3679",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-38",
+    "assemblyConstituencyName": "Srinagar",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Srinagar Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3680",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-39",
+    "assemblyConstituencyName": "Chaubattakhal",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Chaubattakhal Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3681",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-40",
+    "assemblyConstituencyName": "Lansdowne",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Lansdowne Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3682",
+    "stateName": "Uttarakhand",
+    "districtName": "Pauri Garhwal",
+    "assemblyConstituencyCode": "AC-UK-41",
+    "assemblyConstituencyName": "Kotdwar",
+    "crimeRate": "156.2 per 100k",
+    "crimeRatePerLakh": 156.2,
+    "literacyRate": 82.6,
+    "literacyRatePercentage": 82.6,
+    "hospitalsCount": 21,
+    "govtSchoolsCount": 245,
+    "regionalInsight": {
+      "title": "Kotdwar Civic Context",
+      "historicalFact": "A historical administrative center boasting panoramic Himalayan vistas, seat of Hemvati Nandan Bahuguna Garhwal University, and ancient temples of Khirsu.",
+      "currentChallenge": "Key priorities involve rural drinking water schemes in steep terrain, revitalizing abandoned hill terrace farms, and secondary healthcare access."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3683",
+    "stateName": "Uttarakhand",
+    "districtName": "Pithoragarh",
+    "assemblyConstituencyCode": "AC-UK-42",
+    "assemblyConstituencyName": "Dharchula",
+    "crimeRate": "204.6 per 100k",
+    "crimeRatePerLakh": 204.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 175,
+    "regionalInsight": {
+      "title": "Dharchula Civic Context",
+      "historicalFact": "Termed the 'Little Kashmir', this strategic frontier district borders Tibet and Nepal, serving as the base for the sacred Kailash Mansarovar pilgrimage route.",
+      "currentChallenge": "Developmental needs include all-weather border road maintenance through rugged high passes, air connectivity at Naini Saini airport, and high-altitude health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3684",
+    "stateName": "Uttarakhand",
+    "districtName": "Pithoragarh",
+    "assemblyConstituencyCode": "AC-UK-43",
+    "assemblyConstituencyName": "Didihat",
+    "crimeRate": "204.6 per 100k",
+    "crimeRatePerLakh": 204.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 175,
+    "regionalInsight": {
+      "title": "Didihat Civic Context",
+      "historicalFact": "Termed the 'Little Kashmir', this strategic frontier district borders Tibet and Nepal, serving as the base for the sacred Kailash Mansarovar pilgrimage route.",
+      "currentChallenge": "Developmental needs include all-weather border road maintenance through rugged high passes, air connectivity at Naini Saini airport, and high-altitude health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3685",
+    "stateName": "Uttarakhand",
+    "districtName": "Pithoragarh",
+    "assemblyConstituencyCode": "AC-UK-44",
+    "assemblyConstituencyName": "Pithoragarh",
+    "crimeRate": "204.6 per 100k",
+    "crimeRatePerLakh": 204.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 175,
+    "regionalInsight": {
+      "title": "Pithoragarh Civic Context",
+      "historicalFact": "Termed the 'Little Kashmir', this strategic frontier district borders Tibet and Nepal, serving as the base for the sacred Kailash Mansarovar pilgrimage route.",
+      "currentChallenge": "Developmental needs include all-weather border road maintenance through rugged high passes, air connectivity at Naini Saini airport, and high-altitude health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3686",
+    "stateName": "Uttarakhand",
+    "districtName": "Pithoragarh",
+    "assemblyConstituencyCode": "AC-UK-45",
+    "assemblyConstituencyName": "Gangolihat",
+    "crimeRate": "204.6 per 100k",
+    "crimeRatePerLakh": 204.6,
+    "literacyRate": 83.7,
+    "literacyRatePercentage": 83.7,
+    "hospitalsCount": 40,
+    "govtSchoolsCount": 175,
+    "regionalInsight": {
+      "title": "Gangolihat Civic Context",
+      "historicalFact": "Termed the 'Little Kashmir', this strategic frontier district borders Tibet and Nepal, serving as the base for the sacred Kailash Mansarovar pilgrimage route.",
+      "currentChallenge": "Developmental needs include all-weather border road maintenance through rugged high passes, air connectivity at Naini Saini airport, and high-altitude health centers."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3687",
+    "stateName": "Uttarakhand",
+    "districtName": "Bageshwar",
+    "assemblyConstituencyCode": "AC-UK-46",
+    "assemblyConstituencyName": "Kapkot",
+    "crimeRate": "191.6 per 100k",
+    "crimeRatePerLakh": 191.6,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 353,
+    "regionalInsight": {
+      "title": "Kapkot Civic Context",
+      "historicalFact": "Situated at the holy confluence of Saryu and Gomati rivers, Bageshwar is the gateway to Pindari and Sunderdhunga glaciers and home to Bagnath Temple.",
+      "currentChallenge": "Key development priorities involve road connectivity to high Himalayan glacial basecamps, rural eco-tourism, and monsoon disaster preparedness."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3688",
+    "stateName": "Uttarakhand",
+    "districtName": "Bageshwar",
+    "assemblyConstituencyCode": "AC-UK-47",
+    "assemblyConstituencyName": "Bageshwar",
+    "crimeRate": "191.6 per 100k",
+    "crimeRatePerLakh": 191.6,
+    "literacyRate": 85.9,
+    "literacyRatePercentage": 85.9,
+    "hospitalsCount": 26,
+    "govtSchoolsCount": 353,
+    "regionalInsight": {
+      "title": "Bageshwar Civic Context",
+      "historicalFact": "Situated at the holy confluence of Saryu and Gomati rivers, Bageshwar is the gateway to Pindari and Sunderdhunga glaciers and home to Bagnath Temple.",
+      "currentChallenge": "Key development priorities involve road connectivity to high Himalayan glacial basecamps, rural eco-tourism, and monsoon disaster preparedness."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3689",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-48",
+    "assemblyConstituencyName": "Dwarahat",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Dwarahat Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3690",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-49",
+    "assemblyConstituencyName": "Salt",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Salt Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3691",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-50",
+    "assemblyConstituencyName": "Ranikhet",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Ranikhet Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3692",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-51",
+    "assemblyConstituencyName": "Someshwar",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Someshwar Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3693",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-52",
+    "assemblyConstituencyName": "Almora",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Almora Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3694",
+    "stateName": "Uttarakhand",
+    "districtName": "Almora",
+    "assemblyConstituencyCode": "AC-UK-53",
+    "assemblyConstituencyName": "Jageshwar",
+    "crimeRate": "227.1 per 100k",
+    "crimeRatePerLakh": 227.1,
+    "literacyRate": 76.6,
+    "literacyRatePercentage": 76.6,
+    "hospitalsCount": 42,
+    "govtSchoolsCount": 221,
+    "regionalInsight": {
+      "title": "Jageshwar Civic Context",
+      "historicalFact": "The cultural heartland of Kumaon, celebrated for its rich literary legacy, Nanda Devi temple, Binsar wildlife sanctuary, and Kasar Devi's geomagnetic field.",
+      "currentChallenge": "Critical civic issues include mitigating mountain forest fires during summer, water supply deficits in hilltop wards, and youth migration mitigation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3695",
+    "stateName": "Uttarakhand",
+    "districtName": "Champawat",
+    "assemblyConstituencyCode": "AC-UK-54",
+    "assemblyConstituencyName": "Lohaghat",
+    "crimeRate": "231.2 per 100k",
+    "crimeRatePerLakh": 231.2,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 240,
+    "regionalInsight": {
+      "title": "Lohaghat Civic Context",
+      "historicalFact": "The ancient seat of the Chand kings of Kumaon, known for the intricately carved Baleshwar temple, Mayawati Advaita Ashrama, and dramatic Sharda river gorge.",
+      "currentChallenge": "Key civic focus areas include border trade infrastructure with Nepal, hill slope road connectivity, and expanding high-value organic apple orchards."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3696",
+    "stateName": "Uttarakhand",
+    "districtName": "Champawat",
+    "assemblyConstituencyCode": "AC-UK-55",
+    "assemblyConstituencyName": "Champawat",
+    "crimeRate": "231.2 per 100k",
+    "crimeRatePerLakh": 231.2,
+    "literacyRate": 86.2,
+    "literacyRatePercentage": 86.2,
+    "hospitalsCount": 22,
+    "govtSchoolsCount": 240,
+    "regionalInsight": {
+      "title": "Champawat Civic Context",
+      "historicalFact": "The ancient seat of the Chand kings of Kumaon, known for the intricately carved Baleshwar temple, Mayawati Advaita Ashrama, and dramatic Sharda river gorge.",
+      "currentChallenge": "Key civic focus areas include border trade infrastructure with Nepal, hill slope road connectivity, and expanding high-value organic apple orchards."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3697",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-56",
+    "assemblyConstituencyName": "Lalkuwa",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Lalkuwa Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3698",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-57",
+    "assemblyConstituencyName": "Bhimtal",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Bhimtal Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3699",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-58",
+    "assemblyConstituencyName": "Nainital",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Nainital Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3700",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-59",
+    "assemblyConstituencyName": "Haldwani",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Haldwani Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3701",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-60",
+    "assemblyConstituencyName": "Kaladhungi",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Kaladhungi Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3702",
+    "stateName": "Uttarakhand",
+    "districtName": "Nainital",
+    "assemblyConstituencyCode": "AC-UK-61",
+    "assemblyConstituencyName": "Ramnagar",
+    "crimeRate": "231.4 per 100k",
+    "crimeRatePerLakh": 231.4,
+    "literacyRate": 82.9,
+    "literacyRatePercentage": 82.9,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 344,
+    "regionalInsight": {
+      "title": "Ramnagar Civic Context",
+      "historicalFact": "The 'Lake District of India', centered around the emerald Naini Lake, colonial educational institutions, and the gateway to Jim Corbett National Park at Ramnagar.",
+      "currentChallenge": "Critical public issues include lake water quality preservation, slope stabilization against geological subsidence, and peak-season traffic regulation."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3703",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-62",
+    "assemblyConstituencyName": "Jaspur",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Jaspur Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3704",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-63",
+    "assemblyConstituencyName": "Kashipur",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Kashipur Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3705",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-64",
+    "assemblyConstituencyName": "Bajpur",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Bajpur Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3706",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-65",
+    "assemblyConstituencyName": "Gadarpur",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Gadarpur Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3707",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-66",
+    "assemblyConstituencyName": "Rudrapur",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Rudrapur Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3708",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-67",
+    "assemblyConstituencyName": "Kichha",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Kichha Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3709",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-68",
+    "assemblyConstituencyName": "Sitarganj",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Sitarganj Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3710",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-69",
+    "assemblyConstituencyName": "Nanakmatta",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Nanakmatta Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  },
+  {
+    "id": "loc_ut_3711",
+    "stateName": "Uttarakhand",
+    "districtName": "Udham Singh Nagar",
+    "assemblyConstituencyCode": "AC-UK-70",
+    "assemblyConstituencyName": "Khatima",
+    "crimeRate": "228.8 per 100k",
+    "crimeRatePerLakh": 228.8,
+    "literacyRate": 82.2,
+    "literacyRatePercentage": 82.2,
+    "hospitalsCount": 46,
+    "govtSchoolsCount": 356,
+    "regionalInsight": {
+      "title": "Khatima Civic Context",
+      "historicalFact": "The industrial and agricultural breadbasket of the Terai region, known for the Pantnagar Agricultural University (cradle of India's Green Revolution) and SIDCUL Rudrapur.",
+      "currentChallenge": "Primary civic focus centers on industrial effluent monitoring, drainage desilting along agricultural belts, and highway bypass expansions."
+    },
+    "districtStatsSources": {
+      "crimeRateSource": "National Crime Records Bureau (NCRB) State Report",
+      "literacySource": "Census of India & National Family Health Survey (NFHS-5)",
+      "hospitalsSource": "National Health Mission (NHM) District Health Directory",
+      "schoolsSource": "Unified District Information System for Education Plus (UDISE+)"
+    }
+  }
+]
