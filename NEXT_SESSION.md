@@ -80,7 +80,17 @@ We now have 26 States & UTs live (3,711 constituencies). The remaining targets a
   - Dadra & Nagar Haveli and Daman & Diu (2 PCs)
   - Lakshadweep (1 PC)
 
-### Focus Area 2: Pre-Ingestion Checklist for Remaining Regions
+### Focus Area 2: Indian Languages Support (Hindi, Marathi, Bengali, Tamil, Kannada, Gujarati)
+- **Deep Research & Architecture Plan**: Full blueprint detailed in [INDIAN_LANGUAGES_PLAN.md](file:///d:/AI_AGENTS/Jumlebaaz/INDIAN_LANGUAGES_PLAN.md).
+- **Core Technology Stack**:
+  - **i18n Shell**: `i18next` + `react-i18next` with code-split, on-demand language chunking (`/locales/{lang}.json`).
+  - **Indic AI Translation**: Open-weights **Sarvam-Translate** (fine-tuned Gemma-3-4B for Indic context) and **AI4Bharat IndicTrans2** for pipeline batch translations of civic insights, manifestos, and legal categories.
+  - **Interactive Phonetic Input**: `@ai4bharat/indic-transliterate` / `react-transliterate` allowing Roman keyboard typing to produce native Indic script suggestions.
+  - **Cross-Script Name Search**: `@indic-transliteration/sanscript` for dual-script matching.
+  - **Indic Web Typography**: Google Fonts `Noto Sans Indic` series (`Noto Sans Devanagari`, `Noto Sans Bengali`, `Noto Sans Tamil`, `Noto Sans Kannada`, `Noto Sans Gujarati`).
+- **Next Session Kickoff Action**: Review and approve the plan, then begin Phase 1 (i18n shell + language switcher UI).
+
+### Focus Area 3: Pre-Ingestion Checklist for Remaining Regions
 - [ ] Central MPLADS (₹5 Cr/yr) vs State MLA-LADS visual & data segregation.
 - [ ] Sworn ECI Form 26 legal disclosures (up to 20 declared cases with court jurisdiction, charges, and status).
 - [ ] Unique article-specific source verification URLs for all 3 media spotlight articles.
